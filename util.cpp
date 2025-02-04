@@ -108,10 +108,37 @@ int makeFileUnique()
     return 0;
 }
 
+void removeWordsGreaterThanLimit()
+{
+    ifstream inputFile("words.txt");
+    ofstream tempFile("temp.txt");
+    string line;
+    if (!inputFile)
+    {
+        cerr << "Unable to open file ";
+        return;
+    }
+
+    while (getline(inputFile, line))
+    {
+        if (line.size() <= 16)
+        {
+            tempFile << line << endl;
+        }
+    }
+
+    inputFile.close();
+    tempFile.close();
+
+    remove("words.txt");
+    rename("temp.txt", "words.txt");
+}
+
 int main()
 {
+    removeWordsGreaterThanLimit();
     // removeWordsWithSuffix();
     // removeNonAlphabeticWords();
-    makeFileUnique();
+    // makeFileUnique();
     return 0;
 }

@@ -1915,6 +1915,7 @@ ahead
 aheap
 ahem
 ahent
+ahhed
 ahhhh
 ahigh
 ahimsa
@@ -1974,6 +1975,7 @@ aiming
 aimless
 aimlessly
 aimlessness
+ainas
 ainee
 ainga
 aioli
@@ -4195,6 +4197,7 @@ anymore
 anyon
 anyone
 anyplace
+anyus
 anyway
 anyways
 anywhere
@@ -5811,6 +5814,7 @@ atarax
 ataraxia
 ataraxic
 ataraxis
+atars
 ataturk
 atavism
 atavist
@@ -6904,6 +6908,7 @@ baits
 baiza
 baize
 bajan
+bajee
 bajra
 bajri
 bajus
@@ -8027,6 +8032,7 @@ beins
 beira
 beirut
 beisa
+bejel
 bejewel
 bekah
 belabor
@@ -8235,6 +8241,7 @@ bennie
 bennington
 benniseed
 benny
+bensh
 bent
 benthal
 bentham
@@ -11094,6 +11101,7 @@ brythonic
 bryum
 bsarch
 buats
+buaya
 buaze
 bubal
 bubaline
@@ -11605,6 +11613,7 @@ butes
 butle
 butler
 butoh
+butsu
 butt
 butte
 butted
@@ -11921,6 +11930,7 @@ cakes
 cakewalk
 cakey
 cakile
+cakra
 calaba
 calabash
 calabazilla
@@ -13468,6 +13478,7 @@ ceftazidime
 ceftin
 ceftriaxone
 cefuroxime
+cegep
 ceiba
 ceibo
 ceil
@@ -15055,6 +15066,7 @@ chytridiales
 chytridiomycetes
 cialis
 ciao
+ciaos
 ciardi
 cibol
 cibotium
@@ -17952,6 +17964,7 @@ corelcentral
 coreligionist
 corelli
 coreopsis
+coreq
 corer
 cores
 corespondent
@@ -18309,7 +18322,6 @@ couch
 couchant
 couchette
 coude
-coue
 cougar
 cough
 coughing
@@ -19449,6 +19461,7 @@ cumbersome
 cumbersomeness
 cumbria
 cumbrous
+cumec
 cumfrey
 cumin
 cuminum
@@ -20119,6 +20132,7 @@ daled
 dalek
 dales
 dalesman
+dalet
 daleth
 dali
 dalian
@@ -20758,6 +20772,7 @@ decompound
 decompress
 decompressing
 decompression
+decon
 deconcentrate
 decongestant
 deconsecrate
@@ -21593,6 +21608,7 @@ dereliction
 derequisition
 deres
 derestrict
+derib
 deride
 derig
 derision
@@ -26930,6 +26946,7 @@ erse
 erses
 erst
 erstwhile
+erubs
 eruca
 eruct
 eructation
@@ -26976,6 +26993,7 @@ erythroxylon
 erythroxylum
 esaki
 esau
+esbat
 escadrille
 escalade
 escalader
@@ -28223,6 +28241,7 @@ facilitator
 facilitatory
 facility
 facing
+facks
 facsimile
 fact
 facta
@@ -28422,6 +28441,7 @@ famotidine
 famous
 famously
 famulus
+fanac
 fanal
 fanaloka
 fanatic
@@ -30248,6 +30268,7 @@ foolishness
 foolproof
 fools
 foolscap
+foons
 foot
 footage
 football
@@ -32029,6 +32050,7 @@ geasa
 geastraceae
 geastrum
 geats
+gebel
 gebur
 gecko
 gecks
@@ -32097,6 +32119,7 @@ gemsbok
 gemsbuck
 gemstone
 genae
+genal
 genas
 gendarme
 gendarmerie
@@ -32374,6 +32397,7 @@ getable
 getas
 getatable
 getaway
+getgo
 gettable
 getting
 gettysburg
@@ -32444,6 +32468,7 @@ gibbs
 gibbsite
 gibe
 gibed
+gibel
 gibelike
 giber
 gibes
@@ -32501,6 +32526,7 @@ gilder
 gildhall
 gilding
 gilds
+gilet
 gilgamesh
 gilgamish
 gill
@@ -32579,6 +32605,7 @@ girder
 girdle
 girds
 giriama
+giris
 girl
 girlf
 girlfriend
@@ -32618,6 +32645,7 @@ giust
 give
 giveaway
 gived
+givee
 given
 givenness
 givens
@@ -32746,6 +32774,7 @@ gleet
 gleg
 gleichenia
 gleicheniaceae
+gleis
 glen
 glendower
 glengarry
@@ -32759,6 +32788,7 @@ glias
 glib
 glibly
 glibness
+glibs
 glide
 glided
 glider
@@ -33323,6 +33353,7 @@ goring
 goris
 gorki
 gorkiy
+gorks
 gorky
 gormandise
 gormandize
@@ -34248,6 +34279,7 @@ gumwood
 gunas
 gunboat
 guncotton
+gunda
 gundi
 gundy
 gunfight
@@ -34600,6 +34632,7 @@ haemulon
 haere
 haets
 haffs
+hafis
 hafiz
 hafnium
 haft
@@ -35696,6 +35729,7 @@ heliozoa
 heliozoan
 heliport
 helipterum
+helis
 helium
 helix
 hell
@@ -36028,6 +36062,7 @@ herns
 hero
 herod
 herodotus
+heroe
 heroes
 heroic
 heroical
@@ -36233,6 +36268,7 @@ hidrosis
 hidrotic
 hiemal
 hiems
+hiera
 hieracium
 hierarch
 hierarchal
@@ -37293,6 +37329,7 @@ hryvnia
 hsian
 html
 http
+huaca
 huainaputina
 hualapai
 hualpai
@@ -37494,6 +37531,7 @@ huntsman
 huntsville
 huntswoman
 hupa
+hupot
 hurdle
 hurdler
 hurdles
@@ -37782,7 +37820,6 @@ hymenoptera
 hymenopteran
 hymenopteron
 hymenopterous
-hymie
 hymn
 hymnal
 hymnary
@@ -37933,6 +37970,7 @@ hyphen
 hyphenate
 hyphenation
 hyphy
+hypna
 hypnagogic
 hypnagogue
 hypnoanalysis
@@ -39838,6 +39876,7 @@ inky
 inla
 inlaid
 inland
+inlaw
 inlay
 inlet
 inline
@@ -41133,6 +41172,7 @@ izanami
 izar
 izard
 izars
+izbas
 izmir
 izzard
 izzat
@@ -41311,6 +41351,7 @@ japorn
 jarful
 jargon
 jargoon
+jaris
 jarks
 jarls
 jarps
@@ -41684,6 +41725,7 @@ jongs
 jonquil
 jonson
 jonty
+jooal
 jook
 jooks
 joplin
@@ -43072,6 +43114,7 @@ krakatau
 krakatoa
 krakau
 krakow
+krams
 krang
 krans
 kranz
@@ -43410,6 +43453,7 @@ laevulose
 lafayette
 laffer
 laffite
+laffs
 lafitte
 lagan
 lagar
@@ -43733,6 +43777,7 @@ laputa
 laputan
 lapwing
 laramie
+larbo
 larboard
 larcener
 larcenist
@@ -44198,6 +44243,7 @@ lecithin
 lectern
 lectin
 lector
+lects
 lecture
 lecturer
 lectureship
@@ -49019,6 +49065,7 @@ metonymic
 metonymical
 metonymically
 metonymy
+metoo
 metopion
 metoprolol
 metralgia
@@ -49060,6 +49107,7 @@ mevacor
 meved
 meves
 mewed
+mewer
 mewl
 mewls
 mews
@@ -49344,6 +49392,7 @@ mikos
 mikra
 mikva
 mikvah
+mikve
 milady
 milage
 milan
@@ -52454,6 +52503,7 @@ neive
 nejd
 nekton
 nelfinavir
+nelis
 nelly
 nelson
 nelumbo
@@ -53910,6 +53960,7 @@ nowadays
 noway
 nowds
 nowed
+nowel
 nowhere
 nowise
 nowls
@@ -54309,6 +54360,7 @@ oboli
 obols
 obolus
 obovate
+obruk
 obscene
 obscenely
 obscenity
@@ -54559,6 +54611,7 @@ odourise
 odourless
 odovacar
 odovakar
+odsos
 odums
 odyle
 odyls
@@ -58761,6 +58814,7 @@ petrification
 petrify
 petrifying
 petrissage
+petro
 petrochemical
 petrocoptis
 petrogale
@@ -59071,6 +59125,7 @@ phoeniculidae
 phoeniculus
 phoenicurus
 phoenix
+phohs
 pholadidae
 pholas
 pholidae
@@ -60616,6 +60671,7 @@ poignantly
 poikilotherm
 poikilothermic
 poikilothermous
+poils
 poilu
 poinciana
 poind
@@ -66527,6 +66583,7 @@ retentive
 retentively
 retentiveness
 retentivity
+retes
 retest
 rethink
 retia
@@ -67262,6 +67319,7 @@ riveting
 rivetter
 riviera
 rivina
+rivos
 rivulet
 rivulus
 riyadh
@@ -67492,6 +67550,7 @@ romanticistic
 romanticization
 romanticize
 romany
+romas
 romberg
 rome
 romeo
@@ -68034,6 +68093,7 @@ runty
 runup
 runway
 runyon
+runza
 ruote
 rupee
 rupert
@@ -68913,6 +68973,7 @@ sarracenia
 sarraceniaceae
 sarraceniales
 sars
+sarsa
 sarsaparilla
 sarsenet
 sartor
@@ -69380,6 +69441,7 @@ schistosoma
 schistosomatidae
 schistosome
 schistosomiasis
+schiz
 schizachyrium
 schizaea
 schizaeaceae
@@ -69574,6 +69636,8 @@ sclk
 scnt
 scobe
 scody
+scoed
+scoes
 scoff
 scoffer
 scoffing
@@ -71860,10 +71924,12 @@ sikkim
 sikorsky
 silage
 silane
+silas
 sild
 sildenafil
 silds
 siled
+silen
 silence
 silenced
 silencer
@@ -72469,6 +72535,7 @@ slanderer
 slanderous
 slanderously
 slanderousness
+slane
 slang
 slangily
 slanginess
@@ -72672,6 +72739,7 @@ slogs
 sloid
 slojd
 sloka
+sloke
 slomo
 sloom
 sloop
@@ -77310,6 +77378,8 @@ swole
 swoll
 swollen
 swoln
+swone
+swonk
 swoon
 swooning
 swoop
@@ -78272,6 +78342,7 @@ tates
 taths
 tati
 tatie
+tatin
 tatou
 tatouay
 tatted
@@ -78534,6 +78605,7 @@ tehran
 tehrs
 teiid
 teiidae
+teils
 teind
 teins
 teju
@@ -78657,6 +78729,7 @@ temerity
 temes
 temnospondyli
 temp
+tempe
 temper
 tempera
 temperament
@@ -78764,6 +78837,7 @@ tenesmus
 tenet
 tenets
 tenfold
+tenga
 tenge
 tenia
 tenne
@@ -78950,6 +79024,7 @@ terrorism
 terrorist
 terrorization
 terrorize
+terrs
 terry
 terrycloth
 terse
@@ -80354,6 +80429,7 @@ tonsorial
 tonsure
 tonsured
 tontine
+tonto
 tonus
 tool
 toolbox
@@ -82326,6 +82402,7 @@ uglier
 uglies
 uglify
 ugliness
+uglis
 ugly
 ugrian
 ugric
@@ -85325,6 +85402,7 @@ valis
 valise
 valium
 valkyrie
+valla
 vallecula
 valletta
 valley
@@ -86424,6 +86502,7 @@ vivaldi
 vivarium
 vivas
 vivat
+vivax
 vivda
 viver
 viverra
@@ -86612,6 +86691,7 @@ vomitus
 vonnegut
 voodoo
 voodooism
+voops
 voracious
 voraciously
 voraciousness
@@ -86829,6 +86909,7 @@ waker
 wakes
 wakeup
 wakfs
+wakil
 waking
 walapai
 walbiri
@@ -87297,6 +87378,7 @@ website
 webster
 webworm
 wecht
+wecks
 wedded
 wedding
 wedel
@@ -88955,6 +89037,7 @@ yiked
 yikes
 yills
 yince
+yipee
 yipes
 yippee
 yippie
@@ -89090,6 +89173,7 @@ yucatec
 yucateco
 yucca
 yucch
+yuchy
 yucko
 yucks
 yucky
@@ -89421,6 +89505,7 @@ zootoxin
 zooty
 zoppa
 zoppo
+zorch
 zori
 zoril
 zoris
