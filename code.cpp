@@ -2,9 +2,9 @@
 #include <algorithm>
 #include <vector>
 #include <map>
-#include <queue>
 #include <set>
 #include <unordered_set>
+#include <fstream>
 using namespace std;
 
 int dx[] = {1, -1, 1, -1, -1, 1, 0, 0};
@@ -20,17 +20,15 @@ bool isSafe(int x, int y)
     return x >= 0 && x < 4 && y >= 0 && y < 4;
 }
 
-void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j, string path, set<string, decltype(cmp)> &words,
-         unordered_set<string> &cache)
+void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j, string path,
+         set<string, decltype(cmp)> &words, unordered_set<string> &cache, int targetLength)
 {
-    if (path.size() >= 4)
+    path += grid[i][j];
+    if (path.size() >= 4 && cache.find(path) != cache.end())
     {
-        if (cache.find(path) != cache.end())
-        {
-            words.insert(path);
-        }
+        words.insert(path);
     }
-    if (path.size() == 6)
+    if (path.size() == targetLength)
     {
         return;
     }
@@ -41,7 +39,7 @@ void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j
         int y = j + dy[k];
         if (isSafe(x, y) && !visited[x][y])
         {
-            dfs(grid, visited, x, y, path + grid[i][j], words, cache);
+            dfs(grid, visited, x, y, path, words, cache, targetLength);
         }
     }
     visited[i][j] = false;
@@ -50,43 +48,44 @@ void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j
 unordered_set<string> readWordsFromFile(const string &filename)
 {
     unordered_set<string> words;
-    freopen(filename.c_str(), "r", stdin);
+    ifstream infile(filename);
     string word;
-    while (cin >> word)
+    while (infile >> word)
     {
         words.insert(word);
     }
-    fclose(stdin);
+    infile.close();
     return words;
 }
 
-void findWords(vector<vector<char>> &grid, set<string, decltype(cmp)> &words, unordered_set<string> &cache)
+void findWords(vector<vector<char>> &grid, set<string, decltype(cmp)> &words, unordered_set<string> &cache, int targetLength = 10)
 {
-    for (int i = 0; i < 4; i++)
+    int n = grid.size();
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < 4; j++)
+        for (int j = 0; j < n; j++)
         {
-            vector<vector<bool>> visited(4, vector<bool>(4, false));
-            dfs(grid, visited, i, j, "", words, cache);
+            vector<vector<bool>> visited(n, vector<bool>(n, false));
+            dfs(grid, visited, i, j, "", words, cache, targetLength);
         }
     }
 }
 
 void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &words)
 {
-    freopen(filename.c_str(), "w", stdout);
+    ofstream outfile(filename);
     int a = 4;
-    cout << "-----------------------------" << a << "---------------------------------" << endl;
+    outfile << "-----------------------------" << a << "---------------------------------" << endl;
     for (const auto &word : words)
     {
         if (a != word.size())
         {
             a = word.size();
-            cout << "-----------------------------" << a << "---------------------------------" << endl;
+            outfile << "-----------------------------" << a << "---------------------------------" << endl;
         }
-        cout << word << endl;
+        outfile << word << endl;
     }
-    fclose(stdout);
+    outfile.close();
 }
 
 int main()
@@ -101,7 +100,7 @@ int main()
         {'p', 'l', 'y', 'c'},
     };
 
-    findWords(grid, words, cache);
+    findWords(grid, words, cache, 16);
 
     writeWordsToFile("output.txt", words);
 

@@ -2,9 +2,11 @@
 #include <fstream>
 #include <string>
 #include <set>
-#include <algorithm>
 #include <unordered_set>
-#include <cstdio> // for std::rename and std::remove
+#include <vector>
+#include <cstdio>
+#include <algorithm>
+
 using namespace std;
 
 void removeWordsWithSuffix()
@@ -14,12 +16,14 @@ void removeWordsWithSuffix()
     ofstream tempFile("temp.txt");
     string line;
     unordered_set<string> badWords;
+
     if (!inputFile)
     {
-        cerr << "Unable to open file ";
+        cerr << "Unable to open file output.txt";
         return;
     }
 
+    // Collect bad words from output.txt
     while (getline(inputFile, line))
     {
         if (line.size() >= 2 && line.compare(line.size() - 2, 2, "--") == 0)
@@ -27,9 +31,9 @@ void removeWordsWithSuffix()
             badWords.insert(line.substr(0, line.size() - 2));
         }
     }
-
     inputFile.close();
 
+    // Process words.txt and write to temp.txt
     while (getline(updfile, line))
     {
         if (badWords.find(line) == badWords.end())
@@ -37,45 +41,28 @@ void removeWordsWithSuffix()
             tempFile << line << endl;
         }
     }
-    tempFile.close();
     updfile.close();
-    // Remove the original file
-    if (remove("words.txt") != 0)
-    {
-        cerr << "Error deleting file ";
-        return;
-    }
+    tempFile.close();
 
-    // Rename temp.txt to the original filename
-    if (rename("temp.txt", "words.txt") != 0)
-    {
-        cerr << "Error renaming file";
-        return;
-    }
+    // Replace original file
+    remove("words.txt");
+    rename("temp.txt", "words.txt");
 }
 
-void removeNonAlphabeticWords()
+void removeNonAlphabeticWords(string filename = "words.txt")
 {
-    ifstream inputFile("words.txt");
+    ifstream inputFile(filename);
     ofstream tempFile("temp.txt");
     string line;
     if (!inputFile)
     {
-        cerr << "Unable to open file words.txt";
+        cerr << "Unable to open file " << filename;
         return;
     }
 
     while (getline(inputFile, line))
     {
-        bool isAlphabetic = true;
-        for (const auto &ch : line)
-        {
-            if (!isalpha(ch))
-            {
-                isAlphabetic = false;
-                break;
-            }
-        }
+        bool isAlphabetic = all_of(line.begin(), line.end(), ::isalpha);
         if (isAlphabetic)
         {
             tempFile << line << endl;
@@ -84,17 +71,9 @@ void removeNonAlphabeticWords()
 
     inputFile.close();
     tempFile.close();
-    if (remove("words.txt") != 0)
-    {
-        cerr << "Error deleting file";
-        return;
-    }
-    // Rename temp.txt to output.txt
-    if (rename("temp.txt", "words.txt") != 0)
-    {
-        cerr << "Error renaming file";
-        return;
-    }
+
+    remove(filename.c_str());
+    rename("temp.txt", filename.c_str());
 }
 
 int makeFileUnique()
@@ -115,32 +94,24 @@ int makeFileUnique()
         transform(line.begin(), line.end(), line.begin(), ::tolower);
         uniqueWords.insert(line);
     }
+    inputFile.close();
 
     for (const auto &word : uniqueWords)
     {
         tempFile << word << endl;
     }
-
-    inputFile.close();
     tempFile.close();
-    if (remove("words.txt") != 0)
-    {
-        cerr << "Error deleting file";
-        return 1;
-    }
-    // Rename temp.txt to output.txt
-    if (rename("temp.txt", "words.txt") != 0)
-    {
-        cerr << "Error renaming file";
-        return 1;
-    }
+
+    remove("words.txt");
+    rename("temp.txt", "words.txt");
 
     return 0;
 }
 
 int main()
 {
-    // makeFileUnique();
     // removeWordsWithSuffix();
-    removeNonAlphabeticWords();
+    // removeNonAlphabeticWords();
+    makeFileUnique();
+    return 0;
 }

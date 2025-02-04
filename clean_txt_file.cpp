@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    ifstream file("words.txt");
+    ifstream file("tempp.txt");
     ofstream temp("temp.txt");
     string line;
     while(getline(file, line))
@@ -20,7 +20,7 @@ int main()
     }
     file.close();
     temp.close();
-    remove("words.txt");
-    rename("temp.txt", "words.txt");
+    remove("tempp.txt");
+    rename("temp.txt", "tempp.txt");
     return 0;
 }
