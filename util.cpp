@@ -54,6 +54,49 @@ void removeWordsWithSuffix()
     }
 }
 
+void removeNonAlphabeticWords()
+{
+    ifstream inputFile("words.txt");
+    ofstream tempFile("temp.txt");
+    string line;
+    if (!inputFile)
+    {
+        cerr << "Unable to open file words.txt";
+        return;
+    }
+
+    while (getline(inputFile, line))
+    {
+        bool isAlphabetic = true;
+        for (const auto &ch : line)
+        {
+            if (!isalpha(ch))
+            {
+                isAlphabetic = false;
+                break;
+            }
+        }
+        if (isAlphabetic)
+        {
+            tempFile << line << endl;
+        }
+    }
+
+    inputFile.close();
+    tempFile.close();
+    if (remove("words.txt") != 0)
+    {
+        cerr << "Error deleting file";
+        return;
+    }
+    // Rename temp.txt to output.txt
+    if (rename("temp.txt", "words.txt") != 0)
+    {
+        cerr << "Error renaming file";
+        return;
+    }
+}
+
 int makeFileUnique()
 {
     ifstream inputFile("words.txt");
@@ -98,5 +141,6 @@ int makeFileUnique()
 int main()
 {
     // makeFileUnique();
-    removeWordsWithSuffix();
+    // removeWordsWithSuffix();
+    removeNonAlphabeticWords();
 }
