@@ -5,11 +5,6 @@
 #include <set>
 #include <unordered_set>
 #include <fstream>
-#include <string>
-#include <sstream>
-#include <tuple>
-#include <filesystem>
-
 using namespace std;
 
 int dx[] = {1, -1, 1, -1, -1, 1, 0, 0};
@@ -54,11 +49,6 @@ unordered_set<string> readWordsFromFile(const string &filename)
 {
     unordered_set<string> words;
     ifstream infile(filename);
-    if (!infile.is_open())
-    {
-        cout << "Error opening file" << endl;
-        return words;
-    }
     string word;
     while (infile >> word)
     {
@@ -100,29 +90,19 @@ void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &
 
 int main()
 {
-    string path = filesystem::current_path().string();
-    unordered_set<string> cache = readWordsFromFile(path + "/words.txt");
-    set<string, decltype(cmp)> words(cmp);
-    vector<vector<char>> grid(4, vector<char>(4));
-    string inputLine;
-    getline(cin, inputLine);
-    istringstream iss(inputLine);
-    // Read 4x4 grid from input
-    for (int i = 0; i < 4; i++)
-        for (int j = 0; j < 4; j++)
-            iss >> grid[i][j];
+    unordered_set<string> cache = readWordsFromFile("words.txt");
 
-    // Read target word length
-    int targetLength;
-    iss >> targetLength;
-    findWords(grid, words, cache, targetLength);
-    string res = "";
-    for (const auto &word : words)
-    {
-        res += word + ' ';
-    }
-    // cout << "Result: " << words.size() << endl;
-    cout << res;
-    writeWordsToFile(path + "/output.txt", words);
+    set<string, decltype(cmp)> words(cmp);
+    vector<vector<char>> grid = {
+        {'c', 'o', 'i', 'b'},
+        {'q', 'u', 'm', 'h'},
+        {'m', 'i', 'e', 'y'},
+        {'p', 'l', 'y', 'c'},
+    };
+
+    findWords(grid, words, cache, 16);
+
+    writeWordsToFile("output.txt", words);
+
     return 0;
 }

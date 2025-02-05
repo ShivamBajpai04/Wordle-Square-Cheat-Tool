@@ -11,8 +11,7 @@ app.get("/", (req, res) => {
 app.post("/solve", async (req, res) => {
   const grid = req.body.grid;
   const depth = req.body.depth;
-  console.log(grid, depth);
-  typeof grid === "string" && typeof depth === "number" ? console.log("Valid input"): res.status(400).json({ error: "Invalid input" });
+  // console.log(grid, depth);
   const cppProcess = spawn("../main/code.exe");
   cppProcess.stdin.write(grid + " " + depth + "\n");
   cppProcess.stdin.end();
