@@ -5,6 +5,8 @@
 #include <set>
 #include <unordered_set>
 #include <fstream>
+#include <string>
+#include <sstream>
 using namespace std;
 
 int dx[] = {1, -1, 1, -1, -1, 1, 0, 0};
@@ -90,19 +92,29 @@ void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &
 
 int main()
 {
-    unordered_set<string> cache = readWordsFromFile("words.txt");
-
+    unordered_set<string> cache = readWordsFromFile("C:/Users/hp/Desktop/Projects/Wordle Square/main/words.txt");
     set<string, decltype(cmp)> words(cmp);
-    vector<vector<char>> grid = {
-        {'c', 'o', 'i', 'b'},
-        {'q', 'u', 'm', 'h'},
-        {'m', 'i', 'e', 'y'},
-        {'p', 'l', 'y', 'c'},
-    };
+    vector<vector<char>> grid(4, vector<char>(4));
+    string inputLine;
+    getline(cin, inputLine);
+    istringstream iss(inputLine);
+    // Read 4x4 grid from input
+    for (int i = 0; i < 4; i++)
+        for (int j = 0; j < 4; j++)
+            iss >> grid[i][j];
 
-    findWords(grid, words, cache, 16);
-
-    writeWordsToFile("output.txt", words);
+    // Read target word length
+    int targetLength;
+    iss >> targetLength;
+    findWords(grid, words, cache, targetLength);
+    string res = "";
+    for (const auto &word : words)
+    {
+        res += word + ' ';
+    }
+    // cout << "Result: " << words.size() << endl;
+    cout << res;
+    // writeWordsToFile("C:/Users/hp/Desktop/Projects/Wordle Square/main/output.txt", words);
 
     return 0;
 }
