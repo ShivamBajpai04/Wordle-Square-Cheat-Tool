@@ -1,10 +1,13 @@
 {
   "manifest_version": 3,
   "name": "Squares Solver",
-  "version": "1.0",
-  "description": "Extracts board data and sends it to the solver API",
-  "permissions": ["scripting", "activeTab", "storage"],
+  "version": "1.0.0",
+  "description": "An extension that solves Squares(squares.org) for you",
+  "permissions": ["storage", "activeTab"],
   "host_permissions": ["http://localhost:3000/*"],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
   "action": {
     "default_popup": "popup/popup.html"
   },
@@ -14,7 +17,8 @@
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["content_scripts/content.js"]
+      "js": ["content_scripts/content.js"],
+      "run_at": "document_end"
     }
   ]
 }

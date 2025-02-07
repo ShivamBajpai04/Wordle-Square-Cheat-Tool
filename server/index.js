@@ -32,7 +32,7 @@ app.post("/solve", async (req, res) => {
     result += data.toString();
   });
   cppProcess.on("close", () => {
-    // console.log("result: " + result);
+    console.log("result: " + result);
     res.status(200).json({ output: result.trim() });
   });
 });
