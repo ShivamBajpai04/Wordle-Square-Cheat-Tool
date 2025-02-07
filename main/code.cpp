@@ -56,7 +56,7 @@ unordered_set<string> readWordsFromFile(const string &filename)
     ifstream infile(filename);
     if (!infile.is_open())
     {
-        cout << "Error opening file" << endl;
+        cout << "Error opening" << endl;
         return words;
     }
     string word;
@@ -111,10 +111,16 @@ int main()
     for (int i = 0; i < 4; i++)
         for (int j = 0; j < 4; j++)
             iss >> grid[i][j];
-
+            
     // Read target word length
     int targetLength;
     iss >> targetLength;
+
+    if(targetLength < 4 || targetLength > 16){
+        cout << "Invalid target length" << endl;
+        return 0;
+    }
+
     findWords(grid, words, cache, targetLength);
     string res = "";
     for (const auto &word : words)

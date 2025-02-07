@@ -136,9 +136,9 @@ void removeWordsGreaterThanLimit()
 
 int main()
 {
-    removeWordsGreaterThanLimit();
-    // removeWordsWithSuffix();
+    // removeWordsGreaterThanLimit();
+    removeWordsWithSuffix();
     // removeNonAlphabeticWords();
-    // makeFileUnique();
+    makeFileUnique();
     return 0;
 }

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Squares Solver",
+  "version": "1.0",
+  "description": "Extracts board data and sends it to the solver API",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "host_permissions": ["http://localhost:3000/*"],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "background": {
+    "service_worker": "background_scripts/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_scripts/content.js"]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Squares Solver</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 250px;
+        padding: 10px;
+      }
+      input {
+        width: 100%;
+        padding: 5px;
+        margin-bottom: 10px;
+      }
+      button {
+        width: 100%;
+        padding: 8px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      .word-box {
+        display: inline-block;
+        background-color: #f0f0f0;
+        padding: 5px;
+        margin: 5px;
+        border-radius: 4px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Squares Solver</h2>
+    <label for="depth-input">Max Depth (4-16):</label>
+    <input type="number" id="depth-input" min="4" max="16" value="10" />
+    <button id="solve-btn">Solve</button>
+    <div id="solution-output"></div>
+    <script src="popup.js"></script>
+  </body>
+</html>
