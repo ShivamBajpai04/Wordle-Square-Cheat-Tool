@@ -646,6 +646,7 @@ acetaminophen
 acetanilid
 acetanilide
 acetate
+acetated
 acetic
 acetify
 acetin
@@ -886,6 +887,7 @@ acrylamide
 acrylate
 acrylic
 acrylonitrile
+acta
 actable
 actaea
 actas
@@ -1918,7 +1920,6 @@ ahint
 ahistorical
 ahold
 ahole
-ahorse
 ahorseback
 ahoys
 ahpcrc
@@ -5347,7 +5348,6 @@ asana
 asanga
 asap
 asarabacca
-asarh
 asarum
 asat
 asbestos
@@ -5958,6 +5958,7 @@ attalea
 attap
 attar
 attas
+atted
 attemper
 attempt
 attempted
@@ -5992,6 +5993,7 @@ attics
 atticus
 attila
 attilio
+atting
 attire
 attired
 attitude
@@ -7500,7 +7502,6 @@ bass
 bassariscidae
 bassariscus
 bassarisk
-basse
 basset
 basseterre
 bassi
@@ -13191,6 +13192,7 @@ catchweed
 catchword
 catchy
 catclaw
+cate
 catechesis
 catechetic
 catechetical
@@ -13286,9 +13288,11 @@ catskills
 catsup
 cattail
 cattalo
+catted
 cattell
 cattie
 cattiness
+catting
 cattish
 cattle
 cattleman
@@ -22260,6 +22264,7 @@ dieting
 dietitian
 dietrich
 diets
+diff
 differ
 difference
 different
@@ -23268,6 +23273,7 @@ dital
 ditas
 ditch
 ditchmoss
+dite
 dited
 dites
 dither
@@ -24386,9 +24392,11 @@ duellist
 duels
 duenna
 duet
+dueting
 duets
 duett
 duette
+duetting
 duff
 duffel
 duffer
@@ -27071,6 +27079,7 @@ ethril
 ethyl
 ethylene
 ethyne
+etic
 etics
 etiolate
 etiolated
@@ -28067,10 +28076,13 @@ facer
 faces
 facet
 faceted
+faceting
 facetious
 facetiously
 facetiousness
 facets
+facetted
+facetting
 facey
 facia
 facial
@@ -28489,16 +28501,19 @@ fatiha
 fatihah
 fatima
 fatimah
+fating
 fatism
 fatless
 fatly
 fatness
 fatso
+fatted
 fatten
 fattened
 fattening
 fatter
 fattiness
+fatting
 fattish
 fattism
 fatty
@@ -29335,6 +29350,7 @@ firmly
 firmness
 firms
 firmware
+firn
 firni
 firns
 firry
@@ -32455,6 +32471,7 @@ girlishly
 girlishness
 girls
 girly
+girn
 girns
 giro
 giron
@@ -32466,6 +32483,8 @@ giros
 girrs
 girru
 girsh
+girt
+girted
 girth
 girts
 gish
@@ -32480,6 +32499,7 @@ gitch
 gite
 gites
 gits
+gitted
 gittern
 give
 giveaway
@@ -33745,6 +33765,7 @@ grith
 gritrock
 grits
 gritstone
+gritted
 gritty
 grivet
 grize
@@ -52672,6 +52693,7 @@ nicosia
 nicotiana
 nicotine
 nictate
+nictated
 nictation
 nictitate
 nictitation
@@ -52860,6 +52882,7 @@ nisse
 nist
 nisus
 nital
+nite
 nitella
 niter
 nites
@@ -55085,7 +55108,6 @@ oreo
 oreopteris
 oreortyx
 orestes
-orfes
 orff
 orful
 organ
@@ -58409,7 +58431,6 @@ pervo
 pervs
 pervy
 pesach
-pesah
 pesantran
 pesantren
 pesch
@@ -64432,7 +64453,6 @@ rarity
 rarks
 rasae
 rasam
-rasas
 rascal
 rascality
 rascally
@@ -64457,7 +64477,6 @@ raspingly
 rasps
 rasputin
 raspy
-rasse
 rassling
 rasta
 rastafari
@@ -67327,8 +67346,6 @@ rosit
 rosita
 rosmarinus
 rosps
-ross
-rossa
 rossbach
 rossetti
 rossini
@@ -67972,7 +67989,6 @@ sadza
 saek
 saeta
 safaqis
-safar
 safari
 safe
 safebreaker
@@ -68619,7 +68635,6 @@ sasquatch
 sass
 sassaby
 sassafras
-sasse
 sassenach
 sassing
 sassy
@@ -68782,7 +68797,6 @@ savoury
 savoy
 savoyard
 savvy
-sawah
 sawan
 sawbill
 sawbones
@@ -70449,8 +70463,6 @@ sesquicentennial
 sesquipedalia
 sesquipedalian
 sesquipedality
-sess
-sessa
 sessile
 session
 sessions
@@ -70573,7 +70585,6 @@ seyhan
 seymour
 sezes
 sezession
-sfax
 sforzando
 sgml
 sgraffito
@@ -74460,7 +74471,6 @@ srbija
 sriracha
 srsly
 ssmg
-sspe
 ssri
 stab
 stabber
@@ -77370,6 +77380,7 @@ tacamahac
 tacan
 tacca
 taccaceae
+tace
 taces
 tacet
 tach
@@ -77978,7 +77989,9 @@ tauromachy
 taurotragus
 taurus
 taut
+tauted
 tauten
+tauting
 tautly
 tautness
 tautog
@@ -78112,6 +78125,7 @@ teasle
 teaspoon
 teaspoonful
 teat
+teated
 teatime
 teats
 teaze
@@ -79608,6 +79622,7 @@ tinas
 tinbergen
 tinca
 tinct
+tincted
 tincture
 tindal
 tindale
@@ -86561,7 +86576,6 @@ waqfs
 waratah
 warble
 warbler
-warbs
 warburg
 warby
 ward
@@ -86648,7 +86662,6 @@ warty
 warwick
 wary
 wasabi
-wases
 wash
 washable
 washables
@@ -86682,7 +86695,6 @@ wasp
 waspish
 wasps
 waspy
-wassa
 wassail
 wassailer
 wassermann
@@ -88432,6 +88444,7 @@ yataghan
 yates
 yatobyo
 yatra
+yaud
 yauds
 yauld
 yaup
@@ -88546,6 +88559,7 @@ yests
 yesty
 yeti
 yetis
+yett
 yetts
 yeuch
 yeuks
@@ -88702,6 +88716,7 @@ ysame
 ytost
 ytterbite
 ytterbium
+yttric
 yttrium
 yuan
 yuans

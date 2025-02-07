@@ -5,6 +5,11 @@
 #include <set>
 #include <unordered_set>
 #include <fstream>
+#include <string>
+#include <sstream>
+#include <tuple>
+#include <filesystem>
+
 using namespace std;
 
 int dx[] = {1, -1, 1, -1, -1, 1, 0, 0};
@@ -49,6 +54,11 @@ unordered_set<string> readWordsFromFile(const string &filename)
 {
     unordered_set<string> words;
     ifstream infile(filename);
+    if (!infile.is_open())
+    {
+        cout << "Error opening" << endl;
+        return words;
+    }
     string word;
     while (infile >> word)
     {
@@ -90,19 +100,54 @@ void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &
 
 int main()
 {
-    unordered_set<string> cache = readWordsFromFile("words.txt");
-
+    string path = filesystem::current_path().string();
+    unordered_set<string> cache = readWordsFromFile(path + "/words.txt");
     set<string, decltype(cmp)> words(cmp);
-    vector<vector<char>> grid = {
-        {'c', 'o', 'i', 'b'},
-        {'q', 'u', 'm', 'h'},
-        {'m', 'i', 'e', 'y'},
-        {'p', 'l', 'y', 'c'},
-    };
+    vector<vector<char>> grid(4, vector<char>(4));
+    string inputLine;
 
-    findWords(grid, words, cache, 16);
+    // Handle empty input
+    if (!getline(cin, inputLine) || inputLine.empty())
+    {
+        cout << ""; // Empty output for empty input
+        return 0;
+    }
 
-    writeWordsToFile("output.txt", words);
+    istringstream iss(inputLine);
 
+    // Check if we have enough characters for the grid
+    for (int i = 0; i < 4; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            if (!(iss >> grid[i][j]))
+            {
+                cout << ""; // Not enough characters
+                return 0;
+            }
+        }
+    }
+
+    // Read target word length
+    int targetLength;
+    if (!(iss >> targetLength))
+    {
+        cout << ""; // No target length provided
+        return 0;
+    }
+
+    if (targetLength < 4 || targetLength > 16)
+    {
+        cout << ""; // Invalid target length
+        return 0;
+    }
+
+    findWords(grid, words, cache, targetLength);
+    string res = "";
+    for (const auto &word : words)
+    {
+        res += word + ' ';
+    }
+    cout << res;
     return 0;
 }

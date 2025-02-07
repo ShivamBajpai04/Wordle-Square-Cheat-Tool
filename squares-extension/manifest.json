@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "description": "An extension that solves Squares(squares.org) for you",
   "permissions": ["storage", "activeTab"],
-  "host_permissions": ["http://localhost:3000/*"],
+  "host_permissions": [
+    "http://localhost:3000/*",
+    "https://your-production-domain.com/*"
+  ],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
   },

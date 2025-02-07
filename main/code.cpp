@@ -129,6 +129,6 @@ int main()
     }
     // cout << "Result: " << words.size() << endl;
     cout << res;
-    writeWordsToFile(path + "/output.txt", words);
+    // writeWordsToFile(path + "/output.txt", words);
     return 0;
 }
