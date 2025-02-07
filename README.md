@@ -1,79 +1,128 @@
-# Wordle Square
+# Squares Solver
 
-This project is a C++ implementation of a word search algorithm that finds all valid words in a 4x4 grid of characters. The words are validated against a dictionary of words read from a file.
+A Chrome extension and server implementation for solving word puzzles on [Squares](https://squares.org/). The project includes both a C++ solver and a Chrome extension interface.
+
+## Project Structure
+
+```
+.
+├── main/                   # C++ solver implementation
+│   ├── code.cpp           # Main solver algorithm
+│   ├── words.txt          # Dictionary file
+│   ├── output.txt         # Solver output file
+│   ├── util.cpp           # Dictionary utilities
+│   └── clean_txt_file.cpp # Dictionary cleaning utility
+│
+├── server/                 # Node.js server
+│   └── index.js           # Express server implementation
+│
+└── squares-extension/      # Chrome extension
+    ├── manifest.json      # Extension configuration
+    ├── background_scripts/
+    │   └── background.js  # Background service worker
+    ├── content_scripts/
+    │   └── content.js     # Page interaction script
+    └── popup/             # Extension popup UI
+        ├── popup.html
+        ├── popup.css
+        └── popup.js
+```
 
 ## Features
 
-- Reads a dictionary of words from a file.
-- Searches for words of length 4 to 16 in a 4x4 grid.
-- Writes the found words to an output file, grouped by their length.
-- Provides utility functions to clean and process the dictionary file.
+- Chrome extension for easy interaction with Squares puzzles
+- Fast C++ solver implementation
+- Node.js server to bridge extension and solver
+- Supports word lengths from 4 to 16 characters
+- Draggable results window
+- Word grouping by length
+- Local caching of results
 
-## Files
+## Installation
 
-- `code.cpp`: The main implementation file.
-- `words.txt`: The dictionary file containing valid words.
-- `output.txt`: The output file where the found words are written.
-- `util.cpp`: Contains utility functions for processing the dictionary file.
-- `clean_txt_file.cpp`: Contains a utility function to clean lines in the dictionary file (use when importing data form sql).
+### Server Setup
 
-## How to Use
+1. Navigate to the server directory:
 
-1. **Compile the code**:
-    ```sh
-    g++ -o wordle_square code.cpp
-    ```
-
-2. **Run the executable**:
-    ```sh
-    ./wordle_square
-    ```
-
-3. **Check the output**:
-    The found words will be written to `output.txt`.
-
-## Functions
-
-- `unordered_set<string> readWordsFromFile(const string &filename)`: Reads words from a file and returns them as an unordered set.
-- `void findWords(vector<vector<char>> &grid, set<string, decltype(cmp)> &words, unordered_set<string> &cache, int targetLength)`: Finds all valid words in the grid.
-- `void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &words)`: Writes the found words to a file.
-
-## Utility Functions
-
-### util.cpp
-
-- `void removeWordsWithSuffix()`: Removes words with a specific suffix from the dictionary file (use when output word is not in game dictionary, add -- after word).
-- `void removeNonAlphabeticWords(string filename = "words.txt")`: Removes non-alphabetic words from the dictionary file.
-- `int makeFileUnique()`: Ensures all words in the dictionary file are unique.
-- `void removeWordsGreaterThanLimit()`: Removes words longer than a specified limit from the dictionary file.
-
-### clean_txt_file.cpp
-
-- Reads `words.txt` and removes any text before and including the `|` symbol from each line.
-
-## Example
-
-Given the following grid:
-```
-c o i b
-q u m h
-m i e y
-p l y c
+```sh
+cd server
+npm install
+node index.js
 ```
 
-And a dictionary file `words.txt` containing:
+The server will run on port 3000.
+
+### C++ Solver Setup
+
+1. Compile the C++ code:
+
+```sh
+cd main
+g++ -o code code.cpp
 ```
-come
-home
-mice
-...
-```
 
-The program will find all valid words and write them to `output.txt`.
+### Chrome Extension Setup
 
-## Related Game
+1. Open Chrome and navigate to `chrome://extensions/`
+2. Enable "Developer mode"
+3. Click "Load unpacked"
+4. Select the `squares-extension` directory
 
-This helper tool is made for the game [Squares](https://squares.org/).
+## Usage
+
+1. Visit [Squares](https://squares.org/)
+2. Click the extension icon
+3. Set your desired maximum word length (4-16)
+4. Click "Solve"
+5. View results in the draggable window
+
+## Components
+
+### Chrome Extension
+
+- **Popup UI**: User interface for controlling the solver
+- **Content Script**: Extracts grid data and displays results
+- **Background Script**: Handles API communication and caching
+
+### Server
+
+- Express.js server that bridges the extension and C++ solver
+- Handles grid solving requests
+- Returns found words to the extension
+
+### C++ Solver
+
+- Fast implementation of the word search algorithm
+- Validates words against a dictionary
+- Supports configurable word lengths
+
+## Development
+
+### Extension Development
+
+- The extension uses vanilla JavaScript and CSS
+- Content script injects UI into the page
+- Background script manages state and API calls
+
+### Server Development
+
+- Built with Express.js
+- Uses child_process to communicate with C++ solver
+- Simple REST API for solving requests
+
+## API Endpoints
+
+- `POST /solve`
+  - Body: `{ grid: string, depth: number }`
+  - Returns: `{ output: string }`
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 ## License
 
