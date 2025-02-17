@@ -1,14 +1,36 @@
+let notFoundWords = new Set();
+let foundWords = new Set();
+let lastAttemptedWord = "";
+
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "extractGrid") {
     const result = extractGridFromPage();
-
-    if (result.error) {
-    } else {
-    }
-
     sendResponse(result);
   } else if (request.action === "showResults") {
-    showResults(request.words);
+    showResults({
+      words: request.words,
+      invalidWords: request.invalidWords,
+      foundWords: request.foundWords,
+    });
+    setupInvalidWordWatcher();
+    sendResponse({ success: true });
+  } else if (request.action === "updateInvalidWords") {
+    notFoundWords = new Set(request.invalidWords);
+    const resultsDiv = document.getElementById("solver-results");
+    if (resultsDiv && resultsDiv.updateWordStatus) {
+      Array.from(notFoundWords).forEach((word) =>
+        resultsDiv.updateWordStatus(word)
+      );
+    }
+    sendResponse({ success: true });
+  } else if (request.action === "updateFoundWords") {
+    foundWords = new Set(request.foundWords);
+    const resultsDiv = document.getElementById("solver-results");
+    if (resultsDiv && resultsDiv.updateWordStatus) {
+      Array.from(foundWords).forEach((word) =>
+        resultsDiv.updateWordStatus(word)
+      );
+    }
     sendResponse({ success: true });
   }
   return true;
@@ -17,8 +39,62 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 function extractGridFromPage() {
   const elements = document.querySelectorAll("[data-board]");
 
+  // Extract already found words from the page
+  const foundWordElements = document.querySelectorAll(".foundwords__element");
+  const existingFoundWords = Array.from(foundWordElements).map((el) =>
+    el.textContent.trim().toLowerCase()
+  );
+
+  // Extract invalid words from scorebubbles
+  const invalidWordElements = document.querySelectorAll(".scorebubble__label");
+  const existingInvalidWords = Array.from(invalidWordElements)
+    .filter((el) => el.textContent.toLowerCase().includes("word not found"))
+    .map((el) => {
+      const inputElements = document.querySelectorAll(".gameinput__element");
+      return Array.from(inputElements)
+        .map((li) => li.textContent.trim().toLowerCase())
+        .join("");
+    })
+    .filter((word) => word); // Filter out empty strings
+
+  // Add to our sets and store them
+  if (existingFoundWords.length > 0) {
+    Logger.info("Found existing words on page:", existingFoundWords);
+    existingFoundWords.forEach((word) => foundWords.add(word));
+
+    chrome.runtime.sendMessage(
+      {
+        action: "storeFoundWord",
+        word: existingFoundWords,
+      },
+      (response) => {
+        Logger.info("Stored initial found words response:", response);
+      }
+    );
+  }
+
+  if (existingInvalidWords.length > 0) {
+    Logger.info("Found existing invalid words on page:", existingInvalidWords);
+    existingInvalidWords.forEach((word) => notFoundWords.add(word));
+
+    chrome.runtime.sendMessage(
+      {
+        action: "storeInvalidWord",
+        word: existingInvalidWords,
+      },
+      (response) => {
+        Logger.info("Stored initial invalid words response:", response);
+      }
+    );
+  }
+
   if (!elements.length) {
-    return { grid: null, error: "No grid elements found on page" };
+    return {
+      grid: null,
+      error: "No grid elements found on page",
+      foundWords: existingFoundWords,
+      notFoundWords: existingInvalidWords,
+    };
   }
 
   const grid = Array.from(elements)
@@ -35,10 +111,20 @@ function extractGridFromPage() {
     .join(" ");
 
   if (!grid) {
-    return { grid: null, error: "Could not extract letters from grid" };
+    return {
+      grid: null,
+      error: "Could not extract letters from grid",
+      foundWords: existingFoundWords,
+      notFoundWords: existingInvalidWords,
+    };
   }
 
-  return { grid, error: null };
+  return {
+    grid,
+    error: null,
+    foundWords: existingFoundWords,
+    notFoundWords: existingInvalidWords,
+  };
 }
 
 function createUI() {
@@ -142,6 +228,18 @@ function createUI() {
       font-size: 14px;
       display: inline-block;
     }
+
+    .word-item.not-found {
+      background-color: #ffebee;
+      color: #d32f2f;
+      border: 1px solid #ffcdd2;
+    }
+
+    .word-item.found {
+      background-color: #e8f5e9;
+      color: #2e7d32;
+      border: 1px solid #a5d6a7;
+    }
   `;
   document.head.appendChild(style);
 
@@ -221,7 +319,134 @@ function createUI() {
   return resultsDiv;
 }
 
-function showResults(words) {
+function setupInvalidWordWatcher() {
+  Logger.info("Setting up invalid word watcher");
+
+  // Watch for game input changes
+  const gameInputObserver = new MutationObserver((mutations) => {
+    const letters = Array.from(document.querySelectorAll(".gameinput__element"))
+      .map((li) => li.textContent.trim().toLowerCase())
+      .join("");
+
+    if (letters) {
+      lastAttemptedWord = letters;
+      Logger.info("Updated last attempted word:", lastAttemptedWord);
+    }
+  });
+
+  // Observe the game input container
+  const gameInput = document.querySelector(".gameinput");
+  if (gameInput) {
+    gameInputObserver.observe(gameInput, {
+      childList: true,
+      subtree: true,
+      characterData: true,
+    });
+    Logger.info("Observing game input");
+  }
+
+  // Watch for score bubble labels
+  const observer = new MutationObserver((mutations) => {
+    mutations.forEach((mutation) => {
+      mutation.addedNodes.forEach((node) => {
+        if (
+          node.nodeType === Node.ELEMENT_NODE &&
+          node.classList?.contains("scorebubble__label")
+        ) {
+          const scoreBubble = node.closest(".scorebubble");
+
+          if (scoreBubble) {
+            const isSuccess = node.style.backgroundColor === "rgb(85, 172, 73)";
+            const isFailure = node.textContent
+              .toLowerCase()
+              .includes("word not found");
+
+            if (lastAttemptedWord) {
+              if (isSuccess) {
+                Logger.info("Found successful word:", lastAttemptedWord);
+                foundWords.add(lastAttemptedWord);
+                notFoundWords.delete(lastAttemptedWord);
+
+                chrome.runtime.sendMessage(
+                  {
+                    action: "storeFoundWord",
+                    word: lastAttemptedWord,
+                  },
+                  (response) => {
+                    Logger.info("Stored found word response:", response);
+                  }
+                );
+              } else if (isFailure) {
+                Logger.info("Found invalid word:", lastAttemptedWord);
+                notFoundWords.add(lastAttemptedWord);
+                foundWords.delete(lastAttemptedWord);
+
+                chrome.runtime.sendMessage(
+                  {
+                    action: "storeInvalidWord",
+                    word: lastAttemptedWord,
+                  },
+                  (response) => {
+                    Logger.info("Stored invalid word response:", response);
+                  }
+                );
+              }
+
+              // Update UI
+              const resultsDiv = document.getElementById("solver-results");
+              if (resultsDiv && resultsDiv.updateWordStatus) {
+                resultsDiv.updateWordStatus(lastAttemptedWord);
+              }
+            }
+          }
+        }
+      });
+    });
+  });
+
+  // Find all scorebubble elements to observe
+  const scoreBubbles = document.querySelectorAll(".scorebubble");
+  Logger.info("Found existing scorebubbles:", scoreBubbles.length);
+
+  scoreBubbles.forEach((bubble) => {
+    observer.observe(bubble, {
+      childList: true,
+      subtree: false,
+    });
+    Logger.info("Observing scorebubble:", bubble);
+  });
+
+  // Also observe the document body for new scorebubbles
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: false,
+  });
+  Logger.info("Observing document body for new scorebubbles");
+
+  if (lastAttemptedWord) {
+    notFoundWords.add(lastAttemptedWord);
+    Logger.info("Added to notFoundWords set:", Array.from(notFoundWords));
+
+    // Update the word in the UI
+    const resultsDiv = document.getElementById("solver-results");
+    if (resultsDiv && resultsDiv.updateWordStatus) {
+      resultsDiv.updateWordStatus(lastAttemptedWord);
+    }
+
+    chrome.runtime.sendMessage(
+      {
+        action: "storeInvalidWord",
+        word: lastAttemptedWord,
+      },
+      (response) => {
+        Logger.info("Stored invalid word response:", response);
+      }
+    );
+  }
+}
+
+async function showResults(response) {
   let resultsDiv = document.getElementById("solver-results");
 
   if (!resultsDiv) {
@@ -231,6 +456,27 @@ function showResults(words) {
     }
   }
 
+  // Fetch current state from storage
+  const storage = await new Promise((resolve) => {
+    chrome.storage.local.get(
+      ["squaresSolverInvalidWords", "squaresSolverFoundWords"],
+      (result) => {
+        resolve(result);
+      }
+    );
+  });
+
+  // Initialize our sets with the data from storage
+  notFoundWords = new Set(storage.squaresSolverInvalidWords || []);
+  foundWords = new Set(storage.squaresSolverFoundWords || []);
+
+  Logger.info(
+    "Loaded from storage - Invalid words:",
+    Array.from(notFoundWords)
+  );
+  Logger.info("Loaded from storage - Found words:", Array.from(foundWords));
+
+  const words = response.words;
   if (!words || words.length === 0) {
     const container = document.getElementById("squares-solver-results");
     if (container) {
@@ -260,13 +506,39 @@ function showResults(words) {
         </div>
         <div class="words-container">
           ${wordsByLength[length]
-            .map((word) => `<span class="word-item">${word}</span>`)
+            .map((word) => {
+              const wordLower = word.toLowerCase();
+              const isInvalid = notFoundWords.has(wordLower);
+              const isFound = foundWords.has(wordLower);
+              const className = isInvalid
+                ? "not-found"
+                : isFound
+                ? "found"
+                : "";
+              return `<span class="word-item ${className}" data-word="${wordLower}">${word}</span>`;
+            })
             .join("")}
         </div>
       </div>
     `
     )
     .join("");
+
+  const updateWordStatus = (word) => {
+    const wordElements = document.querySelectorAll(
+      `.word-item[data-word="${word}"]`
+    );
+    wordElements.forEach((element) => {
+      element.classList.remove("not-found", "found");
+      if (notFoundWords.has(word)) {
+        element.classList.add("not-found");
+      } else if (foundWords.has(word)) {
+        element.classList.add("found");
+      }
+    });
+  };
+
+  resultsDiv.updateWordStatus = updateWordStatus;
 }
 
 const Logger = {

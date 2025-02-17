@@ -8,6 +8,10 @@ const CONFIG = {
   CACHE_KEY: "squaresSolverCache",
 };
 
+// Add to the constants section
+const INVALID_WORDS_KEY = "squaresSolverInvalidWords";
+const FOUND_WORDS_KEY = "squaresSolverFoundWords";
+
 // Custom logger
 const Logger = {
   info: (...args) => DEBUG && console.log("[Squares Solver]:", ...args),
@@ -35,6 +39,12 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     case "extractGrid":
       handleExtractGrid(sendResponse);
       break;
+    case "storeInvalidWord":
+      handleStoreInvalidWord(request.word);
+      break;
+    case "storeFoundWord":
+      handleStoreFoundWord(request.word);
+      break;
     default:
       Logger.warn("Unknown action received:", request.action);
       sendResponse({ error: "Unknown action", success: false });
@@ -42,17 +52,46 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   return true;
 });
 
+// Add this function to initialize storage
+async function initializeStorage() {
+  const storage = await chrome.storage.local.get([INVALID_WORDS_KEY, FOUND_WORDS_KEY]);
+  if (!storage[INVALID_WORDS_KEY]) {
+    await chrome.storage.local.set({ [INVALID_WORDS_KEY]: [] });
+  }
+  if (!storage[FOUND_WORDS_KEY]) {
+    await chrome.storage.local.set({ [FOUND_WORDS_KEY]: [] });
+  }
+}
+
+// Call it when the extension starts
+initializeStorage().catch(error => {
+  Logger.error("Error initializing storage:", error);
+});
+
+// Modify handleSolveRequest to ensure we're using storage data
 async function handleSolveRequest(request, sendResponse) {
   try {
     if (!request.grid) {
       throw new SolverError("INVALID_INPUT", "Grid is required");
     }
 
-    Logger.info("Checking cache for grid:", request.grid);
+    // Always get current storage state
+    const storage = await chrome.storage.local.get([INVALID_WORDS_KEY, FOUND_WORDS_KEY]);
+    const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
+    const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
+
+    Logger.info("Current invalid words:", Array.from(invalidWords));
+    Logger.info("Current found words:", Array.from(foundWords));
+
     const cachedResult = await getCachedResults(request.grid);
     if (cachedResult) {
       Logger.info("Cache hit");
-      sendResponse({ words: cachedResult, success: true });
+      sendResponse({
+        words: cachedResult,
+        invalidWords: Array.from(invalidWords),
+        foundWords: Array.from(foundWords),
+        success: true
+      });
       return;
     }
 
@@ -62,7 +101,13 @@ async function handleSolveRequest(request, sendResponse) {
     );
 
     await cacheResults(request.grid, words);
-    sendResponse({ words, success: true });
+    
+    sendResponse({
+      words,
+      invalidWords: Array.from(invalidWords),
+      foundWords: Array.from(foundWords),
+      success: true
+    });
   } catch (error) {
     Logger.error("Solve request failed:", error);
     sendResponse({
@@ -208,4 +253,72 @@ function cleanupCache(cache) {
       delete cache[key];
     }
   });
+}
+
+// Add this function to handle storing invalid words
+async function handleStoreInvalidWord(word) {
+  try {
+    const storage = await chrome.storage.local.get([INVALID_WORDS_KEY]);
+    const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
+    
+    // Handle both single words and arrays of words
+    if (Array.isArray(word)) {
+      word.forEach(w => invalidWords.add(w));
+    } else {
+      invalidWords.add(word);
+    }
+    
+    await chrome.storage.local.set({
+      [INVALID_WORDS_KEY]: Array.from(invalidWords)
+    });
+
+    // Notify all tabs to update their invalid words list
+    const tabs = await chrome.tabs.query({});
+    tabs.forEach((tab) => {
+      chrome.tabs
+        .sendMessage(tab.id, {
+          action: "updateInvalidWords",
+          invalidWords: Array.from(invalidWords)
+        })
+        .catch(() => {
+          /* Ignore errors for inactive tabs */
+        });
+    });
+  } catch (error) {
+    Logger.error("Error storing invalid word:", error);
+  }
+}
+
+// Add new function to handle storing found words
+async function handleStoreFoundWord(word) {
+  try {
+    const storage = await chrome.storage.local.get([FOUND_WORDS_KEY]);
+    const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
+    
+    // Handle both single words and arrays of words
+    if (Array.isArray(word)) {
+      word.forEach(w => foundWords.add(w));
+    } else {
+      foundWords.add(word);
+    }
+    
+    await chrome.storage.local.set({
+      [FOUND_WORDS_KEY]: Array.from(foundWords)
+    });
+
+    // Notify all tabs to update their word lists
+    const tabs = await chrome.tabs.query({});
+    tabs.forEach((tab) => {
+      chrome.tabs
+        .sendMessage(tab.id, {
+          action: "updateFoundWords",
+          foundWords: Array.from(foundWords)
+        })
+        .catch(() => {
+          /* Ignore errors for inactive tabs */
+        });
+    });
+  } catch (error) {
+    Logger.error("Error storing found word:", error);
+  }
 }
