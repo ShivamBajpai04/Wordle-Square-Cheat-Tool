@@ -4,11 +4,14 @@ import path from "path";
 import cors from "cors";
 import dotenv from "dotenv";
 import { fileURLToPath } from "url";
+import morgan from "morgan";
 
 // Load environment variables
 dotenv.config();
 
 const app = express();
+
+app.use(morgan("dev"));
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 

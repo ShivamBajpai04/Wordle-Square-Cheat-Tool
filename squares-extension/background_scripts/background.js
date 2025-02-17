@@ -2,9 +2,7 @@
 const DEBUG = true; // Toggle for production
 
 const CONFIG = {
-  API_URL: process.env.NODE_ENV === 'production' 
-    ? "https://your-production-domain.com/solve"
-    : "http://localhost:3000/solve",
+  API_URL:"https://wordle-square-cheat-tool.onrender.com/solve",
   MAX_RETRIES: 3,
   RETRY_DELAY: 1000,
   CACHE_KEY: "squaresSolverCache",

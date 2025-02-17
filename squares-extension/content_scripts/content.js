@@ -1,13 +1,9 @@
-// Handle grid extraction and UI injection
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "extractGrid") {
-    Logger.info("Attempting to extract grid from page");
     const result = extractGridFromPage();
 
     if (result.error) {
-      Logger.error("Grid extraction failed:", result.error);
     } else {
-      Logger.info("Successfully extracted grid:", result.grid);
     }
 
     sendResponse(result);
@@ -19,46 +15,37 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 });
 
 function extractGridFromPage() {
-  // Find elements with data-board attribute
   const elements = document.querySelectorAll("[data-board]");
 
   if (!elements.length) {
     return { grid: null, error: "No grid elements found on page" };
   }
 
-  // Extract letters from data-board attributes
-  // Format is "*-*-x-*-*" where x is the letter
   const grid = Array.from(elements)
     .map((el) => {
       const attr = el.getAttribute("data-board");
-      // Split by hyphen and get the third part (index 2)
       const parts = attr.split("-");
       if (parts.length >= 3) {
         const letter = parts[2];
-        // Ensure it's a single letter
         return letter.length === 1 ? letter.toLowerCase() : "";
       }
       return "";
     })
-    .filter((letter) => letter !== "") // Remove empty entries
+    .filter((letter) => letter !== "")
     .join(" ");
 
   if (!grid) {
-    Logger.error("Could not extract letters from data-board attributes");
     return { grid: null, error: "Could not extract letters from grid" };
   }
 
-  Logger.info("Extracted grid:", grid);
   return { grid, error: null };
 }
 
-// Simplified UI for showing results
 function createUI() {
   if (document.getElementById("squares-solver-results")) {
     return document.getElementById("solver-results");
   }
 
-  // Create and inject styles
   const style = document.createElement("style");
   style.textContent = `
     #squares-solver-results {
@@ -182,7 +169,6 @@ function createUI() {
 
   document.body.appendChild(container);
 
-  // Make the window draggable
   let isDragging = false;
   let currentX;
   let currentY;
@@ -229,7 +215,7 @@ function createUI() {
 
   closeBtn.addEventListener("click", () => {
     container.remove();
-    style.remove(); // Clean up styles when closing
+    style.remove();
   });
 
   return resultsDiv;
@@ -238,17 +224,13 @@ function createUI() {
 function showResults(words) {
   let resultsDiv = document.getElementById("solver-results");
 
-  // If no results div exists, create the UI
   if (!resultsDiv) {
-    // Important: Store the returned div from createUI
     resultsDiv = createUI();
     if (!resultsDiv) {
-      Logger.error("Failed to create UI");
       return;
     }
   }
 
-  // If no words or empty array, remove the UI
   if (!words || words.length === 0) {
     const container = document.getElementById("squares-solver-results");
     if (container) {
@@ -257,9 +239,6 @@ function showResults(words) {
     return;
   }
 
-  Logger.info("Showing results:", words); // Add logging
-
-  // Group words by length
   const wordsByLength = words.reduce((acc, word) => {
     const length = word.length;
     if (!acc[length]) {
@@ -269,10 +248,8 @@ function showResults(words) {
     return acc;
   }, {});
 
-  // Sort lengths in ascending order
   const sortedLengths = Object.keys(wordsByLength).sort((a, b) => a - b);
 
-  // Create HTML for each length group
   resultsDiv.innerHTML = sortedLengths
     .map(
       (length) => `
@@ -292,7 +269,6 @@ function showResults(words) {
     .join("");
 }
 
-// Add Logger if it's not defined
 const Logger = {
   info: (...args) => console.log("[Squares Solver]:", ...args),
   error: (...args) => console.error("[Squares Solver Error]:", ...args),

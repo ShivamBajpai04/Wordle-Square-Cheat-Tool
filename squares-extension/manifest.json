@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "name": "Squares Solver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An extension that solves Squares(squares.org) for you",
   "permissions": ["storage", "activeTab"],
   "host_permissions": [
     "http://localhost:3000/*",
-    "https://your-production-domain.com/*"
+    "https://wordle-square-cheat-tool.onrender.com/*"
   ],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
@@ -23,5 +23,10 @@
       "js": ["content_scripts/content.js"],
       "run_at": "document_end"
     }
-  ]
+  ],
+  "icons": {
+    "16": "icons/16x16.png",
+    "48": "icons/48x48.png",
+    "128": "icons/128x128.png"
+  }
 }
