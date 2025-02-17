@@ -11,7 +11,11 @@ dotenv.config();
 
 const app = express();
 
-app.use(morgan("dev"));
+app.use(
+  morgan("dev", {
+    skip: (req, res) => req.path === "/health",
+  })
+);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
