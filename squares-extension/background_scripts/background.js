@@ -2,7 +2,7 @@
 const DEBUG = true; // Toggle for production
 
 const CONFIG = {
-  API_URL:"https://wordle-square-cheat-tool.onrender.com/solve",
+  API_URL: "https://wordle-square-cheat-tool.onrender.com/solve",
   MAX_RETRIES: 3,
   RETRY_DELAY: 1000,
   CACHE_KEY: "squaresSolverCache",
@@ -54,7 +54,10 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 
 // Add this function to initialize storage
 async function initializeStorage() {
-  const storage = await chrome.storage.local.get([INVALID_WORDS_KEY, FOUND_WORDS_KEY]);
+  const storage = await chrome.storage.local.get([
+    INVALID_WORDS_KEY,
+    FOUND_WORDS_KEY,
+  ]);
   if (!storage[INVALID_WORDS_KEY]) {
     await chrome.storage.local.set({ [INVALID_WORDS_KEY]: [] });
   }
@@ -64,7 +67,7 @@ async function initializeStorage() {
 }
 
 // Call it when the extension starts
-initializeStorage().catch(error => {
+initializeStorage().catch((error) => {
   Logger.error("Error initializing storage:", error);
 });
 
@@ -76,7 +79,10 @@ async function handleSolveRequest(request, sendResponse) {
     }
 
     // Always get current storage state
-    const storage = await chrome.storage.local.get([INVALID_WORDS_KEY, FOUND_WORDS_KEY]);
+    const storage = await chrome.storage.local.get([
+      INVALID_WORDS_KEY,
+      FOUND_WORDS_KEY,
+    ]);
     const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
     const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
 
@@ -90,7 +96,7 @@ async function handleSolveRequest(request, sendResponse) {
         words: cachedResult,
         invalidWords: Array.from(invalidWords),
         foundWords: Array.from(foundWords),
-        success: true
+        success: true,
       });
       return;
     }
@@ -101,12 +107,12 @@ async function handleSolveRequest(request, sendResponse) {
     );
 
     await cacheResults(request.grid, words);
-    
+
     sendResponse({
       words,
       invalidWords: Array.from(invalidWords),
       foundWords: Array.from(foundWords),
-      success: true
+      success: true,
     });
   } catch (error) {
     Logger.error("Solve request failed:", error);
@@ -260,16 +266,16 @@ async function handleStoreInvalidWord(word) {
   try {
     const storage = await chrome.storage.local.get([INVALID_WORDS_KEY]);
     const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
-    
+
     // Handle both single words and arrays of words
     if (Array.isArray(word)) {
-      word.forEach(w => invalidWords.add(w));
+      word.forEach((w) => invalidWords.add(w));
     } else {
       invalidWords.add(word);
     }
-    
+
     await chrome.storage.local.set({
-      [INVALID_WORDS_KEY]: Array.from(invalidWords)
+      [INVALID_WORDS_KEY]: Array.from(invalidWords),
     });
 
     // Notify all tabs to update their invalid words list
@@ -278,7 +284,7 @@ async function handleStoreInvalidWord(word) {
       chrome.tabs
         .sendMessage(tab.id, {
           action: "updateInvalidWords",
-          invalidWords: Array.from(invalidWords)
+          invalidWords: Array.from(invalidWords),
         })
         .catch(() => {
           /* Ignore errors for inactive tabs */
@@ -294,16 +300,16 @@ async function handleStoreFoundWord(word) {
   try {
     const storage = await chrome.storage.local.get([FOUND_WORDS_KEY]);
     const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
-    
+
     // Handle both single words and arrays of words
     if (Array.isArray(word)) {
-      word.forEach(w => foundWords.add(w));
+      word.forEach((w) => foundWords.add(w));
     } else {
       foundWords.add(word);
     }
-    
+
     await chrome.storage.local.set({
-      [FOUND_WORDS_KEY]: Array.from(foundWords)
+      [FOUND_WORDS_KEY]: Array.from(foundWords),
     });
 
     // Notify all tabs to update their word lists
@@ -312,7 +318,7 @@ async function handleStoreFoundWord(word) {
       chrome.tabs
         .sendMessage(tab.id, {
           action: "updateFoundWords",
-          foundWords: Array.from(foundWords)
+          foundWords: Array.from(foundWords),
         })
         .catch(() => {
           /* Ignore errors for inactive tabs */

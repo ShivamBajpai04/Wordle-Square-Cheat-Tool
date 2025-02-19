@@ -4,6 +4,7 @@ import path from "path";
 import cors from "cors";
 import dotenv from "dotenv";
 import { fileURLToPath } from "url";
+import { get_yesterdays_words } from "./pupeteer.js";
 import morgan from "morgan";
 
 // Load environment variables
@@ -152,6 +153,10 @@ app.post("/solve", async (req, res) => {
   }
 });
 
+// app.get("/yesterday", async (req, res) => {
+//   const words = await get_yesterdays_words();
+//   res.status(201).json({ words });
+// });
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
