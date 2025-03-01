@@ -1,0 +1,194 @@
+name: Update Words Dictionary
+
+on:
+  schedule:
+    # Run at 12:30 AM UTC every day
+    - cron: "30 0 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-words:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch all history for all branches
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: "server/package.json"
+
+      - name: Install dependencies
+        run: cd server && npm ci
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
+      - name: Run Puppeteer to get game data
+        run: |
+          cd server
+          node -e "
+            import { get_game_data } from './pupeteer.js';
+            import { spawn } from 'child_process';
+            import path from 'path';
+            import { fileURLToPath } from 'url';
+            import fs from 'fs/promises';
+            
+            const __filename = fileURLToPath(import.meta.url);
+            const __dirname = path.dirname(__filename);
+            
+            async function run() {
+              try {
+                // Get both yesterday's words and today's grid in one call
+                const gameData = await get_game_data();
+                console.log('Game data retrieved:', 
+                  gameData.yesterdayWords.length + ' words from yesterday, ' +
+                  (gameData.yesterdaysGrid ? 'grid extracted' : 'no grid found')
+                );
+                
+                // Write yesterday's words to a file
+                await fs.writeFile('actual-words.txt', gameData.yesterdayWords.join(' '));
+                
+                // If we have today's grid, solve it for predictions
+                if (gameData.yesterdaysGrid) {
+                  console.log('Today\\'s grid:', gameData.yesterdaysGrid);
+                  
+                  // Solve today's grid using our solver
+                  const solverPath = path.join(__dirname, 'solver');
+                  
+                  const solverPromise = new Promise((resolve, reject) => {
+                    const solver = spawn(solverPath, [gameData.yesterdaysGrid, '10']);
+                    let output = '';
+                    let errorOutput = '';
+                    
+                    solver.stdout.on('data', (data) => {
+                      output += data.toString();
+                    });
+                    
+                    solver.stderr.on('data', (data) => {
+                      errorOutput += data.toString();
+                    });
+                    
+                    solver.on('close', (code) => {
+                      if (code !== 0) {
+                        reject(new Error('Solver process failed: ' + errorOutput));
+                      } else {
+                        resolve(output.trim());
+                      }
+                    });
+                  });
+                  
+                  const predictions = await solverPromise;
+                  console.log('Predictions for today:', predictions);
+                  
+                  // Store predictions for tomorrow's comparison
+                  await fs.writeFile('predictions.txt', predictions);
+                }
+              } catch (error) {
+                console.error('Error:', error);
+                process.exit(1);
+              }
+            }
+            
+            run();
+          "
+
+      - name: Update words.txt and create commit
+        run: |
+          cd server
+
+          # Read actual words
+          ACTUAL_WORDS=$(cat actual-words.txt)
+
+          # Read predicted words if file exists
+          if [ -f predictions.txt ]; then
+            PREDICTED_WORDS=$(cat predictions.txt)
+          else
+            PREDICTED_WORDS=""
+          fi
+
+          # Read current words.txt
+          if [ -f words.txt ]; then
+            CURRENT_WORDS=$(cat words.txt)
+          else
+            CURRENT_WORDS=""
+          fi
+
+          # Process words with Node
+          node -e "
+            async function updateWords() {
+              const fs = await import('fs/promises');
+              
+              // Parse words from files
+              const actualWords = '$ACTUAL_WORDS'.trim().split(/\s+/).filter(Boolean);
+              const predictedWords = '$PREDICTED_WORDS'.trim().split(/\s+/).filter(Boolean);
+              const currentWords = '$CURRENT_WORDS'.trim().split(/\s+/).filter(Boolean);
+              
+              // Find words to add
+              const wordsToAdd = actualWords.filter(word => !currentWords.includes(word));
+              
+              // Find false positives
+              const falsePositives = predictedWords.filter(word => !actualWords.includes(word));
+              
+              console.log('Words to add:', wordsToAdd);
+              console.log('False positives:', falsePositives);
+              
+              if (wordsToAdd.length === 0) {
+                console.log('No new words to add.');
+                return false;
+              }
+              
+              // Update words.txt
+              const updatedWords = [...new Set([...currentWords, ...wordsToAdd])].sort();
+              await fs.writeFile('words.txt', updatedWords.join('\\n'));
+              
+              console.log(`Added ${wordsToAdd.length} new words to words.txt`);
+              
+              // Create commit message
+              const commitMsg = \`Update words.txt with ${wordsToAdd.length} new words
+              
+              Added: ${wordsToAdd.join(', ')}
+              False positives: ${falsePositives.join(', ')}\`;
+              
+              await fs.writeFile('commit-msg.txt', commitMsg);
+              
+              return true;
+            }
+            
+            updateWords().then(hasChanges => {
+              process.exit(hasChanges ? 0 : 1);
+            }).catch(err => {
+              console.error(err);
+              process.exit(1);
+            });
+          "
+
+          # Exit if no changes (exit code 1 from Node script)
+          if [ $? -ne 0 ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Create or switch to update branch
+          git checkout -B word-updates
+
+          # Commit changes
+          git add words.txt predictions.txt
+          git commit -F commit-msg.txt
+
+          # Push changes
+          git push -f origin word-updates
+
+      - name: Merge to main on Sunday
+        if: github.event.schedule == '30 0 * * 0' # Only on Sunday at 12:30 AM
+        run: |
+          git checkout main
+          git merge word-updates
+          git push origin main

@@ -4,7 +4,6 @@ import path from "path";
 import cors from "cors";
 import dotenv from "dotenv";
 import { fileURLToPath } from "url";
-import { get_yesterdays_words } from "./pupeteer.js";
 import morgan from "morgan";
 
 // Load environment variables
@@ -24,15 +23,12 @@ const __dirname = path.dirname(__filename);
 const corsOptions = {
   origin: (origin, callback) => {
     const allowedOrigins = process.env.ALLOWED_ORIGINS?.split(",") || [];
-    // Allow requests with no origin (like mobile apps or curl requests)
     if (!origin) return callback(null, true);
 
-    // Allow any chrome extension
     if (origin.startsWith("chrome-extension://")) {
       return callback(null, true);
     }
 
-    // Check against allowed origins
     if (allowedOrigins.indexOf(origin) !== -1) {
       return callback(null, true);
     }
@@ -153,10 +149,6 @@ app.post("/solve", async (req, res) => {
   }
 });
 
-// app.get("/yesterday", async (req, res) => {
-//   const words = await get_yesterdays_words();
-//   res.status(201).json({ words });
-// });
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
