@@ -6,6 +6,9 @@ on:
     - cron: "30 0 * * *"
   workflow_dispatch: # Allow manual triggering
 
+permissions:
+  contents: write # Explicitly grant permission to push to the repository
+
 jobs:
   update-words:
     runs-on: ubuntu-latest
@@ -62,7 +65,7 @@ jobs:
                 console.log('Today\'s grid:', gameData.yesterdaysGrid);
                 
                 // Solve today's grid using our solver
-                const solverPath = path.join(__dirname, process.platform === 'win32' ? 'code.exe' : 'code');
+                const solverPath = path.join(__dirname, './code'); // Simpler path for Linux
                 
                 const solverPromise = new Promise((resolve, reject) => {
                   const solver = spawn(solverPath);
@@ -107,6 +110,7 @@ jobs:
 
           # Compile the C++ code first
           g++ -std=c++17 code.cpp -o code
+          chmod +x code  # Ensure the executable has proper permissions
 
           # Run the script with the proper extension
           node temp-script.mjs
@@ -115,32 +119,38 @@ jobs:
         run: |
           cd server
 
-          # Read actual words
-          ACTUAL_WORDS=$(cat actual-words.txt)
+          # Read actual words (with error handling for empty files)
+          if [ -s actual-words.txt ]; then
+            ACTUAL_WORDS=$(cat actual-words.txt)
+          else
+            echo "No actual words found, exiting"
+            exit 0
+          fi
 
           # Read predicted words if file exists
-          if [ -f predictions.txt ]; then
+          if [ -s predictions.txt ]; then
             PREDICTED_WORDS=$(cat predictions.txt)
           else
             PREDICTED_WORDS=""
           fi
 
           # Read current words.txt
-          if [ -f words.txt ]; then
+          if [ -s words.txt ]; then
             CURRENT_WORDS=$(cat words.txt)
           else
             CURRENT_WORDS=""
           fi
 
-          # Process words with Node
-          node -e "
-            async function updateWords() {
-              const fs = await import('fs/promises');
-              
-              // Parse words from files
-              const actualWords = '$ACTUAL_WORDS'.trim().split(/\s+/).filter(Boolean);
-              const predictedWords = '$PREDICTED_WORDS'.trim().split(/\s+/).filter(Boolean);
-              const currentWords = '$CURRENT_WORDS'.trim().split(/\s+/).filter(Boolean);
+          # Create a temporary JS file for processing words
+          cat > process-words.mjs << 'EOF'
+          import fs from 'fs/promises';
+
+          async function updateWords() {
+            try {
+              // Get input from environment variables
+              const actualWords = process.env.ACTUAL_WORDS.trim().split(/\s+/).filter(Boolean);
+              const predictedWords = process.env.PREDICTED_WORDS.trim().split(/\s+/).filter(Boolean);
+              const currentWords = process.env.CURRENT_WORDS.trim().split(/\s+/).filter(Boolean);
               
               // Find words to add
               const wordsToAdd = actualWords.filter(word => !currentWords.includes(word));
@@ -153,33 +163,35 @@ jobs:
               
               if (wordsToAdd.length === 0) {
                 console.log('No new words to add.');
-                return false;
+                process.exit(1); // Exit with error code to indicate no changes
               }
               
               // Update words.txt
               const updatedWords = [...new Set([...currentWords, ...wordsToAdd])].sort();
-              await fs.writeFile('words.txt', updatedWords.join('\\n'));
+              await fs.writeFile('words.txt', updatedWords.join('\n'));
               
               console.log(`Added ${wordsToAdd.length} new words to words.txt`);
               
               // Create commit message
-              const commitMsg = \`Update words.txt with ${wordsToAdd.length} new words
-              
-              Added: ${wordsToAdd.join(', ')}
-              False positives: ${falsePositives.join(', ')}\`;
+              const commitMsg = `Update words.txt with ${wordsToAdd.length} new words
+
+    Added: ${wordsToAdd.join(', ')}
+    False positives: ${falsePositives.join(', ')}`;
               
               await fs.writeFile('commit-msg.txt', commitMsg);
               
-              return true;
-            }
-            
-            updateWords().then(hasChanges => {
-              process.exit(hasChanges ? 0 : 1);
-            }).catch(err => {
-              console.error(err);
+              process.exit(0); // Success
+            } catch (error) {
+              console.error('Error:', error);
               process.exit(1);
-            });
-          "
+            }
+          }
+
+          updateWords();
+          EOF
+
+          # Run the Node.js script with environment variables
+          ACTUAL_WORDS="$ACTUAL_WORDS" PREDICTED_WORDS="$PREDICTED_WORDS" CURRENT_WORDS="$CURRENT_WORDS" node process-words.mjs
 
           # Exit if no changes (exit code 1 from Node script)
           if [ $? -ne 0 ]; then
@@ -192,14 +204,14 @@ jobs:
 
           # Commit changes
           git add words.txt predictions.txt
-          git commit -F commit-msg.txt
+          git commit -F commit-msg.txt || echo "Nothing to commit"
 
           # Push changes
-          git push -f origin word-updates
+          git push -f origin word-updates || echo "Failed to push changes"
 
       - name: Merge to main on Sunday
         if: github.event.schedule == '30 0 * * 0' # Only on Sunday at 12:30 AM
         run: |
           git checkout main
-          git merge word-updates
-          git push origin main
+          git merge word-updates || echo "Merge failed, manual intervention needed"
+          git push origin main || echo "Failed to push to main"
