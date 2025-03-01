@@ -62,10 +62,10 @@ jobs:
                 console.log('Today\'s grid:', gameData.yesterdaysGrid);
                 
                 // Solve today's grid using our solver
-                const solverPath = path.join(__dirname, 'main', process.platform === 'win32' ? 'code.exe' : 'code');
+                const solverPath = path.join(__dirname, process.platform === 'win32' ? 'code.exe' : 'code');
                 
                 const solverPromise = new Promise((resolve, reject) => {
-                  const solver = spawn(solverPath, [gameData.yesterdaysGrid, '10']);
+                  const solver = spawn(solverPath);
                   let output = '';
                   let errorOutput = '';
                   
@@ -76,6 +76,10 @@ jobs:
                   solver.stderr.on('data', (data) => {
                     errorOutput += data.toString();
                   });
+                  
+                  // Write to stdin instead of passing command line args
+                  solver.stdin.write(`${gameData.yesterdaysGrid} 16\n`);
+                  solver.stdin.end();
                   
                   solver.on('close', (code) => {
                     if (code !== 0) {
@@ -100,6 +104,9 @@ jobs:
 
           run();
           EOF
+
+          # Compile the C++ code first
+          g++ -std=c++17 code.cpp -o code
 
           # Run the script with the proper extension
           node temp-script.mjs
