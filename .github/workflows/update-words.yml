@@ -19,12 +19,12 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for all branches
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "18"
-          cache: "npm"
-          cache-dependency-path: "server/package.json"
+      # - name: Set up Node.js
+      #   uses: actions/setup-node@v3
+      #   with:
+      #     node-version: "18"
+      #     cache: "npm"
+      #     cache-dependency-path: "server/package.json"
 
       - name: Install dependencies
         run: cd server && npm ci
