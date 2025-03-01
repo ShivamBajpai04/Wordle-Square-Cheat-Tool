@@ -121,7 +121,8 @@ jobs:
 
           # Read actual words (with error handling for empty files)
           if [ -s actual-words.txt ]; then
-            ACTUAL_WORDS=$(cat actual-words.txt)
+            # Write to env file instead of storing in variable
+            cat actual-words.txt > actual-words-env.txt
           else
             echo "No actual words found, exiting"
             exit 0
@@ -129,16 +130,16 @@ jobs:
 
           # Read predicted words if file exists
           if [ -s predictions.txt ]; then
-            PREDICTED_WORDS=$(cat predictions.txt)
+            cat predictions.txt > predicted-words-env.txt
           else
-            PREDICTED_WORDS=""
+            echo "" > predicted-words-env.txt
           fi
 
           # Read current words.txt
           if [ -s words.txt ]; then
-            CURRENT_WORDS=$(cat words.txt)
+            cat words.txt > current-words-env.txt
           else
-            CURRENT_WORDS=""
+            echo "" > current-words-env.txt
           fi
 
           # Create a temporary JS file for processing words
@@ -147,10 +148,14 @@ jobs:
 
           async function updateWords() {
             try {
-              // Get input from environment variables
-              const actualWords = process.env.ACTUAL_WORDS.trim().split(/\s+/).filter(Boolean);
-              const predictedWords = process.env.PREDICTED_WORDS.trim().split(/\s+/).filter(Boolean);
-              const currentWords = process.env.CURRENT_WORDS.trim().split(/\s+/).filter(Boolean);
+              // Read from files instead of environment variables
+              const actualWordsRaw = await fs.readFile('actual-words-env.txt', 'utf8');
+              const predictedWordsRaw = await fs.readFile('predicted-words-env.txt', 'utf8');
+              const currentWordsRaw = await fs.readFile('current-words-env.txt', 'utf8');
+              
+              const actualWords = actualWordsRaw.trim().split(/\s+/).filter(Boolean);
+              const predictedWords = predictedWordsRaw.trim().split(/\s+/).filter(Boolean);
+              const currentWords = currentWordsRaw.trim().split(/\s+/).filter(Boolean);
               
               // Find words to add
               const wordsToAdd = actualWords.filter(word => !currentWords.includes(word));
@@ -173,7 +178,7 @@ jobs:
               console.log(`Added ${wordsToAdd.length} new words to words.txt`);
               
               // Create commit message
-              const commitMsg = `Update words.txt with ${wordsToAdd.length} new words Added: ${wordsToAdd.join(', ')} False positives: ${falsePositives.join(', ')}`;
+              const commitMsg = `Update words.txt with ${wordsToAdd.length} new words\n\nAdded: ${wordsToAdd.join(', ')}\nFalse positives: ${falsePositives.join(', ')}`;
               
               await fs.writeFile('commit-msg.txt', commitMsg);
               
@@ -187,8 +192,7 @@ jobs:
           updateWords();
           EOF
 
-          # Run the Node.js script with environment variables
-          ACTUAL_WORDS="$ACTUAL_WORDS" PREDICTED_WORDS="$PREDICTED_WORDS" CURRENT_WORDS="$CURRENT_WORDS" node process-words.mjs
+          node process-words.mjs
 
           # Exit if no changes (exit code 1 from Node script)
           if [ $? -ne 0 ]; then
