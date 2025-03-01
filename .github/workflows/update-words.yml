@@ -157,31 +157,57 @@ jobs:
               const predictedWords = predictedWordsRaw.trim().split(/\s+/).filter(Boolean);
               const currentWords = currentWordsRaw.trim().split(/\s+/).filter(Boolean);
               
-              // Find words to add
+              // Find words to add (in actual but not in current)
               const wordsToAdd = actualWords.filter(word => !currentWords.includes(word));
               
-              // Find false positives
+              // Find false positives (in predicted but not in actual)
               const falsePositives = predictedWords.filter(word => !actualWords.includes(word));
+              
+              // Find words to remove (false positives that are in current words)
+              const wordsToRemove = falsePositives.filter(word => currentWords.includes(word));
               
               console.log('Words to add:', wordsToAdd);
               console.log('False positives:', falsePositives);
+              console.log('Words to remove:', wordsToRemove);
               
-              if (wordsToAdd.length === 0) {
-                console.log('No new words to add.');
+              if (wordsToAdd.length === 0 && wordsToRemove.length === 0) {
+                console.log('No changes needed.');
                 process.exit(1); // Exit with error code to indicate no changes
               }
               
-              // Update words.txt
-              const updatedWords = [...new Set([...currentWords, ...wordsToAdd])].sort();
+              // Update words.txt - add new words and remove false positives
+              const updatedWords = [...new Set([...currentWords, ...wordsToAdd])]
+                .filter(word => !wordsToRemove.includes(word))
+                .sort();
+              
               await fs.writeFile('words.txt', updatedWords.join('\n'));
               
-              console.log(`Added ${wordsToAdd.length} new words to words.txt`);
-              
               // Create commit message
-              const commitMsg = `Update words.txt with ${wordsToAdd.length} new words\n\nAdded: ${wordsToAdd.join(', ')}\nFalse positives: ${falsePositives.join(', ')}`;
+              let commitMsg = '';
+              if (wordsToAdd.length > 0 && wordsToRemove.length > 0) {
+                commitMsg = `Update words.txt: added ${wordsToAdd.length} words, removed ${wordsToRemove.length} false positives\n\n`;
+              } else if (wordsToAdd.length > 0) {
+                commitMsg = `Update words.txt: added ${wordsToAdd.length} new words\n\n`;
+              } else {
+                commitMsg = `Update words.txt: removed ${wordsToRemove.length} false positives\n\n`;
+              }
+              
+              if (wordsToAdd.length > 0) {
+                commitMsg += `Added: ${wordsToAdd.join(', ')}\n`;
+              }
+              
+              if (wordsToRemove.length > 0) {
+                commitMsg += `Removed: ${wordsToRemove.join(', ')}\n`;
+              }
+              
+              if (falsePositives.length > wordsToRemove.length) {
+                const otherFalsePositives = falsePositives.filter(word => !wordsToRemove.includes(word));
+                commitMsg += `Other false positives (not in words.txt): ${otherFalsePositives.join(', ')}`;
+              }
               
               await fs.writeFile('commit-msg.txt', commitMsg);
               
+              console.log(`Updated words.txt: added ${wordsToAdd.length}, removed ${wordsToRemove.length}`);
               process.exit(0); // Success
             } catch (error) {
               console.error('Error:', error);
