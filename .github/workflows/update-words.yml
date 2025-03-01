@@ -206,12 +206,27 @@ jobs:
           git add words.txt predictions.txt
           git commit -F commit-msg.txt || echo "Nothing to commit"
 
-          # Push changes
-          git push -f origin word-updates || echo "Failed to push changes"
+          # Push changes - use --force-with-lease instead of -f for safer force pushes
+          git push --force-with-lease origin word-updates || echo "Failed to push changes"
 
-      - name: Merge to main on Sunday
-        if: github.event.schedule == '30 0 * * 0' # Only on Sunday at 12:30 AM
+      - name: Check if Sunday and merge to main
         run: |
-          git checkout main
-          git merge word-updates || echo "Merge failed, manual intervention needed"
-          git push origin main || echo "Failed to push to main"
+          # Check if today is Sunday (0) using date command
+          if [ $(date +%w) -eq 0 ]; then
+            echo "Today is Sunday, merging to main"
+            git checkout main
+            
+            # Try to merge, but don't force it
+            if git merge --no-ff word-updates -m "Weekly merge of word updates"; then
+              git push origin main
+              echo "Successfully merged and pushed to main"
+            else
+              echo "Merge conflict detected, creating PR instead"
+              # Create a PR instead of forcing the merge
+              gh pr create --base main --head word-updates --title "Weekly word updates" --body "Automated PR for weekly word updates. Manual review needed due to conflicts."
+            fi
+          else
+            echo "Today is not Sunday, skipping merge to main"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
