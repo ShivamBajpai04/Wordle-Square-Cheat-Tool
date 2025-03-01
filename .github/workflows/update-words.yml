@@ -34,71 +34,75 @@ jobs:
       - name: Run Puppeteer to get game data
         run: |
           cd server
-          node -e "
-            import { get_game_data } from './pupeteer.js';
-            import { spawn } from 'child_process';
-            import path from 'path';
-            import { fileURLToPath } from 'url';
-            import fs from 'fs/promises';
-            
-            const __filename = fileURLToPath(import.meta.url);
-            const __dirname = path.dirname(__filename);
-            
-            async function run() {
-              try {
-                // Get both yesterday's words and today's grid in one call
-                const gameData = await get_game_data();
-                console.log('Game data retrieved:', 
-                  gameData.yesterdayWords.length + ' words from yesterday, ' +
-                  (gameData.yesterdaysGrid ? 'grid extracted' : 'no grid found')
-                );
+          # Create a temporary JS file that uses ES modules
+          cat > temp-script.mjs << 'EOF'
+          import { get_game_data } from './pupeteer.js';
+          import { spawn } from 'child_process';
+          import path from 'path';
+          import { fileURLToPath } from 'url';
+          import fs from 'fs/promises';
+
+          const __filename = fileURLToPath(import.meta.url);
+          const __dirname = path.dirname(__filename);
+
+          async function run() {
+            try {
+              // Get both yesterday's words and today's grid in one call
+              const gameData = await get_game_data();
+              console.log('Game data retrieved:', 
+                gameData.yesterdayWords.length + ' words from yesterday, ' +
+                (gameData.yesterdaysGrid ? 'grid extracted' : 'no grid found')
+              );
+              
+              // Write yesterday's words to a file
+              await fs.writeFile('actual-words.txt', gameData.yesterdayWords.join(' '));
+              
+              // If we have today's grid, solve it for predictions
+              if (gameData.yesterdaysGrid) {
+                console.log('Today\'s grid:', gameData.yesterdaysGrid);
                 
-                // Write yesterday's words to a file
-                await fs.writeFile('actual-words.txt', gameData.yesterdayWords.join(' '));
+                // Solve today's grid using our solver
+                const solverPath = path.join(__dirname, 'main', process.platform === 'win32' ? 'code.exe' : 'code');
                 
-                // If we have today's grid, solve it for predictions
-                if (gameData.yesterdaysGrid) {
-                  console.log('Today\\'s grid:', gameData.yesterdaysGrid);
+                const solverPromise = new Promise((resolve, reject) => {
+                  const solver = spawn(solverPath, [gameData.yesterdaysGrid, '10']);
+                  let output = '';
+                  let errorOutput = '';
                   
-                  // Solve today's grid using our solver
-                  const solverPath = path.join(__dirname, 'solver');
-                  
-                  const solverPromise = new Promise((resolve, reject) => {
-                    const solver = spawn(solverPath, [gameData.yesterdaysGrid, '10']);
-                    let output = '';
-                    let errorOutput = '';
-                    
-                    solver.stdout.on('data', (data) => {
-                      output += data.toString();
-                    });
-                    
-                    solver.stderr.on('data', (data) => {
-                      errorOutput += data.toString();
-                    });
-                    
-                    solver.on('close', (code) => {
-                      if (code !== 0) {
-                        reject(new Error('Solver process failed: ' + errorOutput));
-                      } else {
-                        resolve(output.trim());
-                      }
-                    });
+                  solver.stdout.on('data', (data) => {
+                    output += data.toString();
                   });
                   
-                  const predictions = await solverPromise;
-                  console.log('Predictions for today:', predictions);
+                  solver.stderr.on('data', (data) => {
+                    errorOutput += data.toString();
+                  });
                   
-                  // Store predictions for tomorrow's comparison
-                  await fs.writeFile('predictions.txt', predictions);
-                }
-              } catch (error) {
-                console.error('Error:', error);
-                process.exit(1);
+                  solver.on('close', (code) => {
+                    if (code !== 0) {
+                      reject(new Error('Solver process failed: ' + errorOutput));
+                    } else {
+                      resolve(output.trim());
+                    }
+                  });
+                });
+                
+                const predictions = await solverPromise;
+                console.log('Predictions for today:', predictions);
+                
+                // Store predictions for tomorrow's comparison
+                await fs.writeFile('predictions.txt', predictions);
               }
+            } catch (error) {
+              console.error('Error:', error);
+              process.exit(1);
             }
-            
-            run();
-          "
+          }
+
+          run();
+          EOF
+
+          # Run the script with the proper extension
+          node temp-script.mjs
 
       - name: Update words.txt and create commit
         run: |
