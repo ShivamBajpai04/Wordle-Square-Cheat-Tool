@@ -237,8 +237,12 @@ jobs:
           git push -f origin word-updates || echo "Failed to push changes"
 
       - name: Merge to main on Sunday
-        if: github.event.schedule == '30 0 * * 0' # Only on Sunday at 12:30 AM
-        run: |
-          git checkout main
-          git merge word-updates || echo "Merge failed, manual intervention needed"
-          git push origin main || echo "Failed to push to main"
+          if: github.event_name == 'schedule'
+          run: |
+            if [ "$(date -u +'%w')" -eq 1 ]; then
+              git checkout main
+              git merge word-updates || echo "Merge failed, manual intervention needed"
+              git push origin main || echo "Failed to push to main"
+            else
+              echo "Today is not Sunday. Skipping merge."
+            fi
