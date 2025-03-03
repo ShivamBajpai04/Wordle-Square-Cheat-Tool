@@ -237,7 +237,6 @@ jobs:
           git push -f origin word-updates || echo "Failed to push changes"
 
       - name: Merge to main on Sunday
-          if: github.event_name == 'schedule'
           run: |
             if [ "$(date -u +'%w')" -eq 1 ]; then
               git checkout main
