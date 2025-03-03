@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Squares Solver",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "An extension that solves Squares(squares.org) for you",
   "permissions": ["storage", "activeTab"],
   "host_permissions": [
