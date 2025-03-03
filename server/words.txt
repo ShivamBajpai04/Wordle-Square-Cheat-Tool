@@ -2,6 +2,7 @@ aachen
 aahed
 aalborg
 aalii
+aals
 aalst
 aalto
 aapas
@@ -2625,10 +2626,10 @@ alopecurus
 alopex
 alopiidae
 alopius
-alosa
 alose
 alouatta
 aloud
+alow
 alowe
 alpaca
 alpena
@@ -2772,6 +2773,7 @@ amarillo
 amaro
 amaryllidaceae
 amaryllis
+amas
 amass
 amastia
 amate
@@ -9570,6 +9572,7 @@ boarfish
 boarhound
 boars
 boart
+boas
 boast
 boaster
 boastful
@@ -9628,7 +9631,6 @@ boded
 bodega
 bodensee
 bodes
-bodge
 bodgy
 bodhi
 bodhisattva
@@ -9818,7 +9820,6 @@ bomor
 bonaire
 bonanza
 bonaparte
-bonasa
 bonavist
 bonbon
 bonce
@@ -21964,7 +21965,6 @@ dhobi
 dhodhekanisos
 dhole
 dholl
-dhols
 dhoni
 dhoti
 dhow
@@ -23618,7 +23618,6 @@ dominos
 dominus
 domitian
 dona
-donah
 donar
 donas
 donate
@@ -27021,13 +27020,13 @@ eternise
 eternity
 eternize
 etext
-ethal
 ethanal
 ethanamide
 ethane
 ethanediol
 ethanoate
 ethanol
+ethanols
 ethchlorvynol
 ethelbert
 ethelred
@@ -32265,7 +32264,6 @@ geyan
 geyer
 geyser
 gflops
-ghana
 ghanaian
 ghanese
 ghanian
@@ -34683,7 +34681,6 @@ haloragaceae
 haloragidaceae
 halos
 halothane
-hals
 halse
 halsh
 halt
@@ -34706,10 +34703,8 @@ hamamelidanthum
 hamamelidoxylon
 hamamelis
 hamamelites
-haman
 hamartia
 hamartoma
-hamas
 hamate
 hamba
 hamburg
@@ -34742,6 +34737,7 @@ hammy
 hamper
 hampshire
 hampton
+hams
 hamster
 hamstring
 hamsun
@@ -34873,6 +34869,7 @@ hanukkah
 hanuman
 haole
 haoma
+haos
 hapas
 hapax
 haphazard
@@ -36576,6 +36573,7 @@ holothuridae
 holothuroidea
 holotype
 holozoic
+hols
 holstein
 holster
 holts
@@ -36729,7 +36727,6 @@ homyel
 honan
 honcho
 honda
-hondo
 honds
 honduran
 honduras
@@ -36757,6 +36754,7 @@ honeymooner
 honeypot
 honeysucker
 honeysuckle
+hong
 hongi
 hongs
 honiara
@@ -43372,8 +43370,8 @@ lamps
 lampshade
 lampshell
 lampyridae
+lams
 lanai
-lanas
 lanate
 lancashire
 lancaster
@@ -43440,8 +43438,8 @@ lane
 laned
 lanes
 laney
+lang
 langbeinite
-lange
 langlaufer
 langley
 langmuir
@@ -43492,7 +43490,6 @@ lanugo
 lanyard
 lanzhou
 laocoon
-laos
 laotian
 laozi
 laparocele
@@ -45213,7 +45210,6 @@ loaner
 loaning
 loans
 loanword
-loasa
 loasaceae
 loast
 loath
@@ -45409,7 +45405,6 @@ logrolling
 logrono
 logwood
 logy
-lohan
 loids
 loin
 loincloth
@@ -45454,7 +45449,6 @@ lomes
 lomogramma
 lomotil
 lomustine
-lonas
 lonchocarpus
 london
 londoner
@@ -46847,7 +46841,6 @@ malposed
 malposition
 malpractice
 malraux
-mals
 malt
 malta
 malted
@@ -46914,6 +46907,7 @@ mammutidae
 mammy
 mamo
 mamoncillo
+mana
 manacle
 manage
 manageability
@@ -47089,7 +47083,7 @@ mannikin
 mannish
 mannitol
 manny
-manoa
+mano
 manoeuver
 manoeuvrability
 manoeuvrable
@@ -51599,7 +51593,6 @@ myxosporidia
 myxosporidian
 myxovirus
 mzees
-naams
 naan
 naans
 naats
@@ -51781,6 +51774,7 @@ nanty
 nanua
 nanus
 naomi
+naos
 napa
 napaea
 napalm
@@ -51873,7 +51867,6 @@ narwal
 narwhal
 narwhale
 nary
-nasa
 nasal
 nasale
 nasalis
@@ -52949,9 +52942,7 @@ nlrb
 nmoli
 nmols
 nnrti
-noaa
 noachian
-noah
 noahs
 nobble
 nobby
@@ -53687,7 +53678,6 @@ nowed
 nowel
 nowhere
 nowise
-nowls
 nowness
 nowrooz
 nowruz
@@ -53975,7 +53965,6 @@ oarlock
 oarsman
 oarsmanship
 oarswoman
-oasal
 oases
 oasis
 oast
@@ -54759,6 +54748,7 @@ onondaga
 ononis
 onopordon
 onopordum
+onos
 onosmodium
 onrush
 onsager
@@ -55188,7 +55178,6 @@ orites
 orixa
 oriya
 orizaba
-orlando
 orleanais
 orleanism
 orleanist
@@ -56023,6 +56012,7 @@ owler
 owlet
 owlish
 owlishly
+owls
 owlt
 owned
 owner
@@ -66597,6 +66587,7 @@ rhomboidal
 rhombus
 rhonchus
 rhone
+rhos
 rhubarb
 rhumb
 rhumba
@@ -67118,7 +67109,6 @@ roguish
 roguishly
 roguishness
 roguy
-rohan
 rohes
 rohun
 rohus
@@ -67306,11 +67296,9 @@ rorqual
 rorschach
 rorts
 rorty
-rosa
 rosacea
 rosaceae
 rosaceous
-rosal
 rosales
 rosario
 rosary
@@ -67381,7 +67369,6 @@ roted
 rotenone
 rotes
 rotgut
-roth
 rothko
 rothschild
 rotifer
@@ -68275,7 +68262,6 @@ salvor
 salwar
 salyut
 salzburg
-saman
 samanala
 samara
 samarang
@@ -68332,7 +68318,6 @@ samsara
 samson
 samuel
 samurai
-sana
 sanaa
 sanad
 sanatarium
@@ -68414,6 +68399,7 @@ sangaree
 sangay
 sanger
 sangh
+sangha
 sango
 sangoma
 sangraal
@@ -72352,7 +72338,6 @@ slive
 sliver
 slivery
 slivovitz
-sloan
 sloanea
 slob
 slobber
@@ -73022,13 +73007,14 @@ sokes
 sokha
 sokol
 sokoro
+sola
 solace
 solacement
-solah
 solan
 solanaceae
 solanaceous
 solandra
+solano
 solanopteris
 solanum
 solar
@@ -73369,6 +73355,7 @@ sorus
 soshnik
 soteriological
 soteriology
+soth
 sothis
 sotho
 soths
@@ -78817,7 +78804,7 @@ thames
 thammuz
 thamnophilus
 thamnophis
-thana
+than
 thanatology
 thanatophobia
 thanatopsis
@@ -79162,7 +79149,6 @@ thompson
 thomson
 thong
 thongs
-thor
 thoracentesis
 thoracic
 thoracocentesis
@@ -79210,7 +79196,6 @@ thoughtlessness
 thous
 thousand
 thousandth
-thowl
 thrace
 thracian
 thrae
@@ -79275,6 +79260,7 @@ thripidae
 thrips
 thrive
 thriving
+thro
 throat
 throated
 throatwort
@@ -79901,6 +79887,7 @@ tokio
 toklas
 tokos
 tokyo
+tola
 tolan
 tolar
 tolas
@@ -79999,6 +79986,7 @@ tonelessly
 toner
 tones
 toney
+tong
 tonga
 tongan
 tongs
@@ -80201,6 +80189,7 @@ torturously
 torulose
 torus
 tory
+tosa
 tosas
 toscana
 toscanini
@@ -81220,6 +81209,7 @@ trois
 trojan
 trojniak
 troke
+troland
 troll
 troller
 trolley
@@ -81240,6 +81230,7 @@ trombonist
 tromp
 trompillo
 trona
+tronas
 tronc
 trondheim
 trondheimsfjord
@@ -81307,6 +81298,7 @@ trousers
 trousseau
 trout
 trove
+trow
 trowel
 trows
 troy
@@ -87772,7 +87764,6 @@ wizen
 wizened
 wizes
 wizzo
-wlan
 woad
 woads
 woadwaxen
