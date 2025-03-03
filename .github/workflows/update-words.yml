@@ -230,7 +230,7 @@ jobs:
           git checkout -B word-updates
 
           # Commit changes
-          git add words.txt predictions.txt
+          git add words.txt
           git commit -F commit-msg.txt || echo "Nothing to commit"
 
           # Push changes
@@ -238,7 +238,7 @@ jobs:
 
       - name: Merge to main on Sunday
         run: |
-          if [ "$(date -u +'%w')" -eq 1 ]; then
+          if [ "$(date -u +'%w')" -eq 0 ]; then
             git checkout main
             git merge word-updates || echo "Merge failed, manual intervention needed"
             git push origin main || echo "Failed to push to main"
