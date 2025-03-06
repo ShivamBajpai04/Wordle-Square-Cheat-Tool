@@ -19299,6 +19299,7 @@ cuffed
 cufflink
 cuffo
 cuffs
+cuif
 cuifs
 cuing
 cuirass
@@ -19497,6 +19498,7 @@ curls
 curly
 curmudgeon
 curmudgeonly
+curn
 curns
 curny
 currajong
@@ -20830,6 +20832,7 @@ defervesce
 defervescence
 defervescent
 deffo
+defi
 defiance
 defiant
 defiantly
@@ -20899,7 +20902,6 @@ deft
 defter
 deftly
 deftness
-defun
 defunct
 defunctness
 defuse
@@ -24407,6 +24409,7 @@ dugong
 dugongidae
 dugout
 duing
+duit
 duits
 dukas
 duke
@@ -24555,6 +24558,7 @@ durio
 durion
 durkheim
 durmast
+durn
 durns
 duroc
 durometer
@@ -29277,7 +29281,6 @@ finitude
 fink
 finks
 finland
-finn
 finnan
 finnbogadottir
 finnic
@@ -29657,6 +29660,7 @@ fleck
 flecked
 flecks
 flection
+fled
 fledge
 fledged
 fledgeless
@@ -40504,7 +40508,6 @@ inwardly
 inwardness
 inwards
 inweave
-inwit
 inwrought
 ioctl
 iodic
@@ -52212,6 +52215,7 @@ negroid
 negus
 nehemiah
 nehru
+neif
 neifs
 neigh
 neighbor
@@ -52354,7 +52358,6 @@ nephrotoxin
 nephthys
 nephthytis
 nepidae
-nepit
 nepotism
 nepotist
 neptune
@@ -52720,7 +52723,6 @@ nifes
 niff
 niffs
 niffy
-nifle
 nifty
 nigella
 niger
@@ -52941,7 +52943,6 @@ nkosi
 nlrb
 nmoli
 nmols
-nnrti
 noachian
 noahs
 nobble
@@ -53695,7 +53696,6 @@ noyes
 nozzle
 nrem
 nrna
-nrti
 nrtta
 nrtya
 nsaid
@@ -57698,7 +57698,7 @@ pegmatite
 pegos
 pehlevi
 peignoir
-peine
+pein
 peins
 peiping
 peirce
@@ -57831,7 +57831,6 @@ penicillamine
 penicillin
 penicillinase
 penicillium
-penie
 penile
 peninsula
 peninsular
@@ -58554,6 +58553,7 @@ pffft
 pfftt
 pflops
 pflp
+pfui
 phacelia
 phacochoerus
 phaeophyceae
@@ -59503,6 +59503,7 @@ piratical
 piratically
 pirks
 pirls
+pirn
 pirns
 pirog
 pirogi
@@ -63205,9 +63206,11 @@ purge
 purged
 purger
 purging
+puri
 purification
 purificator
 purificatorium
+purified
 purifier
 purify
 purifying
@@ -67699,7 +67702,6 @@ runaway
 runce
 runch
 runcinate
-rundle
 rundown
 runds
 rundstedt
@@ -81015,6 +81017,7 @@ trifa
 triff
 trifid
 trifle
+trifled
 trifler
 trifling
 trifluoromethane
@@ -81182,7 +81185,6 @@ trivialize
 trivially
 trivium
 trna
-trnc
 troad
 troak
 troat
@@ -82615,6 +82617,7 @@ undamaged
 undatable
 undated
 undaunted
+unde
 undead
 undecagon
 undeceive
@@ -87439,8 +87442,6 @@ wifely
 wifes
 wifey
 wiffle
-wifi
-wifie
 wifts
 wifty
 wigan
