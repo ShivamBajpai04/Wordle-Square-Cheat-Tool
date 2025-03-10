@@ -142,7 +142,6 @@ abiding
 abidjan
 abience
 abient
-abies
 abila
 abilene
 ability
@@ -180,6 +179,7 @@ abler
 ables
 ablest
 ablet
+ablings
 ablism
 abloom
 ablow
@@ -2271,6 +2271,7 @@ alerting
 alertly
 alertness
 alerts
+ales
 aletris
 aleurites
 aleurone
@@ -6863,7 +6864,6 @@ baikal
 baiks
 bail
 bailable
-baile
 bailed
 bailee
 bailey
@@ -6964,9 +6964,10 @@ balenciaga
 baler
 bales
 balfour
-bali
 balibago
 balinese
+baling
+balings
 balistes
 balistidae
 balk
@@ -8763,14 +8764,15 @@ biner
 bines
 binet
 binful
+bing
 binge
 binger
+binges
 binghamton
-bingle
 bingo
-bings
 bingy
 binit
+binits
 binks
 binky
 binnacle
@@ -8778,6 +8780,7 @@ binocular
 binoculars
 binomial
 binominal
+bint
 bints
 binturong
 binuclear
@@ -8844,6 +8847,7 @@ bionomical
 bionomics
 bions
 biont
+bionts
 biophysicist
 biophysics
 biopiracy
@@ -8957,6 +8961,7 @@ biserrate
 bises
 bisexual
 bisexuality
+bish
 bishkek
 bishop
 bishopric
@@ -9002,6 +9007,7 @@ bitmap
 bitok
 bitos
 bitou
+bits
 bitstock
 bitsy
 bitt
@@ -9300,7 +9306,6 @@ bleu
 blewits
 bleys
 blida
-bligh
 blighia
 blight
 blighted
@@ -9309,6 +9314,7 @@ blighty
 blimp
 blimpish
 blimy
+blin
 blind
 blinded
 blinder
@@ -9321,6 +9327,7 @@ blinds
 blindside
 blindworm
 bling
+blings
 blini
 blink
 blinker
@@ -25441,7 +25448,6 @@ elfin
 elfish
 elflike
 elgar
-elia
 eliad
 elicit
 elicitation
@@ -32230,6 +32236,7 @@ gesneriaceae
 gesneriad
 gesse
 gesso
+gest
 gestalt
 gestapo
 gestate
@@ -32276,7 +32283,6 @@ ghees
 gheg
 ghent
 gherkin
-ghest
 ghetto
 ghettoise
 ghettoize
@@ -32341,6 +32347,7 @@ giddy
 gidgee
 gielgud
 gien
+gies
 gifset
 gift
 gifted
@@ -32364,7 +32371,6 @@ gigolo
 gigot
 gigue
 gikuyu
-gila
 gilas
 gilbert
 gilbertian
@@ -32423,6 +32429,7 @@ gingko
 ginglymostoma
 ginglymus
 gings
+gink
 ginkgo
 ginkgoaceae
 ginkgoales
@@ -32430,6 +32437,7 @@ ginkgophytina
 ginkgopsida
 ginks
 ginmill
+ginniest
 ginny
 ginsberg
 ginseng
@@ -32480,7 +32488,6 @@ girt
 girted
 girth
 girts
-gish
 gismo
 gisms
 gist
@@ -35514,6 +35521,7 @@ height
 heighten
 heightening
 heights
+heil
 heilong
 heils
 heimdal
@@ -35534,7 +35542,6 @@ hejab
 hejaz
 hejira
 hejra
-hela
 held
 heled
 helen
@@ -35963,6 +35970,7 @@ hess
 hesse
 hessian
 hessonite
+hest
 hestia
 hests
 heteranthera
@@ -38145,7 +38153,6 @@ iglus
 ignatius
 igneous
 ignescent
-ignis
 ignitable
 ignite
 ignited
@@ -39516,7 +39523,6 @@ infusorian
 inga
 ingan
 ingathering
-inge
 ingeminate
 ingenious
 ingeniously
@@ -39533,6 +39539,7 @@ ingesta
 ingestion
 ingle
 inglenook
+ingles
 inglorious
 ingloriously
 ingot
@@ -39605,6 +39612,7 @@ inhumanity
 inhumation
 inhume
 inhumed
+inia
 inimical
 inimitable
 inimitably
@@ -39677,9 +39685,9 @@ innersole
 innervate
 innervation
 innie
+innies
 inning
 innings
-innit
 innkeeper
 innocence
 innocency
@@ -40452,6 +40460,7 @@ investiture
 investment
 investor
 inveterate
+inviable
 invidia
 invidious
 invidiously
@@ -40524,7 +40533,6 @@ iodothyronine
 iodotyrosine
 ionate
 ionesco
-ionia
 ionian
 ionic
 ionisation
@@ -42764,6 +42772,7 @@ kohlrabi
 kohls
 koine
 koinonia
+kois
 koiwi
 kojis
 kokam
@@ -42793,7 +42802,6 @@ kondo
 kongfuze
 kongo
 konimeter
-konini
 konks
 konoe
 konoye
@@ -43252,8 +43260,10 @@ laid
 laide
 laids
 laigh
+laighs
 laika
 laiks
+lain
 lair
 laird
 lairs
@@ -44088,6 +44098,7 @@ legislatively
 legislator
 legislatorship
 legislature
+legist
 legit
 legitimacy
 legitimate
@@ -44097,9 +44108,9 @@ legitimatise
 legitimatize
 legitimise
 legitimize
+legits
 legless
 leglike
-legno
 lego
 legos
 legs
@@ -44116,7 +44127,6 @@ leibnizian
 leicester
 leicestershire
 leiden
-leigh
 leiomyoma
 leiomyosarcoma
 leiopelma
@@ -44343,6 +44353,7 @@ lesser
 lessing
 lesson
 lessor
+lest
 lests
 lesvos
 letch
@@ -44595,7 +44606,7 @@ lienal
 liens
 liepaja
 liers
-liest
+lies
 lieth
 lietuva
 lieu
@@ -44902,6 +44913,7 @@ linksman
 linkswoman
 linkup
 linky
+linn
 linnaea
 linnaean
 linnaeus
@@ -52785,7 +52797,6 @@ nikah
 nikau
 nike
 nilas
-nile
 nilgai
 nills
 nilotic
@@ -52824,7 +52835,6 @@ ningal
 ningirsu
 ningishzida
 ninhursag
-ninib
 ninigi
 ninja
 ninjitsu
@@ -52868,7 +52878,6 @@ nisi
 nisin
 nissan
 nisse
-nist
 nisus
 nital
 nite
@@ -53006,7 +53015,6 @@ nohow
 noias
 noils
 noily
-noint
 noire
 noirs
 noise
@@ -53203,7 +53211,6 @@ nonfunctional
 nonglutinous
 nongranular
 nongregarious
-nongs
 nonhairy
 nonharmonic
 nonhereditary
@@ -53211,6 +53218,7 @@ nonheritable
 nonhierarchic
 nonhierarchical
 nonhuman
+noni
 nonic
 nonidentity
 nonimitative
@@ -53654,8 +53662,6 @@ novelty
 november
 novena
 novgorod
-novia
-novial
 novice
 noviciate
 novillada
@@ -53697,7 +53703,6 @@ nrtya
 nsaid
 nsima
 nswc
-ntis
 nuance
 nubbin
 nubbiness
@@ -54473,7 +54478,6 @@ oink
 oinks
 oinky
 ointment
-oints
 oiran
 oireachtas
 ojibwa
@@ -70832,6 +70836,7 @@ sheikdom
 sheikh
 sheikha
 sheikhdom
+sheila
 shekel
 shekels
 sheldrake
@@ -71448,7 +71453,6 @@ sift
 sifter
 sifting
 sifts
-sigeh
 sigh
 sighed
 sighs
@@ -71775,7 +71779,6 @@ sinusitis
 sinusoid
 sinusoidal
 sinusoidally
-sion
 siouan
 sioux
 siped
@@ -75089,6 +75092,7 @@ stimulative
 stimulus
 stimy
 sting
+stinge
 stinger
 stingily
 stinginess
@@ -75103,6 +75107,7 @@ stinker
 stinkhorn
 stinkiness
 stinking
+stinko
 stinkpot
 stinks
 stinkweed
@@ -79484,7 +79489,6 @@ tifts
 tiger
 tigerish
 tigers
-tiges
 tight
 tighten
 tightening
@@ -79499,6 +79503,7 @@ tights
 tightwad
 tighty
 tiglon
+tignon
 tigon
 tigress
 tigris
@@ -79618,13 +79623,14 @@ tines
 tinfoil
 ting
 tinge
+tinges
 tingidae
 tingle
+tingles
 tingling
 tingly
 tings
 tininess
-tink
 tinker
 tinkerer
 tinkle
@@ -85700,6 +85706,7 @@ viennese
 vientiane
 vieques
 viers
+vies
 vietnam
 vietnamese
 vieux
@@ -85733,14 +85740,15 @@ vigorish
 vigorous
 vigorously
 vigour
+vigs
 viii
 viking
-vila
 vilde
 vile
 vilely
 vileness
 viler
+vilest
 vilification
 vilifier
 vilify
