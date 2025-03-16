@@ -1079,7 +1079,6 @@ adelges
 adelgid
 adelgidae
 adelie
-aden
 adenanthera
 adenauer
 adenine
@@ -1097,7 +1096,6 @@ adenomyosis
 adenopathy
 adenosine
 adenosis
-adenota
 adenovirus
 adept
 adeptness
@@ -1905,7 +1903,6 @@ aguish
 aguna
 agush
 aguti
-ahab
 ahead
 aheap
 ahem
@@ -1919,7 +1916,6 @@ ahing
 ahint
 ahistorical
 ahold
-ahole
 ahorseback
 ahoys
 ahpcrc
@@ -3833,6 +3829,7 @@ answerable
 answerableness
 answerer
 answering
+anta
 antabuse
 antacid
 antae
@@ -5878,7 +5875,6 @@ atmospherics
 atocs
 atoke
 atoks
-atole
 atoll
 atom
 atomic
@@ -5893,13 +5889,13 @@ atomize
 atomizer
 atoms
 atomy
-aton
 atonal
 atonalism
 atonalistic
 atonality
 atonally
 atone
+atoned
 atonement
 atonia
 atonic
@@ -7586,7 +7582,6 @@ batik
 batis
 batiste
 batman
-batna
 batoidei
 baton
 batos
@@ -7598,6 +7593,7 @@ bats
 batsman
 batswana
 batswoman
+batt
 batta
 battalion
 batted
@@ -10129,6 +10125,7 @@ botryoid
 botryoidal
 botswana
 botswanan
+bott
 botte
 botticelli
 bottle
@@ -11580,6 +11577,7 @@ buteo
 buteonine
 butes
 butle
+butled
 butler
 butoh
 butsu
@@ -11607,11 +11605,13 @@ butterweed
 butterwort
 buttery
 buttinsky
+buttled
 buttock
 buttocks
 button
 buttoned
 buttonhole
+buttonholed
 buttonhook
 buttonlike
 buttonwood
@@ -20120,7 +20120,6 @@ dandruff
 dandy
 dandyish
 dandyism
-dane
 danewort
 dangaleat
 danger
@@ -21071,6 +21070,7 @@ delphinapterus
 delphinidae
 delphinium
 delphinus
+delt
 delta
 deltas
 deltasone
@@ -23382,6 +23382,7 @@ dniprodzerzhynsk
 dnipropetrovsk
 doable
 doabs
+doat
 doats
 dobbin
 dobby
@@ -23499,7 +23500,6 @@ dogtrot
 dogwatch
 dogwood
 dogy
-doha
 dohyo
 doilt
 doily
@@ -34365,6 +34365,7 @@ habitue
 habitus
 hable
 habsburg
+habu
 habus
 hacek
 hachiman
@@ -34391,6 +34392,7 @@ hacky
 hadal
 hadda
 haddock
+hade
 hadean
 haded
 hades
@@ -34764,7 +34766,6 @@ handcraft
 handcuff
 handed
 handedness
-handel
 handelian
 handful
 handgrip
@@ -34859,6 +34860,8 @@ hansa
 hansard
 hanse
 hansom
+hant
+hantle
 hants
 hanukah
 hanukkah
@@ -35617,6 +35620,7 @@ helminthostachys
 helms
 helmsman
 helmswoman
+helo
 heloderma
 helodermatidae
 heloise
@@ -35788,6 +35792,7 @@ henpecked
 henroost
 henry
 henson
+hent
 hents
 hepadnavirus
 hepar
@@ -36515,6 +36520,7 @@ holiness
 holing
 holism
 holistic
+holk
 holks
 holla
 holland
@@ -36539,6 +36545,7 @@ holme
 holmes
 holmium
 holms
+holo
 holocaust
 holocene
 holocentridae
@@ -36557,7 +36564,6 @@ holometabolic
 holometabolism
 holometabolous
 holometaboly
-holon
 holonym
 holonymy
 holophyte
@@ -36572,6 +36578,7 @@ holozoic
 hols
 holstein
 holster
+holt
 holts
 holy
 holystone
@@ -42279,6 +42286,7 @@ khats
 khaya
 khazi
 kheda
+khedah
 khedive
 kheer
 khepera
@@ -42757,7 +42765,6 @@ kofta
 kogal
 kogia
 kohas
-kohen
 kohl
 kohleria
 kohlrabi
@@ -42780,7 +42787,7 @@ kolkata
 kolkhoz
 kolkhoznik
 kolkwitzia
-koln
+kolo
 kolonia
 kolos
 kombi
@@ -44001,7 +44008,6 @@ lecturer
 lectureship
 lecturing
 lecythidaceae
-leda
 ledbetter
 lede
 lederhosen
@@ -44168,7 +44174,6 @@ lempira
 lemur
 lemuridae
 lemuroidea
-lena
 lenape
 lenard
 lend
@@ -44201,6 +44206,7 @@ lenitive
 lenity
 lennoaceae
 lennon
+leno
 lenos
 lens
 lense
@@ -45775,7 +45781,6 @@ luach
 luanda
 luau
 luaus
-luba
 lubavitch
 lubavitcher
 lubber
@@ -46016,7 +46021,6 @@ lustrum
 lusts
 lusty
 lusus
-luta
 lutanist
 lute
 lutea
@@ -53025,6 +53029,7 @@ noles
 nolina
 nolle
 nolls
+nolo
 nolos
 noma
 nomad
@@ -53559,6 +53564,7 @@ nostradamus
 nostril
 nostrum
 nosy
+nota
 notability
 notable
 notably
@@ -54265,6 +54271,7 @@ oculist
 oculomotor
 oculus
 ocyurus
+odah
 odahs
 odalisque
 odals
@@ -54439,7 +54446,7 @@ ogmic
 ogre
 ogres
 ogress
-ohelo
+ohed
 ohhhh
 ohias
 ohing
@@ -54529,13 +54536,11 @@ oleandraceae
 olearia
 oleaster
 olecranon
-oled
 olefin
 olefine
 olehs
 oleic
 olein
-olent
 oleo
 oleography
 oleomargarine
@@ -54592,7 +54597,6 @@ ollie
 olmec
 olmsted
 ology
-olona
 olpae
 olpes
 olympia
@@ -77345,7 +77349,6 @@ tabour
 tabouret
 tabriz
 tabu
-tabuk
 tabular
 tabularise
 tabularize
@@ -79804,7 +79807,6 @@ tocopherol
 tocos
 tocqueville
 tocsin
-toda
 today
 todd
 todde
@@ -81492,6 +81494,7 @@ tuition
 tuktu
 tularaemia
 tularemia
+tule
 tules
 tulestoma
 tulip
@@ -84752,8 +84755,6 @@ usurp
 usurpation
 usurper
 usury
-utah
-utahan
 utahraptor
 utensil
 uteri
