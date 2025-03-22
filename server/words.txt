@@ -21162,7 +21162,6 @@ democratism
 democratization
 democratize
 democritus
-demode
 demodulate
 demodulation
 demodulator
@@ -21213,10 +21212,12 @@ demoralizing
 demos
 demosthenes
 demosthenic
-demot
 demote
+demoted
 demotic
 demotion
+demotivate
+demotivated
 dempsey
 dempt
 demulcent
@@ -21828,6 +21829,7 @@ deuteronomy
 deutschland
 deutschmark
 deutzia
+deva
 devaluate
 devaluation
 devalue
@@ -23840,6 +23842,7 @@ douroucouli
 douse
 doused
 dousing
+dout
 douts
 dove
 dovecote
@@ -25067,7 +25070,6 @@ edmonton
 edmontonia
 edmontosaurus
 edronax
-edta
 educate
 educated
 educatee
@@ -25700,6 +25702,7 @@ emollient
 emolument
 emong
 emote
+emoted
 emoticon
 emotion
 emotional
@@ -32485,7 +32488,6 @@ gismo
 gisms
 gist
 gists
-gita
 gitana
 gitano
 gitch
@@ -42850,7 +42852,6 @@ kosher
 kosherness
 kosovo
 kosteletzya
-kota
 kotar
 kotch
 kotex
@@ -42928,6 +42929,7 @@ kudu
 kudus
 kudzu
 kuenlun
+kufi
 kufis
 kugel
 kuhn
@@ -47986,7 +47988,6 @@ meddler
 meddlesome
 meddlesomeness
 meddling
-medea
 medellin
 medevac
 medfly
@@ -50613,7 +50614,6 @@ mortmain
 morton
 morts
 mortuary
-moruk
 morula
 morus
 mosaic
@@ -50650,7 +50650,6 @@ mosul
 motacilla
 motacillidae
 mote
-moted
 motel
 motels
 moten
@@ -50691,6 +50690,7 @@ motivational
 motivative
 motivator
 motive
+motived
 motiveless
 motivity
 motley
@@ -54285,6 +54285,7 @@ oddment
 oddments
 oddness
 odds
+odea
 odeon
 oder
 odesa
@@ -55567,6 +55568,7 @@ outflow
 outflowing
 outfox
 outgeneral
+outgive
 outgo
 outgoer
 outgoing
@@ -67069,7 +67071,7 @@ rockwell
 rocky
 rococo
 rocroi
-roded
+rode
 rodent
 rodentia
 rodeo
@@ -67184,7 +67186,6 @@ romanticize
 romany
 romas
 romberg
-rome
 romeo
 romer
 romish
@@ -67360,12 +67361,12 @@ rotavirus
 rotc
 rotch
 rote
-roted
 rotenone
 rotes
 rotgut
 rothko
 rothschild
+roti
 rotifer
 rotifera
 rotis
@@ -67721,7 +67722,6 @@ runup
 runway
 runyon
 runza
-ruote
 rupee
 rupert
 rupestral
@@ -79742,7 +79742,6 @@ title
 titled
 titles
 titmouse
-tito
 titrate
 titration
 titrator
@@ -79808,12 +79807,9 @@ tocos
 tocqueville
 tocsin
 today
-todd
-todde
 toddle
 toddler
 toddy
-todea
 todidae
 todos
 todus
@@ -79832,6 +79828,7 @@ toffs
 toffy
 tofieldia
 tofranil
+toft
 tofts
 tofu
 tofus
@@ -85980,6 +85977,7 @@ visualize
 visualized
 visualizer
 visually
+vita
 vitaceae
 vitae
 vital
