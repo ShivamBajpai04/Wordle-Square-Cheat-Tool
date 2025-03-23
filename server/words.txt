@@ -2597,7 +2597,6 @@ almsgiving
 almud
 almug
 alnico
-alnus
 alocasia
 alods
 aloe
@@ -2711,6 +2710,7 @@ altruism
 altruist
 altruistic
 altruistically
+alts
 alula
 alular
 alum
@@ -6343,6 +6343,7 @@ avaritia
 avascular
 avast
 avatar
+avaunt
 avellan
 avellane
 avels
@@ -13389,7 +13390,6 @@ cavitied
 cavity
 cavort
 cavum
-cavus
 cavy
 cawed
 cawks
@@ -15271,6 +15271,7 @@ cladrastis
 clads
 claes
 claforan
+clag
 clags
 claim
 claimant
@@ -15387,7 +15388,6 @@ claustrophobe
 claustrophobia
 claustrophobic
 claustrum
-claut
 clavariaceae
 clave
 claver
@@ -28542,16 +28542,15 @@ fauns
 fauntleroy
 faunus
 faurd
-faust
 faustian
 faustus
 faute
 fauteuil
-fauts
 fauve
 fauvism
 fauvist
 faux
+fava
 favas
 favel
 faveolate
@@ -31058,7 +31057,6 @@ fujiyama
 fukien
 fukkianese
 fukuoka
-fula
 fulah
 fulani
 fulbe
@@ -31095,7 +31093,6 @@ fulsomeness
 fulth
 fulton
 fulvicin
-fulwa
 fumaria
 fumariaceae
 fumble
@@ -31182,7 +31179,6 @@ funniness
 funny
 funrun
 funsy
-funts
 fuqra
 fural
 furan
@@ -31463,6 +31459,8 @@ gallinule
 gallirallus
 gallium
 gallivant
+gallnut
+gallnuts
 gallon
 gallop
 gallous
@@ -31481,7 +31479,6 @@ galosh
 galsworthy
 galton
 galumph
-galut
 galvani
 galvanic
 galvanisation
@@ -31495,7 +31492,6 @@ galvanizer
 galvanizing
 galvanometer
 galveston
-galvo
 galway
 galwegian
 gamas
@@ -31811,12 +31807,12 @@ gauge
 gauguin
 gauguinesque
 gauje
-gaul
 gault
 gaultheria
 gaumless
 gaums
 gaumy
+gaun
 gaunt
 gauntlet
 gauntleted
@@ -31843,7 +31839,6 @@ gaviiformes
 gavot
 gavotte
 gawain
-gawcy
 gawds
 gawk
 gawker
@@ -43740,7 +43735,6 @@ laude
 lauder
 laudo
 lauds
-laufs
 laugh
 laughable
 laughably
@@ -46051,7 +46045,6 @@ luvaridae
 luvarus
 luvian
 luvvy
-luvya
 luwian
 luxate
 luxation
@@ -53953,6 +53946,7 @@ nyuse
 nyuze
 oafish
 oafos
+oafs
 oahu
 oaked
 oaken
@@ -76200,7 +76194,6 @@ sukkoth
 suksdorfia
 sukuk
 sukur
-sula
 sulamyd
 sulawesi
 sulcate
@@ -76750,7 +76743,6 @@ suttee
 sutura
 suture
 suturing
-suva
 suzerain
 suzerainty
 svalbard
@@ -83424,7 +83416,6 @@ unlash
 unlatched
 unlaureled
 unlaurelled
-unlaw
 unlawful
 unlawfully
 unlawfulness
@@ -85188,8 +85179,9 @@ vaults
 vaunt
 vaunter
 vauntingly
+vaunts
+vaus
 vaute
-vauts
 vaux
 vawte
 vaxes
@@ -86309,6 +86301,7 @@ vulgarizer
 vulgarly
 vulgate
 vulgo
+vuln
 vulnerability
 vulnerable
 vulnerably
@@ -86501,6 +86494,7 @@ wallpaperer
 walls
 wally
 walnut
+walnuts
 walpole
 walrus
 walter
@@ -88363,7 +88357,6 @@ yale
 yales
 yalta
 yaltopya
-yalu
 yama
 yamaltu
 yamamoto
