@@ -1772,6 +1772,7 @@ agila
 agile
 agilely
 agility
+agin
 agincourt
 aging
 agio
@@ -8657,7 +8658,6 @@ bikky
 bilabial
 bilabiate
 bilal
-bilat
 bilateral
 bilateralism
 bilaterality
@@ -8760,6 +8760,7 @@ biner
 bines
 binet
 binful
+bing
 binge
 binger
 binghamton
@@ -8775,6 +8776,7 @@ binocular
 binoculars
 binomial
 binominal
+bint
 bints
 binturong
 binuclear
@@ -9122,6 +9124,7 @@ blae
 blaeberry
 blaes
 blaff
+blag
 blags
 blah
 blahs
@@ -9306,6 +9309,7 @@ blighty
 blimp
 blimpish
 blimy
+blin
 blind
 blinded
 blinder
@@ -9861,6 +9865,7 @@ bonie
 boniface
 boniness
 boning
+bonita
 bonito
 bonk
 bonkers
@@ -15198,7 +15203,6 @@ cistron
 cists
 cistus
 citadel
-cital
 citation
 cite
 cited
@@ -17115,7 +17119,7 @@ congruent
 congruity
 congruous
 congruousness
-conia
+coni
 conic
 conical
 conically
@@ -31376,6 +31380,7 @@ gaiseric
 gait
 gaita
 gaiter
+gaiting
 gaits
 gaitt
 gaius
@@ -31424,6 +31429,7 @@ galilaean
 galilean
 galilee
 galileo
+galing
 galingale
 galis
 galium
@@ -31786,7 +31792,7 @@ gatherer
 gathering
 gathic
 gaths
-gatling
+gating
 gator
 gatt
 gauch
@@ -32359,7 +32365,6 @@ gigolo
 gigot
 gigue
 gikuyu
-gila
 gilas
 gilbert
 gilbertian
@@ -32480,7 +32485,6 @@ gismo
 gisms
 gist
 gists
-gita
 gitana
 gitano
 gitch
@@ -32920,7 +32924,6 @@ gobbledygook
 gobbler
 gobbo
 gobby
-gobi
 gobiesocidae
 gobiesox
 gobiidae
@@ -38016,7 +38019,6 @@ icons
 icosahedral
 icosahedron
 icsh
-ictal
 ictalurus
 icteria
 icteric
@@ -39607,6 +39609,7 @@ inhumanity
 inhumation
 inhume
 inhumed
+inia
 inimical
 inimitable
 inimitably
@@ -39657,7 +39660,6 @@ inkpot
 inkstand
 inkwell
 inky
-inla
 inlaid
 inland
 inlaw
@@ -39978,6 +39980,7 @@ insurrectionist
 insusceptible
 intact
 intactness
+intagli
 intaglio
 intake
 intangibility
@@ -43256,6 +43259,7 @@ laids
 laigh
 laika
 laiks
+lain
 lair
 laird
 lairs
@@ -43683,10 +43687,10 @@ lathi
 laths
 lathy
 lathyrus
+lati
 laticifer
 latimeria
 latimeridae
-latin
 latina
 latinae
 latinate
@@ -44637,6 +44641,7 @@ ligament
 ligan
 ligand
 ligate
+ligating
 ligation
 ligature
 liger
@@ -47833,9 +47838,7 @@ mbabane
 mbari
 mbars
 mbeya
-mbila
 mbira
-mbit
 mbret
 mbube
 mbuga
@@ -49125,7 +49128,6 @@ mikvah
 mikve
 milady
 milage
-milan
 milanese
 milano
 milch
@@ -49339,7 +49341,6 @@ minestrone
 minesweeper
 minesweeping
 mineworker
-ming
 minge
 mingi
 minginess
@@ -51636,7 +51637,6 @@ nagged
 nagger
 nagging
 naggy
-nagi
 nagor
 nagoya
 nahal
@@ -52801,7 +52801,6 @@ nimitz
 nimps
 nimravus
 nimrod
-nina
 nincompoop
 nine
 ninefold
@@ -52830,7 +52829,6 @@ ninkharsag
 ninkhursag
 ninny
 ninon
-ninta
 ninth
 nintinugga
 nintoo
@@ -52867,7 +52865,6 @@ nissan
 nisse
 nist
 nisus
-nital
 nite
 nitella
 niter
@@ -54001,6 +53998,7 @@ obeyed
 obeys
 obfuscate
 obfuscation
+obia
 obias
 obied
 obiism
@@ -54030,6 +54028,8 @@ oblateness
 oblation
 obligate
 obligated
+obligati
+obligating
 obligation
 obligational
 obligato
@@ -54243,7 +54243,6 @@ octet
 octette
 octic
 octillion
-octli
 october
 octoberfest
 octogenarian
@@ -54752,7 +54751,6 @@ onshore
 onside
 onslaught
 onstage
-ontal
 ontario
 ontic
 ontogenesis
@@ -57469,7 +57467,6 @@ paysd
 paysheet
 payslip
 paywall
-pbit
 pdflp
 peabody
 peace
@@ -77482,6 +77479,7 @@ tailspin
 tailstock
 tailwind
 tailwort
+tain
 tains
 taint
 tainted
@@ -77548,6 +77546,7 @@ talentlessness
 taler
 tales
 taleteller
+tali
 taliban
 talien
 talik
@@ -79396,6 +79395,7 @@ thysanopteron
 thysanura
 thysanuron
 tiamat
+tian
 tianjin
 tians
 tiara
@@ -79544,7 +79544,6 @@ timbered
 timberland
 timberline
 timberman
-timbo
 timbre
 timbrel
 timbuktu
@@ -82074,6 +82073,7 @@ umbilicate
 umbilicus
 umble
 umbo
+umbonic
 umbos
 umbra
 umbrage
@@ -84472,6 +84472,7 @@ uplit
 upload
 upmarket
 upmost
+upon
 upped
 upper
 uppercase
