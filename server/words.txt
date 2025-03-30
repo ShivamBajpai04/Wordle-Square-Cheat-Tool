@@ -8,7 +8,6 @@ aalto
 aapas
 aardvark
 aardwolf
-aare
 aargh
 aarhus
 aaron
@@ -1513,7 +1512,6 @@ afanc
 afar
 afara
 afars
-afear
 afeard
 afeared
 afebrile
@@ -1659,7 +1657,6 @@ afterwards
 afterworld
 aftos
 again
-agal
 agalactia
 agalactosis
 agalinis
@@ -1788,9 +1785,9 @@ agitative
 agitator
 agitprop
 agkistrodon
-aglaia
 aglaomorpha
 aglaonema
+aglare
 agleam
 aglee
 aglet
@@ -1925,7 +1922,6 @@ ahull
 ahura
 ahuru
 ahvenanmaa
-aiai
 aidas
 aide
 aided
@@ -1986,7 +1982,6 @@ aircrewwoman
 airdock
 airdrome
 airdrop
-aire
 aired
 airedale
 airer
@@ -2078,7 +2073,6 @@ akin
 akinesia
 akinesis
 aking
-akita
 akka
 akkadian
 akkas
@@ -2252,6 +2246,7 @@ alectoris
 alectura
 alee
 aleem
+alef
 alefs
 aleft
 alehoof
@@ -2472,7 +2467,6 @@ allelomorphic
 allemande
 allen
 allentown
-aller
 allergen
 allergenic
 allergic
@@ -2731,8 +2725,6 @@ alums
 alumy
 alundum
 alupent
-alure
-alurk
 alvar
 alveolar
 alveolate
@@ -5003,6 +4995,7 @@ aricara
 arid
 aridity
 aridness
+arie
 ariel
 aries
 arietta
@@ -5787,7 +5780,6 @@ atactic
 atakapa
 atakapan
 ataps
-atar
 ataractic
 atarax
 ataraxia
@@ -25256,7 +25248,6 @@ einstein
 einsteinian
 einsteinium
 einthoven
-eira
 eire
 eiron
 eisegesis
@@ -25440,7 +25431,6 @@ elfed
 elfin
 elfish
 elflike
-elgar
 elia
 eliad
 elicit
@@ -28176,7 +28166,6 @@ faintly
 faintness
 fair
 fairbanks
-faire
 fairer
 fairground
 fairish
@@ -28592,6 +28581,7 @@ faze
 fazed
 fazes
 fdic
+feal
 feals
 fealty
 fear
@@ -28732,7 +28722,6 @@ fell
 fella
 fellah
 fellas
-fellata
 fellate
 fellatio
 fellation
@@ -28873,6 +28862,7 @@ fertilizable
 fertilization
 fertilize
 fertilizer
+ferula
 ferule
 fervency
 fervent
@@ -28966,6 +28956,7 @@ fezzy
 fhlmc
 fiance
 fiancee
+fiar
 fiars
 fiasco
 fiat
@@ -29329,7 +29320,6 @@ fireweed
 firewoman
 firewood
 firework
-firie
 firing
 firkin
 firks
@@ -30559,6 +30549,8 @@ fractiously
 fractiousness
 fracture
 fradicin
+frae
+frag
 fragaria
 fragile
 fragility
@@ -30639,7 +30631,6 @@ fraternise
 fraternity
 fraternization
 fraternize
-frati
 fratricide
 frats
 frau
@@ -30722,7 +30713,6 @@ fregatidae
 freight
 freightage
 freighter
-freit
 fremd
 fremont
 fremontia
@@ -30850,7 +30840,7 @@ frisking
 frisky
 frisson
 frist
-frita
+frit
 frite
 frith
 fritillaria
@@ -31075,7 +31065,6 @@ fulgurating
 fulgurous
 fulica
 full
-fulla
 fullback
 fuller
 fullerene
@@ -31180,7 +31169,6 @@ funny
 funrun
 funsy
 fuqra
-fural
 furan
 furane
 furbelow
@@ -31334,7 +31322,6 @@ gadsden
 gadso
 gadus
 gaea
-gael
 gaelic
 gaff
 gaffe
@@ -31354,7 +31341,6 @@ gagman
 gagster
 gagwoman
 gagwriter
-gaia
 gaids
 gaiety
 gaillardia
@@ -31374,7 +31360,6 @@ gainsborough
 gairs
 gaiseric
 gait
-gaita
 gaiter
 gaits
 gaitt
@@ -31396,7 +31381,6 @@ galantine
 galapagos
 galas
 galatea
-galatia
 galatian
 galatians
 galax
@@ -31649,7 +31633,6 @@ garget
 gargle
 gargoyle
 gargoylism
-gari
 garibaldi
 garis
 garish
@@ -32534,7 +32517,6 @@ gladsome
 gladsomeness
 gladstone
 glady
-glaik
 glair
 glam
 glamor
@@ -40558,8 +40540,6 @@ ipsedixitism
 ipsilateral
 ipsus
 irade
-irak
-iraki
 iran
 irani
 iranian
@@ -40712,7 +40692,6 @@ irruption
 irruptive
 irtish
 irtysh
-irula
 irving
 irvingia
 isaac
@@ -41693,6 +41672,7 @@ jupaty
 jupes
 jupiter
 jupon
+jura
 jural
 jurassic
 jurat
@@ -41777,7 +41757,6 @@ kadis
 kaffir
 kaffiyeh
 kafir
-kafiri
 kafka
 kafkaesque
 kafocin
@@ -41793,6 +41772,7 @@ kahoolawe
 kaiak
 kaids
 kaies
+kaif
 kaifs
 kaika
 kaiks
@@ -41923,7 +41903,6 @@ kapus
 kaput
 karabiner
 karachi
-karai
 karaism
 karaites
 karakalpak
@@ -42309,7 +42288,6 @@ khufu
 khukuri
 khula
 khyal
-kiaat
 kiack
 kiaki
 kiang
@@ -42360,6 +42338,7 @@ kidney
 kidskin
 kief
 kiefs
+kier
 kierkegaard
 kiers
 kieselguhr
@@ -42865,6 +42844,7 @@ kowtow
 kraal
 krabs
 kraft
+krai
 krais
 krait
 krakatao
@@ -43035,7 +43015,6 @@ kyudo
 kyushu
 kyyiv
 laager
-laarf
 laari
 laayoune
 laban
@@ -43213,7 +43192,6 @@ laffite
 laffs
 lafitte
 lagan
-lagar
 lagarostrobus
 lagenaria
 lagend
@@ -43254,7 +43232,6 @@ laid
 laide
 laids
 laigh
-laika
 laiks
 lair
 laird
@@ -43683,6 +43660,7 @@ lathi
 laths
 lathy
 lathyrus
+lati
 laticifer
 latimeria
 latimeridae
@@ -64100,6 +64078,7 @@ rafts
 raftsman
 raftswoman
 rafty
+raga
 ragamuffin
 ragas
 ragbag
@@ -64132,6 +64111,7 @@ ragwort
 rahed
 rahu
 rahui
+raia
 raiah
 raias
 raid
@@ -64211,7 +64191,7 @@ rakehell
 raker
 rakes
 rakhi
-rakia
+raki
 raking
 rakis
 rakish
@@ -65485,7 +65465,6 @@ reinvigorated
 reird
 reissue
 reist
-reit
 reiter
 reiterate
 reiteration
@@ -77297,7 +77276,6 @@ szechuan
 szechwan
 szell
 szilard
-taal
 taals
 taata
 tabac
@@ -77488,7 +77466,6 @@ tainted
 taipan
 taipeh
 taipei
-taira
 taish
 taits
 taiwan
@@ -77537,7 +77514,6 @@ talcs
 talcum
 talcy
 tale
-talea
 taleban
 talebearer
 talebearing
@@ -77789,7 +77765,6 @@ taproot
 taps
 tapster
 tapus
-tara
 tarabulus
 taracahitian
 taradiddle
@@ -77823,7 +77798,6 @@ target
 tarheel
 taricha
 tariff
-tarka
 tarkovsky
 tarmac
 tarmacadam
@@ -79399,8 +79373,6 @@ tiamat
 tianjin
 tians
 tiara
-tiare
-tiarella
 tiars
 tiber
 tiberius
@@ -81802,8 +81774,6 @@ twinned
 twinning
 twins
 twiny
-twire
-twirk
 twirl
 twirler
 twirlingly
@@ -84618,7 +84588,6 @@ urger
 urges
 urginea
 urging
-uria
 uriah
 urial
 uric
