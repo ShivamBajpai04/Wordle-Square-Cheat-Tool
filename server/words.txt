@@ -8824,6 +8824,7 @@ biomass
 biome
 biomedical
 biomedicine
+biomes
 biometrics
 biometry
 bionic
@@ -9543,7 +9544,6 @@ blusterous
 blustery
 blype
 bmdo
-bmus
 boabs
 boaks
 boann
@@ -10024,7 +10024,6 @@ boring
 boringly
 boringness
 borks
-borms
 born
 borna
 borne
@@ -10047,6 +10046,7 @@ borsh
 borshch
 borsht
 borstal
+bort
 borts
 bortsch
 borty
@@ -10882,7 +10882,6 @@ bromine
 bromo
 bromoform
 bromoil
-bromus
 bronc
 bronchial
 bronchiolar
@@ -10930,6 +10929,7 @@ brooms
 broomstick
 broomweed
 broos
+bros
 brose
 brosmius
 brosy
@@ -11299,6 +11299,7 @@ bumptious
 bumptiously
 bumptiousness
 bumpy
+bums
 buna
 bunas
 bunce
@@ -23497,6 +23498,7 @@ doilt
 doily
 doing
 doings
+doit
 doits
 dojc
 dojigger
@@ -23603,6 +23605,7 @@ dominoes
 dominos
 dominus
 domitian
+doms
 dona
 donar
 donas
@@ -23708,7 +23711,6 @@ dorad
 dorado
 dorba
 dorbeetle
-dorbs
 doree
 dores
 dorian
@@ -25628,7 +25630,6 @@ embryology
 embryonal
 embryonic
 embryotic
-embus
 emcee
 emda
 emdash
@@ -25689,6 +25690,7 @@ emoji
 emollient
 emolument
 emong
+emos
 emote
 emoticon
 emotion
@@ -25767,6 +25769,7 @@ emulsify
 emulsion
 emunctorium
 emure
+emus
 emyde
 emydidae
 emyds
@@ -49450,8 +49453,6 @@ mirks
 mirky
 mirls
 mirly
-miro
-miros
 mirounga
 mirrl
 mirror
@@ -49809,6 +49810,7 @@ moble
 moblike
 mobocracy
 mobos
+mobs
 mobster
 mobula
 mobulidae
@@ -50051,6 +50053,7 @@ molybdenum
 molys
 mombasa
 mombin
+mome
 moment
 momentaneous
 momentarily
@@ -50061,6 +50064,7 @@ momentously
 momentousness
 momentum
 momes
+momi
 momie
 momism
 momma
@@ -50076,6 +50080,7 @@ momotidae
 momotus
 mompe
 mompreneur
+moms
 momus
 mona
 monacan
@@ -50561,6 +50566,7 @@ morrow
 mors
 morse
 morsel
+mort
 mortal
 mortality
 mortally
@@ -51239,6 +51245,7 @@ muslimah
 muslimism
 muslin
 musnud
+muso
 musophaga
 musophagidae
 musophobia
@@ -54586,11 +54593,9 @@ omasum
 omayyad
 omber
 ombre
-ombu
 ombudsman
 ombudsperson
 ombudswoman
-ombus
 omdah
 omdas
 omdda
@@ -55008,6 +55013,7 @@ orbitale
 orbiter
 orbits
 orbitual
+orbs
 orca
 orcas
 orchard
@@ -67001,6 +67007,7 @@ robotic
 robotics
 robotlike
 robots
+robs
 robug
 robur
 robust
@@ -67157,7 +67164,6 @@ romanticize
 romany
 romas
 romberg
-rome
 romeo
 romer
 romish
@@ -67169,6 +67175,7 @@ romper
 romps
 rompu
 rompy
+roms
 romulus
 ronde
 rondeau
@@ -72851,6 +72858,7 @@ sobersides
 sobralia
 sobriety
 sobriquet
+sobs
 socage
 socas
 soccer
@@ -73165,6 +73173,7 @@ somnolence
 somnolent
 somnolently
 somrai
+soms
 sonant
 sonar
 sonata
@@ -73262,12 +73271,10 @@ sorbed
 sorbefacient
 sorbent
 sorbet
-sorbi
 sorbian
 sorbo
 sorbonne
 sorbs
-sorbus
 sorcerer
 sorceress
 sorcerise
@@ -73295,6 +73302,7 @@ sorex
 sorgho
 sorghum
 sorgo
+sori
 soricidae
 sorns
 sororal
@@ -75897,6 +75905,7 @@ subprogram
 subrogate
 subrogation
 subroutine
+subs
 subscribe
 subscribed
 subscriber
@@ -76276,6 +76285,7 @@ sumptuosity
 sumptuous
 sumptuously
 sumptuousness
+sums
 sunbae
 sunbaked
 sunbathe
@@ -76804,7 +76814,6 @@ swayl
 sways
 swazi
 swaziland
-swbs
 swbw
 sweal
 swear
@@ -76969,6 +76978,7 @@ swosh
 swot
 swots
 swoun
+swum
 swung
 sybarite
 sybaritic
@@ -79548,7 +79558,6 @@ timimoun
 timing
 timolol
 timon
-timor
 timorese
 timorous
 timorously
@@ -81151,6 +81160,7 @@ trochilidae
 trochlear
 trochlearis
 trock
+trod
 trode
 trods
 trogium
@@ -87016,7 +87026,6 @@ welty
 welwitschia
 welwitschiaceae
 wembley
-wembs
 wench
 wencher
 wend
