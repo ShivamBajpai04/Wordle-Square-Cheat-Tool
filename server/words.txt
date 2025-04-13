@@ -1812,7 +1812,6 @@ agnostic
 agnostical
 agnosticism
 agog
-agoge
 agogo
 agon
 agonadal
@@ -4896,6 +4895,7 @@ aredd
 arede
 areflexia
 arefy
+areg
 areic
 arena
 arenaceous
@@ -7994,7 +7994,6 @@ being
 beingness
 beings
 beins
-beira
 beirut
 beisa
 bejel
@@ -8194,7 +8193,6 @@ beninese
 benis
 benison
 benjamin
-benji
 benne
 bennet
 bennett
@@ -8246,7 +8244,6 @@ bequeath
 bequest
 berate
 berating
-beray
 berber
 berberidaceae
 berberis
@@ -9985,6 +9982,7 @@ boozing
 boozy
 bopeep
 boppy
+bora
 boracic
 borage
 boraginaceae
@@ -10013,7 +10011,6 @@ borecole
 bored
 boredom
 borek
-borel
 borer
 bores
 borges
@@ -31326,6 +31323,7 @@ gadso
 gadus
 gaea
 gaelic
+gaen
 gaff
 gaffe
 gaffer
@@ -32298,7 +32296,6 @@ gibbs
 gibbsite
 gibe
 gibed
-gibel
 gibelike
 giber
 gibes
@@ -32905,7 +32902,6 @@ gobbledygook
 gobbler
 gobbo
 gobby
-gobi
 gobiesocidae
 gobiesox
 gobiidae
@@ -33153,7 +33149,6 @@ gopherwood
 gopik
 goral
 goras
-goray
 gorbachev
 gorbs
 gordian
@@ -33267,7 +33262,6 @@ gown
 gowned
 gowns
 goxes
-goya
 goyim
 goyle
 graal
@@ -34016,7 +34010,6 @@ guggenheim
 guggl
 guggle
 guiana
-guib
 guid
 guidance
 guide
@@ -38121,7 +38114,6 @@ idyls
 iffy
 iftar
 igapo
-igbo
 igged
 igigi
 iglesias
@@ -38174,6 +38166,7 @@ ikhanaton
 ikon
 ikons
 ilama
+ilea
 ileac
 ileal
 ileitis
@@ -41643,14 +41636,13 @@ junco
 junction
 juncture
 juncus
-june
 juneau
 juneberry
-jung
 jungermanniaceae
 jungermanniales
 jungian
 jungle
+junglier
 jungly
 junior
 juniper
@@ -44081,7 +44073,6 @@ legitimize
 legless
 leglike
 legno
-lego
 legos
 legs
 legume
@@ -44508,7 +44499,6 @@ libidinal
 libidinous
 libido
 libocedrus
-libor
 libra
 librarian
 librarianship
@@ -44575,6 +44565,7 @@ lien
 lienal
 liens
 liepaja
+lier
 liers
 liest
 lieth
@@ -44652,7 +44643,6 @@ lightsomeness
 lightstick
 lightweight
 lightwood
-ligne
 ligneous
 lignify
 lignin
@@ -44991,6 +44981,7 @@ liquor
 liquorice
 lira
 liras
+lire
 liriodendron
 liriope
 lirks
@@ -52045,7 +52036,6 @@ nebek
 nebel
 nebiim
 nebn
-nebo
 nebraska
 nebraskan
 nebs
@@ -52356,7 +52346,6 @@ nerium
 nerka
 nerks
 nernst
-nero
 nerodia
 nerol
 nerthus
@@ -54022,7 +54011,6 @@ obligatorily
 obligatory
 oblige
 obliged
-obliger
 obliging
 obligingly
 obligingness
@@ -55156,6 +55144,7 @@ orites
 orixa
 oriya
 orizaba
+orle
 orleanais
 orleanism
 orleanist
@@ -67008,7 +66997,6 @@ robotics
 robotlike
 robots
 robs
-robug
 robur
 robust
 robustious
@@ -67398,7 +67386,6 @@ roughneck
 roughness
 roughrider
 roughshod
-rougy
 rouks
 rouky
 roulade
@@ -83407,7 +83394,6 @@ unlearned
 unleash
 unleavened
 unled
-unleg
 unless
 unlet
 unlettered
@@ -88378,6 +88364,7 @@ yardmaster
 yards
 yardstick
 yardwoman
+yare
 yarer
 yarfa
 yarks
