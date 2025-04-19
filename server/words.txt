@@ -2970,7 +2970,6 @@ amitotic
 amitriptyline
 amity
 amlas
-amman
 ammas
 ammeter
 ammine
@@ -3128,7 +3127,6 @@ amsonia
 amsterdam
 amuck
 amulet
-amun
 amundsen
 amur
 amusd
@@ -12132,7 +12130,6 @@ calystegia
 calyx
 camachile
 camail
-caman
 camaraderie
 camarilla
 camas
@@ -29958,7 +29955,6 @@ flyweight
 flywheel
 fmri
 fnarr
-fnma
 foal
 foals
 foam
@@ -45851,6 +45847,7 @@ lulu
 luluabourg
 lulus
 lulz
+luma
 lumas
 lumbago
 lumbar
@@ -45877,10 +45874,8 @@ luminol
 luminosity
 luminous
 luminousness
-lumma
 lumme
 lummox
-lummy
 lump
 lumpectomy
 lumped
@@ -46238,7 +46233,6 @@ macaronic
 macaroon
 macarthur
 macas
-macau
 macaulay
 macaw
 macaws
@@ -47034,7 +47028,6 @@ manky
 manlike
 manliness
 manly
-mann
 manna
 manned
 mannequin
@@ -47047,7 +47040,6 @@ mannheim
 mannikin
 mannish
 mannitol
-manny
 mano
 manoeuver
 manoeuvrability
@@ -47115,7 +47107,6 @@ manufacture
 manufactured
 manufacturer
 manufacturing
-manul
 manumission
 manumit
 manumitter
@@ -47682,11 +47673,10 @@ maulers
 mauls
 maulstick
 maums
-maumy
+maun
 maund
 maunder
 maundy
-maunt
 maupassant
 mauri
 mauriac
@@ -51676,7 +51666,6 @@ naloxone
 naltrexone
 namad
 namak
-namaz
 name
 named
 namedrop
@@ -51691,9 +51680,7 @@ namesake
 namibia
 namibian
 naming
-namma
 nammad
-nammu
 namoi
 nampa
 namtar
@@ -63045,6 +63032,7 @@ pumpkin
 pumpkinseed
 pumps
 pumpy
+puna
 punas
 punce
 punch
@@ -77608,8 +77596,6 @@ tamiasciurus
 tamil
 tamin
 tamis
-tamm
-tammany
 tammerfors
 tammuz
 tammy
@@ -88720,10 +88706,7 @@ zairese
 zakat
 zalcitabine
 zalophus
-zama
-zamac
 zamak
-zaman
 zamang
 zambezi
 zambia
