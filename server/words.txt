@@ -4731,6 +4731,7 @@ arborvirus
 arborvitae
 arbour
 arbovirus
+arbute
 arbutus
 arca
 arcade
@@ -4918,7 +4919,6 @@ ares
 arete
 arethusa
 arets
-arett
 argal
 argali
 argan
@@ -9272,18 +9272,17 @@ blepharitis
 blepharospasm
 blephilia
 bleriot
-blert
 bless
 blessed
 blessedly
 blessedness
 blessing
 blest
+blet
 blether
 bletia
 bletilla
 blets
-bleu
 blewits
 bleys
 blida
@@ -10606,6 +10605,7 @@ brecciate
 brecht
 brede
 breds
+bree
 breech
 breechblock
 breechcloth
@@ -10985,7 +10985,6 @@ bruit
 bruitism
 bruja
 brujo
-brule
 brumaire
 brumal
 brume
@@ -11299,7 +11298,6 @@ bumpy
 bums
 buna
 bunas
-bunce
 bunch
 bunchberry
 bunche
@@ -11481,7 +11479,6 @@ bursitis
 burst
 burster
 bursts
-burt
 burthen
 burton
 burundi
@@ -11562,7 +11559,7 @@ butcherbird
 butchering
 butcherly
 butchery
-butea
+bute
 butene
 buteo
 buteonine
@@ -13660,7 +13657,6 @@ cerapteryx
 ceras
 cerastes
 cerastium
-cerate
 ceratin
 ceratitis
 ceratodontidae
@@ -13785,6 +13781,7 @@ cetacea
 cetacean
 cetaceous
 cetchup
+cete
 ceterach
 cetes
 cetonia
@@ -19219,7 +19216,6 @@ crystallographer
 crystallography
 csardas
 csis
-ctene
 ctenidium
 ctenizidae
 ctenocephalides
@@ -25395,7 +25391,6 @@ electrotherapist
 electrotherapy
 electrum
 eleemosynary
-eleet
 elegance
 elegant
 elegantly
@@ -27139,7 +27134,6 @@ euglenophyte
 eukaryote
 eukaryotic
 euked
-euler
 eulogise
 eulogist
 eulogistic
@@ -43902,7 +43896,6 @@ leaping
 leaps
 leapt
 lear
-leare
 learn
 learned
 learnedly
@@ -43985,7 +43978,6 @@ ledger
 ledgewoman
 ledgy
 ledum
-leear
 leech
 leechee
 leechlike
@@ -43999,6 +43991,7 @@ leers
 leery
 lees
 leese
+leet
 leets
 leeuwenhoek
 leeward
@@ -44325,7 +44318,6 @@ lethargic
 lethargically
 lethargy
 lethe
-leto
 letter
 lettercard
 lettered
@@ -45758,7 +45750,6 @@ lubed
 lubes
 lubitsch
 lublin
-lubra
 lubricant
 lubricate
 lubricated
@@ -45909,6 +45900,7 @@ lunchroom
 lunchtime
 lund
 lunda
+lune
 lunes
 lunet
 lunette
@@ -52123,9 +52115,7 @@ needleworker
 needs
 needy
 neefs
-neel
 neeld
-neele
 neem
 neemb
 neems
@@ -52404,6 +52394,7 @@ netscape
 nett
 netta
 netted
+netter
 netting
 nettle
 nettled
@@ -52905,7 +52896,6 @@ njirl
 njord
 njorth
 nkosi
-nlrb
 nmoli
 nmols
 nnrti
@@ -53806,6 +53796,7 @@ nurds
 nurdy
 nuremberg
 nureyev
+nurl
 nurls
 nurnberg
 nurrs
@@ -64963,7 +64954,6 @@ rectal
 rectangle
 rectangular
 rectangularity
-recte
 recti
 rectifiable
 rectification
@@ -66180,6 +66170,7 @@ retch
 rete
 retell
 retem
+retene
 retention
 retentive
 retentively
@@ -67658,7 +67649,6 @@ rumpy
 rumrunner
 runabout
 runaway
-runce
 runch
 runcinate
 rundle
@@ -67672,6 +67662,7 @@ runes
 rung
 rungs
 runic
+runlet
 runnel
 runner
 runniness
@@ -67755,7 +67746,6 @@ rustproof
 rustproofed
 rusts
 rusty
-ruta
 rutabaga
 rutaceae
 ruth
@@ -78117,6 +78107,7 @@ tedious
 tediously
 tediousness
 tedium
+teel
 teels
 teem
 teeming
@@ -78127,7 +78118,6 @@ teenage
 teenaged
 teenager
 teend
-teene
 teens
 teensy
 teentsy
@@ -78178,6 +78168,7 @@ telae
 telamon
 telanthera
 telco
+tele
 telecast
 telecaster
 telecasting
@@ -78268,6 +78259,7 @@ telluride
 tellurium
 tellus
 telly
+telnet
 telocentric
 teloi
 telomerase
@@ -78453,7 +78445,6 @@ tentmaker
 tentorium
 tents
 tenty
-tenue
 tenuity
 tenuous
 tenuously
@@ -78470,7 +78461,6 @@ tepidly
 tepidness
 tepoy
 tequila
-tera
 terabit
 terabyte
 teraflop
@@ -78679,7 +78669,6 @@ tetrametric
 tetraneuris
 tetranychid
 tetranychidae
-tetrao
 tetraodontidae
 tetraonidae
 tetrapod
@@ -78691,13 +78680,13 @@ tetrasporangium
 tetraspore
 tetravalent
 tetrazzini
-tetrel
 tetri
 tetrode
 tetrodotoxin
 tetrose
 tetroxide
 tetryl
+tetter
 tetterwort
 tettigoniid
 tettigoniidae
@@ -80834,6 +80823,7 @@ tress
 trest
 trestle
 trestlework
+tret
 trets
 trevelyan
 trevino
