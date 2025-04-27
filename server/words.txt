@@ -2032,6 +2032,7 @@ airworthiness
 airworthy
 airy
 aisle
+aisled
 aisles
 aitch
 aitchbone
@@ -5437,7 +5438,6 @@ ashtray
 ashur
 ashurbanipal
 ashy
-asia
 asian
 asiatic
 aside
@@ -13495,10 +13495,10 @@ celly
 celom
 celoma
 celosia
+cels
 celsius
 celt
 celtic
-celtis
 celts
 celtuce
 cembalo
@@ -19941,10 +19941,10 @@ dadah
 dadaism
 dadas
 daddy
-dadis
 dadla
 dado
 dados
+dads
 daedal
 daedalus
 daegu
@@ -19978,7 +19978,6 @@ dahna
 dahomey
 daiko
 daikon
-dail
 daily
 daimler
 daimon
@@ -20004,6 +20003,7 @@ daker
 dakoit
 dakoity
 dakota
+daks
 daktylos
 dalasi
 dalbergia
@@ -21056,6 +21056,7 @@ delphinapterus
 delphinidae
 delphinium
 delphinus
+dels
 delt
 delta
 deltas
@@ -22065,7 +22066,6 @@ diarrhoeic
 diarrhoetic
 diarthrosis
 diary
-dias
 diaspididae
 diaspora
 diastasis
@@ -22326,8 +22326,6 @@ digressiveness
 digs
 dihybrid
 dijon
-dika
-dikas
 dike
 diked
 diker
@@ -22578,7 +22576,6 @@ dirtiness
 dirts
 dirty
 dirtying
-disa
 disability
 disable
 disabled
@@ -23186,6 +23183,7 @@ distillation
 distiller
 distillery
 distillment
+distils
 distinct
 distinction
 distinctive
@@ -25325,6 +25323,7 @@ eldest
 eldin
 eldorado
 eldritch
+elds
 eleaticism
 elecampane
 elect
@@ -25425,8 +25424,6 @@ elfed
 elfin
 elfish
 elflike
-elia
-eliad
 elicit
 elicitation
 elicited
@@ -25441,7 +25438,6 @@ elint
 elinvar
 eliomys
 eliot
-elisa
 elisabethville
 elision
 elite
@@ -38080,7 +38076,6 @@ idleness
 idler
 idles
 idling
-idlis
 idly
 idocrase
 idol
@@ -38171,6 +38166,7 @@ ilex
 ilia
 iliac
 iliad
+iliads
 ilial
 iliamna
 ilion
@@ -40708,7 +40704,6 @@ ishes
 ishmael
 ishtar
 isinglass
-isis
 iskcon
 islam
 islamabad
@@ -40725,6 +40720,7 @@ isle
 isled
 isles
 islet
+islets
 ismaili
 ismailian
 ismailism
@@ -41741,6 +41737,7 @@ kachinic
 kacks
 kadai
 kades
+kadi
 kadikoy
 kadis
 kaffir
@@ -41759,12 +41756,10 @@ kahlua
 kahn
 kahoolawe
 kaiak
-kaids
+kaiaks
 kaies
 kaif
 kaifs
-kaika
-kaiks
 kail
 kails
 kaims
@@ -41774,6 +41769,7 @@ kainogenesis
 kains
 kaiser
 kajal
+kaka
 kakas
 kakatoe
 kakemono
@@ -41944,7 +41940,6 @@ kashmir
 kashmiri
 kasme
 kasparov
-kassite
 kastler
 katabatic
 katabolic
@@ -42316,14 +42311,16 @@ kidder
 kiddie
 kiddo
 kiddy
-kidel
 kideo
 kidge
+kidlit
+kidlits
 kidnap
 kidnaper
 kidnapper
 kidnapping
 kidney
+kids
 kidskin
 kief
 kiefs
@@ -42340,7 +42337,6 @@ kigali
 kiggelaria
 kight
 kikay
-kike
 kikes
 kikladhes
 kikoi
@@ -42383,6 +42379,7 @@ kilowatt
 kilps
 kilroy
 kilt
+kilted
 kilter
 kilts
 kilty
@@ -44318,6 +44315,7 @@ lethargic
 lethargically
 lethargy
 lethe
+lets
 letter
 lettercard
 lettered
@@ -44456,6 +44454,7 @@ liar
 liard
 liars
 liart
+lias
 liatris
 libation
 libber
@@ -44543,6 +44542,7 @@ lidless
 lido
 lidocaine
 lidos
+lids
 liebfraumilch
 liechtenstein
 liechtensteiner
@@ -45015,7 +45015,6 @@ litas
 litchee
 litchi
 lite
-lited
 litem
 liter
 literacy
@@ -67911,6 +67910,7 @@ sade
 sades
 sadhe
 sadhu
+sadi
 sadic
 sadis
 sadism
@@ -67988,7 +67988,6 @@ saice
 saick
 saics
 said
-saida
 saids
 saiga
 saigon
@@ -68018,19 +68017,16 @@ saintpaulia
 saints
 saipan
 sairs
-saist
 saith
 saivism
 sajama
 sajou
-sakai
 sakartvelo
 sake
 saker
 sakes
 sakharov
 saki
-sakia
 sakis
 sakkara
 sakti
@@ -71338,9 +71334,7 @@ sicko
 sickroom
 sicks
 sicky
-sida
 sidalcea
-sidas
 siddhartha
 siddons
 side
@@ -71392,7 +71386,6 @@ siding
 sidle
 sidney
 sidon
-sids
 siege
 siegfried
 sield
@@ -71484,6 +71477,7 @@ sihhe
 sijos
 sika
 sikas
+sike
 siker
 sikes
 sikh
@@ -71496,7 +71490,6 @@ silas
 sild
 sildenafil
 silds
-siled
 silen
 silence
 silenced
@@ -71547,6 +71540,7 @@ silos
 siloxane
 silphium
 silt
+silted
 silts
 siltstone
 silty
@@ -71866,7 +71860,6 @@ skagerrak
 skagit
 skags
 skagway
-skail
 skald
 skanda
 skank
@@ -72233,6 +72226,7 @@ slicked
 slicker
 slickly
 slickness
+slid
 slide
 slider
 slides
@@ -74776,7 +74770,6 @@ steatornithidae
 steatorrhea
 stedd
 stede
-steds
 steed
 steek
 steel
@@ -74831,7 +74824,6 @@ steinmetz
 steinway
 stela
 stele
-stelis
 stell
 stella
 stellar
@@ -78107,6 +78099,7 @@ tedious
 tediously
 tediousness
 tedium
+teds
 teel
 teels
 teem
@@ -79471,7 +79464,6 @@ tiled
 tilefish
 tiler
 tiles
-tilia
 tiliaceae
 tiling
 tiliomycetes
