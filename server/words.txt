@@ -1,5 +1,6 @@
 aachen
 aahed
+aahs
 aalborg
 aalii
 aals
@@ -669,7 +670,6 @@ acetylize
 achaea
 achaean
 achaian
-achar
 ache
 ached
 achene
@@ -1913,7 +1913,7 @@ ahint
 ahistorical
 ahold
 ahorseback
-ahoys
+ahoy
 ahpcrc
 ahriman
 ahuehuete
@@ -4734,7 +4734,6 @@ arbour
 arbovirus
 arbute
 arbutus
-arca
 arcade
 arcadia
 arcadian
@@ -5325,6 +5324,7 @@ arvee
 arvicola
 arvos
 aryan
+aryl
 aryls
 arytaenoid
 arytenoid
@@ -12779,10 +12779,10 @@ carjack
 carjacking
 cark
 carks
+carl
 carle
 carlina
 carload
-carlos
 carlovingian
 carls
 carlsbad
@@ -12905,6 +12905,7 @@ carrs
 carry
 carryall
 carrycot
+cars
 carse
 carsick
 carson
@@ -13384,6 +13385,7 @@ caxon
 caxton
 cayenne
 cayman
+cays
 cayuga
 cayuse
 cazique
@@ -13904,6 +13906,7 @@ chalons
 chals
 chalybeate
 chalybite
+cham
 chamaea
 chamaecrista
 chamaecyparis
@@ -14178,6 +14181,7 @@ chawbacon
 chawk
 chawl
 chaws
+chay
 chaya
 chays
 cheap
@@ -18608,7 +18612,6 @@ crapulence
 crapulent
 crapulous
 crapy
-crare
 crash
 crasher
 crashing
@@ -18647,11 +18650,9 @@ crawls
 crawlspace
 crawly
 craws
-crax
 crayer
 crayfish
 crayon
-crays
 craze
 crazed
 crazily
@@ -18792,7 +18793,6 @@ crewet
 crewman
 crews
 crewwoman
-crex
 crias
 crib
 cribbage
@@ -27393,6 +27393,8 @@ exanthem
 exanthema
 exarch
 exarchate
+exarchs
+exarchy
 exasperate
 exasperated
 exasperating
@@ -33179,8 +33181,8 @@ gorse
 gorsy
 gory
 gosainthan
+gosh
 goshawk
-gosht
 gosling
 gosmore
 gospel
@@ -33254,6 +33256,7 @@ gowns
 goxes
 goyim
 goyle
+goys
 graal
 grab
 grabber
@@ -34934,6 +34937,7 @@ harim
 hark
 harken
 harks
+harl
 harlem
 harlequin
 harlequinade
@@ -37131,6 +37135,7 @@ hoydenish
 hoydenism
 hoyed
 hoyle
+hoys
 hrolf
 hrvatska
 hryvnia
@@ -46155,7 +46160,6 @@ lyophilization
 lyophilize
 lyophilized
 lypressin
-lyra
 lyrate
 lyre
 lyrebird
@@ -46209,7 +46213,6 @@ lyubavichi
 maaed
 maalox
 maar
-maare
 maarianhamina
 maars
 maban
@@ -46524,7 +46527,6 @@ mahound
 mahout
 mahratta
 mahratti
-mahrs
 mahua
 mahuang
 mahwa
@@ -47401,10 +47403,8 @@ marvellously
 marvelous
 marvelously
 marvy
-marx
 marxism
 marxist
-mary
 maryland
 marylander
 marzipan
@@ -55293,8 +55293,6 @@ osculation
 osculator
 osetr
 oseys
-osha
-oshac
 osier
 osiris
 oskin
@@ -55378,6 +55376,7 @@ ostinato
 ostiole
 ostler
 ostomy
+ostraca
 ostraciidae
 ostracise
 ostracism
@@ -56059,7 +56058,6 @@ oxyura
 oxyuranus
 oxyuridae
 oyabun
-oyama
 oyers
 oyster
 oystercatcher
@@ -64195,7 +64193,6 @@ rallidae
 rally
 rallying
 ralph
-rama
 ramachandra
 ramadan
 ramal
@@ -64576,6 +64573,7 @@ rayls
 rayne
 rayon
 rayons
+rays
 razai
 razbliuto
 raze
@@ -70609,7 +70607,6 @@ shalt
 shalwar
 shaly
 sham
-shama
 shaman
 shamanise
 shamanism
@@ -71052,6 +71049,7 @@ shoeshine
 shoestring
 shoetree
 shofar
+shog
 shogi
 shogs
 shogun
@@ -76956,6 +76954,7 @@ sybil
 syboe
 sybow
 sycamore
+syce
 sycee
 syces
 sycon
@@ -77216,7 +77215,6 @@ syphilitic
 syphon
 syphs
 syracuse
-syrah
 syren
 syria
 syrian
@@ -78762,7 +78760,6 @@ thans
 thanx
 tharm
 tharp
-thars
 thatch
 thatcher
 thatcherism
@@ -88184,6 +88181,7 @@ xenosaurus
 xenotime
 xenotransplant
 xeranthemum
+xerarch
 xeric
 xerobates
 xeroderma
@@ -88221,7 +88219,6 @@ xoana
 xolos
 xored
 xrated
-xrays
 xvii
 xviii
 xxii
@@ -88303,7 +88300,6 @@ yale
 yales
 yalta
 yaltopya
-yama
 yamaltu
 yamamoto
 yamani
