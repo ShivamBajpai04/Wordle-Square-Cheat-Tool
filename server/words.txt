@@ -8570,7 +8570,6 @@ bidet
 biding
 bidirectional
 bidis
-bidon
 bidri
 biedermeier
 bield
@@ -9295,6 +9294,7 @@ blighty
 blimp
 blimpish
 blimy
+blin
 blind
 blinded
 blinder
@@ -9377,6 +9377,7 @@ blolly
 blond
 blonde
 blondness
+blonds
 blonx
 blood
 bloodbath
@@ -9509,7 +9510,6 @@ bluffer
 bluffly
 bluffness
 bluffs
-bluid
 bluing
 bluish
 bluishness
@@ -11075,6 +11075,8 @@ bubby
 buber
 bubo
 bubonic
+bubs
+bubu
 bubulcus
 bubus
 buccal
@@ -11141,7 +11143,7 @@ budgetary
 budgie
 budis
 budorcas
-budos
+buds
 buena
 bueno
 buff
@@ -11305,6 +11307,7 @@ bunchgrass
 bunchy
 bunco
 buncombe
+bund
 bunde
 bundesbank
 bundh
@@ -11338,6 +11341,7 @@ bunkmate
 bunko
 bunks
 bunkum
+bunn
 bunns
 bunny
 buns
@@ -22089,7 +22093,6 @@ diazotize
 diazoxide
 dibber
 dibble
-dibbs
 dibbuk
 dibrach
 dibranch
@@ -22438,6 +22441,7 @@ dinna
 dinner
 dinnertime
 dinnerware
+dino
 dinoceras
 dinocerata
 dinocerate
@@ -22470,7 +22474,6 @@ dionysia
 dionysian
 dionysius
 dionysus
-dioon
 diophantus
 diopter
 dioptre
@@ -24319,11 +24322,11 @@ dubious
 dubiously
 dubiousness
 dubitable
-dublin
 dubliner
 dubnium
 dubonnet
 dubrovnik
+dubs
 dubstep
 dubuque
 dubya
@@ -24485,6 +24488,7 @@ duodiode
 duologue
 duomi
 duomo
+duos
 dupe
 duped
 duper
@@ -39222,7 +39226,6 @@ indument
 indumentum
 indurate
 induration
-indus
 indusial
 indusium
 industrial
@@ -44792,14 +44795,12 @@ lincolnesque
 lincolnian
 lincolnshire
 lincomycin
-lind
 lindane
 lindbergh
 linden
 lindera
 lindesnes
 lindheimera
-linds
 lindsay
 lindy
 line
@@ -44870,6 +44871,7 @@ linksman
 linkswoman
 linkup
 linky
+linn
 linnaea
 linnaean
 linnaeus
@@ -45371,6 +45373,7 @@ logrolling
 logrono
 logwood
 logy
+loid
 loids
 loin
 loincloth
@@ -52607,6 +52610,7 @@ nibby
 nibelung
 nibelungenlied
 niblick
+nibs
 nicad
 nicaea
 nicaean
@@ -52940,6 +52944,7 @@ noddy
 node
 noded
 nodes
+nodi
 nodular
 nodulated
 nodule
@@ -52964,6 +52969,7 @@ noggy
 noguchi
 nohow
 noias
+noil
 noils
 noily
 noint
@@ -53119,7 +53125,6 @@ nondevelopment
 nondigestible
 nondisjunction
 nondisposable
-nondo
 nondrinker
 nondriver
 none
@@ -53172,6 +53177,7 @@ nonheritable
 nonhierarchic
 nonhierarchical
 nonhuman
+noni
 nonic
 nonidentity
 nonimitative
@@ -53669,6 +53675,7 @@ nubby
 nubia
 nubian
 nubile
+nubs
 nucellus
 nucha
 nucifraga
@@ -54248,7 +54255,6 @@ odesa
 odessa
 odets
 odeum
-odin
 odious
 odiously
 odiousness
@@ -54536,6 +54542,7 @@ oligosaccharide
 oligospermia
 oliguria
 olimbos
+olio
 olios
 oliva
 olive
@@ -55442,6 +55449,7 @@ oubit
 oubliette
 ouche
 oucht
+ouds
 oueds
 ouens
 ought
@@ -76299,6 +76307,7 @@ sunlamp
 sunless
 sunlight
 sunlit
+sunn
 sunna
 sunnah
 sunni
@@ -81905,6 +81914,7 @@ udder
 udmurt
 udometer
 udons
+udos
 udyog
 ugali
 uganda
@@ -82260,11 +82270,13 @@ unbiassed
 unbid
 unbigoted
 unbind
+unbinds
 unbitter
 unbleached
 unblemished
 unblended
 unblessed
+unblind
 unblinking
 unblinkingly
 unblock
@@ -82298,6 +82310,7 @@ unbridled
 unbroken
 unbrushed
 unbuckle
+unbuild
 unburden
 unburdened
 unburied
@@ -83265,7 +83278,6 @@ uninvited
 uninvitedly
 uninviting
 uninvolved
-unio
 union
 unionidae
 unionisation
@@ -83557,7 +83569,6 @@ unoffending
 unofficial
 unofficially
 unoiled
-unold
 unopen
 unopened
 unopposable
