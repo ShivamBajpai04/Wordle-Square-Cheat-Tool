@@ -3028,8 +3028,6 @@ amole
 amon
 among
 amontillado
-amor
-amora
 amoral
 amoralism
 amoralist
@@ -12882,6 +12880,7 @@ carposporous
 carps
 carpus
 carpy
+carr
 carrack
 carrageen
 carrageenan
@@ -13800,7 +13799,6 @@ ceylonese
 ceylonite
 cezanne
 cezve
-cftr
 chaap
 chaat
 chabad
@@ -16043,6 +16041,7 @@ cofferdam
 coffin
 coffs
 cofounder
+coft
 cogency
 cogent
 cogged
@@ -16461,6 +16460,7 @@ coming
 comint
 comity
 comix
+comm
 comma
 command
 commandant
@@ -17804,7 +17804,6 @@ coquettish
 coquettishly
 coqui
 coquille
-cora
 coracan
 coracias
 coraciidae
@@ -17819,7 +17818,6 @@ corallorhiza
 coralroot
 coralwood
 coralwort
-coram
 corbe
 corbel
 corbelled
@@ -30148,6 +30146,7 @@ footwork
 footy
 foppish
 foppishness
+fora
 forage
 forager
 foraging
@@ -30331,7 +30330,6 @@ forlorn
 forlornly
 forlornness
 form
-forma
 formal
 formaldehyde
 formalin
@@ -33018,7 +33016,6 @@ golly
 golosh
 golpe
 golps
-goma
 gombo
 gombrowicz
 gomel
@@ -46863,7 +46860,6 @@ mammut
 mammuthus
 mammutidae
 mammy
-mamo
 mamoncillo
 mana
 manacle
@@ -47317,12 +47313,10 @@ marmoset
 marmot
 marmota
 marms
-maroc
 marocain
 maron
 maroon
 marooned
-maror
 marplan
 marquand
 marque
@@ -49890,6 +49884,7 @@ modus
 moehringia
 moeni
 moers
+mofo
 mofos
 mogadiscio
 mogadishu
@@ -50433,6 +50428,7 @@ mopsy
 mopus
 moquelumnan
 moquette
+mora
 moraceae
 moraceous
 morae
@@ -50455,7 +50451,6 @@ moran
 morangoska
 moras
 morass
-morat
 moratorium
 moravia
 moravian
@@ -50537,7 +50532,6 @@ morphophoneme
 morphophonemic
 morphophonemics
 morphophysiology
-morra
 morrigan
 morrigu
 morris
@@ -50807,7 +50801,6 @@ mpret
 mrads
 mrem
 mrna
-mrta
 msasa
 msec
 mtepe
@@ -55201,6 +55194,7 @@ orpiment
 orpin
 orpine
 orpington
+orra
 orrery
 orris
 orrisroot
@@ -67108,7 +67102,6 @@ rolls
 rolly
 rolodex
 rolypoliness
-roma
 romaic
 romaine
 romal
@@ -81118,6 +81111,7 @@ trnc
 troad
 troak
 troat
+trocar
 trochaic
 trochanter
 troche
