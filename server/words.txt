@@ -1486,7 +1486,6 @@ aesculapian
 aesculapius
 aesculus
 aesir
-aesop
 aesthesia
 aesthesis
 aesthete
@@ -1589,7 +1588,6 @@ afghanistani
 afibrinogenemia
 aficionado
 afield
-afion
 afire
 afisr
 afizz
@@ -2283,6 +2281,7 @@ alexic
 aleye
 aleyrodes
 aleyrodidae
+alfa
 alfalfa
 alfas
 alfilaria
@@ -3440,6 +3439,7 @@ anencephaly
 anent
 anergy
 aneroid
+anes
 anesthesia
 anesthesiologist
 anesthesiology
@@ -3464,7 +3464,6 @@ aneurysm
 aneurysmal
 aneurysmatic
 anew
-anfo
 anfractuous
 angara
 angas
@@ -3671,7 +3670,6 @@ annapolis
 annapurna
 annas
 annat
-anne
 anneal
 annealing
 annelid
@@ -8827,7 +8825,6 @@ bionics
 bionomic
 bionomical
 bionomics
-bions
 biont
 biophysicist
 biophysics
@@ -8838,7 +8835,6 @@ bios
 biosafety
 bioscience
 bioscope
-biose
 biosphere
 biostatistics
 biosynthesis
@@ -9851,8 +9847,8 @@ bonito
 bonk
 bonkers
 bonks
-bonn
 bonne
+bonnes
 bonnet
 bonnethead
 bonney
@@ -10048,7 +10044,6 @@ bortz
 borzoi
 bosc
 bosch
-bose
 boselaphus
 bosey
 bosh
@@ -26871,7 +26866,6 @@ eskimo
 esmolol
 esnes
 esocidae
-esop
 esophageal
 esophagitis
 esophagoscope
@@ -29504,7 +29498,7 @@ flams
 flamy
 flan
 flanders
-flane
+flanes
 flange
 flank
 flanker
@@ -30070,10 +30064,11 @@ fondness
 fonds
 fondu
 fondue
-fones
 fonio
 fonly
+fons
 font
+fontal
 fontanel
 fontanelle
 fontanne
@@ -40505,8 +40500,11 @@ ionised
 ionization
 ionize
 ionized
+ionone
+ionones
 ionophoresis
 ionosphere
+ions
 iontophoresis
 iontotherapy
 ioras
@@ -43432,6 +43430,7 @@ lankiness
 lanks
 lanky
 lanolin
+lanose
 lanoxin
 lansa
 lansat
@@ -48316,6 +48315,7 @@ menispermum
 menninger
 mennonite
 mennonitism
+meno
 menominee
 menomini
 menopausal
@@ -50059,11 +50059,9 @@ mompe
 mompreneur
 moms
 momus
-mona
 monacan
 monaco
 monad
-monal
 monandrous
 monandry
 monarch
@@ -50317,6 +50315,7 @@ montaigne
 montana
 montanan
 montane
+montanes
 monte
 montenegro
 monterey
@@ -51576,6 +51575,7 @@ nadir
 nadolol
 nadp
 naemorhedus
+naes
 naeve
 naevi
 nafcil
@@ -51652,7 +51652,6 @@ nakuru
 nalas
 nalchik
 naled
-nalfon
 nalla
 nalline
 nalorphine
@@ -51700,6 +51699,7 @@ nanking
 nanna
 nanning
 nanny
+nano
 nanocephalic
 nanocephaly
 nanogram
@@ -51714,6 +51714,7 @@ nanosecond
 nanotechnology
 nanotube
 nanovolt
+nans
 nansen
 nante
 nantes
@@ -51990,7 +51991,6 @@ neals
 neandertal
 neanderthal
 neanderthalian
-neant
 neap
 neapolitan
 neaps
@@ -52197,12 +52197,10 @@ nemertina
 nemertine
 nemesis
 nemic
-nemns
 nemophila
 nempt
 nenes
 nenets
-nenta
 nentsi
 nentsy
 neobaroque
@@ -53010,6 +53008,8 @@ nomograph
 nomoi
 nomos
 nomothetic
+noms
+nona
 nonabsorbency
 nonabsorbent
 nonabsorptive
@@ -53204,6 +53204,7 @@ nonmagnetic
 nonmandatory
 nonmaterial
 nonmeaningful
+nonmeat
 nonmechanical
 nonmechanistic
 nonmedicinal
@@ -53902,7 +53903,6 @@ nyung
 nyuse
 nyuze
 oafish
-oafos
 oafs
 oahu
 oaked
@@ -53958,6 +53958,7 @@ obeyed
 obeys
 obfuscate
 obfuscation
+obia
 obias
 obied
 obiism
@@ -54599,7 +54600,6 @@ ommatidium
 ommel
 ommiad
 ommin
-omnes
 omnibus
 omnidirectional
 omnifarious
@@ -54661,6 +54661,7 @@ onerously
 onerousness
 oners
 onery
+ones
 onesie
 onetime
 ongoing
@@ -54700,13 +54701,11 @@ onos
 onosmodium
 onrush
 onsager
-onsen
 onset
 onshore
 onside
 onslaught
 onstage
-ontal
 ontario
 ontic
 ontogenesis
@@ -60652,6 +60651,7 @@ pompous
 pompously
 pompousness
 pomps
+poms
 ponca
 ponce
 poncho
@@ -72898,7 +72898,6 @@ sofa
 sofar
 sofas
 soffit
-sofia
 soft
 softa
 softback
@@ -73162,7 +73161,6 @@ songy
 sonic
 sonics
 sonly
-sonne
 sonnet
 sonneteer
 sonny
@@ -77665,6 +77663,7 @@ tanning
 tannish
 tannoy
 tanoan
+tans
 tansu
 tansy
 tantalise
