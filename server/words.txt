@@ -30738,7 +30738,6 @@ freshness
 freshwater
 fresnel
 fresno
-fress
 fret
 fretful
 fretfully
@@ -30854,6 +30853,7 @@ frizzly
 frizzy
 frobisher
 frock
+froe
 froebel
 froelichia
 froes
@@ -32309,6 +32309,7 @@ giddy
 gidgee
 gielgud
 gien
+gies
 gifset
 gift
 gifted
@@ -32937,6 +32938,7 @@ goels
 goer
 goering
 goers
+goes
 goest
 goeteborg
 goeth
@@ -33154,6 +33156,7 @@ gorgeously
 gorgeousness
 gorger
 gorgerin
+gorges
 gorget
 gorgon
 gorgonacea
@@ -33161,6 +33164,7 @@ gorgoniacea
 gorgonian
 gorgonocephalus
 gorgonzola
+gorier
 gorilla
 goring
 goris
@@ -33173,6 +33177,7 @@ gormandize
 gormless
 gorms
 gormy
+gorp
 gorps
 gorse
 gorsy
@@ -33626,8 +33631,8 @@ gresham
 gretzky
 greve
 grevillea
+grew
 grewia
-grews
 grey
 greyback
 greybeard
@@ -33649,7 +33654,6 @@ gridiron
 gridlock
 grids
 grief
-grieg
 grievance
 grieve
 griever
@@ -33662,6 +33666,7 @@ griffith
 griffon
 grift
 grifter
+grig
 grigri
 grigs
 grike
@@ -41279,12 +41284,12 @@ jibe
 jibed
 jiber
 jibes
+jibs
 jidda
 jiddah
 jiffs
 jiffy
 jigaboo
-jigg
 jigger
 jiggered
 jiggermast
@@ -55046,6 +55051,7 @@ oreide
 oreo
 oreopteris
 oreortyx
+ores
 orestes
 orff
 orful
@@ -59128,6 +59134,7 @@ pierre
 pierrot
 piers
 piert
+pies
 pieta
 pietism
 pietistic
@@ -61769,7 +61776,6 @@ pridnestrovia
 pridnestrovie
 pridy
 pried
-prief
 prier
 pries
 priest
@@ -62084,6 +62090,7 @@ profuse
 profusely
 profuseness
 profusion
+prog
 progenitor
 progeny
 progeria
@@ -62335,7 +62342,6 @@ propylthiouracil
 prora
 prorate
 proration
-prore
 prorogation
 prorogue
 prosaic
@@ -64749,6 +64755,7 @@ rebox
 reboxetine
 rebozo
 rebroadcast
+rebs
 rebud
 rebuff
 rebuild
@@ -65310,7 +65317,6 @@ reget
 regex
 reggae
 reggane
-reggo
 regia
 regicide
 regie
@@ -66592,6 +66598,7 @@ ribonuclease
 ribonucleinase
 ribose
 ribosome
+ribs
 ribwort
 ricardo
 rice
@@ -67040,6 +67047,7 @@ roentgenographic
 roentgenography
 roentgenoscope
 roers
+roes
 rofecoxib
 rogaine
 rogan
@@ -67229,12 +67237,10 @@ roque
 roquefort
 roquette
 roral
-rores
 roric
 rorid
 roridula
 roridulaceae
-rorie
 rorippa
 rorqual
 rorschach
@@ -69636,7 +69642,6 @@ sebastiana
 sebastopol
 sebe
 seborrhea
-sebs
 sebum
 secale
 secant
@@ -69805,6 +69810,7 @@ segmentation
 segmented
 segni
 segno
+sego
 segol
 segos
 segovia
@@ -76827,7 +76833,6 @@ sweetpea
 sweets
 sweetsop
 sweety
-sweir
 swell
 swelled
 swellhead
@@ -76840,7 +76845,6 @@ sweltry
 swept
 sweptback
 sweptwing
-swerf
 swertia
 swerve
 swerving
@@ -86841,6 +86845,7 @@ webfoot
 weblike
 webmaster
 webpage
+webs
 website
 webster
 webworm
