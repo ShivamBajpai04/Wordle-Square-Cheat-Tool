@@ -674,8 +674,6 @@ ache
 ached
 achene
 achenial
-acher
-acheron
 acheronian
 acherontia
 acherontic
@@ -864,7 +862,6 @@ acromikria
 acromion
 acromphalus
 acromyotonia
-acron
 acronym
 acronymic
 acronymous
@@ -5115,10 +5112,8 @@ arng
 arnhem
 arnica
 arnis
-arno
 arnold
 arnoseris
-arnut
 aroba
 aroha
 aroid
@@ -12371,6 +12366,7 @@ cannulize
 canny
 canoe
 canoeist
+canoer
 canoes
 canola
 canon
@@ -12790,6 +12786,7 @@ carmelite
 carmichael
 carminative
 carmine
+carn
 carnage
 carnal
 carnalise
@@ -14004,6 +14001,7 @@ chants
 chanty
 chanukah
 chanukkah
+chao
 chaos
 chaotic
 chaotically
@@ -15776,7 +15774,6 @@ cnidosporidia
 cnossos
 cnossus
 cnpz
-cnut
 coach
 coachbuilder
 coaching
@@ -17549,6 +17546,7 @@ contuse
 contusion
 conundrum
 conurbation
+conure
 conuropsis
 conus
 convalesce
@@ -18359,12 +18357,12 @@ courage
 courageous
 courageously
 courageousness
+courant
 courante
 courb
 courbaril
 courbet
 courd
-coure
 courgette
 courier
 courlan
@@ -18752,7 +18750,6 @@ crenulate
 crenulated
 creole
 creolize
-creon
 creosol
 creosote
 crepe
@@ -19023,7 +19020,6 @@ croupe
 croupier
 croupy
 crouse
-crout
 crouton
 crow
 crowbait
@@ -28306,6 +28302,7 @@ fanlight
 fanlike
 fanned
 fanny
+fano
 fanon
 fanos
 fansign
@@ -41448,7 +41445,6 @@ jolts
 jolty
 jomon
 jomos
-jonah
 jonathan
 jones
 jonesboro
@@ -41655,7 +41651,6 @@ junkie
 junks
 junky
 junkyard
-juno
 junoesque
 junta
 junto
@@ -51569,7 +51564,6 @@ naboom
 nabu
 nabumetone
 nacelle
-nache
 nacho
 nachos
 nacimiento
@@ -53856,6 +53850,7 @@ nuzzle
 nwbn
 nwbw
 nyaff
+nyah
 nyala
 nyams
 nyamuragira
@@ -54166,6 +54161,7 @@ oceanus
 ocellated
 ocellus
 ocelot
+oche
 ocher
 oches
 ochlocracy
@@ -54635,7 +54631,6 @@ onagraceae
 onanism
 onanist
 once
-oncer
 onces
 oncet
 onchocerciasis
@@ -55452,6 +55447,7 @@ oujda
 oulks
 oumas
 ounce
+ouncer
 ounces
 oundy
 oupas
@@ -55565,11 +55561,14 @@ outport
 outpost
 outpouring
 output
+outrace
 outrage
 outraged
 outrageous
 outrageously
 outrageousness
+outran
+outrance
 outrange
 outrank
 outre
@@ -57507,6 +57506,8 @@ peccable
 peccadillo
 peccant
 peccary
+pech
+pechan
 pechs
 pecia
 peck
@@ -57948,7 +57949,7 @@ perambulating
 perambulation
 perambulator
 peramelidae
-perca
+perc
 percale
 perce
 perceivable
@@ -58225,7 +58226,6 @@ perodicticus
 perog
 perognathus
 peromyscus
-peron
 peroneal
 peroneus
 peronospora
@@ -58344,7 +58344,6 @@ perturbing
 pertusaria
 pertusariaceae
 pertussis
-peru
 peruke
 peruked
 perusal
@@ -58645,8 +58644,8 @@ phenylethylene
 phenylketonuria
 phenyltoloxamine
 phenytoin
+pheo
 pheochromocytoma
-pheon
 pheresis
 pheromone
 phese
@@ -63918,7 +63917,6 @@ racerunner
 races
 racetrack
 raceway
-rache
 rachel
 rachet
 rachis
@@ -64257,6 +64255,7 @@ ranatra
 rance
 ranch
 rancher
+ranchero
 ranching
 rancid
 rancidity
@@ -64820,6 +64819,7 @@ recessionary
 recessive
 recharge
 rechargeable
+rechart
 rechauffe
 recherche
 recidivate
@@ -66944,13 +66944,11 @@ roams
 roan
 roanoke
 roans
-roany
 roar
 roared
 roarer
 roaring
 roars
-roary
 roast
 roasted
 roaster
@@ -66997,7 +66995,6 @@ roccellaceae
 roccus
 rocephin
 rochambeau
-roche
 rochester
 rock
 rockabilly
@@ -67645,7 +67642,6 @@ rumpy
 rumrunner
 runabout
 runaway
-runch
 runcinate
 rundle
 rundown
@@ -67666,6 +67662,7 @@ running
 runny
 runoff
 runos
+runout
 runproof
 runt
 runtiness
@@ -81110,8 +81107,6 @@ triviality
 trivialize
 trivially
 trivium
-trna
-trnc
 troad
 troak
 troat
@@ -81317,6 +81312,7 @@ tryer
 trying
 tryke
 tryma
+tryna
 tryout
 trypetidae
 tryps
@@ -81526,7 +81522,6 @@ tupungatito
 tupungato
 tuque
 turaco
-turacou
 turakoo
 turban
 turbaned
@@ -82345,6 +82340,7 @@ uncharged
 uncharitable
 uncharted
 unchartered
+unchary
 unchaste
 uncheckable
 unchecked
@@ -86274,7 +86270,6 @@ wacko
 wackos
 wacks
 wacky
-waco
 wadas
 wadding
 waddle
@@ -86490,6 +86485,7 @@ wantonly
 wantonness
 wants
 wanty
+wany
 wanze
 wapiti
 waqfs
