@@ -20956,6 +20956,7 @@ dekaliter
 dekalitre
 dekameter
 dekametre
+deke
 deked
 dekes
 dekker
@@ -21293,6 +21294,7 @@ denotive
 denouement
 denounce
 denouncement
+dens
 dense
 densely
 denseness
@@ -21446,6 +21448,7 @@ depressurize
 deprivation
 deprive
 deprived
+deps
 depth
 depths
 deputation
@@ -21525,7 +21528,6 @@ derogation
 derogative
 derogatory
 deros
-derp
 derpy
 derrick
 derrida
@@ -23748,6 +23750,7 @@ doseh
 dosemeter
 doser
 doses
+dosh
 dosha
 dosimeter
 dosimetry
@@ -23843,7 +23846,6 @@ dowar
 dowdily
 dowdiness
 dowding
-dowds
 dowdy
 dowed
 dowel
@@ -23907,7 +23909,6 @@ downwardly
 downwards
 downwind
 downy
-dowps
 dowry
 dowse
 dowser
@@ -23936,7 +23937,6 @@ dozes
 dozing
 dozy
 dphil
-dprk
 drab
 draba
 drably
@@ -25257,6 +25257,8 @@ ejective
 ejector
 ejido
 ekdam
+eked
+ekes
 eking
 ekkas
 ekman
@@ -26871,7 +26873,6 @@ eskimo
 esmolol
 esnes
 esocidae
-esop
 esophageal
 esophagitis
 esophagoscope
@@ -27349,9 +27350,9 @@ evolve
 ewenki
 ewer
 ewers
+ewes
 ewest
 ewhow
-ewked
 exabit
 exabyte
 exacerbate
@@ -42097,6 +42098,7 @@ kenogenesis
 kenos
 kenosis
 kenotron
+kens
 kent
 kentan
 kente
@@ -42112,6 +42114,7 @@ keokuk
 kepi
 kepis
 kepler
+keps
 kept
 kera
 keratalgia
@@ -42147,6 +42150,7 @@ kerbstone
 kerchief
 kerel
 kerensky
+kerf
 kerfs
 kerfuffle
 kerion
@@ -42626,6 +42630,7 @@ knell
 knelt
 knesset
 knesseth
+knew
 knick
 knickerbockers
 knickers
@@ -54241,7 +54246,7 @@ oddments
 oddness
 odds
 odeon
-oder
+odes
 odesa
 odessa
 odets
@@ -57596,8 +57601,8 @@ pedometer
 pedon
 pedophile
 pedophilia
-pedos
 pedro
+peds
 peduncle
 pedunculate
 pedwood
@@ -57797,7 +57802,6 @@ penitentially
 penitentiary
 penitently
 penknife
-penks
 penlight
 penman
 penmanship
@@ -57832,6 +57836,7 @@ penologist
 penology
 penoncel
 penpusher
+pens
 pensacola
 pense
 pension
@@ -60247,6 +60252,7 @@ podocarpaceae
 podocarpus
 podophyllum
 podos
+pods
 podsol
 podunk
 podus
@@ -61432,6 +61438,7 @@ predominantly
 predominate
 predomination
 predy
+pree
 preeclampsia
 preed
 preem
@@ -61497,7 +61504,6 @@ prejudice
 prejudiced
 prejudicial
 prejudicious
-preke
 prelacy
 prelapsarian
 prelate
@@ -65014,6 +65020,7 @@ redbud
 redbug
 redcap
 redcoat
+redd
 redden
 reddened
 redder
@@ -65095,6 +65102,7 @@ redraft
 redress
 redroot
 redry
+reds
 redshank
 redshift
 redskin
@@ -65682,7 +65690,6 @@ rengs
 reniform
 renig
 renin
-renks
 renne
 rennet
 rennin
@@ -65865,6 +65872,7 @@ reprove
 reprover
 reproving
 reprovingly
+reps
 reptantia
 reptile
 reptilia
@@ -71878,12 +71886,13 @@ skaws
 skean
 skear
 skeat
+sked
 skedaddle
 skeds
+skee
 skeed
 skeef
 skeen
-skeer
 skees
 skeet
 skeev
@@ -72643,6 +72652,7 @@ sneaky
 sneap
 snebs
 sneck
+sned
 sneds
 sneed
 sneer
@@ -73696,6 +73706,7 @@ speculatively
 speculativeness
 speculator
 speculum
+sped
 speech
 speechifier
 speechify
@@ -73724,7 +73735,6 @@ speel
 speer
 speil
 speir
-speke
 speks
 spelaeologist
 spelaeology
@@ -74062,7 +74072,6 @@ splotched
 splurge
 splutter
 spock
-spode
 spodoptera
 spods
 spodumene
@@ -74213,9 +74222,7 @@ spreading
 spreadsheet
 sprechgesang
 sprechstimme
-spred
 spree
-sprew
 sprig
 sprigged
 sprigger
@@ -86862,6 +86869,7 @@ wedgwood
 wedgy
 wedlock
 wednesday
+weds
 weeaboo
 weeb
 weed
@@ -86882,6 +86890,7 @@ weeknight
 weeks
 weels
 weems
+ween
 weeness
 weenie
 weens
@@ -86893,6 +86902,8 @@ weepiness
 weeping
 weeps
 weepy
+weer
+wees
 weest
 weete
 weets
@@ -86996,6 +87007,7 @@ wend
 wends
 wenge
 wenny
+wens
 wents
 werent
 werewolf
@@ -87704,7 +87716,6 @@ wobbly
 wocks
 wodan
 wodehouse
-woden
 wodge
 wodgy
 woebegone
