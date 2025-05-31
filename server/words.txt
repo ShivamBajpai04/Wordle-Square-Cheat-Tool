@@ -19406,6 +19406,7 @@ cuprite
 cupro
 cupronickel
 cuprous
+cups
 cupular
 cupulate
 cupule
@@ -19492,6 +19493,7 @@ currishly
 currs
 curry
 currycomb
+curs
 curse
 cursed
 cursedly
@@ -19974,6 +19976,7 @@ dahlia
 dahls
 dahna
 dahomey
+dahs
 daiko
 daikon
 daily
@@ -33916,7 +33919,6 @@ gryllidae
 grype
 gryphon
 grypt
-gspc
 guacamole
 guacharo
 guaco
@@ -36451,9 +36453,7 @@ hoing
 hoise
 hoist
 hoister
-hoka
 hokan
-hokas
 hoked
 hokes
 hokey
@@ -36837,7 +36837,6 @@ hopelessly
 hopelessness
 hoper
 hopes
-hopi
 hoping
 hopkins
 hopkinson
@@ -40575,6 +40574,7 @@ irishwoman
 iritic
 iritis
 irked
+irks
 irksome
 iroko
 iron
@@ -42229,7 +42229,6 @@ khachaturian
 khadafy
 khaddar
 khadi
-khads
 khafs
 khaki
 khakis
@@ -42489,7 +42488,7 @@ kipling
 kiplingesque
 kippa
 kipper
-kipps
+kips
 kipsy
 kirby
 kirchhoff
@@ -42736,7 +42735,6 @@ koffs
 kofta
 kogal
 kogia
-kohas
 kohl
 kohleria
 kohlrabi
@@ -42787,7 +42785,7 @@ koopmans
 koori
 kopeck
 kopek
-kophs
+koph
 kopiyka
 kopje
 koppa
@@ -42887,7 +42885,6 @@ kruger
 krummhorn
 krump
 krunk
-krupp
 krypterophaneron
 krypton
 ksars
@@ -54448,6 +54445,7 @@ ojibway
 ojime
 okapi
 okapia
+okas
 okay
 okayed
 okays
@@ -63163,6 +63161,7 @@ purge
 purged
 purger
 purging
+puri
 purification
 purificator
 purificatorium
@@ -63211,6 +63210,7 @@ purr
 purre
 purrs
 purry
+purs
 purse
 purser
 purses
@@ -66754,6 +66754,7 @@ rigorousness
 rigour
 rigourousness
 rigout
+rigs
 rigveda
 rijstafel
 rijsttafel
@@ -71871,6 +71872,7 @@ skank
 skanky
 skarn
 skart
+skas
 skate
 skateboard
 skateboarder
@@ -73845,7 +73847,6 @@ sphyrapicus
 sphyrna
 sphyrnidae
 spial
-spic
 spica
 spicate
 spiccato
@@ -73882,7 +73883,6 @@ spiffing
 spiffy
 spifs
 spigot
-spik
 spike
 spiked
 spikelet
@@ -74228,6 +74228,7 @@ sprigged
 sprigger
 sprightliness
 sprightly
+sprigs
 sprigtail
 spring
 springboard
@@ -74409,7 +74410,6 @@ srbija
 sriracha
 srsly
 ssmg
-ssri
 stab
 stabber
 stabbing
@@ -84611,6 +84611,8 @@ uropygi
 uropygium
 urosaurus
 urped
+urps
+ursa
 ursae
 ursid
 ursidae
@@ -87397,6 +87399,7 @@ wight
 wigless
 wigmaker
 wigner
+wigs
 wigwag
 wigwam
 wikis
