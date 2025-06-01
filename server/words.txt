@@ -1715,6 +1715,7 @@ agenize
 agent
 agential
 agents
+ager
 agerasia
 ageratina
 ageratum
@@ -4912,11 +4913,10 @@ areopagite
 areopagus
 arepa
 arequipa
-arere
 ares
 arete
+aretes
 arethusa
-arets
 argal
 argali
 argan
@@ -5157,7 +5157,6 @@ arrears
 arrest
 arrester
 arresting
-arret
 arrhenatherum
 arrhenius
 arrhythmia
@@ -5210,7 +5209,6 @@ artel
 artemia
 artemis
 artemisia
-arter
 arteria
 arterial
 arterialise
@@ -5800,6 +5798,7 @@ atelier
 ateliosis
 aten
 atenolol
+ates
 athabascan
 athabaskan
 athanasianism
@@ -6357,8 +6356,11 @@ aversion
 aversive
 avert
 avertable
+averter
+averters
 avertible
 averting
+averts
 aves
 avesta
 avestan
@@ -26769,8 +26771,8 @@ erroneousness
 error
 errorless
 errors
+errs
 ersatz
-erse
 erses
 erst
 erstwhile
@@ -31649,8 +31651,8 @@ garnishment
 garonne
 garotte
 garpike
-garre
 garret
+garrets
 garri
 garrick
 garrison
@@ -31665,6 +31667,7 @@ garrulously
 garrulousness
 garrulus
 garter
+garters
 garth
 garuda
 garum
@@ -31804,6 +31807,7 @@ gautama
 gauze
 gauzy
 gavage
+gave
 gavel
 gavia
 gavial
@@ -32183,7 +32187,6 @@ gerontological
 gerontologist
 gerontology
 gerreidae
-gerres
 gerrhonotus
 gerridae
 gerrididae
@@ -32218,6 +32221,7 @@ getas
 getatable
 getaway
 getgo
+gets
 gettable
 getting
 gettysburg
@@ -33486,6 +33490,7 @@ graven
 graveness
 graver
 graverobber
+gravers
 graves
 gravestone
 graveyard
@@ -33626,7 +33631,6 @@ grenadier
 grenadine
 grenoble
 grens
-greps
 grese
 gresham
 gretzky
@@ -41150,7 +41154,6 @@ jealously
 jealousy
 jean
 jeans
-jeats
 jebel
 jeddah
 jedis
@@ -41228,6 +41231,7 @@ jerry
 jersey
 jerusalem
 jespersen
+jess
 jessamine
 jesse
 jessy
@@ -41242,11 +41246,13 @@ jesuitical
 jesuitism
 jesuitry
 jesus
+jete
 jetee
 jetes
 jeth
 jetliner
 jeton
+jets
 jetsam
 jetting
 jettison
@@ -57474,7 +57480,6 @@ peans
 peanut
 peanuts
 pear
-peare
 pearl
 pearler
 pearlescent
@@ -57487,6 +57492,7 @@ pearly
 pearmain
 pears
 peart
+pearter
 peary
 peasant
 peasanthood
@@ -58010,6 +58016,7 @@ perdu
 perdurability
 perdurable
 perdy
+pere
 perea
 peregrinate
 peregrination
@@ -58261,7 +58268,6 @@ perps
 perquisite
 perry
 perse
-persea
 persecute
 persecution
 persecutor
@@ -58319,7 +58325,6 @@ perspicuousness
 perspiration
 perspire
 perspirer
-perst
 persuadable
 persuade
 persuader
@@ -58331,6 +58336,7 @@ persuasiveness
 pert
 pertain
 pertainym
+perter
 perth
 pertinacious
 pertinaciously
@@ -58341,7 +58347,6 @@ pertinent
 pertinently
 pertly
 pertness
-perts
 perturb
 perturbation
 perturbed
@@ -61232,7 +61237,6 @@ praetorial
 praetorian
 praetorium
 praetorship
-prag
 pragmatic
 pragmatical
 pragmatically
@@ -61665,6 +61669,7 @@ pressurise
 pressurize
 presswoman
 prest
+prester
 prestidigitation
 prestidigitator
 prestige
@@ -61684,7 +61689,6 @@ presumptuousness
 presuppose
 presupposition
 presymptomatic
-preta
 preteen
 preteenager
 pretence
@@ -62732,6 +62736,7 @@ psora
 psoralea
 psoriasis
 pssst
+psst
 psych
 psyche
 psychedelia
@@ -64543,6 +64548,7 @@ ravenously
 ravenousness
 ravens
 raver
+ravers
 raves
 ravey
 ravigote
@@ -64702,6 +64708,7 @@ rearmament
 rearmost
 rearrange
 rearrangement
+rearrest
 rears
 rearward
 rearwards
@@ -64729,7 +64736,6 @@ reassuring
 reassuringly
 reast
 reata
-reate
 reattribute
 reaumur
 reave
@@ -65308,12 +65314,12 @@ regale
 regalecidae
 regalia
 regally
-regar
 regard
 regardant
 regardful
 regardless
 regatta
+regave
 regency
 regenerate
 regenerating
@@ -66181,7 +66187,6 @@ retentive
 retentively
 retentiveness
 retentivity
-retes
 retest
 rethink
 retia
@@ -66271,6 +66276,7 @@ retrovir
 retrovirus
 retrovision
 retry
+rets
 retsina
 rettery
 return
@@ -70342,7 +70348,6 @@ serpens
 serpent
 serpentes
 serpentine
-serra
 serranid
 serranidae
 serranus
@@ -70353,11 +70358,11 @@ serratia
 serration
 serratula
 serratus
-serre
 serried
 serrs
 serrulate
 serry
+sers
 sertindole
 sertraline
 sertularia
@@ -70412,7 +70417,6 @@ setae
 setal
 setaria
 setback
-seter
 seth
 seths
 setline
@@ -75309,10 +75313,8 @@ stradavarius
 straddle
 stradivari
 stradivarius
-strae
 strafe
 strafer
-strag
 straggle
 straggler
 straggling
@@ -75434,6 +75436,7 @@ strenuously
 strenuousness
 strep
 strepera
+streps
 strepsiceros
 strepsirhini
 streptobacillus
@@ -78531,13 +78534,13 @@ terpsichorean
 terra
 terrace
 terracotta
+terrae
 terrain
 terramycin
 terrapene
 terrapin
 terrarium
 terrasse
-terre
 terrene
 terreplein
 terrestrial
@@ -78566,7 +78569,6 @@ terrorism
 terrorist
 terrorization
 terrorize
-terrs
 terry
 terrycloth
 terse
@@ -80809,6 +80811,7 @@ trepidation
 trepidly
 treponema
 treponemataceae
+tres
 trespass
 trespasser
 trespassing
@@ -85318,9 +85321,8 @@ venula
 venule
 venus
 venushair
-veps
-vepse
 vepsian
+vera
 veracious
 veracity
 veracruz
@@ -85368,7 +85370,6 @@ verdolagas
 verdun
 verdure
 verge
-verger
 vergil
 veridical
 verifiability
@@ -85416,10 +85417,8 @@ veronal
 veronese
 veronica
 verpa
-verra
 verrazano
 verrazzano
-verre
 verruca
 verrucose
 verry
@@ -85432,6 +85431,7 @@ versatility
 verse
 versed
 verses
+verset
 versicle
 versification
 versifier
@@ -85439,8 +85439,9 @@ versify
 version
 verso
 verst
+verste
 versus
-verte
+vert
 vertebra
 vertebral
 vertebrata
@@ -85525,6 +85526,7 @@ veterinary
 vetluga
 veto
 vetoed
+vets
 vetted
 veuve
 veves
