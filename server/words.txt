@@ -19999,7 +19999,6 @@ daisy
 daisybush
 daisylike
 dakar
-daker
 dakoit
 dakoity
 dakota
@@ -20745,6 +20744,7 @@ deers
 deerskin
 deerstalker
 deerstalking
+deet
 deets
 deeve
 deevs
@@ -21098,6 +21098,7 @@ dematerialise
 dematerialize
 dematiaceae
 demavend
+deme
 demean
 demeaning
 demeaningly
@@ -21112,7 +21113,6 @@ demerit
 demerol
 demes
 demesne
-demeter
 demetrius
 demic
 demiglace
@@ -21154,6 +21154,7 @@ demode
 demodulate
 demodulation
 demodulator
+demoed
 demogorgon
 demographer
 demographic
@@ -21372,6 +21373,7 @@ dependant
 dependence
 dependency
 dependent
+deperm
 depersonalise
 depersonalize
 depict
@@ -21471,6 +21473,7 @@ derat
 derate
 deray
 derby
+dere
 derecognise
 derecognize
 dered
@@ -21497,6 +21500,7 @@ derivative
 derive
 derived
 deriving
+derm
 derma
 dermabrasion
 dermacentor
@@ -24997,7 +25001,6 @@ edacity
 edam
 edaphosauridae
 edaphosaurus
-edda
 eddies
 eddington
 eddo
@@ -25621,7 +25624,6 @@ embryonal
 embryonic
 embryotic
 emcee
-emda
 emdash
 emeer
 emend
@@ -42047,6 +42049,7 @@ keeping
 keeps
 keepsake
 keeshond
+keet
 keets
 keeve
 kefir
@@ -42080,6 +42083,7 @@ kelvin
 kemadrin
 kembo
 kembs
+kemp
 kemps
 kempt
 kempy
@@ -45421,8 +45425,6 @@ lomatia
 lombard
 lombardia
 lombardy
-lome
-lomed
 loment
 lomes
 lomogramma
@@ -49829,6 +49831,7 @@ mocos
 mocus
 modal
 modality
+modder
 mode
 model
 modeled
@@ -49839,7 +49842,6 @@ modeller
 modelling
 models
 modem
-moder
 moderate
 moderately
 moderateness
@@ -50812,8 +50814,6 @@ mozed
 mozes
 mozos
 mozzarella
-mpeg
-mpret
 mrads
 mrem
 mrna
@@ -54475,6 +54475,7 @@ okrug
 oktas
 oktoberfest
 olate
+olde
 olden
 oldenburg
 older
@@ -54585,7 +54586,6 @@ ombudsperson
 ombudswoman
 omdah
 omdas
-omdda
 omdeh
 omdurman
 omees
@@ -54596,6 +54596,7 @@ omen
 omens
 omentum
 omeprazole
+omer
 omers
 omerta
 omiai
@@ -54884,7 +54885,6 @@ opium
 opopanax
 oporto
 opossum
-oppa
 oppenheimer
 opponent
 opportune
@@ -56170,7 +56170,6 @@ paddle
 paddlefish
 paddler
 paddlewheel
-paddo
 paddock
 paddy
 paddymelon
@@ -58456,7 +58455,6 @@ petitioner
 petos
 petrarca
 petrarch
-petre
 petrel
 petri
 petrifaction
@@ -61214,7 +61212,6 @@ poyou
 poyse
 pozsony
 pozzy
-pplo
 praam
 practicability
 practicable
@@ -61445,7 +61442,6 @@ predy
 pree
 preeclampsia
 preed
-preem
 preemie
 preeminence
 preeminent
@@ -61540,6 +61536,7 @@ premiss
 premium
 premix
 premolar
+premold
 premonition
 premonitory
 prems
@@ -65147,7 +65144,6 @@ reecho
 reechoing
 reed
 reedbird
-reede
 reedlike
 reedmace
 reeds
@@ -78105,9 +78101,11 @@ tediously
 tediousness
 tedium
 teds
+teed
 teel
 teels
 teem
+teemed
 teeming
 teemingness
 teems
@@ -78273,13 +78271,12 @@ telsontail
 telugu
 temazepam
 temblor
-temed
 temerarious
 temerity
 temes
 temnospondyli
 temp
-tempe
+temped
 temper
 tempera
 temperament
@@ -78487,7 +78484,6 @@ teredinid
 teredinidae
 teredo
 terefah
-terek
 terence
 terengganu
 teres
@@ -80766,6 +80762,7 @@ trek
 trekker
 treks
 trellis
+trem
 trema
 trematoda
 trematode
