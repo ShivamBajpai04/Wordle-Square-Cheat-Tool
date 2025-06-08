@@ -15093,6 +15093,7 @@ cinnamon
 cinqs
 cinque
 cinquefoil
+cion
 cions
 cipher
 cippi
@@ -15180,7 +15181,9 @@ cisco
 cislunar
 cismontane
 cissy
+cist
 cistaceae
+cisted
 cistercian
 cistern
 cisterna
@@ -16125,7 +16128,6 @@ coir
 coirs
 coital
 coition
-coits
 coitus
 coke
 coked
@@ -17108,6 +17110,7 @@ congruent
 congruity
 congruous
 congruousness
+coni
 conia
 conic
 conical
@@ -17204,6 +17207,7 @@ conquest
 conquistador
 conrad
 conradina
+cons
 consanguine
 consanguineal
 consanguineous
@@ -18933,7 +18937,6 @@ cromwellian
 cronartium
 crone
 cronk
-crons
 cronus
 crony
 cronyism
@@ -19080,6 +19083,7 @@ cruelness
 cruelty
 crues
 cruet
+cruets
 cruft
 crufty
 cruise
@@ -19274,6 +19278,7 @@ cuddy
 cudgel
 cudweed
 cueca
+cued
 cuff
 cuffed
 cufflink
@@ -19286,7 +19291,6 @@ cuirassier
 cuish
 cuisine
 cuisse
-cuits
 cuke
 cukes
 culbertson
@@ -19438,6 +19442,7 @@ curch
 curculionidae
 curcuma
 curd
+curded
 curdle
 curdled
 curdling
@@ -19567,6 +19572,7 @@ cussed
 cussedly
 cussedness
 cusso
+cust
 custard
 custer
 custodial
@@ -19605,6 +19611,7 @@ cuticular
 cutie
 cutin
 cutinize
+cutins
 cutis
 cutlas
 cutlass
@@ -19615,6 +19622,7 @@ cutlet
 cutoff
 cutout
 cutpurse
+cuts
 cuttable
 cutter
 cutthroat
@@ -20718,7 +20726,9 @@ deducible
 deduct
 deductible
 deduction
+deductions
 deductive
+deducts
 deed
 deedbox
 deeded
@@ -24171,6 +24181,7 @@ droid
 droids
 droil
 droit
+droits
 droke
 drole
 droll
@@ -24297,7 +24308,6 @@ drywall
 dscdna
 dsobo
 dsomo
-dtic
 duad
 duads
 dual
@@ -24335,6 +24345,7 @@ duces
 duchamp
 duchess
 duchy
+duci
 duck
 duckbill
 duckboard
@@ -24347,7 +24358,7 @@ ducks
 duckweed
 ducky
 duct
-ducti
+ducted
 ductile
 ductileness
 ductility
@@ -24386,6 +24397,7 @@ dugong
 dugongidae
 dugout
 duing
+duit
 duits
 dukas
 duke
@@ -24535,6 +24547,7 @@ durion
 durkheim
 durmast
 durns
+duro
 duroc
 durometer
 duros
@@ -25065,6 +25078,9 @@ educative
 educator
 educe
 educt
+eduction
+eductions
+eductor
 edulcorate
 edutainment
 edward
@@ -39026,7 +39042,6 @@ incurvation
 incurvature
 incurved
 incus
-incut
 indaba
 indapamide
 indebted
@@ -39852,7 +39867,6 @@ inspiriting
 inspissate
 inspissation
 inspo
-inst
 instability
 instagay
 instagood
@@ -40517,6 +40531,7 @@ ionize
 ionized
 ionophoresis
 ionosphere
+ions
 iontophoresis
 iontotherapy
 ioras
@@ -52656,7 +52671,6 @@ nictated
 nictation
 nictitate
 nictitation
-nicu
 nidal
 nidaros
 nidation
@@ -52838,7 +52852,6 @@ nisi
 nisin
 nissan
 nisse
-nist
 nisus
 nital
 nite
@@ -53668,7 +53681,6 @@ nrtya
 nsaid
 nsima
 nswc
-ntis
 nuance
 nubbin
 nubbiness
@@ -54446,7 +54458,6 @@ oink
 oinks
 oinky
 ointment
-oints
 oiran
 oireachtas
 ojibwa
@@ -55024,6 +55035,7 @@ orchis
 orchitis
 orchotomy
 orcin
+orcins
 orcinus
 orcus
 orczy
@@ -67086,8 +67098,6 @@ roiled
 roiling
 roils
 roily
-roins
-roist
 roister
 roisterer
 rojak
@@ -67180,7 +67190,6 @@ ronin
 ronne
 ronte
 rontgen
-ronts
 ronuk
 rood
 roods
@@ -67326,7 +67335,6 @@ rotational
 rotationally
 rotatory
 rotavirus
-rotc
 rotch
 rote
 roted
@@ -67539,6 +67547,7 @@ rucks
 rucksack
 ruckus
 ruction
+ructions
 rudapithecus
 rudas
 rudbeckia
@@ -67565,6 +67574,7 @@ rudimentary
 rudiments
 rudis
 rudra
+rued
 rueda
 rueful
 ruefully
@@ -67771,8 +67781,10 @@ ruths
 rutile
 rutilus
 rutin
+rutins
 rutland
 rutledge
+ruts
 rutted
 ruttish
 rutty
@@ -71739,7 +71751,6 @@ sinusitis
 sinusoid
 sinusoidal
 sinusoidally
-sion
 siouan
 sioux
 siped
@@ -75606,7 +75617,6 @@ stucs
 stud
 studbook
 studded
-stude
 student
 studentship
 studhorse
@@ -78683,6 +78693,7 @@ tetrodotoxin
 tetrose
 tetroxide
 tetryl
+tets
 tetter
 tetterwort
 tettigoniid
@@ -79547,6 +79558,7 @@ tinbergen
 tinca
 tinct
 tincted
+tincts
 tincture
 tindal
 tindale
@@ -79585,6 +79597,7 @@ tinnitus
 tinny
 tinplate
 tinpot
+tins
 tinsel
 tinseled
 tinselly
@@ -79691,6 +79704,7 @@ titrate
 titration
 titrator
 titre
+tits
 titter
 titterer
 tittering
@@ -79703,7 +79717,6 @@ titty
 titular
 titulary
 titup
-titus
 tivoli
 tiyin
 tiyns
@@ -79807,6 +79820,8 @@ toilsome
 toilsomeness
 toing
 toise
+toit
+toited
 toitoi
 toits
 toity
@@ -80050,6 +80065,7 @@ toradol
 torah
 toran
 toras
+torc
 torch
 torchbearer
 torchlight
@@ -81172,12 +81188,10 @@ tromp
 trompillo
 trona
 tronas
-tronc
 trondheim
 trondheimsfjord
 trone
 tronk
-trons
 troop
 trooper
 troops
@@ -81437,6 +81451,7 @@ tuile
 tuileries
 tuille
 tuina
+tuis
 tuism
 tuition
 tuktu
@@ -81626,7 +81641,6 @@ turnt
 turntable
 turnup
 turnverein
-turon
 turp
 turpentine
 turpin
@@ -81678,8 +81692,8 @@ tutorial
 tutorially
 tutors
 tutorship
+tuts
 tutsan
-tutsi
 tutti
 tutty
 tutu
@@ -84670,7 +84684,6 @@ uskub
 usmc
 usnea
 usneaceae
-usnic
 usps
 usque
 ussher
