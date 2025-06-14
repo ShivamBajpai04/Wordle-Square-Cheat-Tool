@@ -758,9 +758,7 @@ acinous
 acinus
 acipenser
 acipenseridae
-acked
 ackee
-acker
 acknowledge
 acknowledgeable
 acknowledged
@@ -1071,7 +1069,6 @@ adducting
 adduction
 adductive
 adductor
-adead
 adeem
 adelaide
 adelges
@@ -6474,6 +6471,7 @@ awol
 awols
 awork
 awry
+axed
 axel
 axels
 axeman
@@ -6502,7 +6500,6 @@ axles
 axletree
 axman
 axmen
-axoid
 axolemma
 axolotl
 axon
@@ -11780,6 +11777,7 @@ caddisworm
 caddo
 caddoan
 caddy
+cade
 cadee
 cadence
 cadenced
@@ -11793,6 +11791,7 @@ cadetship
 cadge
 cadger
 cadgy
+cadi
 cadie
 cadis
 cadiz
@@ -11854,6 +11853,7 @@ cagy
 cahita
 cahoot
 cahow
+caid
 caids
 caiman
 caimitillo
@@ -16000,6 +16000,7 @@ codon
 codpiece
 codswallop
 cody
+coed
 coeds
 coeducate
 coeducation
@@ -19921,6 +19922,7 @@ dachshund
 dachsie
 dacite
 dacitic
+dacker
 dacks
 dacninae
 dacoit
@@ -20007,7 +20009,6 @@ daisy
 daisybush
 daisylike
 dakar
-daker
 dakoit
 dakoity
 dakota
@@ -21983,7 +21984,6 @@ diachronic
 diachrony
 diacritic
 diacritical
-diact
 diadem
 diadophis
 diadromous
@@ -23402,6 +23402,7 @@ dockage
 docked
 docker
 docket
+docketed
 dockhand
 docking
 docks
@@ -23787,6 +23788,7 @@ dotes
 doting
 dotrel
 dotted
+dotter
 dotterel
 dottily
 dottle
@@ -28658,7 +28660,6 @@ fecund
 fecundate
 fecundation
 fecundity
-fedai
 fedayeen
 fedelline
 federal
@@ -28805,6 +28806,7 @@ fentanyl
 fents
 fenugreek
 fenusa
+feod
 feods
 feoff
 feosol
@@ -28925,6 +28927,7 @@ fetor
 fetoscope
 fetoscopy
 fetta
+fetted
 fetter
 fetterbush
 fettered
@@ -37955,7 +37958,6 @@ ibsen
 ibsenian
 ibuprofen
 icaco
-icao
 icarus
 icbm
 iceberg
@@ -42204,6 +42206,7 @@ ketchup
 keteleeria
 ketembilla
 ketes
+keto
 ketoacidosis
 ketoaciduria
 ketoheptose
@@ -42568,6 +42571,7 @@ kiths
 kitke
 kitsch
 kitschy
+kitted
 kittee
 kitten
 kittenish
@@ -42846,7 +42850,6 @@ kosteletzya
 kota
 kotar
 kotch
-kotex
 koto
 kotoko
 kotos
@@ -53935,7 +53938,6 @@ oafs
 oahu
 oaked
 oaken
-oaker
 oakland
 oakley
 oakum
@@ -54263,6 +54265,7 @@ oddment
 oddments
 oddness
 odds
+odea
 odeon
 odes
 odesa
@@ -65301,6 +65304,7 @@ refrigerating
 refrigeration
 refrigerator
 refry
+reft
 refuel
 refueling
 refuge
@@ -65493,7 +65497,6 @@ rejon
 rejuvenate
 rejuvenation
 rejuvenescence
-reked
 rekes
 rekey
 rekindle
@@ -66205,7 +66208,6 @@ retia
 reticence
 reticent
 reticently
-retick
 reticle
 reticular
 reticulate
@@ -66233,7 +66235,6 @@ retiring
 retool
 retort
 retouch
-retox
 retrace
 retract
 retractable
@@ -66290,6 +66291,7 @@ retrovision
 retry
 rets
 retsina
+retted
 rettery
 return
 returnable
@@ -78504,7 +78506,6 @@ teres
 teresa
 tereshkova
 terete
-terfe
 terfs
 terga
 tergiversate
@@ -79389,6 +79390,7 @@ tick
 ticked
 ticker
 ticket
+ticketed
 ticking
 tickle
 tickler
@@ -79756,6 +79758,8 @@ tocainide
 tocantins
 toccata
 tocharian
+tock
+tocked
 tocks
 tocktact
 tocky
@@ -79770,7 +79774,6 @@ todde
 toddle
 toddler
 toddy
-todea
 todidae
 todos
 todus
