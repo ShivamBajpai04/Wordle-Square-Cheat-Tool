@@ -818,7 +818,6 @@ acquittal
 acquittance
 acquitted
 acragas
-acral
 acrasiomycetes
 acre
 acreage
@@ -2370,8 +2369,8 @@ alimental
 alimentary
 alimentation
 alimentative
+aliments
 alimony
-alims
 aline
 alinement
 aliphatic
@@ -2579,6 +2578,7 @@ almandine
 almandite
 almas
 almaty
+alme
 almeh
 almes
 almighty
@@ -2897,6 +2897,7 @@ amentaceous
 amentia
 amentiferae
 amentiferous
+aments
 amerce
 amercement
 amerciable
@@ -4846,6 +4847,7 @@ arciform
 arcminute
 arco
 arcos
+arcs
 arcsec
 arcsecant
 arcsecond
@@ -11970,7 +11972,6 @@ calf
 calfs
 calfskin
 calgary
-cali
 caliber
 calibrate
 calibrated
@@ -12087,6 +12088,7 @@ calpack
 calpe
 calps
 calque
+cals
 caltha
 caltrop
 calumet
@@ -12148,6 +12150,7 @@ cambric
 cambridge
 camcorder
 camden
+came
 camel
 camelhair
 camelia
@@ -12169,6 +12172,7 @@ cameroonian
 cameroun
 cames
 camgirl
+cami
 camion
 camis
 camise
@@ -12226,6 +12230,7 @@ campy
 campyloneurum
 campylorhynchus
 campylotropous
+cams
 camshaft
 camus
 camwood
@@ -12962,7 +12967,6 @@ carves
 carving
 carvy
 carwash
-carya
 caryatid
 caryocar
 caryocaraceae
@@ -18564,7 +18568,6 @@ craigie
 crake
 cram
 crambe
-crame
 crammer
 cramp
 crampbark
@@ -25537,7 +25540,6 @@ elytron
 emaciate
 emaciated
 emaciation
-emacs
 email
 emails
 emanate
@@ -25887,6 +25889,7 @@ encyclopedia
 encyclopedic
 encyclopedism
 encyclopedist
+encyst
 encysted
 endaemonism
 endameba
@@ -26321,7 +26324,6 @@ entry
 entryphone
 entryway
 entsi
-entsy
 entwine
 enucleate
 enucleation
@@ -27004,6 +27006,7 @@ etch
 etched
 etcher
 etching
+etcs
 etens
 eternal
 eternalise
@@ -38260,7 +38263,6 @@ illustriously
 illustriousness
 illyria
 illyrian
-ilmen
 ilmenite
 ilosone
 ilxx
@@ -38799,7 +38801,6 @@ inbred
 inbreeding
 inbuilt
 inbye
-inca
 incalculable
 incalescence
 incan
@@ -41155,6 +41156,7 @@ jawless
 jawns
 jaxie
 jaybird
+jays
 jayshullah
 jaywalk
 jaywalker
@@ -42124,7 +42126,6 @@ kent
 kentan
 kente
 kentish
-kents
 kentuckian
 kentucky
 kenya
@@ -42418,7 +42419,6 @@ kilty
 kimberley
 kimberlite
 kimbo
-kimet
 kimono
 kina
 kinaesthesia
@@ -42601,7 +42601,6 @@ klett
 klick
 klieg
 kliks
-klimt
 kline
 klinefelter
 klondike
@@ -43144,6 +43143,7 @@ lacrimation
 lacrimator
 lacrimatory
 lacrosse
+lacs
 lactaid
 lactalbumin
 lactarius
@@ -43322,6 +43322,7 @@ lamentations
 lamented
 lamenter
 lamenting
+laments
 lamer
 lames
 lamia
@@ -43579,6 +43580,7 @@ larotid
 larousse
 larrea
 larrup
+lars
 larum
 larus
 larva
@@ -46369,6 +46371,7 @@ macrouridae
 macrozamia
 macrozoarces
 macruridae
+macs
 macte
 macula
 maculate
@@ -46763,7 +46766,6 @@ malformation
 malformed
 malfunction
 malfunctioning
-mali
 malian
 malic
 malice
@@ -46779,7 +46781,6 @@ maligner
 malignity
 malignly
 malignment
-malik
 malinger
 malingerer
 malingering
@@ -48122,7 +48123,6 @@ meids
 meiko
 meils
 meins
-meint
 meiny
 meiosis
 meiotic
@@ -48388,7 +48388,6 @@ mentioner
 mento
 mentor
 mentoree
-ments
 mentum
 mentzelia
 menu
@@ -49247,6 +49246,7 @@ milord
 milos
 milpa
 milquetoast
+mils
 milt
 miltiades
 miltomate
@@ -52216,6 +52216,7 @@ nelly
 nelson
 nelumbo
 nelumbonaceae
+nema
 nemas
 nematocera
 nematoda
@@ -52413,6 +52414,7 @@ netlike
 netmail
 netminder
 netop
+nets
 netscape
 nett
 netta
@@ -64240,6 +64242,8 @@ rames
 rameses
 ramesses
 ramet
+ramets
+rami
 ramie
 ramification
 ramify
@@ -64267,6 +64271,7 @@ ramphomicron
 rampion
 ramps
 ramrod
+rams
 ramse
 ramses
 ramsh
@@ -68113,7 +68118,6 @@ salientia
 salientian
 saliferous
 saligenin
-salim
 salina
 salinate
 saline
@@ -68129,7 +68133,6 @@ salivary
 salivate
 salivation
 salix
-salk
 salle
 sallet
 sallow
@@ -68255,14 +68258,12 @@ same
 samek
 samekh
 samel
-samen
 sameness
 sames
 samey
 samfi
 samfu
 samhita
-sami
 samia
 samiel
 samisen
@@ -69227,7 +69228,6 @@ sclerotium
 sclerotomy
 sclim
 sclk
-scnt
 scobe
 scody
 scoed
@@ -78165,6 +78165,7 @@ tehrs
 teiid
 teiidae
 teils
+tein
 teind
 teins
 teju
@@ -79555,7 +79556,6 @@ tinamiformes
 tinamou
 tinas
 tinbergen
-tinca
 tinct
 tincted
 tincts
@@ -88656,7 +88656,6 @@ yrapt
 yrent
 yrivd
 yrneh
-ysame
 ytost
 ytterbite
 ytterbium
