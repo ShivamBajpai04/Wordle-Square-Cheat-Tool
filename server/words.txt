@@ -6476,6 +6476,7 @@ awol
 awols
 awork
 awry
+axed
 axel
 axels
 axeman
@@ -8316,7 +8317,6 @@ berycomorphi
 beryl
 beryllium
 berzelius
-besat
 besaw
 besee
 beseech
@@ -21270,10 +21270,10 @@ dendroidal
 dendrolagus
 dendrology
 dendromecon
+dene
 deneb
 denebola
 denes
-denet
 dengue
 deni
 deniable
@@ -21322,7 +21322,6 @@ dent
 dental
 dentaria
 dentate
-dente
 dented
 denticle
 denticulate
@@ -21830,6 +21829,7 @@ deuteronomy
 deutschland
 deutschmark
 deutzia
+deva
 devaluate
 devaluation
 devalue
@@ -21848,6 +21848,7 @@ developing
 development
 developmental
 developmentally
+devest
 devi
 deviance
 deviant
@@ -26841,7 +26842,6 @@ erythroxylon
 erythroxylum
 esaki
 esau
-esbat
 escadrille
 escalade
 escalader
@@ -27295,6 +27295,7 @@ evasively
 evasiveness
 evegs
 even
+evened
 evenfall
 evenhanded
 evenhandedly
@@ -27336,6 +27337,7 @@ everyplace
 everything
 everywhere
 everywoman
+eves
 evets
 evhoe
 evict
@@ -27689,6 +27691,7 @@ expatiate
 expatiation
 expatriate
 expatriation
+expats
 expect
 expectable
 expectancy
@@ -31309,6 +31312,7 @@ gabor
 gaboriau
 gaborone
 gabriel
+gabs
 gabun
 gadaba
 gadabout
@@ -31725,6 +31729,7 @@ gassed
 gasses
 gassing
 gassy
+gast
 gasteromycete
 gasteromycetes
 gasterophilidae
@@ -31785,6 +31790,7 @@ gathic
 gaths
 gatling
 gator
+gats
 gatt
 gauch
 gauche
@@ -32012,7 +32018,7 @@ genetics
 genetta
 geneva
 genevan
-geneve
+genevas
 genf
 genial
 geniality
@@ -32057,6 +32063,7 @@ gentamicin
 genteel
 genteelly
 genteelness
+gentes
 gentian
 gentiana
 gentianaceae
@@ -46246,6 +46253,7 @@ maar
 maarianhamina
 maars
 maban
+mabe
 mabes
 macabre
 macaca
@@ -46443,6 +46451,7 @@ magas
 magazine
 magdalen
 magdalena
+mage
 magellan
 magenta
 mages
@@ -47654,6 +47663,7 @@ matrix
 matron
 matronly
 matronymic
+mats
 matsu
 matsyendra
 matt
@@ -52402,7 +52412,6 @@ nests
 nesty
 netas
 netball
-netes
 nether
 netherlander
 netherlands
@@ -52530,7 +52539,6 @@ neutron
 neutropenia
 neutrophil
 neutrophile
-neva
 nevada
 nevadan
 neve
@@ -57121,6 +57129,7 @@ pascal
 pasch
 pascha
 paschal
+pase
 paseo
 pases
 pasha
@@ -57347,6 +57356,7 @@ patronless
 patronne
 patronym
 patronymic
+pats
 patsy
 patta
 patte
@@ -57390,7 +57400,6 @@ pavas
 pave
 paved
 pavement
-paven
 paver
 paves
 pavid
@@ -67837,6 +67846,7 @@ sabbatia
 sabbatic
 sabbatical
 sabbatum
+sabe
 sabed
 sabellian
 saber
@@ -68279,6 +68289,7 @@ samovar
 samoyed
 samoyede
 samoyedic
+samp
 sampan
 samphire
 sampi
@@ -68773,7 +68784,6 @@ sawtooth
 sawwort
 sawyer
 saxatile
-saxe
 saxegothea
 saxes
 saxhorn
@@ -74736,6 +74746,7 @@ staurikosaur
 staurikosaurus
 stavanger
 stave
+staved
 staws
 stay
 stayed
@@ -77312,6 +77323,7 @@ tabos
 tabour
 tabouret
 tabriz
+tabs
 tabu
 tabular
 tabularise
@@ -77849,6 +77861,7 @@ tarzan
 tarzy
 tasar
 tasca
+tase
 tased
 taser
 tases
@@ -78711,6 +78724,7 @@ tewed
 tewel
 tewit
 tewkesbury
+tews
 texan
 texarkana
 texas
@@ -85130,6 +85144,7 @@ vaticination
 vaticinator
 vatje
 vatos
+vats
 vatus
 vauch
 vaudeville
@@ -85149,6 +85164,7 @@ vaus
 vaute
 vaux
 vawte
+vaxed
 vaxes
 vayu
 veadar
