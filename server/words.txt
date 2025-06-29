@@ -34478,6 +34478,7 @@ haems
 haemulidae
 haemulon
 haere
+haet
 haets
 haffs
 hafis
@@ -34513,6 +34514,7 @@ hagiologist
 hagiology
 hagionym
 hagridden
+haha
 haham
 hahas
 hahn
@@ -34526,6 +34528,7 @@ haiks
 haiku
 hail
 hailed
+hailer
 hails
 hailstone
 hailstorm
@@ -35043,7 +35046,6 @@ harshen
 harshly
 harshness
 hart
-harte
 hartebeest
 hartford
 hartley
@@ -35162,6 +35164,7 @@ haute
 hauteur
 havan
 havana
+havarti
 havasupai
 have
 havel
@@ -35817,7 +35820,6 @@ heptane
 heptasyllable
 heptose
 hepworth
-hera
 heracles
 heracleum
 heraclitus
@@ -35827,7 +35829,6 @@ heralded
 heraldic
 heraldist
 heraldry
-herat
 herb
 herbaceous
 herbage
@@ -35880,6 +35881,7 @@ heritable
 heritage
 heritiera
 heritor
+herl
 herls
 herm
 herma
@@ -44110,7 +44112,7 @@ legs
 legume
 leguminosae
 leguminous
-lehar
+lehr
 lehrs
 lehua
 leibnitz
@@ -44495,7 +44497,6 @@ liao
 liar
 liard
 liars
-liart
 lias
 liatris
 libation
@@ -45057,7 +45058,6 @@ litas
 litchee
 litchi
 lite
-litem
 liter
 literacy
 literal
@@ -46530,7 +46530,6 @@ maguey
 magus
 magyar
 magyarorszag
-maha
 mahabharata
 mahabharatam
 mahabharatum
@@ -46557,7 +46556,6 @@ mahican
 mahimahi
 mahis
 mahjong
-mahler
 mahlstick
 mahoe
 mahogany
@@ -46635,7 +46633,7 @@ maintainer
 maintenance
 maintenon
 maiolica
-maire
+mair
 mairs
 maise
 maisonette
@@ -47274,7 +47272,6 @@ margosa
 margrave
 margs
 marguerite
-mari
 maria
 mariachi
 marian
@@ -47285,7 +47282,6 @@ mariehamn
 marigold
 marihuana
 marijuana
-maril
 marimba
 marina
 marinade
@@ -47331,7 +47327,6 @@ markup
 markweed
 marl
 marlberry
-marle
 marley
 marlin
 marline
@@ -47408,7 +47403,6 @@ martagon
 marten
 martensite
 martes
-marti
 martial
 martially
 martian
@@ -47906,7 +47900,6 @@ meant
 meantime
 meanwhile
 meany
-meare
 mearstone
 mease
 measles
@@ -48635,6 +48628,7 @@ mesto
 mestranol
 mesua
 mesyl
+meta
 metabola
 metabolic
 metabolically
@@ -57730,6 +57724,7 @@ pelham
 pelican
 peliosis
 pelisse
+pelite
 pellaea
 pellagra
 pellet
@@ -57974,8 +57969,6 @@ peptone
 pepys
 pequi
 peradventure
-perae
-perai
 perak
 perambulate
 perambulating
@@ -58210,6 +58203,7 @@ perky
 perle
 perleche
 perlis
+perlite
 perls
 perm
 permafrost
@@ -58270,6 +58264,7 @@ perorate
 peroration
 peroxidase
 peroxide
+perp
 perpendicular
 perpendicularity
 perpendicularly
@@ -58594,7 +58589,6 @@ phantasy
 phantom
 pharaoh
 pharaonic
-phare
 pharisaic
 pharisaical
 pharisee
@@ -58635,6 +58629,7 @@ phasmid
 phasmida
 phasmidae
 phasmidia
+phat
 pheasant
 pheer
 phegopteris
@@ -59240,7 +59235,6 @@ pile
 pilea
 piled
 pilei
-piler
 piles
 pileup
 pileus
@@ -61268,7 +61262,6 @@ pragmatism
 pragmatist
 prags
 prague
-praha
 prahu
 praia
 prairial
@@ -61776,7 +61769,6 @@ preys
 priacanthidae
 priacanthus
 prial
-priam
 prian
 priapic
 priapism
@@ -64141,7 +64133,6 @@ raiks
 rail
 railbird
 railcar
-raile
 railer
 railhead
 railing
@@ -64286,6 +64277,7 @@ ramses
 ramsh
 ramshackle
 ramsons
+ramtil
 ramus
 rana
 ranales
@@ -77431,6 +77423,7 @@ tahas
 tahini
 tahiti
 tahitian
+tahr
 tahrs
 taichi
 taichichuan
@@ -77445,6 +77438,7 @@ tailband
 tailboard
 tailcoat
 tailed
+tailer
 tailfin
 tailflower
 tailgate
@@ -77956,7 +77950,6 @@ tautological
 tautology
 tauts
 tauty
-tavah
 tavas
 taver
 tavern
@@ -79666,6 +79659,7 @@ tiresome
 tiresomely
 tiresomeness
 tiring
+tirl
 tirls
 tiro
 tirol
@@ -84851,12 +84845,13 @@ vaguely
 vagueness
 vagus
 vaids
+vail
 vails
 vain
 vainglorious
 vainglory
 vainly
-vaire
+vair
 vairs
 vairy
 vaisakha
@@ -87105,11 +87100,11 @@ whams
 whang
 whap
 whaps
-whare
 wharf
 wharfage
 wharfs
 wharton
+what
 whata
 whatchamacallit
 whatchamacallum
