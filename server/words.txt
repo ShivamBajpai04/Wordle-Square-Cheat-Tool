@@ -1835,8 +1835,8 @@ agood
 agora
 agoraphobia
 agoraphobic
+agoras
 agouti
-agra
 agranulocytic
 agranulocytosis
 agranulosis
@@ -1868,6 +1868,7 @@ agrin
 agriocharis
 agrippa
 agrippina
+agro
 agrobacterium
 agrobiologic
 agrobiological
@@ -4681,7 +4682,6 @@ ararat
 arariba
 araroba
 arars
-aras
 arauca
 araucaria
 araucariaceae
@@ -4944,7 +4944,6 @@ argiope
 argiopidae
 argive
 argle
-argo
 argol
 argon
 argonaut
@@ -4953,9 +4952,9 @@ argonautidae
 argonauts
 argonne
 argonon
-argos
 argosy
 argot
+argots
 arguable
 arguably
 argue
@@ -5130,6 +5129,7 @@ aromatic
 aromaticity
 aromatise
 aromatize
+aros
 arose
 arouet
 around
@@ -5686,7 +5686,6 @@ astonished
 astonishing
 astonishingly
 astonishment
-astor
 astound
 astounded
 astounding
@@ -5783,7 +5782,6 @@ atarax
 ataraxia
 ataraxic
 ataraxis
-atars
 ataturk
 atavism
 atavist
@@ -23757,6 +23755,7 @@ dorty
 dory
 dorylinae
 doryopteris
+dosa
 dosage
 dosai
 dosas
@@ -23776,6 +23775,7 @@ dossel
 dosser
 dosshouse
 dossier
+dost
 dostoevski
 dostoevskian
 dostoevsky
@@ -23790,11 +23790,13 @@ doter
 dotes
 doting
 dotrel
+dots
 dotted
 dotterel
 dottily
 dottle
 dotty
+doty
 douala
 douar
 double
@@ -28158,6 +28160,7 @@ fagin
 fagopyrum
 fagot
 fagoting
+fagots
 fagus
 fahd
 fahrenheit
@@ -28375,7 +28378,6 @@ fares
 farewell
 farfalle
 farfetched
-fargo
 farina
 farinaceous
 farkleberry
@@ -30948,7 +30950,6 @@ frowsy
 frowy
 frowzled
 frowzy
-froyo
 froze
 frozen
 fructidor
@@ -31689,12 +31690,12 @@ garrulous
 garrulously
 garrulousness
 garrulus
+gars
 garter
 garters
 garth
 garuda
 garum
-gary
 gasbag
 gascogne
 gasconade
@@ -32901,7 +32902,7 @@ goalmouth
 goalpost
 goals
 goaltender
-goary
+goas
 goat
 goatee
 goateed
@@ -33170,7 +33171,6 @@ gopherus
 gopherwood
 gopik
 goral
-goras
 gorbachev
 gorbs
 gordian
@@ -33337,7 +33337,6 @@ graduated
 graduation
 graecophile
 graecophilic
-graf
 graff
 graffiti
 graffito
@@ -33484,7 +33483,7 @@ grassless
 grasslike
 grassroots
 grassy
-grata
+grat
 grate
 grated
 grateful
@@ -33501,7 +33500,6 @@ grating
 gratingly
 gratis
 gratitude
-grats
 gratuitous
 gratuitously
 gratuity
@@ -53947,6 +53945,7 @@ oared
 oarer
 oarfish
 oarlock
+oars
 oarsman
 oarsmanship
 oarswoman
@@ -53961,6 +53960,8 @@ oates
 oath
 oaths
 oatmeal
+oats
+oaty
 oaves
 oaxaca
 obadiah
@@ -55294,6 +55295,7 @@ orzo
 orzos
 osage
 osaka
+osar
 osars
 osasco
 osborne
@@ -64465,7 +64467,6 @@ ratafia
 ratal
 ratan
 rataplan
-ratas
 ratatouille
 ratch
 ratchet
@@ -64516,8 +64517,10 @@ ratite
 ratlike
 ratlin
 ratline
+rato
 ratoo
 ratos
+rats
 ratsbane
 rattail
 rattan
@@ -66982,7 +66985,6 @@ roared
 roarer
 roaring
 roars
-roary
 roast
 roasted
 roaster
@@ -67355,10 +67357,12 @@ rotis
 rotisserie
 rotl
 rotls
+roto
 rotogravure
 roton
 rotor
 rotos
+rots
 rotta
 rotte
 rotted
@@ -67810,6 +67814,7 @@ rymme
 rynchopidae
 rynchops
 rynds
+ryot
 ryoti
 ryots
 ryper
@@ -68607,6 +68612,7 @@ satanism
 satanist
 satanophobia
 satans
+satara
 satay
 satchel
 satchmo
@@ -73258,6 +73264,7 @@ sopra
 sopranino
 soprano
 sops
+sora
 soral
 soras
 sorb
@@ -73331,6 +73338,7 @@ sothis
 sotho
 soths
 sotol
+sots
 sottish
 sottishly
 sottishness
@@ -75117,6 +75125,7 @@ stivy
 stizidae
 stizolobium
 stizostedion
+stoa
 stoae
 stoai
 stoas
@@ -77823,6 +77832,7 @@ tarred
 tarriance
 tarrietia
 tarry
+tars
 tarsal
 tarse
 tarsi
@@ -79773,7 +79783,6 @@ tocos
 tocqueville
 tocsin
 today
-todd
 todde
 toddle
 toddler
@@ -79810,7 +79819,6 @@ together
 togetherness
 togged
 toggle
-togo
 togolese
 togs
 togue
@@ -80069,6 +80077,7 @@ topsoil
 topspin
 topv
 toque
+tora
 toradol
 torah
 toran
@@ -80117,6 +80126,7 @@ torricelli
 torrid
 torridity
 torrs
+tors
 torse
 torsi
 torsion
@@ -80323,6 +80333,7 @@ toyed
 toyer
 toying
 toynbee
+toyo
 toyohashi
 toyon
 toyonaka
@@ -88625,7 +88636,6 @@ yopos
 yoppo
 yore
 yores
-yorga
 york
 yorks
 yorkshire
