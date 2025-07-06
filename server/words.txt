@@ -1000,7 +1000,6 @@ adad
 adage
 adagio
 adalia
-adam
 adamance
 adamant
 adamantine
@@ -2097,7 +2096,6 @@ alacritous
 alacrity
 aladdin
 alae
-alala
 alalia
 alamo
 aland
@@ -2262,6 +2260,7 @@ alerting
 alertly
 alertness
 alerts
+ales
 aletris
 aleurites
 aleurone
@@ -2271,7 +2270,6 @@ aleutian
 aleutians
 aleve
 alewife
-alews
 alexander
 alexanders
 alexandria
@@ -2459,7 +2457,6 @@ allegorizer
 allegory
 allegretto
 allegro
-allel
 allele
 allelic
 allelomorph
@@ -5326,12 +5323,10 @@ aryl
 aryls
 arytaenoid
 arytenoid
-asada
 asadha
 asafetida
 asafoetida
 asahikawa
-asala
 asama
 asamiya
 asana
@@ -19905,7 +19900,6 @@ czechoslovakian
 czerny
 czestochowa
 czworniak
-daals
 daba
 dabba
 dabbing
@@ -20019,7 +20013,6 @@ daktylos
 dalasi
 dalbergia
 dale
-dalea
 daled
 dalek
 dales
@@ -20029,8 +20022,7 @@ daleth
 dali
 dalian
 dalis
-dallas
-dalle
+dalles
 dalliance
 dallier
 dallisgrass
@@ -20039,6 +20031,7 @@ dalmane
 dalmatia
 dalmatian
 dalo
+dals
 dalton
 daltonism
 dalts
@@ -21054,7 +21047,6 @@ deliverer
 delivery
 deliveryman
 dell
-della
 dells
 delly
 delocalize
@@ -21111,6 +21103,7 @@ dematerialise
 dematerialize
 dematiaceae
 demavend
+deme
 demean
 demeaning
 demeaningly
@@ -24731,7 +24724,6 @@ eaglet
 eagly
 eagre
 ealed
-eales
 eames
 eaned
 earache
@@ -24806,7 +24798,6 @@ easier
 easily
 easiness
 easing
-easle
 east
 eastbound
 easter
@@ -25011,7 +25002,6 @@ ecumenism
 eczema
 edacious
 edacity
-edam
 edaphosauridae
 edaphosaurus
 edda
@@ -25296,7 +25286,6 @@ elaeocarpaceae
 elaeocarpus
 elagatis
 elain
-elam
 elamite
 elamitic
 elan
@@ -25471,7 +25460,6 @@ elizabeth
 elizabethan
 elkhound
 elkwood
-ellas
 elli
 ellington
 ellipse
@@ -25509,6 +25497,7 @@ eloquent
 eloquently
 elpee
 elsass
+else
 elsewhere
 elsholtzia
 elsin
@@ -25640,7 +25629,6 @@ embryonal
 embryonic
 embryotic
 emcee
-emda
 emdash
 emeer
 emend
@@ -25657,6 +25645,7 @@ emeritus
 emersion
 emerson
 emery
+emes
 emeside
 emesis
 emetic
@@ -43198,6 +43187,7 @@ ladino
 ladle
 ladoga
 ladoo
+lads
 lady
 ladybeetle
 ladybird
@@ -43283,8 +43273,10 @@ lakota
 laksa
 lakshmi
 laldy
+lall
 lallans
 lallation
+lalled
 lalls
 lally
 lallygag
@@ -43317,7 +43309,9 @@ lamby
 lame
 lamed
 lamedh
+lameds
 lamella
+lamellas
 lamellibranch
 lamellibranchia
 lamellicornia
@@ -43610,12 +43604,12 @@ laryngostenosis
 larynx
 lasagna
 lasagne
-lasalle
 lascar
 lascaux
 lascivious
 lasciviously
 lasciviousness
+lase
 lased
 lasek
 laser
@@ -43947,6 +43941,7 @@ learns
 learnt
 lears
 leary
+leas
 lease
 leased
 leasehold
@@ -44150,7 +44145,6 @@ lemaireocereus
 lemaitre
 leman
 lemanderin
-lemed
 lemel
 lemes
 lemma
@@ -46390,7 +46384,6 @@ macushla
 madagascan
 madagascar
 madake
-madal
 madam
 madame
 madar
@@ -46431,6 +46424,7 @@ madrigalist
 madrilene
 madrona
 madrono
+mads
 madwoman
 madwort
 maeandra
@@ -46438,6 +46432,7 @@ maedi
 maelstrom
 maenad
 maerl
+maes
 maestro
 maeterlinck
 mafa
@@ -46728,7 +46723,6 @@ malaria
 malarial
 malarkey
 malarky
-malas
 malathion
 malawi
 malawian
@@ -46800,6 +46794,7 @@ mallard
 mallarme
 malleability
 malleable
+malled
 mallee
 mallet
 malleus
@@ -47856,7 +47851,6 @@ mcpherson
 mdiv
 mdma
 mead
-meade
 meadow
 meadowgrass
 meadowlark
@@ -47901,7 +47895,7 @@ meantime
 meanwhile
 meany
 mearstone
-mease
+measle
 measles
 measly
 measurability
@@ -47971,7 +47965,6 @@ meddler
 meddlesome
 meddlesomeness
 meddling
-medea
 medellin
 medevac
 medfly
@@ -48033,6 +48026,7 @@ medle
 medley
 medline
 medoc
+meds
 medulla
 medullary
 medullated
@@ -48167,7 +48161,6 @@ melanoplus
 melanosis
 melanotis
 melanthiaceae
-melas
 melasma
 melastoma
 melastomaceae
@@ -48203,6 +48196,7 @@ meliorist
 meliphagidae
 melissa
 melkite
+mell
 mellaril
 mellifluous
 mellisonant
@@ -48536,8 +48530,6 @@ merthiolate
 merton
 meryta
 mesa
-mesad
-mesal
 mesalliance
 mesantoin
 mesas
@@ -48545,7 +48537,6 @@ mesasamkranti
 mesca
 mescal
 mescaline
-mesel
 mesem
 mesembryanthemum
 mesencephalon
@@ -67819,7 +67810,6 @@ rythe
 ryugi
 ryukyuan
 saags
-saale
 saame
 saami
 saarinen
@@ -68072,7 +68062,6 @@ salaciously
 salaciousness
 salacity
 salad
-salade
 saladin
 salads
 salafism
@@ -68091,7 +68080,6 @@ salas
 salat
 sale
 saleable
-salem
 salep
 saleratus
 salerno
@@ -68135,7 +68123,7 @@ salivary
 salivate
 salivation
 salix
-salle
+sall
 sallet
 sallow
 sallowness
@@ -69604,7 +69592,6 @@ seaman
 seamanlike
 seamanly
 seamanship
-seame
 seamed
 seamen
 seamless
@@ -69941,7 +69928,6 @@ selkirk
 selkup
 selky
 sell
-sella
 sellable
 selle
 seller
@@ -69968,6 +69954,7 @@ semarang
 semas
 semasiology
 semblance
+seme
 semee
 semen
 semes
@@ -72101,7 +72088,6 @@ slackline
 slackly
 slackness
 slacks
-slade
 slaes
 slag
 slagheap
@@ -86323,8 +86309,11 @@ wadge
 wadi
 wading
 wadis
+wadmal
+wadmel
 wads
 wadts
+waes
 wafer
 waffle
 waffler
@@ -86428,7 +86417,6 @@ wale
 waled
 waler
 wales
-walesa
 walhalla
 walie
 walis
@@ -86450,6 +86438,7 @@ walla
 wallaby
 wallace
 wallah
+wallas
 wallboard
 walled
 wallenstein
@@ -88806,7 +88795,9 @@ zebu
 zebub
 zebus
 zechariah
+zeda
 zedas
+zeds
 zeeman
 zeera
 zeidae
