@@ -23862,6 +23862,7 @@ doweling
 dower
 dowered
 dowerless
+dowers
 dowery
 dowfs
 dowie
@@ -24276,6 +24277,7 @@ drunks
 drupaceous
 drupe
 drupelet
+drupes
 druse
 drusen
 drusy
@@ -24377,6 +24379,7 @@ dueller
 duellist
 duels
 duenna
+dues
 duet
 dueting
 duets
@@ -24530,6 +24533,7 @@ durative
 durazzo
 durban
 durbar
+dure
 dured
 durer
 dures
@@ -24558,7 +24562,6 @@ durst
 durum
 durzi
 dusanbe
-duse
 dushanbe
 dusicyon
 dusk
@@ -27207,7 +27210,6 @@ euronithopod
 euronithopoda
 europa
 europan
-europe
 european
 europeanisation
 europeanise
@@ -28670,6 +28672,7 @@ federation
 federita
 fedex
 fedora
+feds
 feeble
 feebleminded
 feeblemindedness
@@ -54843,6 +54846,7 @@ operon
 operose
 operoseness
 opery
+opes
 opgaf
 opheodrys
 ophidia
@@ -55972,10 +55976,10 @@ ovum
 oware
 owari
 owche
+owed
 owen
 owens
 owensboro
-owers
 owest
 oweth
 owies
@@ -58363,7 +58367,6 @@ perturbing
 pertusaria
 pertusariaceae
 pertussis
-peru
 peruke
 peruked
 perusal
@@ -58513,6 +58516,7 @@ peul
 pewed
 pewee
 pewit
+pews
 pewter
 peyote
 peyse
@@ -60921,7 +60925,6 @@ portunidae
 portunus
 portwatcher
 porty
-porus
 porzana
 posca
 pose
@@ -61185,6 +61188,7 @@ powderiness
 powderise
 powderize
 powderpuff
+powders
 powdery
 powell
 power
@@ -62597,12 +62601,12 @@ provokingly
 provos
 provost
 prow
+prower
 prowess
 prowk
 prowl
 prowler
 prows
-prox
 proxemics
 proxima
 proximal
@@ -62925,6 +62929,7 @@ pudginess
 pudgy
 pudic
 pudor
+puds
 pudsy
 pudus
 puebla
@@ -63157,13 +63162,11 @@ pure
 pureblood
 pureblooded
 purebred
-pured
 puree
 pureed
 purely
 pureness
 purer
-pures
 purest
 purga
 purgation
@@ -63222,6 +63225,7 @@ purr
 purre
 purrs
 purry
+purs
 purse
 purser
 purses
@@ -65818,6 +65822,7 @@ replica
 replicate
 replication
 reply
+repo
 repoint
 report
 reportable
@@ -65838,6 +65843,8 @@ repossess
 repossession
 repost
 repot
+repower
+repowers
 repp
 repps
 reprehend
@@ -66421,6 +66428,7 @@ rewire
 rewon
 reword
 rewording
+rewore
 rework
 rewrite
 rewriter
@@ -67464,6 +67472,7 @@ rowed
 rowel
 rowen
 rower
+rowers
 rowet
 rowie
 rowing
@@ -67553,6 +67562,7 @@ rudder
 rudderfish
 rudderless
 rudderpost
+rudders
 rudderstock
 ruddiness
 ruddle
@@ -67576,7 +67586,9 @@ rueda
 rueful
 ruefully
 ruefulness
+ruer
 ruers
+rues
 ruff
 ruffe
 ruffian
@@ -76058,6 +76070,7 @@ sudation
 sudatorium
 sudatory
 sudbury
+sudd
 sudden
 suddenly
 suddenness
@@ -76337,6 +76350,7 @@ sunts
 sunup
 suomi
 suona
+supe
 suped
 super
 superable
@@ -76550,7 +76564,6 @@ surcoat
 surd
 surds
 sure
-sured
 surefooted
 surely
 sureness
@@ -81918,6 +81931,7 @@ ubity
 ubykh
 udals
 udder
+udders
 udmurt
 udometer
 udons
@@ -84544,6 +84558,7 @@ urceolate
 urceole
 urchin
 urdee
+urds
 urdu
 urea
 ureal
@@ -87024,6 +87039,7 @@ wenge
 wenny
 wens
 wents
+were
 werent
 werewolf
 werfel
@@ -87906,6 +87922,7 @@ wordsmith
 wordsworth
 wordsworthian
 wordy
+wore
 work
 workable
 workaday
