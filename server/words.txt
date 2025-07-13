@@ -33,9 +33,12 @@ abandon
 abandoned
 abandonment
 abarticulation
+abas
 abase
 abased
 abasement
+abaser
+abasers
 abases
 abash
 abashed
@@ -262,13 +265,13 @@ abray
 abreact
 abreaction
 abreast
+abri
 abridge
 abridged
 abridgement
 abridger
 abridgment
 abrim
-abrin
 abris
 abroach
 abroad
@@ -3802,11 +3805,10 @@ anoxemic
 anoxia
 anoxic
 anpu
+ansa
 ansae
 ansaid
-ansas
 anselm
-anser
 anseres
 anseriformes
 anserinae
@@ -3833,10 +3835,8 @@ antakya
 antalya
 antananarivo
 antapex
-antar
 antarctic
 antarctica
-antares
 antas
 antbird
 ante
@@ -3995,6 +3995,7 @@ antidromic
 antielectron
 antiemetic
 antiepileptic
+antifa
 antifeminism
 antifeminist
 antiferromagnet
@@ -4138,6 +4139,7 @@ antonymous
 antonymy
 antra
 antre
+antres
 antrorse
 antrozous
 antrum
@@ -4691,7 +4693,6 @@ araxes
 arbah
 arbalest
 arbalist
-arbas
 arbiter
 arbitrable
 arbitrage
@@ -4729,6 +4730,7 @@ arborvirus
 arborvitae
 arbour
 arbovirus
+arbs
 arbute
 arbutus
 arcade
@@ -4916,6 +4918,7 @@ ares
 arete
 aretes
 arethusa
+arfs
 argal
 argali
 argan
@@ -6796,6 +6799,7 @@ badness
 baeda
 baedeker
 baels
+baes
 baffle
 baffled
 bafflement
@@ -7116,6 +7120,7 @@ bangor
 bangs
 bangtail
 bangui
+bani
 bania
 banian
 banish
@@ -7150,6 +7155,7 @@ banns
 banquet
 banqueting
 banquette
+bans
 banshee
 banshie
 bantam
@@ -7276,7 +7282,6 @@ bargeman
 barger
 barges
 bargewoman
-bari
 baric
 barilla
 baring
@@ -7485,11 +7490,11 @@ basophilia
 basophilic
 basotho
 basque
-basra
 bass
 bassariscidae
 bassariscus
 bassarisk
+basser
 basset
 basseterre
 bassi
@@ -10469,7 +10474,6 @@ brane
 brank
 brans
 brant
-branta
 braque
 brasenia
 brash
@@ -10506,6 +10510,7 @@ braun
 braunschweig
 brava
 bravado
+bravas
 brave
 braved
 bravely
@@ -10743,6 +10748,7 @@ brimless
 brimming
 brims
 brimstone
+brin
 brinded
 brindisi
 brindle
@@ -11683,7 +11689,6 @@ cabalist
 cabalistic
 cabana
 cabaret
-cabas
 cabasset
 cabassous
 cabbage
@@ -11719,6 +11724,7 @@ cabot
 cabotage
 cabre
 cabriolet
+cabs
 cabstand
 cacajao
 cacalia
@@ -12391,6 +12397,7 @@ canopied
 canopus
 canopy
 canorous
+cans
 canso
 canst
 cant
@@ -12409,7 +12416,6 @@ canterbury
 cantering
 cantharellus
 canthus
-canti
 canticle
 canticles
 cantilever
@@ -12612,6 +12618,7 @@ caravanning
 caravansary
 caravanserai
 caraway
+carb
 carbamate
 carbamide
 carbide
@@ -12792,6 +12799,7 @@ carmelite
 carmichael
 carminative
 carmine
+carn
 carnage
 carnal
 carnalise
@@ -28394,7 +28402,6 @@ farrier
 farro
 farrow
 farrowing
-farse
 farseeing
 farsi
 farsighted
@@ -29274,6 +29281,7 @@ finnish
 finny
 finocchio
 finos
+fins
 fiord
 fipple
 fiqhs
@@ -29410,7 +29418,6 @@ fitfully
 fitfulness
 fitly
 fitment
-fitna
 fitness
 fitspiration
 fitspo
@@ -38131,6 +38138,7 @@ idyllically
 idyls
 iffy
 iftar
+iftars
 igapo
 igged
 igigi
@@ -39379,6 +39387,8 @@ infantryman
 infantrywoman
 infarct
 infarction
+infare
+infares
 infatuate
 infatuated
 infatuation
@@ -39401,6 +39411,7 @@ inferiority
 infernal
 infernally
 inferno
+infers
 infertile
 infertility
 infest
@@ -40274,7 +40285,6 @@ intoxicate
 intoxicated
 intoxicating
 intoxication
-intra
 intracellular
 intracerebral
 intracranial
@@ -40552,7 +40562,6 @@ ipsedixitism
 ipsilateral
 ipsus
 irade
-iran
 irani
 iranian
 iraq
@@ -51587,6 +51596,7 @@ nablus
 nabob
 nabokov
 naboom
+nabs
 nabu
 nabumetone
 nacelle
@@ -51985,6 +51995,7 @@ navigation
 navigational
 navigator
 navratilova
+navs
 navvy
 navy
 nawab
@@ -52691,7 +52702,6 @@ nietzsche
 nietzscheanism
 nieve
 nifedipine
-nifes
 niff
 niffs
 niffy
@@ -52861,6 +52871,7 @@ nitramine
 nitrate
 nitrazepam
 nitre
+nitres
 nitric
 nitride
 nitrification
@@ -64334,7 +64345,6 @@ ranny
 ransack
 ransacked
 ransacking
-ranse
 ransom
 ransomed
 ransomware
@@ -65298,6 +65308,8 @@ refrigerating
 refrigeration
 refrigerator
 refry
+refs
+reft
 refuel
 refueling
 refuge
@@ -66722,6 +66734,7 @@ rifler
 rifles
 riflewoman
 rifling
+rifs
 rift
 rifte
 rifts
@@ -66832,7 +66845,10 @@ ringy
 rink
 rinkhals
 rinks
+rins
 rinse
+rinser
+rinses
 rinsing
 rioja
 rione
@@ -67813,7 +67829,6 @@ saags
 saame
 saami
 saarinen
-saba
 sabah
 sabahan
 sabal
@@ -67851,6 +67866,7 @@ sabotage
 saboteur
 sabra
 sabre
+sabs
 sabzi
 sacagawea
 sacajawea
@@ -68573,7 +68589,6 @@ sartorius
 sartre
 sarus
 sarvo
-saser
 sash
 sashay
 sashimi
@@ -68718,6 +68733,7 @@ savannah
 savant
 savara
 savarin
+savarins
 save
 saved
 saveloy
@@ -69617,6 +69633,7 @@ seared
 searing
 searobin
 sears
+seas
 seascape
 sease
 seashell
@@ -70253,6 +70270,7 @@ sequoia
 sequoiadendron
 sequoya
 sequoyah
+sera
 serac
 seraglio
 serai
@@ -72636,7 +72654,6 @@ snarl
 snarled
 snarly
 snars
-snary
 snash
 snatch
 snatcher
@@ -72686,7 +72703,6 @@ sniffler
 sniffly
 sniffs
 sniffy
-snift
 snifter
 snigger
 snigs
@@ -77809,8 +77825,8 @@ tarred
 tarriance
 tarrietia
 tarry
+tars
 tarsal
-tarse
 tarsi
 tarsier
 tarsiidae
@@ -79713,6 +79729,7 @@ titulary
 titup
 tivoli
 tiyin
+tiyn
 tiyns
 tizes
 tizzy
@@ -84964,7 +84981,6 @@ vanguard
 vangueria
 vanilla
 vanillin
-vanir
 vanish
 vanished
 vanisher
@@ -84974,6 +84990,7 @@ vanity
 vanquish
 vanquishable
 vanquisher
+vans
 vantage
 vants
 vanuatu
@@ -88533,6 +88550,7 @@ yiked
 yikes
 yills
 yince
+yins
 yipee
 yipes
 yippee
