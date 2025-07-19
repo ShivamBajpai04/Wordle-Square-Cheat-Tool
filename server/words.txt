@@ -4211,14 +4211,13 @@ apelike
 apennines
 aper
 apercu
-aperea
 aperient
 aperiodic
 aperitif
 apers
-apert
 aperture
 apery
+apes
 apetalous
 apex
 apgar
@@ -4259,7 +4258,6 @@ aphyllanthaceae
 aphyllanthes
 aphyllophorales
 aphyllous
-apia
 apiaceae
 apian
 apiarian
@@ -8632,7 +8630,6 @@ bigotry
 bigram
 bigs
 bigwig
-bihar
 bihari
 bihon
 bijou
@@ -9655,6 +9652,7 @@ boffs
 bogan
 bogart
 bogartian
+bogarts
 bogbean
 bogey
 bogeyman
@@ -25168,6 +25166,7 @@ effusively
 effusiveness
 efits
 eflops
+efts
 egads
 egalitarian
 egalitarianism
@@ -28813,6 +28812,7 @@ feosol
 feral
 ferber
 ferdinand
+fere
 ferer
 feres
 fergon
@@ -28887,6 +28887,7 @@ feryaz
 fescue
 fess
 fesse
+fest
 festa
 festal
 fester
@@ -28926,6 +28927,7 @@ fetoprotein
 fetor
 fetoscope
 fetoscopy
+fets
 fetta
 fetter
 fetterbush
@@ -29072,13 +29074,11 @@ fient
 fierce
 fiercely
 fierceness
-fiere
 fieri
 fierily
 fieriness
 fiers
 fiery
-fiest
 fiesta
 fife
 fifed
@@ -31636,7 +31636,6 @@ gardenia
 gardening
 gardiner
 gardner
-gares
 garfield
 garfish
 garganey
@@ -32272,7 +32271,6 @@ ghees
 gheg
 ghent
 gherkin
-ghest
 ghetto
 ghettoise
 ghettoize
@@ -32920,6 +32918,7 @@ gobbledygook
 gobbler
 gobbo
 gobby
+gobies
 gobiesocidae
 gobiesox
 gobiidae
@@ -34473,7 +34472,7 @@ haemothorax
 haems
 haemulidae
 haemulon
-haere
+haeres
 haet
 haets
 haffs
@@ -35012,7 +35011,8 @@ harns
 haros
 harp
 harper
-harpia
+harpies
+harpin
 harpist
 harpo
 harpoon
@@ -35495,7 +35495,6 @@ heels
 heeltip
 heerd
 heeze
-hefa
 heft
 hefte
 heftiness
@@ -35794,7 +35793,6 @@ henson
 hent
 hents
 hepadnavirus
-hepar
 heparin
 hepatic
 hepatica
@@ -35966,6 +35964,7 @@ hess
 hesse
 hessian
 hessonite
+hest
 hestia
 hests
 heteranthera
@@ -36025,6 +36024,7 @@ heterozygous
 hetes
 heth
 heths
+hets
 heuch
 heuchera
 heugh
@@ -36111,7 +36111,6 @@ hidrosis
 hidrotic
 hiemal
 hiems
-hiera
 hieracium
 hierarch
 hierarchal
@@ -36130,6 +36129,7 @@ hieroglyphical
 hieroglyphically
 hierolatry
 hieronymus
+hies
 hifalutin
 hifis
 higginson
@@ -36264,8 +36264,6 @@ hints
 hiois
 hipbone
 hiped
-hiper
-hipes
 hipflask
 hiphop
 hiplength
@@ -51612,6 +51610,7 @@ nadir
 nadolol
 nadp
 naemorhedus
+naes
 naeve
 naevi
 nafcil
@@ -52694,7 +52693,6 @@ nidus
 niebuhr
 niece
 nieces
-niefs
 nielsen
 nierembergia
 niess
@@ -52836,7 +52834,6 @@ niopo
 nioza
 nipa
 nipas
-nipet
 nipped
 nipper
 nipping
@@ -52844,7 +52841,6 @@ nipple
 nippon
 nipponese
 nippy
-nipr
 nips
 niqaabi
 niqab
@@ -53992,6 +53988,7 @@ obeyed
 obeys
 obfuscate
 obfuscation
+obia
 obias
 obied
 obiism
@@ -54432,6 +54429,7 @@ ogres
 ogress
 ohed
 ohhhh
+ohia
 ohias
 ohing
 ohio
@@ -57045,7 +57043,6 @@ parsons
 part
 partake
 partaker
-parte
 parted
 parter
 parterre
@@ -57682,6 +57679,7 @@ pegmatite
 pegos
 pehlevi
 peignoir
+pein
 peine
 peins
 peiping
@@ -58039,6 +58037,7 @@ perea
 peregrinate
 peregrination
 peregrine
+pereia
 perejil
 peremptorily
 peremptory
@@ -58476,7 +58475,6 @@ petitioner
 petos
 petrarca
 petrarch
-petre
 petrel
 petri
 petrifaction
@@ -58499,6 +58497,7 @@ petromyzontidae
 petronius
 petroselinum
 petrous
+pets
 petted
 petter
 petteria
@@ -58682,7 +58681,6 @@ pheromone
 phese
 phial
 phidias
-phies
 philadelphaceae
 philadelphia
 philadelphus
@@ -59037,11 +59035,11 @@ phytophthora
 phytoplankton
 phytotherapy
 phytotoxin
-piaf
 piaffe
 piaget
 piagetian
 piais
+pian
 piani
 pianism
 pianissimo
@@ -59163,13 +59161,11 @@ pieris
 pierre
 pierrot
 piers
-piert
 pies
 pieta
 pietism
 pietistic
 pietistical
-piets
 piety
 piezo
 piezoelectric
@@ -59301,6 +59297,7 @@ pimple
 pimpled
 pimply
 pimps
+pina
 pinaceae
 pinafore
 pinas
@@ -61516,7 +61513,6 @@ prehensor
 prehistoric
 prehistorical
 prehistory
-preif
 preindication
 preisolate
 prejudge
@@ -64372,6 +64368,7 @@ rapeseed
 raphael
 raphanus
 raphe
+raphes
 raphia
 raphicerus
 raphidae
@@ -64383,7 +64380,6 @@ rapidly
 rapidness
 rapids
 rapier
-rapin
 rapine
 rapist
 rappahannock
@@ -65207,7 +65203,6 @@ reexamine
 reeze
 refabrication
 reface
-refan
 refashion
 refection
 refectory
@@ -65438,6 +65433,7 @@ rehouse
 reich
 reichstein
 reid
+reif
 reification
 reifs
 reify
@@ -69861,6 +69857,7 @@ seidel
 seidh
 seidhr
 seidr
+seif
 seifs
 seigneur
 seigneury
@@ -70280,6 +70277,7 @@ serape
 seraph
 seraphic
 seraphical
+seraphin
 serax
 serb
 serbia
@@ -74781,7 +74779,6 @@ steamroller
 steamship
 steamtightness
 steamy
-stean
 stear
 stearate
 stearic
@@ -78467,6 +78464,7 @@ tenuous
 tenuously
 tenure
 tenured
+tepa
 tepal
 tepas
 tepee
@@ -78483,6 +78481,7 @@ terabyte
 teraflop
 terahertz
 terai
+teraph
 teras
 teratogen
 teratogenesis
@@ -80685,7 +80684,7 @@ tranylcypromine
 trap
 trapa
 trapaceae
-trape
+trapes
 trapeze
 trapezium
 trapezius
@@ -80752,7 +80751,6 @@ treadle
 treadmill
 treads
 treadwheel
-treap
 treason
 treasonable
 treasonably
@@ -80787,7 +80785,6 @@ treetop
 tref
 trefa
 trefoil
-treif
 treillage
 trek
 trekker
