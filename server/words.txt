@@ -416,6 +416,7 @@ academism
 academy
 acadia
 acadian
+acai
 acais
 acalypha
 acantha
@@ -892,7 +893,6 @@ actable
 actaea
 actas
 acted
-acth
 actias
 actifed
 actin
@@ -11842,6 +11842,7 @@ caffeinism
 caffer
 caffre
 caffs
+cafs
 caftan
 cage
 caged
@@ -12919,7 +12920,6 @@ carse
 carsick
 carson
 cart
-carta
 cartage
 cartagena
 carte
@@ -13849,10 +13849,10 @@ chaff
 chaffer
 chaffinch
 chafflike
+chaffs
 chaffweed
 chaffy
 chafing
-chaft
 chaga
 chagall
 chagatai
@@ -14013,6 +14013,7 @@ chants
 chanty
 chanukah
 chanukkah
+chao
 chaos
 chaotic
 chaotically
@@ -18212,6 +18213,7 @@ cotinus
 cotoneaster
 cotonou
 cotopaxi
+cots
 cotswold
 cotswolds
 cotta
@@ -28099,7 +28101,6 @@ facta
 faction
 factious
 factitious
-facto
 factoid
 factor
 factorial
@@ -28462,7 +28463,6 @@ fasting
 fastnacht
 fastness
 fasts
-fatah
 fatal
 fatalism
 fatalist
@@ -30549,7 +30549,6 @@ frabs
 fracas
 frack
 fracking
-fract
 fractal
 fraction
 fractional
@@ -30644,7 +30643,6 @@ fraternization
 fraternize
 fratricide
 frats
-frau
 fraud
 frauds
 fraudulence
@@ -30652,7 +30650,6 @@ fraudulent
 fraudulently
 fraught
 fraulein
-fraus
 fraxinella
 fraxinus
 fray
@@ -30981,7 +30978,6 @@ frumpishly
 frumpy
 frunze
 frush
-frust
 frustrate
 frustrated
 frustrating
@@ -31222,6 +31218,7 @@ furrow
 furrowed
 furrs
 furry
+furs
 fursuit
 furth
 further
@@ -34476,12 +34473,10 @@ haemulon
 haere
 haet
 haets
-haffs
 hafis
 hafiz
 hafnium
 haft
-hafta
 haftarah
 haftorah
 hafts
@@ -37054,6 +37049,7 @@ hotly
 hotness
 hotplate
 hotpot
+hots
 hotshot
 hotspot
 hotspur
@@ -41003,7 +40999,6 @@ jadestone
 jaeger
 jafar
 jafas
-jaffa
 jaffar
 jagannath
 jagannatha
@@ -41119,7 +41114,6 @@ jarps
 jarrell
 jarring
 jarringly
-jarta
 jarul
 jasey
 jasmine
@@ -41134,6 +41128,7 @@ jassidae
 jatha
 jati
 jatis
+jato
 jatos
 jatropha
 jauks
@@ -54347,6 +54342,7 @@ oestrone
 oestrus
 oeuvre
 ofays
+offa
 offal
 offbeat
 offed
@@ -54393,6 +54389,7 @@ offing
 offish
 offload
 offprint
+offs
 offsaddle
 offset
 offshoot
@@ -64070,6 +64067,7 @@ radon
 radyera
 raetam
 rafee
+raff
 raffia
 raffinose
 raffish
@@ -64517,6 +64515,7 @@ ratite
 ratlike
 ratlin
 ratline
+rato
 ratoo
 ratos
 ratsbane
@@ -66607,7 +66606,6 @@ rial
 rials
 riant
 riata
-riato
 ribald
 ribaldry
 riband
@@ -67504,7 +67502,6 @@ rozes
 rozet
 rozit
 rtlt
-ruach
 ruana
 ruanda
 ruandan
@@ -68825,7 +68822,6 @@ scabrous
 scabs
 scad
 scads
-scaff
 scaffold
 scaffolding
 scag
@@ -76093,6 +76089,7 @@ suete
 suets
 suety
 suez
+suffari
 suffer
 sufferable
 sufferance
@@ -77340,7 +77337,6 @@ tacheometer
 tachi
 tachinidae
 tachistoscope
-tacho
 tachogram
 tachograph
 tachometer
@@ -77406,7 +77402,6 @@ taffeta
 taffrail
 taffy
 tafia
-taft
 tagalog
 tagalong
 tagamet
@@ -77938,6 +77933,7 @@ taurine
 tauromachy
 taurotragus
 taurus
+taus
 taut
 tauted
 tauten
@@ -78787,6 +78783,7 @@ thans
 thanx
 tharm
 tharp
+that
 thatch
 thatcher
 thatcherism
@@ -80384,6 +80381,7 @@ tractile
 traction
 tractive
 tractor
+tracts
 tracy
 trad
 trade
@@ -80857,6 +80855,7 @@ treyf
 treys
 triac
 triacetate
+triacs
 triad
 triads
 triaenodon
