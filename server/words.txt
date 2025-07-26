@@ -3813,7 +3813,6 @@ anseres
 anseriformes
 anserinae
 anserine
-anshar
 answer
 answerability
 answerable
@@ -5899,7 +5898,6 @@ atoxic
 atrabilious
 atrazine
 atresia
-atreus
 atria
 atrial
 atrichornis
@@ -6517,13 +6515,11 @@ ayapana
 ayatollah
 ayaya
 ayelp
-aygre
 ayin
 ayins
 aymag
 ayont
 ayres
-ayrie
 ayrshire
 aythya
 ayurveda
@@ -13667,6 +13663,7 @@ cerapteryx
 ceras
 cerastes
 cerastium
+cerate
 ceratin
 ceratitis
 ceratodontidae
@@ -19287,6 +19284,7 @@ cudgel
 cudweed
 cueca
 cued
+cues
 cuff
 cuffed
 cufflink
@@ -19806,7 +19804,6 @@ cynoscion
 cynosure
 cynthia
 cynwulf
-cyon
 cyperaceae
 cyperus
 cypher
@@ -25009,6 +25006,7 @@ ecumenical
 ecumenicalism
 ecumenicism
 ecumenism
+ecus
 eczema
 edacious
 edacity
@@ -25262,7 +25260,6 @@ einsteinian
 einsteinium
 einthoven
 eire
-eiron
 eisegesis
 eisel
 eisenhower
@@ -26703,7 +26700,6 @@ ergocalciferol
 ergodic
 ergodicity
 ergometer
-ergon
 ergonomic
 ergonomics
 ergonovine
@@ -26921,7 +26917,6 @@ esprit
 espy
 esquimau
 esquire
-esrog
 essay
 essayer
 essayist
@@ -27034,6 +27029,7 @@ etherify
 etherise
 etherize
 ethernet
+ethers
 ethic
 ethical
 ethicality
@@ -27070,6 +27066,7 @@ ethosuximide
 ethoxyethane
 ethrane
 ethril
+eths
 ethyl
 ethylene
 ethyne
@@ -27087,7 +27084,6 @@ etna
 etnas
 etodolac
 etonian
-etrog
 etropus
 etruria
 etruscan
@@ -32214,7 +32210,6 @@ gerrymander
 gershwin
 gerund
 gerundial
-geryon
 gesell
 gesner
 gesneria
@@ -32465,6 +32460,7 @@ gironde
 girondin
 girondism
 girondist
+girons
 giros
 girrs
 girru
@@ -32472,6 +32468,7 @@ girsh
 girt
 girted
 girth
+girths
 girts
 gish
 gismo
@@ -33095,7 +33092,6 @@ gonorhynchidae
 gonorhynchus
 gonorrhea
 gonorrhoea
-gonys
 gonzo
 goober
 gooby
@@ -33762,6 +33758,7 @@ grizzly
 groak
 groan
 groaner
+groans
 groat
 groats
 grocer
@@ -33932,7 +33929,6 @@ gruntle
 grunts
 grus
 gruyere
-gryce
 gryde
 gryke
 gryllidae
@@ -34227,7 +34223,6 @@ gwydion
 gwyn
 gwynn
 gyals
-gyans
 gybe
 gybed
 gybes
@@ -34279,6 +34274,7 @@ gyneolatry
 gynie
 gynne
 gynny
+gyno
 gynobase
 gynoecium
 gynogenesis
@@ -34306,11 +34302,13 @@ gyre
 gyred
 gyres
 gyrfalcon
+gyri
 gyrinidae
 gyro
 gyrocompass
 gyromitra
 gyron
+gyrons
 gyroplane
 gyros
 gyroscope
@@ -35102,6 +35100,7 @@ hatefully
 hatefulness
 hatemonger
 hater
+haters
 hates
 hatful
 hatha
@@ -35915,6 +35914,7 @@ heroism
 heroization
 heron
 heronry
+herons
 heros
 herpangia
 herpes
@@ -35930,8 +35930,8 @@ herrick
 herring
 herringbone
 herry
+hers
 herschel
-herse
 hershey
 hertfordshire
 hertha
@@ -51996,6 +51996,7 @@ navy
 nawab
 nawal
 nawcwpns
+nays
 naysay
 naysayer
 naysaying
@@ -53433,17 +53434,15 @@ nopalea
 noradrenaline
 nordic
 noreaster
-noreg
 norepinephrine
 norethandrolone
 norethindrone
 norethynodrel
 norflex
 norfolk
-norge
 norgestrel
+nori
 noria
-norie
 norinyl
 noris
 norks
@@ -53472,7 +53471,6 @@ norms
 norn
 norris
 norrish
-norse
 norseman
 norsewoman
 north
@@ -53491,10 +53489,12 @@ northern
 northerner
 northernmost
 northernness
+northers
 northland
 northman
 northmost
 northrop
+norths
 northumberland
 northumbria
 northward
@@ -53921,7 +53921,6 @@ nymphs
 nynorsk
 nyong
 nypa
-nyse
 nyssa
 nyssaceae
 nystagmus
@@ -54660,8 +54659,6 @@ onagraceae
 onanism
 onanist
 once
-oncer
-onces
 oncet
 onchocerciasis
 oncidium
@@ -54673,7 +54670,6 @@ oncology
 oncoming
 oncorhynchus
 oncovin
-oncus
 ondaatje
 ondatra
 ondes
@@ -64476,12 +64472,13 @@ rated
 ratel
 ratepayer
 rater
+raters
 rates
+rath
 ratha
 rathe
 rather
 rathole
-raths
 rathskeller
 ratibida
 ratification
@@ -64977,6 +64974,7 @@ recrudescent
 recruit
 recruiter
 recruitment
+recs
 recta
 rectal
 rectangle
@@ -66004,7 +66002,6 @@ reshape
 reship
 reshipment
 reshoot
-resht
 reshuffle
 reshuffling
 resid
@@ -66981,7 +66978,6 @@ roams
 roan
 roanoke
 roans
-roany
 roar
 roared
 roarer
@@ -67091,7 +67087,6 @@ rogan
 rogation
 roger
 rogers
-roget
 rogue
 roguery
 rogues
@@ -69850,7 +69845,6 @@ segregationist
 segregator
 segue
 segway
-sehri
 seiche
 seid
 seidel
@@ -70726,6 +70720,7 @@ shart
 shash
 shasta
 shastan
+shat
 shatter
 shattered
 shattering
@@ -71218,6 +71213,7 @@ shrewish
 shrewishly
 shrewishness
 shrewmouse
+shri
 shriek
 shrieked
 shrieking
@@ -71254,7 +71250,6 @@ shrug
 shrugs
 shrunk
 shrunken
-shtar
 shtick
 shtickl
 shtik
@@ -78165,7 +78160,6 @@ tegus
 tehee
 teheran
 tehran
-tehrs
 teiid
 teiidae
 teils
@@ -81008,6 +81002,7 @@ trigonella
 trigonometric
 trigonometrician
 trigonometry
+trigons
 trigram
 trigs
 trihydroxy
@@ -81163,6 +81158,7 @@ trock
 trod
 trode
 trods
+trog
 trogium
 troglodyte
 troglodytes
@@ -81351,6 +81347,7 @@ tryer
 trying
 tryke
 tryma
+tryna
 tryout
 trypetidae
 tryps
