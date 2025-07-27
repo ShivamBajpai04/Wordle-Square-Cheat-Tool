@@ -2377,7 +2377,6 @@ alinement
 aliphatic
 aliquant
 aliquot
-alir
 alisma
 alismales
 alismataceae
@@ -4312,8 +4311,8 @@ apocryphalness
 apocynaceae
 apocynaceous
 apocynum
+apod
 apodal
-apode
 apodeictic
 apodeme
 apodemus
@@ -20029,7 +20028,6 @@ dales
 dalesman
 dalet
 daleth
-dali
 dalian
 dalis
 dalles
@@ -23744,6 +23742,7 @@ dorms
 dormy
 doronicum
 dorotheanthus
+dorp
 dorps
 dorrs
 dorsa
@@ -24202,7 +24201,6 @@ dronabinol
 drone
 drones
 droning
-drony
 droob
 droog
 drook
@@ -25069,7 +25067,6 @@ edmonton
 edmontonia
 edmontosaurus
 edronax
-edta
 educate
 educated
 educatee
@@ -28660,7 +28657,6 @@ fecund
 fecundate
 fecundation
 fecundity
-fedai
 fedayeen
 fedelline
 federal
@@ -28701,6 +28697,7 @@ feely
 feens
 feers
 feese
+feet
 feetfirst
 feeze
 fehme
@@ -28902,6 +28899,7 @@ fests
 festschrift
 festuca
 festy
+feta
 fetal
 fetas
 fetch
@@ -43179,7 +43177,6 @@ laddu
 laddy
 lade
 laded
-ladee
 laden
 ladened
 lader
@@ -43191,6 +43188,7 @@ ladino
 ladle
 ladoga
 ladoo
+ladron
 lads
 lady
 ladybeetle
@@ -45960,6 +45958,7 @@ lunt
 lunts
 lunula
 lunule
+luny
 luoyang
 lupin
 lupine
@@ -53469,7 +53468,6 @@ normodyne
 normotensive
 normothermia
 norms
-norn
 norris
 norrish
 norse
@@ -53920,7 +53918,6 @@ nymphomaniacal
 nymphs
 nynorsk
 nyong
-nypa
 nyse
 nyssa
 nyssaceae
@@ -54264,6 +54261,7 @@ oddment
 oddments
 oddness
 odds
+odea
 odeon
 odes
 odesa
@@ -54703,7 +54701,6 @@ oniscus
 onium
 onkos
 onkus
-onlap
 onlay
 online
 onlooker
@@ -56210,7 +56207,6 @@ paederasty
 paediatric
 paediatrician
 paediatrics
-paedo
 paedophile
 paedophilia
 paella
@@ -57243,7 +57239,6 @@ patchwork
 patchy
 pate
 pated
-patee
 patel
 patella
 patellar
@@ -59928,6 +59923,7 @@ pleasurable
 pleasurably
 pleasure
 pleat
+pleated
 pleating
 pleb
 plebe
@@ -59954,6 +59950,7 @@ pledged
 pledgee
 pledger
 pleep
+pleiad
 pleiades
 plein
 pleione
@@ -60246,7 +60243,6 @@ pockmark
 pockmarked
 pocks
 pocky
-podal
 podalgia
 podalyria
 podargidae
@@ -60885,13 +60881,12 @@ porpoise
 porridge
 porringer
 port
-porta
 portability
 portable
 portage
 portal
 portcullis
-porte
+ported
 portend
 portent
 portentous
@@ -62618,7 +62613,6 @@ proximate
 proximity
 proximo
 proxy
-proyn
 prozac
 prude
 prudence
@@ -62995,6 +62989,7 @@ puled
 puler
 pules
 pulex
+puli
 pulicaria
 pulicidae
 pulik
@@ -63182,6 +63177,7 @@ purge
 purged
 purger
 purging
+puri
 purification
 purificator
 purificatorium
@@ -67063,6 +67059,7 @@ rockwell
 rocky
 rococo
 rocroi
+rode
 roded
 rodent
 rodentia
@@ -77521,6 +77518,7 @@ talentlessness
 taler
 tales
 taleteller
+tali
 taliban
 talien
 talik
@@ -78044,6 +78042,7 @@ teams
 teamster
 teamwork
 teapot
+teapoy
 tear
 tearaway
 teardrop
@@ -81207,6 +81206,7 @@ trooper
 troops
 troopship
 trooz
+trop
 tropaeolaceae
 tropaeolum
 trope
@@ -83389,7 +83389,6 @@ unlade
 unladylike
 unlaid
 unlamented
-unlap
 unlash
 unlatched
 unlaureled
@@ -83399,6 +83398,7 @@ unlawfully
 unlawfulness
 unlax
 unlay
+unlead
 unleaded
 unlearn
 unlearned
@@ -83584,7 +83584,6 @@ unobtrusively
 unobtrusiveness
 unobvious
 unoccupied
-unode
 unoffending
 unofficial
 unofficially
@@ -83614,6 +83613,7 @@ unpaid
 unpainful
 unpaintable
 unpainted
+unpair
 unpaired
 unpalatability
 unpalatable
@@ -84416,6 +84416,7 @@ upcycle
 update
 updating
 updike
+updo
 updos
 updraft
 updry
@@ -84449,6 +84450,7 @@ uplit
 upload
 upmarket
 upmost
+upon
 upped
 upper
 uppercase
