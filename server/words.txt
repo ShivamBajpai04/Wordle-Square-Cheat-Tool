@@ -1210,7 +1210,6 @@ admonishment
 admonition
 admonitory
 adnate
-adnex
 adnexa
 adnexal
 adnoun
@@ -3375,7 +3374,6 @@ anded
 andelmin
 andersen
 anderson
-andes
 andesite
 andic
 andira
@@ -3409,6 +3407,7 @@ androphobia
 andropogon
 androsterone
 andryala
+ands
 andvari
 anear
 anecdotal
@@ -3441,6 +3440,7 @@ anencephaly
 anent
 anergy
 aneroid
+anes
 anesthesia
 anesthesiologist
 anesthesiology
@@ -3642,6 +3642,7 @@ anisotropy
 anjou
 ankara
 anker
+ankh
 ankhs
 ankle
 anklebone
@@ -4275,7 +4276,6 @@ apiece
 aping
 apiol
 apios
-apis
 apish
 apishamore
 apism
@@ -6795,6 +6795,7 @@ badly
 badminton
 badmouth
 badness
+bads
 baeda
 baedeker
 baels
@@ -7131,6 +7132,7 @@ banjul
 bank
 bankable
 bankbook
+banked
 banker
 bankhead
 bankia
@@ -7177,6 +7179,7 @@ baons
 baozi
 baphia
 bappu
+baps
 baptise
 baptised
 baptisia
@@ -20145,17 +20148,18 @@ dantean
 dantesque
 danton
 dants
-danu
 danube
 danzig
 daoism
 daphne
+daphnes
 daphnia
 dapper
 dapperness
 dapple
 dappled
 dappy
+daps
 dapsang
 dapsone
 daraf
@@ -25988,6 +25992,7 @@ endozoan
 endozoic
 endplate
 endpoint
+ends
 endue
 endurable
 endurance
@@ -28132,6 +28137,7 @@ fadge
 fading
 fado
 fados
+fads
 faecal
 faecalith
 faeces
@@ -28309,7 +28315,7 @@ fancy
 fancywork
 fandango
 fandom
-fands
+fane
 fanes
 fanfare
 fang
@@ -29353,7 +29359,6 @@ firsthand
 firstly
 firsts
 firth
-fisa
 fisc
 fiscal
 fiscally
@@ -34471,7 +34476,6 @@ haemulon
 haere
 haet
 haets
-hafis
 hafiz
 hafnium
 haft
@@ -34835,6 +34839,7 @@ hangwoman
 hangzhou
 hani
 hank
+hanked
 hanker
 hankering
 hankey
@@ -34883,6 +34888,7 @@ happi
 happily
 happiness
 happy
+haps
 hapsburg
 haptic
 haptically
@@ -40543,7 +40549,6 @@ iotas
 iowa
 iowan
 ioway
-ipad
 ipecac
 iphigenia
 iphone
@@ -42040,7 +42045,6 @@ kebob
 kechua
 kechuan
 kecks
-kedah
 kedge
 kedgeree
 kedgy
@@ -42251,7 +42255,7 @@ khachaturian
 khadafy
 khaddar
 khadi
-khads
+khaf
 khafs
 khaki
 khakis
@@ -42923,7 +42927,6 @@ kudzu
 kuenlun
 kufis
 kugel
-kuhn
 kuias
 kuiper
 kukenaam
@@ -42941,8 +42944,8 @@ kumis
 kummel
 kumquat
 kumys
-kunas
-kunds
+kuna
+kune
 kunlun
 kunzite
 kuomintang
@@ -51789,6 +51792,7 @@ naprapath
 naprapathy
 naprosyn
 naproxen
+naps
 napu
 naqua
 nara
@@ -56198,6 +56202,7 @@ padova
 padre
 padri
 padrone
+pads
 padua
 paducah
 paean
@@ -56535,7 +56540,6 @@ pandion
 pandionidae
 pandora
 pandowdy
-pands
 pandurate
 panduriform
 pandy
@@ -59029,11 +59033,11 @@ phytophthora
 phytoplankton
 phytotherapy
 phytotoxin
-piaf
 piaffe
 piaget
 piagetian
 piais
+pian
 piani
 pianism
 pianissimo
@@ -59044,12 +59048,12 @@ pianoforte
 pianola
 pianos
 pians
+pias
 piaster
 piastre
 piazza
 pibal
 pibgorn
-pibit
 pibroch
 pica
 picador
@@ -59491,7 +59495,6 @@ pirozhki
 pirre
 pirri
 pirrs
-pisa
 pisanosaur
 pisanosaurus
 piscary
@@ -68402,6 +68405,7 @@ sanitization
 sanitize
 sanitized
 sanity
+sank
 sanko
 sannup
 sannyasi
@@ -69764,7 +69768,6 @@ sedimentary
 sedimentation
 sedition
 seditious
-sedna
 seduce
 seducer
 seduction
@@ -70062,7 +70065,6 @@ sempach
 sempiternal
 sempiternity
 sempstress
-senas
 senate
 senator
 senatorial
@@ -70103,7 +70105,6 @@ sennit
 senor
 senora
 senorita
-senpai
 sens
 sensa
 sensate
@@ -71315,7 +71316,6 @@ sials
 siam
 siamang
 siamese
-sian
 sibbs
 sibelius
 siberia
@@ -73506,7 +73506,6 @@ spades
 spadework
 spadix
 spado
-spads
 spaed
 spaer
 spaes
@@ -73534,7 +73533,6 @@ spandau
 spandex
 spandrel
 spandril
-spane
 spang
 spangle
 spangled
@@ -73543,6 +73541,7 @@ spaniard
 spaniel
 spanish
 spank
+spanked
 spanker
 spanking
 spanky
@@ -79380,6 +79379,7 @@ tibetan
 tibia
 tibial
 tibialis
+tibias
 tibicen
 tibit
 tibur
@@ -81960,6 +81960,7 @@ uintathere
 uintatheriidae
 uintatherium
 ukase
+ukes
 ukraine
 ukrainian
 ukrayina
@@ -82579,6 +82580,7 @@ undamaged
 undatable
 undated
 undaunted
+unde
 undead
 undecagon
 undeceive
@@ -83146,6 +83148,7 @@ unharmed
 unharmonious
 unharmoniously
 unharness
+unhasp
 unhat
 unhatched
 unhazardous
@@ -83361,7 +83364,6 @@ unjustifiably
 unjustified
 unjustly
 unjustness
-unked
 unkempt
 unkemptness
 unkept
