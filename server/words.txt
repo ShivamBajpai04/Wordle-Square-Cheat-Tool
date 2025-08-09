@@ -618,6 +618,7 @@ accusive
 accustom
 accustomed
 acebutolol
+aced
 acedia
 acedy
 acellular
@@ -8382,7 +8383,6 @@ betcha
 beted
 betel
 betelgeuse
-betes
 beth
 bethe
 bethel
@@ -8402,6 +8402,7 @@ betrayer
 betroth
 betrothal
 betrothed
+bets
 betta
 betted
 better
@@ -9997,7 +9998,6 @@ borassus
 borate
 borated
 borax
-borde
 bordeaux
 bordelaise
 bordello
@@ -10607,6 +10607,7 @@ breathtaking
 breccia
 brecciate
 brecht
+bred
 brede
 breds
 bree
@@ -10633,7 +10634,6 @@ bregmatic
 breid
 breis
 breiz
-breme
 bremen
 bremerhaven
 bren
@@ -13278,6 +13278,7 @@ catoptrophorus
 catostomid
 catostomidae
 catostomus
+cats
 catskills
 catsup
 cattail
@@ -24868,7 +24869,6 @@ ebony
 ebook
 ebooks
 ebracteate
-ebro
 ebullience
 ebullient
 ebulliently
@@ -27001,6 +27001,7 @@ etamin
 etamine
 etanercept
 etape
+etas
 etats
 etcetera
 etch
@@ -42036,8 +42037,8 @@ kbit
 kcals
 keaki
 kean
+keas
 keaton
-keats
 kebab
 kebar
 keble
@@ -42099,8 +42100,8 @@ kelts
 kelty
 kelvin
 kemadrin
-kembo
 kembs
+kemp
 kemps
 kempt
 kempy
@@ -42201,6 +42202,7 @@ kesar
 kesey
 kestrel
 kests
+keta
 ketalar
 ketamine
 ketas
@@ -47830,7 +47832,6 @@ mbeya
 mbila
 mbira
 mbit
-mbret
 mbube
 mbuga
 mbundu
@@ -47916,6 +47917,7 @@ measurer
 measuring
 meat
 meatball
+meated
 meath
 meatless
 meatloaf
@@ -48687,7 +48689,6 @@ metaphysics
 metaphysis
 metaproterenol
 metarule
-metas
 metascience
 metasequoia
 metastability
@@ -54576,7 +54577,6 @@ ollas
 ollav
 oller
 ollie
-olmec
 olmsted
 ology
 olpae
@@ -64751,7 +64751,6 @@ reassure
 reassured
 reassuring
 reassuringly
-reast
 reata
 reattribute
 reaumur
@@ -67958,7 +67957,6 @@ sadomasochistic
 sados
 sadr
 sadza
-saek
 saeta
 safaqis
 safari
@@ -68616,7 +68614,6 @@ sated
 sateen
 satellite
 satem
-sater
 sates
 satiable
 satiate
@@ -74848,7 +74845,6 @@ stellate
 steller
 stellite
 stem
-steme
 stemless
 stemma
 stemmatic
@@ -78026,7 +78022,6 @@ teacup
 teacupful
 teade
 teads
-teaed
 teahouse
 teak
 teakettle
@@ -78056,6 +78051,7 @@ tearless
 tearoom
 tears
 teary
+teas
 teasdale
 tease
 teased
@@ -78286,10 +78282,8 @@ telsontail
 telugu
 temazepam
 temblor
-temed
 temerarious
 temerity
-temes
 temnospondyli
 temp
 tempe
@@ -82057,7 +82051,6 @@ umbos
 umbra
 umbrage
 umbrageous
-umbre
 umbrella
 umbrellalike
 umbrellawort
@@ -84402,6 +84395,8 @@ unzip
 upanishad
 upanishads
 upbeat
+upbeats
+upbore
 upbound
 upbow
 upbraid
