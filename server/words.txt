@@ -4182,7 +4182,6 @@ aorta
 aortal
 aortic
 aortitis
-aotus
 aoudad
 apace
 apache
@@ -6444,10 +6443,10 @@ awed
 aweel
 aweigh
 aweless
+awes
 awesome
 awestricken
 awestruck
-aweto
 awful
 awfully
 awfulness
@@ -20900,6 +20899,7 @@ defun
 defunct
 defunctness
 defuse
+defuser
 defusing
 defy
 degage
@@ -21899,13 +21899,12 @@ devolvement
 devon
 devonian
 devonshire
-devos
-devot
 devote
 devoted
 devotedly
 devotedness
 devotee
+devotes
 devotion
 devotional
 devour
@@ -21915,6 +21914,7 @@ devout
 devoutly
 devoutness
 devries
+devs
 dewan
 dewar
 dewax
@@ -24389,6 +24389,7 @@ dueller
 duellist
 duels
 duenna
+dues
 duet
 dueting
 duets
@@ -24506,6 +24507,7 @@ duodiode
 duologue
 duomi
 duomo
+duos
 dupe
 duped
 duper
@@ -24570,7 +24572,6 @@ durst
 durum
 durzi
 dusanbe
-duse
 dushanbe
 dusicyon
 dusk
@@ -27097,6 +27098,7 @@ etruscology
 ettin
 ettle
 etude
+etudes
 etui
 etuis
 etwee
@@ -27326,7 +27328,6 @@ everlastingly
 everlastingness
 evermore
 evernia
-evers
 eversion
 evert
 everting
@@ -28679,6 +28680,7 @@ federation
 federita
 fedex
 fedora
+feds
 feeble
 feebleminded
 feeblemindedness
@@ -28939,7 +28941,6 @@ fetts
 fettuccine
 fettuccini
 fetus
-fetwa
 feuar
 feud
 feudal
@@ -28950,6 +28951,7 @@ feudally
 feudatory
 feuds
 feued
+feus
 fever
 fevered
 feverfew
@@ -31019,6 +31021,7 @@ fuddy
 fudge
 fudged
 fudgy
+fuds
 fuego
 fuel
 fueled
@@ -55463,13 +55466,12 @@ otterhound
 ottoman
 ottos
 ottumwa
-otus
 ouachita
 oubit
 oubliette
 ouche
 oucht
-oueds
+ouds
 ouens
 ought
 oughta
@@ -55489,7 +55491,6 @@ ouranopithecus
 ouranos
 ourey
 ourie
-ouse
 ousel
 ousia
 oust
@@ -55875,6 +55876,7 @@ oversee
 overseer
 oversensitive
 overserious
+overset
 oversew
 oversewn
 oversexed
@@ -55985,6 +55987,7 @@ owen
 owens
 owensboro
 owers
+owes
 owest
 oweth
 owies
@@ -56006,6 +56009,7 @@ owning
 ownio
 owres
 owrie
+owse
 owsen
 oxacillin
 oxalacetate
@@ -66154,7 +66158,6 @@ rests
 resty
 resublime
 resubmit
-resue
 result
 resultant
 resume
@@ -66412,8 +66415,12 @@ revolutionize
 revolve
 revolved
 revolver
+revote
+revotes
 revow
+revs
 revue
+revues
 revulsion
 revved
 rewan
@@ -68774,6 +68781,7 @@ sawing
 sawm
 sawmill
 sawpit
+saws
 sawtooth
 sawwort
 sawyer
@@ -70485,9 +70493,11 @@ severeness
 severing
 severity
 severn
+severs
 sevilla
 seville
 sevir
+sevs
 sewage
 sewan
 sewar
@@ -70502,6 +70512,7 @@ sewers
 sewin
 sewing
 sewn
+sews
 sexagenarian
 sexagesimal
 sexcapade
@@ -72922,6 +72933,7 @@ sodomist
 sodomite
 sodomize
 sodomy
+soever
 sofa
 sofar
 sofas
@@ -73393,10 +73405,12 @@ sourpuss
 sours
 soursop
 sourwood
+sous
 sousa
 sousaphone
 souse
 soused
+souser
 sousing
 souslik
 sousse
@@ -73450,7 +73464,6 @@ sowbread
 sowce
 sowed
 sower
-soweto
 sowff
 sowfs
 sowing
@@ -73461,7 +73474,7 @@ sown
 sownd
 sowne
 sowps
-sowse
+sows
 sowth
 soxes
 soya
@@ -76076,6 +76089,7 @@ sudorific
 sudra
 suds
 sudsy
+sued
 suede
 suent
 suer
@@ -79789,6 +79803,7 @@ toed
 toehold
 toeless
 toenail
+toes
 toetoe
 toff
 toffee
@@ -80153,7 +80168,6 @@ tosa
 tosas
 toscana
 toscanini
-tosed
 toses
 tosh
 toshy
@@ -80249,6 +80263,7 @@ tourniquet
 tours
 tourtiere
 touse
+toused
 tousle
 tousled
 tousy
@@ -80259,7 +80274,6 @@ touze
 touzy
 tovarich
 tovarisch
-toves
 towage
 towai
 toward
@@ -80295,7 +80309,7 @@ townswoman
 towny
 towpath
 towrope
-towse
+tows
 towsy
 towts
 towze
@@ -81439,7 +81453,6 @@ tucks
 tucson
 tudor
 tudung
-tues
 tuesday
 tufa
 tufas
@@ -81720,6 +81733,7 @@ twain
 twals
 twang
 twank
+twas
 twat
 twats
 twayblade
@@ -81810,6 +81824,7 @@ twofold
 twonk
 twopence
 twopenny
+twos
 twoscore
 twosome
 twoway
@@ -84731,6 +84746,7 @@ uteri
 uterine
 utero
 uterus
+utes
 utica
 utile
 utilisation
@@ -85390,7 +85406,6 @@ verbs
 verdancy
 verdandi
 verdant
-verde
 verdi
 verdicchio
 verdict
@@ -85556,6 +85571,9 @@ veterinary
 vetluga
 veto
 vetoed
+vetoer
+vetoers
+vetoes
 vets
 vetted
 veuve
@@ -86086,6 +86104,7 @@ vodou
 vodoun
 vodun
 voema
+voes
 vogie
 vogue
 voguish
