@@ -1762,7 +1762,6 @@ aggro
 aggroup
 aggry
 agha
-aghan
 aghas
 aghast
 agidi
@@ -4899,6 +4898,7 @@ areic
 arena
 arenaceous
 arenaria
+arenas
 arenaviridae
 arenavirus
 arendt
@@ -5110,7 +5110,6 @@ arms
 armstrong
 army
 armyworm
-arnas
 arng
 arnhem
 arnica
@@ -6334,7 +6333,6 @@ avaunt
 avellan
 avellane
 avels
-avena
 avenge
 avenged
 avenger
@@ -6835,7 +6833,6 @@ baguet
 baguette
 bagwig
 bagwoman
-bahai
 bahaism
 bahamas
 bahamian
@@ -7429,13 +7426,11 @@ basenji
 baser
 bases
 bash
-basha
 bashed
 basher
 bashful
 bashfully
 bashfulness
-basho
 basia
 basic
 basically
@@ -8466,7 +8461,6 @@ bhakti
 bhang
 bharat
 bhats
-bhava
 bhels
 bhoot
 bhoys
@@ -26809,6 +26803,7 @@ erugo
 erupt
 eruption
 eruptive
+eruv
 eruvs
 erven
 ervil
@@ -31354,6 +31349,7 @@ gages
 gagged
 gaggle
 gagman
+gags
 gagster
 gagwoman
 gagwriter
@@ -33151,6 +33147,7 @@ goops
 goopy
 goors
 goory
+goos
 goosander
 goose
 gooseberry
@@ -33996,6 +33993,7 @@ guars
 guatemala
 guatemalan
 guava
+guavas
 guayaquil
 guayule
 gubba
@@ -34510,6 +34508,7 @@ hagiologist
 hagiology
 hagionym
 hagridden
+hags
 haha
 haham
 hahas
@@ -35160,7 +35159,6 @@ hautbois
 hautboy
 haute
 hauteur
-havan
 havana
 havarti
 havasupai
@@ -36466,6 +36464,8 @@ hoghs
 hogmanay
 hogoh
 hogos
+hogs
+hogsbane
 hogshead
 hogwash
 hogweed
@@ -37942,7 +37942,6 @@ hystricomorpha
 hythe
 hytrin
 iaea
-iago
 iamb
 iambi
 iambic
@@ -40928,7 +40927,6 @@ ixodid
 ixodidae
 ixora
 ixtle
-iyar
 iyyar
 izanagi
 izanami
@@ -51872,9 +51870,7 @@ nascency
 nascent
 nasdaq
 naseby
-nash
 nashi
-nasho
 nashville
 nasion
 nasis
@@ -51977,7 +51973,6 @@ nautch
 nautical
 nautilidae
 nautilus
-navaho
 navajo
 naval
 navane
@@ -52373,7 +52368,6 @@ nerthus
 nerts
 nertz
 neruda
-nerva
 nerve
 nerveless
 nervelessly
@@ -54768,6 +54762,7 @@ oodle
 oodles
 oogenesis
 oohed
+oohs
 ooids
 oojah
 oology
@@ -64113,6 +64108,7 @@ raglan
 ragnarok
 ragout
 ragpicker
+rags
 ragsorter
 ragtag
 ragtime
@@ -67855,7 +67851,6 @@ sabers
 sabertooth
 sabertoothed
 sabes
-sabha
 sabianism
 sabicu
 sabin
@@ -70672,7 +70667,6 @@ shampoo
 shamrock
 shams
 shamus
-shan
 shand
 shandy
 shandygaff
@@ -84591,7 +84585,6 @@ ureid
 ureide
 uremia
 uremic
-urena
 urent
 ureter
 ureteritis
@@ -84678,7 +84671,6 @@ uruguay
 uruguayan
 urupa
 urus
-urvas
 usability
 usable
 usableness
@@ -84853,6 +84845,7 @@ vagabond
 vagabondage
 vagal
 vagary
+vagi
 vagile
 vagina
 vaginal
@@ -85102,6 +85095,7 @@ varlet
 varment
 varmint
 varna
+varnas
 varnish
 varnished
 varnisher
@@ -85183,7 +85177,6 @@ vaux
 vawte
 vaxed
 vaxes
-vayu
 veadar
 veal
 veale
@@ -85274,7 +85267,6 @@ venae
 venal
 venality
 venally
-venas
 venation
 vend
 vendable
@@ -88346,9 +88338,9 @@ yages
 yagi
 yagis
 yagna
+yags
 yahi
 yahoo
-yahve
 yahveh
 yahwe
 yahweh
