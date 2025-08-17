@@ -4369,6 +4369,7 @@ apoplexy
 apoptosis
 aporocactus
 aport
+apos
 aposelene
 aposiopesis
 aposiopetic
@@ -4581,7 +4582,6 @@ apses
 apsidal
 apsis
 apsos
-apsu
 apted
 aptenodytes
 apter
@@ -5734,7 +5734,6 @@ astrophysicist
 astrophysics
 astrophyton
 astropogon
-astun
 astute
 astutely
 astuteness
@@ -5860,7 +5859,6 @@ atmospheric
 atmospherical
 atmospherics
 atocs
-atoke
 atoks
 atoll
 atom
@@ -27002,7 +27000,7 @@ etamin
 etamine
 etanercept
 etape
-etats
+etas
 etcetera
 etch
 etched
@@ -40274,6 +40272,7 @@ intimidated
 intimidating
 intimidation
 intis
+into
 intolerable
 intolerably
 intolerance
@@ -41997,6 +41996,7 @@ kathmandu
 katis
 katmandu
 katowice
+kats
 katsina
 katsuwonidae
 katsuwonus
@@ -42204,6 +42204,7 @@ kesar
 kesey
 kestrel
 kests
+keta
 ketalar
 ketamine
 ketas
@@ -42212,6 +42213,7 @@ ketchup
 keteleeria
 ketembilla
 ketes
+keto
 ketoacidosis
 ketoaciduria
 ketoheptose
@@ -42745,7 +42747,7 @@ knuts
 koala
 koan
 koans
-koaps
+koas
 koasati
 koban
 kobe
@@ -42819,6 +42821,7 @@ kopiyka
 kopje
 koppa
 koppie
+kops
 korai
 koran
 koranic
@@ -42849,7 +42852,6 @@ kosher
 kosherness
 kosovo
 kosteletzya
-kota
 kotar
 kotch
 kotex
@@ -42975,13 +42977,10 @@ kusan
 kusso
 kusti
 kutai
-kutas
 kutch
 kutis
-kutus
 kutuzov
 kuvasz
-kuvi
 kuwait
 kuwaiti
 kuyas
@@ -44148,6 +44147,7 @@ leitmotif
 leitmotiv
 leitneria
 leitneriaceae
+leku
 lekvar
 lemaireocereus
 lemaitre
@@ -45870,7 +45870,6 @@ lugubriously
 lugubriousness
 lugworm
 luik
-luke
 lukewarm
 lukewarmly
 lukewarmness
@@ -50713,6 +50712,7 @@ motortruck
 motorway
 motown
 motrin
+mots
 mott
 motte
 mottle
@@ -50721,7 +50721,6 @@ mottling
 motto
 motts
 motty
-motus
 motza
 mouch
 moue
@@ -50777,7 +50776,6 @@ mousey
 moussaka
 mousse
 moussorgsky
-moust
 moustache
 moustachio
 mousy
@@ -50969,6 +50967,8 @@ mulct
 mule
 muled
 mules
+muleta
+muletas
 muleteer
 muley
 mulga
@@ -51093,6 +51093,7 @@ mungi
 mungo
 mungs
 mungy
+muni
 munia
 munich
 municipal
@@ -51113,8 +51114,6 @@ munro
 muntiacus
 muntingia
 muntjac
-munts
-muntu
 muon
 muons
 muppet
@@ -51171,7 +51170,6 @@ murth
 murti
 muruk
 murva
-musa
 musaceae
 musales
 musar
@@ -51272,7 +51270,6 @@ mussolini
 mussorgsky
 mussy
 must
-musta
 mustache
 mustached
 mustachio
@@ -51299,7 +51296,6 @@ mutagenesis
 mutagenic
 mutamycin
 mutant
-mutas
 mutate
 mutation
 mutational
@@ -51328,6 +51324,7 @@ mutis
 mutisia
 mutism
 muton
+muts
 mutsuhito
 mutt
 mutter
@@ -51344,6 +51341,7 @@ mutualist
 mutuality
 mutually
 mutualness
+mutule
 mutum
 muumuu
 muvva
@@ -53962,6 +53960,7 @@ oates
 oath
 oaths
 oatmeal
+oats
 oaves
 oaxaca
 obadiah
@@ -54473,6 +54472,7 @@ ojibway
 ojime
 okapi
 okapia
+okas
 okay
 okayed
 okays
@@ -54491,7 +54491,6 @@ okole
 okra
 okras
 okrug
-oktas
 oktoberfest
 olate
 olden
@@ -54810,6 +54809,7 @@ opals
 opaque
 opaquely
 opaqueness
+opas
 opcw
 opec
 opel
@@ -54934,7 +54934,6 @@ oppressor
 opprobrious
 opprobrium
 oppugn
-opsat
 opsin
 opsit
 opsonin
@@ -55498,8 +55497,10 @@ ousted
 ouster
 ousting
 ousts
+outa
 outage
 outaouais
+outate
 outback
 outbalance
 outbid
@@ -55611,7 +55612,9 @@ outrival
 outro
 outroar
 outrun
+outs
 outsail
+outsat
 outscore
 outsell
 outset
@@ -55627,6 +55630,7 @@ outsmart
 outsole
 outsource
 outspan
+outspoke
 outspoken
 outspokenly
 outspokenness
@@ -56313,7 +56317,6 @@ pakistani
 pakka
 pakki
 pakua
-pakul
 palace
 paladin
 palaeencephalon
@@ -57216,7 +57219,6 @@ pastime
 pastinaca
 pastis
 pastness
-pasto
 pastor
 pastoral
 pastorale
@@ -57247,7 +57249,6 @@ patchwork
 patchy
 pate
 pated
-patel
 patella
 patellar
 patellidae
@@ -57364,12 +57365,10 @@ patterned
 patternmaker
 pattu
 patty
-patus
 patwin
 patzer
 pauas
 paucity
-paul
 pauli
 pauline
 pauling
@@ -60228,7 +60227,6 @@ poached
 poacher
 poaching
 poaka
-poake
 poalo
 pobby
 poboy
@@ -61051,7 +61049,6 @@ postulate
 postulation
 postulational
 postulator
-postum
 postural
 posture
 posturer
@@ -68696,13 +68693,11 @@ saudi
 sauerbraten
 sauerkraut
 saugh
-sauk
 saul
 sauls
 sault
 sauna
 saunf
-saunt
 saunter
 saunterer
 saurel
@@ -72980,6 +72975,7 @@ sojourn
 sojourner
 sojus
 sokah
+soke
 soken
 sokes
 sokha
@@ -73627,7 +73623,6 @@ spattered
 spattering
 spatula
 spatulate
-spaul
 spavin
 spavined
 spawl
@@ -74689,6 +74684,7 @@ starwort
 stary
 stash
 stasis
+stat
 statant
 state
 statecraft
@@ -74737,7 +74733,6 @@ status
 statute
 statutorily
 statutory
-staun
 staunch
 staunchly
 staunchness
@@ -75651,6 +75646,7 @@ stull
 stulm
 stultification
 stultify
+stum
 stumble
 stumblebum
 stumbler
@@ -77901,7 +77897,6 @@ tastes
 tastily
 tastiness
 tasting
-tasto
 tasty
 tatahumara
 tatar
@@ -77913,8 +77908,8 @@ taths
 tati
 tatie
 tatin
-tatou
 tatouay
+tats
 tatted
 tatter
 tatterdemalion
@@ -77928,9 +77923,6 @@ tattling
 tattoo
 tatts
 tatty
-tatu
-tatum
-tatus
 taube
 taught
 tauld
@@ -80178,6 +80170,7 @@ tosser
 tosses
 tossup
 tossy
+tost
 tostada
 tosyl
 total
@@ -84253,6 +84246,7 @@ untipped
 untired
 untiring
 untitled
+unto
 untoasted
 untold
 untoothed
@@ -84741,6 +84735,7 @@ usurpation
 usurper
 usury
 utahraptor
+utas
 utensil
 uteri
 uterine
