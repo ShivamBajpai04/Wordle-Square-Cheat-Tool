@@ -7814,7 +7814,6 @@ bedcover
 bedded
 bedder
 bedding
-bede
 bedeck
 bedel
 bedes
@@ -7857,6 +7856,7 @@ bedspring
 bedstead
 bedstraw
 bedtime
+bedu
 beduin
 bedwetter
 bedye
@@ -11346,6 +11346,7 @@ buns
 bunsen
 bunt
 buntal
+bunted
 bunter
 bunting
 bunts
@@ -21217,12 +21218,11 @@ demoralizing
 demos
 demosthenes
 demosthenic
-demot
 demote
 demotic
 demotion
+demount
 dempsey
-dempt
 demulcent
 demulen
 demulsify
@@ -24484,6 +24484,7 @@ dungeon
 dunghill
 dungs
 dungy
+dunite
 dunk
 dunkard
 dunked
@@ -24497,6 +24498,7 @@ dunno
 dunnock
 dunny
 dunsh
+dunt
 dunts
 duodecimal
 duodenal
@@ -27150,7 +27152,6 @@ euglenophyta
 euglenophyte
 eukaryote
 eukaryotic
-euked
 eulogise
 eulogist
 eulogistic
@@ -29121,7 +29122,6 @@ figwort
 fiji
 fijian
 fijis
-fiked
 fikes
 filaggrin
 filago
@@ -42104,6 +42104,7 @@ kelvin
 kemadrin
 kembo
 kembs
+kemp
 kemps
 kempt
 kempy
@@ -52771,7 +52772,6 @@ nijmegen
 nikab
 nikah
 nikau
-nike
 nilas
 nile
 nilgai
@@ -60331,6 +60331,7 @@ poinciana
 poind
 poinsettia
 point
+pointe
 pointed
 pointedly
 pointedness
@@ -60371,7 +60372,6 @@ pokeweed
 pokey
 pokie
 poking
-pokit
 pokomo
 poky
 polack
@@ -61106,7 +61106,6 @@ pothook
 pothos
 pothouse
 pothunter
-potin
 potion
 potlatch
 potluck
@@ -61146,7 +61145,6 @@ pouffe
 poufs
 poufy
 pouis
-pouke
 pouks
 poule
 poulenc
@@ -61176,6 +61174,7 @@ pours
 poussin
 pousy
 pout
+pouted
 pouter
 pouteria
 poutine
@@ -79711,7 +79710,6 @@ title
 titled
 titles
 titmouse
-tito
 titrate
 titration
 titrator
@@ -80261,6 +80259,7 @@ tousle
 tousled
 tousy
 tout
+touted
 touter
 touts
 touze
@@ -83308,7 +83307,6 @@ uninvited
 uninvitedly
 uninviting
 uninvolved
-unio
 union
 unionidae
 unionisation
