@@ -111,7 +111,6 @@ abelmoschus
 abelmosk
 abenaki
 abend
-abeng
 aberdare
 aberdeen
 aberdonian
@@ -1964,6 +1963,7 @@ aimlessness
 ainas
 ainee
 ainga
+ains
 aioli
 airbag
 airborne
@@ -5111,7 +5111,6 @@ armstrong
 army
 armyworm
 arnas
-arng
 arnhem
 arnica
 arnis
@@ -7574,6 +7573,7 @@ bathyscaphe
 bathysphere
 batidaceae
 batik
+bating
 batis
 batiste
 batman
@@ -7949,6 +7949,7 @@ begotten
 begrime
 begrimed
 begrudge
+begs
 beguile
 beguiled
 beguilement
@@ -8206,6 +8207,7 @@ bennie
 bennington
 benniseed
 benny
+bens
 bensh
 bent
 benthal
@@ -8291,7 +8293,6 @@ bermuda
 bermudan
 bermudas
 bermudian
-bern
 bernard
 berne
 bernhardt
@@ -8750,12 +8751,13 @@ biner
 bines
 binet
 binful
+bing
 binge
 binger
+binges
 binghamton
 bingle
 bingo
-bings
 bingy
 binit
 binks
@@ -8765,6 +8767,7 @@ binocular
 binoculars
 binomial
 binominal
+bins
 bints
 binturong
 binuclear
@@ -24855,7 +24858,6 @@ ebenales
 ebene
 ebike
 ebionite
-ebit
 ebitda
 eblis
 ebola
@@ -26076,6 +26078,7 @@ engross
 engrossed
 engrossing
 engrossment
+engs
 engulf
 enhance
 enhanced
@@ -26104,7 +26107,6 @@ enjoyment
 enjoys
 enkaid
 enkephalin
-enki
 enkidu
 enkindle
 enkindled
@@ -26677,9 +26679,7 @@ erasmian
 erasmus
 erastianism
 erasure
-erato
 eratosthenes
-erbia
 erbium
 ercilla
 erebus
@@ -26758,6 +26758,7 @@ ermine
 erne
 erned
 ernes
+erns
 ernst
 erode
 eroded
@@ -28171,10 +28172,9 @@ faille
 fails
 failure
 fain
-faine
 faineance
 faineant
-fains
+fainer
 faint
 fainthearted
 faintheartedness
@@ -28501,6 +28501,8 @@ fatimah
 fating
 fatism
 fatless
+fatling
+fatlings
 fatly
 fatness
 fatso
@@ -32025,7 +32027,6 @@ geniculate
 genie
 genii
 genin
-genio
 genip
 genipa
 genipap
@@ -39524,7 +39525,6 @@ infusorian
 inga
 ingan
 ingathering
-inge
 ingeminate
 ingenious
 ingeniously
@@ -39534,7 +39534,6 @@ ingenuity
 ingenuous
 ingenuously
 ingenuousness
-inger
 ingerman
 ingest
 ingesta
@@ -41462,7 +41461,6 @@ joled
 joles
 jolie
 joliet
-joliot
 jolliet
 jollification
 jollify
@@ -42034,8 +42032,8 @@ kazakstan
 kazan
 kazis
 kazoo
+kbar
 kbars
-kbit
 kcals
 keaki
 kean
@@ -42502,6 +42500,7 @@ kino
 kinos
 kinosternidae
 kinosternon
+kins
 kinsey
 kinsfolk
 kinshasa
@@ -42559,7 +42558,6 @@ kissy
 kists
 kisumu
 kiswahili
-kitab
 kitakyushu
 kitambilla
 kitbag
@@ -42611,7 +42609,6 @@ klett
 klick
 klieg
 kliks
-kline
 klinefelter
 klondike
 klong
@@ -42772,6 +42769,7 @@ kohleria
 kohlrabi
 kohls
 koine
+koines
 koinonia
 koiwi
 kojis
@@ -44542,7 +44540,6 @@ librarianship
 library
 librate
 libration
-libre
 librettist
 libretto
 libreville
@@ -44923,6 +44920,7 @@ linocut
 linoleum
 linos
 linotype
+lins
 linseed
 linstock
 lint
@@ -45424,7 +45422,6 @@ loiter
 loiterer
 lokes
 lokey
-loki
 lokum
 lolas
 loled
@@ -52196,6 +52193,7 @@ negri
 negritude
 negro
 negroid
+negs
 negus
 nehemiah
 nehru
@@ -54484,7 +54482,6 @@ okenfuss
 okey
 okies
 okinawa
-oking
 oklahoma
 oklahoman
 okole
@@ -54563,6 +54560,7 @@ oligosaccharide
 oligospermia
 oliguria
 olimbos
+olio
 olios
 oliva
 olive
@@ -60451,7 +60449,6 @@ politico
 politics
 polity
 polje
-polk
 polka
 polks
 poll
@@ -63920,6 +63917,7 @@ rabbitwood
 rabble
 rabelais
 rabelaisian
+rabi
 rabic
 rabid
 rabidity
@@ -64150,7 +64148,6 @@ rain
 rainbow
 raincoat
 raindrop
-raine
 rained
 rainfall
 rainfly
@@ -64487,7 +64484,10 @@ ratification
 ratified
 ratifier
 ratify
+ratine
+ratines
 rating
+ratings
 ratio
 ratiocinate
 ratiocination
@@ -64514,6 +64514,8 @@ ratite
 ratlike
 ratlin
 ratline
+ratlines
+ratlins
 rato
 ratoo
 ratos
@@ -64758,9 +64760,11 @@ reaumur
 reave
 reawaken
 rebab
+rebait
 rebar
 rebarbative
 rebate
+rebating
 rebato
 rebbe
 rebec
@@ -64775,7 +64779,6 @@ rebels
 rebid
 rebind
 rebirth
-rebit
 reboot
 rebop
 reborn
@@ -65397,6 +65400,7 @@ regrettable
 regrettably
 regroup
 regrow
+regs
 regular
 regularisation
 regularise
@@ -65711,7 +65715,6 @@ renewed
 renewing
 reney
 renga
-rengs
 reniform
 renig
 renin
@@ -70277,8 +70280,6 @@ seraph
 seraphic
 seraphical
 serax
-serb
-serbia
 serbian
 serbianness
 serdica
@@ -72686,6 +72687,7 @@ sneezing
 sneezy
 snell
 snellen
+snib
 snibs
 snick
 snicker
@@ -77291,7 +77293,6 @@ tabernacle
 tabernacles
 tabernaemontana
 tabes
-tabi
 tabid
 tabis
 tabla
@@ -77462,6 +77463,7 @@ tailspin
 tailstock
 tailwind
 tailwort
+tain
 tains
 taint
 tainted
@@ -79377,7 +79379,6 @@ tianjin
 tians
 tiara
 tiars
-tiber
 tiberius
 tibet
 tibetan
@@ -79587,13 +79588,13 @@ tines
 tinfoil
 ting
 tinge
+tinges
 tingidae
 tingle
 tingling
 tingly
 tings
 tininess
-tink
 tinker
 tinkerer
 tinkle
@@ -79830,7 +79831,6 @@ toiling
 toils
 toilsome
 toilsomeness
-toing
 toise
 toit
 toited
@@ -79873,6 +79873,7 @@ tolerate
 toleration
 toles
 tolinase
+toling
 tolkien
 toll
 tollbar
