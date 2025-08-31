@@ -7883,6 +7883,7 @@ beekeeper
 beekeeping
 beeline
 beelzebub
+been
 beenie
 beep
 beeped
@@ -7892,6 +7893,7 @@ beer
 beerbohm
 beers
 beery
+bees
 beeswax
 beet
 beethoven
@@ -7949,6 +7951,7 @@ begotten
 begrime
 begrimed
 begrudge
+begs
 beguile
 beguiled
 beguilement
@@ -8149,6 +8152,7 @@ bending
 bendopa
 bends
 bendy
+bene
 beneath
 benedick
 benedict
@@ -8173,7 +8177,6 @@ beneficiation
 benefit
 benelux
 benes
-benet
 benevolence
 benevolent
 benevolently
@@ -8206,6 +8209,7 @@ bennie
 bennington
 benniseed
 benny
+bens
 bensh
 bent
 benthal
@@ -8305,6 +8309,7 @@ berretta
 berried
 berry
 berrylike
+berseem
 berserk
 berserker
 berteroa
@@ -8317,7 +8322,6 @@ beryl
 beryllium
 berzelius
 besaw
-besee
 beseech
 beseeching
 beseechingly
@@ -8379,7 +8383,6 @@ betcha
 beted
 betel
 betelgeuse
-betes
 beth
 bethe
 bethel
@@ -24852,7 +24855,6 @@ ebbtide
 ebena
 ebenaceae
 ebenales
-ebene
 ebike
 ebionite
 ebit
@@ -26175,7 +26177,6 @@ enrollment
 enrolment
 ensconce
 ensemble
-ensete
 ensew
 enshrine
 enshroud
@@ -26409,7 +26410,6 @@ epee
 epees
 epena
 ependyma
-epene
 epenthesis
 epenthetic
 epergne
@@ -26719,6 +26719,7 @@ ergotine
 ergotism
 ergotropic
 ergotropism
+ergs
 erhus
 erianthus
 erica
@@ -26893,6 +26894,7 @@ eskar
 esker
 eskimo
 esmolol
+esne
 esnes
 esocidae
 esophageal
@@ -27009,7 +27011,6 @@ etched
 etcher
 etching
 etcs
-etens
 eternal
 eternalise
 eternalize
@@ -28680,6 +28681,7 @@ federita
 fedex
 fedora
 feds
+feeb
 feeble
 feebleminded
 feeblemindedness
@@ -28701,8 +28703,7 @@ feelingly
 feelings
 feels
 feely
-feens
-feers
+fees
 feese
 feet
 feetfirst
@@ -28763,6 +28764,7 @@ fema
 femal
 female
 femaleness
+feme
 femes
 femic
 feminine
@@ -28807,6 +28809,7 @@ fennic
 fenny
 fenoprofen
 fenrir
+fens
 fentanyl
 fents
 fenugreek
@@ -31906,6 +31909,7 @@ geeked
 geeks
 geeky
 geeps
+gees
 geese
 geest
 geezer
@@ -33571,11 +33575,13 @@ greats
 greave
 greaves
 grebe
+grebes
 grebo
 grece
 grecian
 grecism
 greco
+gree
 greece
 greed
 greedily
@@ -33591,7 +33597,6 @@ greenbelt
 greenberg
 greenbottle
 greenbrier
-greene
 greenery
 greeneye
 greenfly
@@ -33653,8 +33658,6 @@ grenadian
 grenadier
 grenadine
 grenoble
-grens
-grese
 gresham
 gretzky
 greve
@@ -48056,6 +48059,7 @@ meers
 meerschaum
 meet
 meeter
+meeters
 meeting
 meetinghouse
 meets
@@ -52052,7 +52056,6 @@ nebbech
 nebbish
 nebby
 nebcin
-nebe
 nebek
 nebel
 nebiim
@@ -52146,11 +52149,10 @@ needy
 neefs
 neeld
 neem
-neemb
 neems
 neencephalon
+neep
 neeps
-neese
 neeze
 nefarious
 nefariously
@@ -52196,6 +52198,7 @@ negri
 negritude
 negro
 negroid
+negs
 negus
 nehemiah
 nehru
@@ -57630,6 +57633,8 @@ peds
 peduncle
 pedunculate
 pedwood
+peebeen
+peebeens
 peece
 peeing
 peek
@@ -57662,6 +57667,7 @@ peerless
 peerlessness
 peers
 peery
+pees
 peeve
 peeved
 peevish
@@ -57863,7 +57869,7 @@ penoncel
 penpusher
 pens
 pensacola
-pense
+pensee
 pension
 pensionable
 pensionary
@@ -65191,10 +65197,10 @@ reenactor
 reenforce
 reenforcement
 reenlistment
-reens
 reentrant
 reentry
 reerd
+rees
 reest
 reestablish
 reevaluate
@@ -65397,6 +65403,7 @@ regrettable
 regrettably
 regroup
 regrow
+regs
 regular
 regularisation
 regularise
@@ -65977,6 +65984,7 @@ reseda
 resedaceae
 resee
 reseed
+reseen
 resell
 resemblance
 resemble
@@ -69671,7 +69679,6 @@ sebaceous
 sebastes
 sebastiana
 sebastopol
-sebe
 seborrhea
 sebum
 secale
@@ -69817,6 +69824,7 @@ seemingly
 seemliness
 seemly
 seems
+seen
 seep
 seepage
 seeping
@@ -69830,7 +69838,6 @@ seest
 seeth
 seethe
 seething
-sefer
 segal
 segar
 segas
@@ -78140,6 +78147,7 @@ teeny
 teeoff
 teepee
 teers
+tees
 teeter
 teeterboard
 teetertotter
@@ -78159,6 +78167,7 @@ teffs
 tefillin
 teflon
 teggs
+tegs
 tegu
 tegua
 tegucigalpa
@@ -78399,7 +78408,6 @@ tenebrious
 tenebrous
 tenement
 tenerife
-tenes
 tenesmus
 tenet
 tenets
@@ -78431,6 +78439,7 @@ tenpins
 tenpounder
 tenrec
 tenrecidae
+tens
 tense
 tensed
 tensely
