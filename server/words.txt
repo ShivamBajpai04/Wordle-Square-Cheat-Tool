@@ -110,7 +110,6 @@ abelia
 abelmoschus
 abelmosk
 abenaki
-abend
 abeng
 aberdare
 aberdeen
@@ -1770,6 +1769,7 @@ agila
 agile
 agilely
 agility
+agin
 agincourt
 aging
 agio
@@ -1804,7 +1804,6 @@ agnatha
 agnathan
 agnatic
 agnation
-agni
 agnise
 agnize
 agnomen
@@ -7800,7 +7799,6 @@ becoming
 becomingly
 becomingness
 becquerel
-beda
 bedad
 bedamn
 bedaub
@@ -8274,7 +8272,6 @@ bergson
 bergsonism
 beria
 beriberi
-bering
 berit
 berith
 berk
@@ -8295,7 +8292,6 @@ bermuda
 bermudan
 bermudas
 bermudian
-bern
 bernard
 berne
 bernhardt
@@ -20828,6 +20824,7 @@ defervesce
 defervescence
 defervescent
 deffo
+defi
 defiance
 defiant
 defiantly
@@ -21502,7 +21499,6 @@ deres
 derestrict
 derib
 deride
-derig
 derision
 derisive
 derisively
@@ -25174,6 +25170,7 @@ effusively
 effusiveness
 efits
 eflops
+egad
 egads
 egalitarian
 egalitarianism
@@ -26731,10 +26728,8 @@ eridanus
 erie
 erigeron
 erignathus
-erin
 erinaceidae
 erinaceus
-ering
 eringo
 erinyes
 eriobotrya
@@ -30808,6 +30803,7 @@ fries
 friesian
 friesland
 frieze
+frig
 frigate
 frigg
 frigga
@@ -32475,7 +32471,6 @@ girondism
 girondist
 giros
 girrs
-girru
 girsh
 girt
 girted
@@ -39524,10 +39519,8 @@ infuse
 infusion
 infusoria
 infusorian
-inga
 ingan
 ingathering
-inge
 ingeminate
 ingenious
 ingeniously
@@ -39537,7 +39530,6 @@ ingenuity
 ingenuous
 ingenuously
 ingenuousness
-inger
 ingerman
 ingest
 ingesta
@@ -40574,6 +40566,7 @@ irascibility
 irascible
 irate
 irately
+ired
 ireful
 ireland
 irelander
@@ -52711,7 +52704,6 @@ niffy
 nifle
 nifty
 nigella
-niger
 nigeria
 nigerian
 nigerien
@@ -65086,6 +65078,7 @@ redetermine
 redevelop
 redevelopment
 redeye
+redfin
 redfish
 redford
 redhead
@@ -66747,7 +66740,6 @@ rift
 rifte
 rifts
 rifty
-riga
 rigamarole
 rigatoni
 rigel
@@ -66832,7 +66824,6 @@ rindy
 rines
 ring
 ringdove
-ringe
 ringed
 ringer
 ringgit
@@ -67596,10 +67587,10 @@ rudiments
 rudis
 rudra
 rued
-rueda
 rueful
 ruefully
 ruefulness
+ruer
 ruers
 ruff
 ruffe
@@ -67697,8 +67688,6 @@ rundown
 runds
 rundstedt
 rune
-runed
-runer
 runes
 rung
 rungs
@@ -77294,6 +77283,7 @@ tabbouleh
 tabby
 tabbys
 taber
+tabering
 tabernacle
 tabernacles
 tabernaemontana
@@ -82267,7 +82257,6 @@ unawares
 unawed
 unbacked
 unbaffled
-unbag
 unbalance
 unbalanced
 unbalconied
@@ -82279,6 +82268,7 @@ unbar
 unbarred
 unbarreled
 unbarrelled
+unbe
 unbearable
 unbearably
 unbeatable
@@ -82286,7 +82276,6 @@ unbeaten
 unbecoming
 unbecomingly
 unbecomingness
-unbed
 unbefitting
 unbeholden
 unbeknown
@@ -83030,6 +83019,7 @@ unfettered
 unfilled
 unfilmed
 unfinished
+unfired
 unfirm
 unfit
 unfitness
@@ -83821,7 +83811,6 @@ unreconciled
 unreconstructed
 unrecorded
 unrecoverable
-unred
 unredeemable
 unredeemed
 unreduced
@@ -84631,7 +84620,6 @@ urite
 urman
 urmia
 urnal
-urned
 urobilin
 urobilinogen
 urocele
