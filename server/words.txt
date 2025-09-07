@@ -5128,6 +5128,7 @@ aromatic
 aromaticity
 aromatise
 aromatize
+aros
 arose
 arouet
 around
@@ -5318,6 +5319,7 @@ aruru
 arval
 arvee
 arvicola
+arvo
 arvos
 aryan
 aryl
@@ -5939,6 +5941,7 @@ attaint
 attalea
 attap
 attar
+attars
 attas
 atted
 attemper
@@ -28612,7 +28615,6 @@ fearlessness
 fears
 fearsome
 fearsomely
-feart
 fease
 feasibility
 feasible
@@ -28932,6 +28934,7 @@ fetology
 fetometry
 fetoprotein
 fetor
+fetors
 fetoscope
 fetoscopy
 fetta
@@ -30005,6 +30008,7 @@ foetology
 foetometry
 foetoprotein
 foetor
+foetors
 foetoscope
 foetoscopy
 foetus
@@ -30485,7 +30489,6 @@ fosterage
 fostering
 fosterling
 fothergilla
-fots
 fouat
 foucault
 fouds
@@ -53949,6 +53952,7 @@ oared
 oarer
 oarfish
 oarlock
+oars
 oarsman
 oarsmanship
 oarswoman
@@ -54783,11 +54787,11 @@ oophorectomy
 oophoritis
 oopsy
 oorie
-oort
 ooses
 oosphere
 oospore
 ootid
+oots
 ooyah
 ooze
 oozed
@@ -55006,6 +55010,7 @@ oration
 orator
 oratorical
 oratorio
+orators
 oratory
 orbat
 orbed
@@ -55281,6 +55286,7 @@ orthostatic
 orthotomus
 orthotropous
 ortolan
+orts
 ortygan
 orudis
 orumiyeh
@@ -55450,7 +55456,6 @@ otiose
 otis
 otitis
 otium
-otoe
 otoganglion
 otolaryngologist
 otolaryngology
@@ -64521,8 +64526,8 @@ ratlike
 ratlin
 ratline
 rato
-ratoo
 ratos
+rats
 ratsbane
 rattail
 rattan
@@ -67289,7 +67294,6 @@ roridulaceae
 rorippa
 rorqual
 rorschach
-rorts
 rorty
 rosacea
 rosaceae
@@ -67337,7 +67341,7 @@ rostand
 roster
 rosti
 rostock
-rostov
+rostra
 rostrate
 rostrum
 rosts
@@ -67371,11 +67375,13 @@ rotis
 rotisserie
 rotl
 rotls
+roto
 rotogravure
 roton
 rotor
+rotors
 rotos
-rotta
+rots
 rotte
 rotted
 rotten
@@ -73267,6 +73273,7 @@ sopra
 sopranino
 soprano
 sops
+sora
 soral
 soras
 sorb
@@ -75125,6 +75132,7 @@ stivy
 stizidae
 stizolobium
 stizostedion
+stoa
 stoae
 stoai
 stoas
@@ -75256,7 +75264,6 @@ stoop
 stooped
 stooper
 stooping
-stoor
 stop
 stopcock
 stope
@@ -75302,6 +75309,7 @@ storybook
 storyline
 storyteller
 stoss
+stot
 stotinka
 stots
 stott
@@ -77849,7 +77857,6 @@ tartarean
 tartaric
 tartarus
 tartary
-tarte
 tartlet
 tartly
 tartness
@@ -78007,7 +78014,6 @@ taxonomist
 taxonomy
 taxophytina
 taxopsida
-taxor
 taxpayer
 taxpaying
 taxus
@@ -78733,7 +78739,6 @@ texarkana
 texas
 texes
 text
-texta
 textbook
 textile
 texting
@@ -79810,6 +79815,7 @@ toffs
 toffy
 tofieldia
 tofranil
+toft
 tofts
 tofu
 tofus
@@ -80082,6 +80088,7 @@ topsoil
 topspin
 topv
 toque
+tora
 toradol
 torah
 toran
@@ -80105,6 +80112,7 @@ tormentor
 torn
 tornado
 tornillo
+toro
 torodal
 toroid
 toroidal
@@ -80130,6 +80138,7 @@ torricelli
 torrid
 torridity
 torrs
+tors
 torse
 torsi
 torsion
@@ -80209,6 +80218,7 @@ toting
 totipotence
 totipotency
 totipotent
+tots
 totter
 totterer
 tottering
@@ -80719,8 +80729,6 @@ trashiness
 trashy
 trasimeno
 trass
-trats
-tratt
 traubel
 trauma
 traumatic
@@ -81164,7 +81172,6 @@ trna
 trnc
 troad
 troak
-troat
 trocar
 trochaic
 trochanter
@@ -85108,6 +85115,7 @@ varnish
 varnished
 varnisher
 varro
+vars
 varsity
 varuna
 varus
@@ -85162,7 +85170,6 @@ vaticinate
 vaticination
 vaticinator
 vatje
-vatos
 vats
 vatus
 vauch
@@ -86072,7 +86079,6 @@ vlies
 vlog
 vlogger
 vlogs
-voars
 vobla
 vocab
 vocable
