@@ -4934,6 +4934,7 @@ argentinidae
 argentinosaur
 argentite
 argentous
+argh
 argil
 argillaceous
 argillite
@@ -5016,7 +5017,6 @@ arisarum
 arise
 arisen
 arises
-arish
 arishth
 arista
 aristarchus
@@ -5045,7 +5045,6 @@ arithmetical
 arithmetically
 arithmetician
 arity
-arius
 arizona
 arizonan
 arizonian
@@ -5284,7 +5283,6 @@ artillerywoman
 artiodactyl
 artiodactyla
 artiodactylous
-artis
 artisan
 artist
 artiste
@@ -5415,7 +5413,6 @@ ashamedly
 ashbin
 ashcake
 ashcan
-ashe
 ashed
 ashen
 ashes
@@ -6058,6 +6055,7 @@ augen
 augend
 auger
 auges
+augh
 aught
 augite
 augitic
@@ -8951,6 +8949,7 @@ biserrate
 bises
 bisexual
 bisexuality
+bish
 bishkek
 bishop
 bishopric
@@ -8996,6 +8995,7 @@ bitmap
 bitok
 bitos
 bitou
+bits
 bitstock
 bitsy
 bitt
@@ -11202,7 +11202,6 @@ builds
 buildup
 built
 buirdly
-buist
 bujumbura
 bukes
 bukharin
@@ -11544,7 +11543,6 @@ bust
 bustard
 busted
 buster
-busti
 bustier
 bustle
 bustling
@@ -24860,7 +24858,6 @@ ebenaceae
 ebenales
 ebike
 ebionite
-ebit
 ebitda
 eblis
 ebola
@@ -31654,7 +31651,6 @@ gargle
 gargoyle
 gargoylism
 garibaldi
-garis
 garish
 garishly
 garishness
@@ -31692,6 +31688,7 @@ garrulous
 garrulously
 garrulousness
 garrulus
+gars
 garter
 garters
 garth
@@ -31881,7 +31878,6 @@ gazon
 gazoo
 gazpacho
 gazump
-gbit
 gcse
 gdansk
 geals
@@ -33744,7 +33740,6 @@ grips
 gripsack
 gript
 gripy
-gris
 grisaille
 grise
 griselinia
@@ -35779,6 +35774,7 @@ hemstitch
 hemstitching
 henbane
 henbit
+henbits
 hence
 henceforth
 henceforward
@@ -37234,6 +37230,7 @@ huggy
 hughes
 hugo
 hugoesque
+hugs
 hugueninia
 huguenot
 huhus
@@ -42041,7 +42038,6 @@ kazan
 kazis
 kazoo
 kbars
-kbit
 kcals
 keaki
 kean
@@ -42737,7 +42733,6 @@ known
 knows
 knox
 knoxville
-knubs
 knuckle
 knuckleball
 knucklebones
@@ -42982,7 +42977,6 @@ kurus
 kurux
 kusan
 kusso
-kusti
 kutai
 kutch
 kutis
@@ -53700,6 +53694,7 @@ nubby
 nubia
 nubian
 nubile
+nubs
 nucellus
 nucha
 nucifraga
@@ -57691,6 +57686,7 @@ pegma
 pegmatite
 pegos
 pehlevi
+pehs
 peignoir
 peine
 peins
@@ -58685,6 +58681,7 @@ phenylethylene
 phenylketonuria
 phenyltoloxamine
 phenytoin
+pheo
 pheochromocytoma
 pheon
 pheresis
@@ -62967,6 +62964,7 @@ puffinus
 puffs
 puffy
 puggy
+pugh
 pugilism
 pugilist
 pugilistic
@@ -62974,6 +62972,7 @@ puglia
 pugnacious
 pugnaciously
 pugnacity
+pugs
 puhas
 puissance
 puissant
@@ -64120,10 +64119,10 @@ raglan
 ragnarok
 ragout
 ragpicker
+rags
 ragsorter
 ragtag
 ragtime
-ragus
 ragusa
 ragweed
 ragwort
@@ -64555,7 +64554,6 @@ rauli
 raunch
 raunchy
 rauns
-raupo
 rauvolfia
 rauwolfia
 ravage
@@ -66637,7 +66635,6 @@ ribbony
 ribby
 ribes
 ribgrass
-ribhus
 ribier
 ribless
 riblike
@@ -68024,6 +68021,7 @@ sagittate
 sagittiform
 sago
 sagos
+sags
 saguaro
 sagum
 sahab
@@ -68594,7 +68592,6 @@ sarpedon
 sarracenia
 sarraceniaceae
 sarraceniales
-sars
 sarsa
 sarsaparilla
 sarsenet
@@ -68706,6 +68703,7 @@ saudi
 sauerbraten
 sauerkraut
 saugh
+saughs
 saul
 sauls
 sault
@@ -70858,6 +70856,7 @@ shelvy
 shem
 shema
 shemozzle
+shen
 shenanigan
 shend
 sheng
@@ -71277,7 +71276,6 @@ shtik
 shtikl
 shtum
 shtup
-shua
 shuba
 shuck
 shucks
@@ -76157,6 +76155,7 @@ suggestion
 suggestive
 suggestively
 suggestiveness
+sugh
 sughs
 sugos
 suharto
@@ -76370,6 +76369,7 @@ sunts
 sunup
 suomi
 suona
+supe
 suped
 super
 superable
@@ -80454,8 +80454,6 @@ tragicomical
 tragifarce
 tragopan
 tragopogon
-trags
-tragu
 tragulidae
 tragulus
 tragus
@@ -80917,7 +80915,6 @@ tribonema
 tribonemaceae
 tribromoethanol
 tribromomethane
-tribs
 tribulate
 tribulation
 tribulus
@@ -81966,6 +81963,7 @@ uganda
 ugandan
 ugaritic
 ugged
+ughs
 uglier
 uglies
 uglify
@@ -82286,6 +82284,7 @@ unbar
 unbarred
 unbarreled
 unbarrelled
+unbe
 unbearable
 unbearably
 unbeatable
