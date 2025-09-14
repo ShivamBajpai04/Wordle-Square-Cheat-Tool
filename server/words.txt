@@ -6459,6 +6459,7 @@ awkward
 awkwardly
 awkwardness
 awless
+awls
 awlwort
 awmry
 awned
@@ -9548,7 +9549,6 @@ blustery
 blype
 bmdo
 boabs
-boaks
 boann
 boar
 board
@@ -9732,7 +9732,6 @@ bolivia
 bolivian
 boliviano
 bolix
-bolks
 boll
 bollard
 bollix
@@ -10231,7 +10230,6 @@ bovinae
 bovine
 bovini
 bovril
-bowat
 bowditch
 bowdler
 bowdlerisation
@@ -16355,6 +16353,7 @@ colpocystitis
 colpocystocele
 colposcope
 colpoxerosis
+cols
 colt
 coltan
 colter
@@ -18452,7 +18451,6 @@ covey
 coville
 covin
 cowage
-cowal
 cowan
 coward
 cowardice
@@ -24840,6 +24838,7 @@ eaten
 eater
 eaters
 eatery
+eath
 eathe
 eatin
 eating
@@ -41784,6 +41783,7 @@ kades
 kadi
 kadikoy
 kadis
+kaes
 kaffir
 kaffiyeh
 kafir
@@ -42603,6 +42603,7 @@ klang
 klansman
 klaproth
 klaps
+klatch
 klavern
 klavier
 klaxon
@@ -43694,6 +43695,7 @@ lathe
 lathee
 lather
 lathery
+lathes
 lathi
 laths
 lathy
@@ -43733,6 +43735,7 @@ lattice
 latticed
 latticelike
 latticework
+latu
 latus
 latvia
 latvian
@@ -43813,6 +43816,7 @@ lavishly
 lavishness
 lavoisier
 lavra
+lavs
 lavvy
 lawbreaker
 lawcourt
@@ -45226,11 +45230,11 @@ loast
 loath
 loathe
 loather
+loathes
 loathing
 loathly
 loathsome
 loathsomeness
-loave
 loaves
 lobachevsky
 lobar
@@ -45762,7 +45766,6 @@ lowps
 lowry
 lowse
 lowset
-lowth
 lowts
 loxapine
 loxed
@@ -52030,7 +52033,6 @@ ndebele
 ndjamena
 nduja
 neafe
-neals
 neandertal
 neanderthal
 neanderthalian
@@ -53947,6 +53949,7 @@ oaken
 oaker
 oakland
 oakley
+oaks
 oakum
 oared
 oarer
@@ -54230,8 +54233,8 @@ octane
 octangular
 octans
 octant
-octas
 octave
+octaves
 octavian
 octavo
 octet
@@ -58956,9 +58959,9 @@ phthirus
 phthisis
 phthorimaea
 phubs
+phut
 phuts
 phutu
-phwat
 phycobilin
 phycocyanin
 phycoerythrin
@@ -63298,7 +63301,6 @@ pussytoes
 pustulate
 pustule
 putamen
-putas
 putative
 putdownable
 puter
@@ -70471,7 +70473,6 @@ setts
 setubal
 setup
 seurat
-sevak
 sevastopol
 seven
 sevener
@@ -71904,6 +71905,7 @@ skank
 skanky
 skarn
 skart
+skat
 skate
 skateboard
 skateboarder
@@ -71914,7 +71916,6 @@ skates
 skating
 skats
 skatt
-skaw
 skaws
 skean
 skear
@@ -72162,6 +72163,7 @@ slasher
 slashing
 slask
 slat
+slatch
 slate
 slated
 slater
@@ -72178,7 +72180,6 @@ slaughter
 slaughterer
 slaughterhouse
 slaughterous
-slav
 slave
 slaved
 slaveholder
@@ -77967,6 +77968,7 @@ tauty
 tavas
 taver
 tavern
+tavs
 tawaf
 tawai
 tawas
@@ -78816,7 +78818,6 @@ thawing
 thaws
 thawt
 thawy
-thea
 theaceae
 theanthropism
 theater
@@ -81736,9 +81737,9 @@ tuxes
 tuyer
 twaddle
 twaddler
+twae
 twaes
 twain
-twals
 twang
 twank
 twas
@@ -84526,8 +84527,9 @@ upstate
 upstream
 upstroke
 upsurge
-uptak
 uptake
+uptalk
+uptalks
 upter
 upthrow
 upthrust
@@ -85171,6 +85173,7 @@ vaticination
 vaticinator
 vatje
 vats
+vatu
 vatus
 vauch
 vaudeville
@@ -87383,6 +87386,7 @@ whose
 whoso
 whows
 whump
+whup
 whups
 whyda
 whydah
