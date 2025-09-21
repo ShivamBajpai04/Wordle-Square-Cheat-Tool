@@ -16086,6 +16086,7 @@ cognomen
 cognoscente
 cognoscible
 cogon
+cogs
 cogue
 cogwheel
 cohab
@@ -19511,6 +19512,7 @@ currishly
 currs
 curry
 currycomb
+curs
 curse
 cursed
 cursedly
@@ -19642,7 +19644,6 @@ cutting
 cuttingly
 cuttle
 cuttlefish
-cutto
 cutty
 cutup
 cutwork
@@ -31612,6 +31613,7 @@ gapes
 gaping
 gapos
 gappy
+gaps
 garage
 garam
 garambulla
@@ -31793,7 +31795,6 @@ gaths
 gatling
 gator
 gats
-gatt
 gauch
 gauche
 gaucheness
@@ -41429,6 +41430,7 @@ joffrey
 jogger
 jogging
 joggle
+jogs
 johannesburg
 john
 johnny
@@ -54977,6 +54979,7 @@ optionality
 optionally
 optometrist
 optometry
+opts
 opulence
 opulent
 opulently
@@ -55473,6 +55476,7 @@ ottar
 ottawa
 otter
 otterhound
+otto
 ottoman
 ottos
 ottumwa
@@ -55501,6 +55505,7 @@ ouranopithecus
 ouranos
 ourey
 ourie
+ours
 ousel
 ousia
 oust
@@ -57374,7 +57379,6 @@ patter
 pattern
 patterned
 patternmaker
-pattu
 patty
 patwin
 patzer
@@ -57420,7 +57424,6 @@ pavise
 pavlov
 pavlova
 pavlovian
-pavo
 pavon
 pavonia
 pavvy
@@ -61134,6 +61137,7 @@ potos
 potpie
 potpourri
 potro
+pots
 potsdam
 potsherd
 potshot
@@ -61145,7 +61149,7 @@ potterer
 pottery
 pottle
 potto
-potts
+pottos
 potty
 potyokin
 pouce
@@ -73351,14 +73355,12 @@ sotol
 sottish
 sottishly
 sottishness
-sotto
 souari
 soubise
 soubrette
 soubriquet
 souce
 souchong
-souct
 soudan
 souffle
 soufflot
@@ -77434,6 +77436,7 @@ taggy
 tagliatelle
 tagma
 tagore
+tags
 tagua
 taguan
 tagus
@@ -80181,6 +80184,7 @@ toses
 tosh
 toshy
 tosk
+tospot
 toss
 tossed
 tosser
@@ -86117,6 +86121,7 @@ vodun
 voema
 voes
 vogie
+vogs
 vogue
 voguish
 vogul
