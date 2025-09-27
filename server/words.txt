@@ -20272,6 +20272,8 @@ dates
 datil
 dating
 dative
+datives
+dato
 datos
 datril
 datto
@@ -23709,6 +23711,7 @@ dooryard
 doozy
 dopa
 dopamine
+dopant
 dopas
 dopastat
 dope
@@ -28338,6 +28341,7 @@ fanned
 fanny
 fanon
 fanos
+fans
 fansign
 fantabulous
 fantail
@@ -28353,6 +28357,7 @@ fantastical
 fantastically
 fantasticalness
 fantasy
+fantod
 fantods
 fanum
 fanweed
@@ -40918,7 +40923,6 @@ itineration
 itraconazole
 itself
 ivanov
-ives
 ivied
 ivies
 ivory
@@ -51849,7 +51853,6 @@ naris
 nark
 narks
 narky
-narod
 narra
 narrate
 narration
@@ -52912,8 +52915,6 @@ nitrostat
 nitrous
 nitry
 nits
-nitta
-nitto
 nitty
 nitweed
 nitwit
@@ -54953,6 +54954,7 @@ opsonisation
 opsonization
 opsonize
 optative
+optatives
 opted
 opter
 optez
@@ -54997,7 +54999,6 @@ oradexon
 oral
 orally
 orals
-oran
 orang
 orange
 orangeade
@@ -55008,8 +55009,6 @@ orangewood
 orangish
 orangutan
 orangutang
-orans
-orant
 orasone
 orate
 oration
@@ -56633,6 +56632,7 @@ panorama
 panoramic
 panorpidae
 panpipe
+pans
 pansa
 pansexual
 pansinusitis
@@ -61304,6 +61304,7 @@ prankish
 prankishness
 pranks
 prankster
+prao
 praos
 praps
 prase
@@ -61958,6 +61959,7 @@ prizefight
 prizefighter
 prizes
 prizewinning
+proa
 proaccelerin
 proactive
 proal
@@ -64324,7 +64326,6 @@ rands
 randy
 raned
 ranee
-ranes
 ranga
 range
 rangefinder
@@ -67365,6 +67366,7 @@ rotated
 rotation
 rotational
 rotationally
+rotative
 rotatory
 rotavirus
 rotch
@@ -67375,6 +67377,7 @@ rotes
 rotgut
 rothko
 rothschild
+roti
 rotifer
 rotifera
 rotis
@@ -77922,9 +77925,7 @@ tate
 tater
 tates
 taths
-tati
 tatie
-tatin
 tatouay
 tats
 tatted
@@ -80090,12 +80091,10 @@ topsail
 topside
 topsoil
 topspin
-topv
 toque
 tora
 toradol
 torah
-toran
 toras
 torc
 torch
@@ -85987,6 +85986,7 @@ visualize
 visualized
 visualizer
 visually
+vita
 vitaceae
 vitae
 vital
@@ -88867,6 +88867,7 @@ zenerdiode
 zenith
 zenithal
 zeno
+zens
 zeolite
 zeomorphi
 zephaniah
