@@ -2078,7 +2078,6 @@ akka
 akkadian
 akkas
 akker
-akko
 akmola
 akoia
 akoja
@@ -5054,6 +5053,7 @@ arkansan
 arkansas
 arkansawyer
 arked
+arks
 arled
 arles
 arlington
@@ -6075,6 +6075,7 @@ augustine
 augustinian
 augustus
 auklet
+auks
 aulacorhyncus
 aulas
 auld
@@ -25289,6 +25290,7 @@ ekdam
 eked
 ekes
 eking
+ekka
 ekkas
 ekman
 elaborate
@@ -26975,7 +26977,6 @@ estimator
 estival
 estivate
 estivation
-estoc
 estonia
 estonian
 estonianess
@@ -29030,6 +29031,7 @@ fichu
 ficin
 fickle
 fickleness
+fico
 ficos
 ficta
 fictile
@@ -29428,6 +29430,7 @@ fitfulness
 fitly
 fitment
 fitness
+fits
 fitspiration
 fitspo
 fitte
@@ -41950,7 +41953,6 @@ karelian
 karen
 karenic
 karez
-karks
 karlfeldt
 karloff
 karma
@@ -42237,6 +42239,7 @@ ketose
 ketosis
 ketosteroid
 ketotetrose
+ketotic
 ketotriose
 kettering
 kettle
@@ -42584,6 +42587,7 @@ kith
 kithe
 kiths
 kitke
+kits
 kitsch
 kitschy
 kittee
@@ -42788,7 +42792,6 @@ kokam
 kokas
 koker
 kokka
-kokra
 kokum
 kola
 kolam
@@ -42897,6 +42900,7 @@ krasner
 kraurosis
 kraut
 krauthead
+krauts
 krays
 krebs
 kreef
@@ -42964,7 +42968,6 @@ kune
 kunlun
 kunzite
 kuomintang
-kura
 kurakkan
 kurchee
 kurchi
@@ -42985,7 +42988,6 @@ kurus
 kurux
 kusan
 kusso
-kusti
 kutai
 kutch
 kutis
@@ -48884,6 +48886,7 @@ micaceous
 micah
 micas
 micawber
+mice
 micelle
 michael
 michaelmas
@@ -49093,7 +49096,6 @@ miff
 miffed
 miffs
 miffy
-mifty
 miggs
 might
 mightily
@@ -49723,7 +49725,6 @@ mitella
 miter
 miterwort
 mites
-mitey
 mitford
 mithan
 mithra
@@ -49761,6 +49762,7 @@ mittelschmerz
 mitten
 mitterrand
 mitts
+mity
 mitzvah
 mivey
 mivvy
@@ -54455,6 +54457,7 @@ ohmmeter
 ohone
 oicks
 oidia
+oiks
 oilbird
 oilcan
 oilcloth
@@ -64221,8 +64224,8 @@ rakis
 rakish
 rakishly
 rakishness
-rakki
 raksi
+raku
 rakus
 rale
 ralegh
@@ -75004,6 +75007,7 @@ stewing
 stewpan
 stews
 stewy
+stey
 steys
 sthene
 stheno
@@ -75072,6 +75076,7 @@ stiltedly
 stilton
 stilts
 stilwell
+stim
 stime
 stims
 stimulant
@@ -76189,6 +76194,7 @@ sukarno
 sukhs
 sukis
 sukiyaki
+sukkot
 sukkoth
 suksdorfia
 sukuk
@@ -78197,7 +78203,6 @@ teind
 teins
 teju
 tekke
-tekki
 tektite
 tela
 telae
@@ -79855,7 +79860,6 @@ toit
 toited
 toitoi
 toits
-toity
 tojo
 tokamak
 tokay
@@ -81633,8 +81637,6 @@ turing
 turk
 turkestan
 turkey
-turki
-turkic
 turkish
 turkishness
 turkistan
@@ -81846,6 +81848,7 @@ tyche
 tycoon
 tyees
 tyers
+tyes
 tying
 tyiyn
 tyke
@@ -88601,7 +88604,6 @@ yirks
 yirrs
 yirth
 yisrael
-yites
 yitie
 ylem
 ylems
