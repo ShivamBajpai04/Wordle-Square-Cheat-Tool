@@ -1243,6 +1243,7 @@ adoringly
 adorn
 adorned
 adornment
+ados
 adown
 adoxography
 adoze
@@ -5443,7 +5444,6 @@ asimov
 asin
 asinine
 asininity
-asio
 asity
 askance
 askant
@@ -5837,7 +5837,6 @@ athletic
 athleticism
 athletics
 athodyd
-athos
 athrotaxis
 athwart
 athyriaceae
@@ -5845,6 +5844,7 @@ athyrium
 atigi
 atilt
 atimy
+atishoo
 ativan
 atlanta
 atlantic
@@ -9680,6 +9680,7 @@ bohemia
 bohemian
 bohemianism
 bohme
+boho
 bohos
 bohr
 bohrium
@@ -9893,7 +9894,6 @@ booger
 boogeyman
 boogie
 boogy
-boohs
 booing
 book
 bookable
@@ -9954,6 +9954,7 @@ boorish
 boorishly
 boorishness
 boors
+boos
 boose
 boost
 booster
@@ -10114,7 +10115,6 @@ bothrops
 bothy
 botonee
 botonnee
-botos
 botox
 botrychium
 botryoid
@@ -11148,7 +11148,6 @@ budgetary
 budgie
 budis
 budorcas
-budos
 buena
 bueno
 buff
@@ -11576,6 +11575,7 @@ butle
 butled
 butler
 butoh
+butohs
 butsu
 butt
 butte
@@ -20273,6 +20273,7 @@ dates
 datil
 dating
 dative
+dato
 datos
 datril
 datto
@@ -23509,6 +23510,7 @@ dogtrot
 dogwatch
 dogwood
 dogy
+dohs
 dohyo
 doilt
 doily
@@ -23778,6 +23780,7 @@ doser
 doses
 dosh
 dosha
+doshas
 dosimeter
 dosimetry
 doss
@@ -23798,6 +23801,7 @@ dote
 doted
 doter
 dotes
+doth
 doting
 dotrel
 dotted
@@ -23852,6 +23856,7 @@ douroucouli
 douse
 doused
 dousing
+dout
 douts
 dove
 dovecote
@@ -24347,6 +24352,7 @@ dubliner
 dubnium
 dubonnet
 dubrovnik
+dubs
 dubstep
 dubuque
 dubya
@@ -36434,6 +36440,7 @@ hobnob
 hobo
 hoboes
 hobos
+hobs
 hock
 hockey
 hocks
@@ -36488,13 +36495,11 @@ hoing
 hoise
 hoist
 hoister
-hoka
 hokan
 hokas
 hoked
 hokes
 hokey
-hokis
 hokkaido
 hokkianese
 hokku
@@ -36847,7 +36852,6 @@ hoopskirt
 hoopy
 hooray
 hoord
-hoors
 hoosegow
 hoosgow
 hoosh
@@ -36898,7 +36902,6 @@ hordeolum
 hordes
 hordeum
 horehound
-horis
 horizon
 horizontal
 horizontality
@@ -37057,7 +37060,6 @@ hothead
 hotheaded
 hothouse
 hothr
-hotis
 hotline
 hotly
 hotness
@@ -38197,6 +38199,7 @@ ijssel
 ijsselmeer
 ijtihad
 ikans
+ikat
 ikats
 ikhanaton
 ikon
@@ -41405,6 +41408,7 @@ jobed
 jobes
 jobholder
 jobless
+jobs
 jocasta
 jock
 jockey
@@ -41441,7 +41445,6 @@ johnnycake
 johns
 johnson
 johnston
-johor
 johore
 join
 joined
@@ -41519,6 +41522,7 @@ joss
 jostle
 jostling
 josue
+jota
 jotas
 jotted
 jotter
@@ -42003,7 +42007,6 @@ katharobic
 katharometer
 katharsis
 kathmandu
-katis
 katmandu
 katowice
 kats
@@ -42550,6 +42553,7 @@ kirkuk
 kirns
 kirpan
 kirri
+kirs
 kirsch
 kirtle
 kisan
@@ -42779,13 +42783,13 @@ koffs
 kofta
 kogal
 kogia
-kohas
 kohl
 kohleria
 kohlrabi
 kohls
 koine
 koinonia
+kois
 koiwi
 kojis
 kokam
@@ -42849,11 +42853,13 @@ kore
 korea
 korean
 kores
+kori
 korinthos
 koris
 korlan
 korma
 koros
+kors
 korun
 koruna
 korus
@@ -54782,8 +54788,8 @@ oodle
 oodles
 oogenesis
 oohed
+oohs
 ooids
-oojah
 oology
 oolong
 oomph
@@ -55173,6 +55179,7 @@ oriole
 oriolidae
 oriolus
 orion
+orisha
 orison
 orissa
 orites
@@ -55455,14 +55462,12 @@ otherwise
 otherworld
 otherworldliness
 otherworldly
-otho
 othonna
 othyl
 otic
 otides
 otididae
 otiose
-otis
 otitis
 otium
 otoganglion
@@ -56281,7 +56286,6 @@ pahit
 pahlavi
 pahlevi
 pahoehoe
-pahos
 pahus
 paid
 paige
@@ -57151,11 +57155,10 @@ paschal
 pase
 paseo
 pases
+pash
 pasha
 pashm
-pashto
 pashtoon
-pashtu
 pashtun
 pasigraphy
 pasiphae
@@ -58850,6 +58853,7 @@ phoradendron
 phoronid
 phoronida
 phoronidea
+phos
 phosgene
 phosphatase
 phosphate
@@ -58865,7 +58869,6 @@ phosphoric
 phosphorous
 phosphorus
 phot
-phota
 photalgia
 photic
 photinia
@@ -67258,6 +67261,7 @@ roomy
 roons
 roops
 roopy
+roos
 roosa
 roose
 roosevelt
@@ -67329,7 +67333,6 @@ roses
 roset
 rosette
 rosewood
-rosha
 roshi
 rosicrucian
 rosicrucianism
@@ -67338,8 +67341,6 @@ rosilla
 rosin
 rosiness
 rosinweed
-rosit
-rosita
 rosmarinus
 rosps
 rossbach
@@ -67378,6 +67379,7 @@ rotes
 rotgut
 rothko
 rothschild
+roti
 rotifer
 rotifera
 rotis
@@ -68080,6 +68082,7 @@ saith
 saivism
 sajama
 sajou
+sajous
 sakartvelo
 sake
 saker
@@ -71180,7 +71183,6 @@ shote
 shotgun
 shots
 shott
-shoud
 should
 shoulder
 shouldered
@@ -71840,15 +71842,14 @@ sisyphean
 sisyphus
 sisyridae
 sisyrinchium
-sita
 sitar
 sitch
 sitcom
 site
 sited
 sites
+sith
 sithe
-sitka
 sitophylus
 sitotroga
 sitsang
@@ -72977,7 +72978,7 @@ softy
 soger
 sogginess
 soggy
-soho
+sohs
 sohur
 soigne
 soignee
@@ -73237,6 +73238,7 @@ sonsy
 sontag
 soochong
 sooey
+sook
 sooks
 sooky
 soole
@@ -73252,6 +73254,7 @@ sooth
 soothe
 soothing
 soothingly
+sooths
 soothsayer
 soothsaying
 sootiness
@@ -73352,7 +73355,6 @@ soteriological
 soteriology
 soth
 sothis
-sotho
 soths
 sotol
 sottish
@@ -73451,6 +73453,7 @@ southey
 southland
 southmost
 southpaw
+souths
 southward
 southwards
 southwest
@@ -76742,7 +76745,6 @@ susurrus
 susus
 sutherland
 sutler
-sutor
 sutra
 sutta
 suttee
@@ -77525,7 +77527,6 @@ takilman
 takin
 taking
 takings
-takis
 takky
 takoyaki
 tala
@@ -79807,7 +79808,6 @@ toddy
 todea
 todidae
 todos
-todus
 tody
 toea
 toeas
@@ -79842,7 +79842,6 @@ togo
 togolese
 togs
 togue
-tohos
 toidy
 toil
 toile
@@ -80006,6 +80005,7 @@ tonsured
 tontine
 tonto
 tonus
+took
 tool
 toolbox
 toolhouse
@@ -80110,6 +80110,7 @@ tore
 toreador
 torero
 tores
+tori
 toric
 torii
 torino
@@ -81455,6 +81456,7 @@ tubful
 tubing
 tubman
 tubocurarine
+tubs
 tubular
 tubule
 tubulidentata
@@ -81968,6 +81970,7 @@ udder
 udmurt
 udometer
 udons
+udos
 udyog
 ugali
 uganda
@@ -84721,7 +84724,6 @@ usens
 user
 users
 useta
-ushas
 usher
 usherette
 ushers
