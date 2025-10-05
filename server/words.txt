@@ -8279,7 +8279,6 @@ bergson
 bergsonism
 beria
 beriberi
-bering
 berit
 berith
 berk
@@ -8758,13 +8757,13 @@ biner
 bines
 binet
 binful
+bing
 binge
 binger
 binghamton
 bingle
 bingo
 bings
-bingy
 binit
 binks
 binky
@@ -10943,6 +10942,7 @@ brother
 brotherhood
 brotherlike
 brotherly
+brothy
 brotula
 brotulidae
 brougham
@@ -11667,9 +11667,10 @@ bypast
 bypath
 byplay
 byproduct
-byrd
 byre
 byres
+byrl
+byrling
 byrls
 byrnie
 byroad
@@ -24875,7 +24876,6 @@ ebony
 ebook
 ebooks
 ebracteate
-ebro
 ebullience
 ebullient
 ebulliently
@@ -26736,10 +26736,8 @@ eridanus
 erie
 erigeron
 erignathus
-erin
 erinaceidae
 erinaceus
-ering
 eringo
 erinyes
 eriobotrya
@@ -29009,7 +29007,6 @@ fibrinolysin
 fibrinolysis
 fibrinopeptide
 fibrinous
-fibro
 fibroadenoma
 fibroblast
 fibrocalcific
@@ -29752,6 +29749,7 @@ flippant
 flippantly
 flipper
 flips
+flir
 flirs
 flirt
 flirtation
@@ -30814,6 +30812,7 @@ fries
 friesian
 friesland
 frieze
+frig
 frigate
 frigg
 frigga
@@ -32462,7 +32461,6 @@ girds
 giriama
 giris
 girl
-girlf
 girlfriend
 girlhood
 girlie
@@ -34319,6 +34317,7 @@ gyre
 gyred
 gyres
 gyrfalcon
+gyri
 gyrinidae
 gyro
 gyrocompass
@@ -37967,7 +37966,6 @@ ibex
 ibidem
 ibis
 ibrahim
-ibrd
 ibrik
 ibsen
 ibsenian
@@ -44556,7 +44554,6 @@ librarianship
 library
 librate
 libration
-libre
 librettist
 libretto
 libreville
@@ -44948,6 +44945,7 @@ linty
 linum
 linuron
 linux
+liny
 linz
 liomys
 lion
@@ -55027,6 +55025,7 @@ orbic
 orbicular
 orbiculate
 orbignya
+orbing
 orbison
 orbit
 orbital
@@ -55035,6 +55034,7 @@ orbiter
 orbits
 orbitual
 orbs
+orby
 orca
 orcas
 orchard
@@ -66784,6 +66784,7 @@ rightist
 rightly
 rightmost
 rightness
+righto
 rights
 righty
 rigid
@@ -66863,7 +66864,6 @@ ringside
 ringtail
 ringway
 ringworm
-ringy
 rink
 rinkhals
 rinks
@@ -67027,7 +67027,6 @@ robbins
 robbo
 robe
 robed
-rober
 robert
 roberts
 robertson
@@ -67035,6 +67034,7 @@ robes
 robeson
 robespierre
 robin
+robing
 robinia
 robins
 robinson
@@ -67840,6 +67840,7 @@ rymme
 rynchopidae
 rynchops
 rynds
+ryot
 ryoti
 ryots
 ryper
@@ -79779,7 +79780,6 @@ tobacconist
 tobago
 tobagonian
 tobey
-tobin
 tobit
 toboggan
 tobogganing
@@ -81849,6 +81849,7 @@ tycoon
 tyees
 tyers
 tyes
+tyin
 tying
 tyiyn
 tyke
@@ -81932,6 +81933,7 @@ tyrant
 tyre
 tyred
 tyres
+tyring
 tyro
 tyrocidin
 tyrocidine
@@ -88167,6 +88169,7 @@ wrothful
 wrought
 wrung
 wryer
+wrying
 wryly
 wrymouth
 wryneck
@@ -88470,7 +88473,6 @@ yaws
 yayas
 yazoo
 ybit
-ybore
 yclad
 ycled
 ycond
@@ -88599,6 +88601,7 @@ yippee
 yippie
 yippy
 yips
+yird
 yirds
 yirks
 yirrs
