@@ -10608,6 +10608,7 @@ breathtaking
 breccia
 brecciate
 brecht
+bred
 brede
 breds
 bree
@@ -10622,7 +10623,6 @@ breed
 breeder
 breeding
 breeds
-breem
 breer
 brees
 breeze
@@ -10634,7 +10634,6 @@ bregmatic
 breid
 breis
 breiz
-breme
 bremen
 bremerhaven
 bren
@@ -10911,6 +10910,7 @@ bronze
 bronzed
 bronzer
 bronzy
+broo
 brooch
 brood
 brooder
@@ -10983,6 +10983,7 @@ brueghel
 bruges
 brugh
 brugmansia
+bruh
 bruhs
 bruin
 bruise
@@ -21127,6 +21128,7 @@ demeaning
 demeaningly
 demeanor
 demeanour
+dement
 demented
 dementedly
 dementedness
@@ -21519,6 +21521,7 @@ derivative
 derive
 derived
 deriving
+derm
 derma
 dermabrasion
 dermacentor
@@ -21560,7 +21563,6 @@ derringer
 derris
 derro
 derry
-derth
 derv
 dervish
 dervs
@@ -23728,7 +23730,7 @@ dorad
 dorado
 dorba
 dorbeetle
-doree
+dore
 dores
 dorian
 doric
@@ -23853,6 +23855,7 @@ douroucouli
 douse
 doused
 dousing
+dout
 douts
 dove
 dovecote
@@ -25661,6 +25664,7 @@ emergency
 emergent
 emerging
 emeritus
+emerod
 emersion
 emerson
 emery
@@ -25669,6 +25673,7 @@ emeside
 emesis
 emetic
 emetrol
+emeu
 emeus
 emics
 emigrant
@@ -36837,6 +36842,7 @@ hooly
 hooman
 hoons
 hoop
+hooped
 hooper
 hoopla
 hoopoe
@@ -37213,6 +37219,7 @@ hudood
 hudson
 hudsonia
 hudud
+hued
 hueless
 huers
 huff
@@ -37396,7 +37403,6 @@ hurler
 hurling
 hurls
 hurly
-hurok
 huron
 hurra
 hurrah
@@ -48417,6 +48423,7 @@ menus
 menyanthaceae
 menyanthes
 menziesia
+meou
 meous
 meow
 meows
@@ -53687,7 +53694,6 @@ noyau
 noyed
 noyes
 nozzle
-nrem
 nrna
 nrti
 nrtta
@@ -54788,7 +54794,6 @@ oomph
 oomycetes
 oonts
 oopak
-ooped
 oophorectomy
 oophoritis
 oopsy
@@ -54825,6 +54830,7 @@ opaqueness
 opas
 opcw
 opec
+oped
 opel
 open
 openbill
@@ -55203,7 +55209,6 @@ ornamentation
 ornate
 ornately
 ornateness
-ornee
 orneriness
 ornery
 ornis
@@ -55528,6 +55533,7 @@ outbound
 outbrave
 outbreak
 outbred
+outbreed
 outbuilding
 outburst
 outby
@@ -55630,6 +55636,7 @@ outright
 outrival
 outro
 outroar
+outrode
 outrun
 outs
 outsail
@@ -57650,6 +57657,7 @@ pedwood
 peebeen
 peebeens
 peece
+peed
 peeing
 peek
 peekaboo
@@ -58376,7 +58384,6 @@ pert
 pertain
 pertainym
 perter
-perth
 pertinacious
 pertinaciously
 pertinacity
@@ -58393,7 +58400,6 @@ perturbing
 pertusaria
 pertusariaceae
 pertussis
-peru
 peruke
 peruked
 perusal
@@ -60773,6 +60779,7 @@ pooey
 poof
 poofs
 poofy
+pooh
 poohs
 poohy
 pooja
@@ -60797,7 +60804,6 @@ poorhouse
 poori
 poorly
 poorness
-poort
 poorwill
 poots
 pooty
@@ -60920,7 +60926,6 @@ porter
 porterage
 porterhouse
 portfolio
-porth
 porthole
 portico
 porticoed
@@ -65139,6 +65144,7 @@ redoubled
 redoubt
 redoubtable
 redound
+redout
 redox
 redpoll
 redraft
@@ -65849,6 +65855,7 @@ replica
 replicate
 replication
 reply
+repo
 repoint
 report
 reportable
@@ -65869,6 +65876,7 @@ repossess
 repossession
 repost
 repot
+repour
 repp
 repps
 reprehend
@@ -67097,6 +67105,7 @@ rodgers
 rodhos
 rodin
 rodlike
+rodmen
 rodny
 rodolia
 rodomontade
@@ -67615,6 +67624,7 @@ rueda
 rueful
 ruefully
 ruefulness
+ruer
 ruers
 ruff
 ruffe
@@ -67644,7 +67654,6 @@ rugger
 ruggy
 rugose
 rugulah
-ruhr
 ruice
 ruin
 ruination
@@ -79172,6 +79181,7 @@ those
 thoth
 thots
 thou
+thoued
 though
 thought
 thoughtful
@@ -79292,6 +79302,7 @@ thrower
 thrown
 throws
 throwster
+thru
 thrum
 thrush
 thrust
@@ -80822,6 +80833,7 @@ trek
 trekker
 treks
 trellis
+trem
 trema
 trematoda
 trematode
@@ -81233,6 +81245,7 @@ trondheimsfjord
 trone
 tronk
 troop
+trooped
 trooper
 troops
 troopship
@@ -81256,7 +81269,6 @@ tropicbird
 tropics
 tropidoclonion
 tropism
-tropo
 troponomy
 troponym
 troponymy
@@ -81271,6 +81283,7 @@ trotskyism
 trotskyist
 trotskyite
 trotter
+trou
 troubadour
 trouble
 troubled
@@ -81646,7 +81659,6 @@ turkmenistan
 turkoman
 turkomen
 turks
-turme
 turmeric
 turmoil
 turms
@@ -84611,7 +84623,6 @@ ureide
 uremia
 uremic
 urena
-urent
 ureter
 ureteritis
 ureterocele
@@ -84649,7 +84660,6 @@ urite
 urman
 urmia
 urnal
-urned
 urobilin
 urobilinogen
 urocele
@@ -84684,7 +84694,6 @@ ursinia
 urson
 ursulines
 ursus
-urth
 urtica
 urticaceae
 urticales
