@@ -195,7 +195,6 @@ abnaki
 abnegate
 abnegation
 abnegator
-abnet
 abnormal
 abnormalcy
 abnormality
@@ -4875,7 +4874,6 @@ ardisia
 ardor
 ardour
 ardri
-ards
 arduous
 arduously
 arduousness
@@ -5795,7 +5793,6 @@ ateleiotic
 ateles
 atelier
 ateliosis
-aten
 atenolol
 ates
 athabascan
@@ -7248,6 +7245,7 @@ barcelona
 bard
 barde
 bardeen
+bardes
 bardic
 bardo
 bardolatry
@@ -7387,10 +7385,10 @@ barry
 barrymore
 bars
 barstow
-bart
 bartender
 barter
 barterer
+barters
 barth
 barthelme
 bartholdi
@@ -23987,6 +23985,7 @@ draff
 draft
 draftee
 drafter
+drafters
 drafting
 drafts
 draftsman
@@ -24047,6 +24046,7 @@ draps
 drapy
 drastic
 drastically
+drat
 drats
 draught
 draughts
@@ -28065,6 +28065,7 @@ fabricate
 fabricated
 fabrication
 fabricator
+fabs
 fabulist
 fabulous
 fabulously
@@ -28370,6 +28371,7 @@ farcical
 farcicality
 farcically
 farcy
+fard
 fardel
 fards
 fare
@@ -30555,7 +30557,6 @@ foxy
 foyer
 foyle
 foyne
-frabs
 fracas
 frack
 fracking
@@ -30642,7 +30643,6 @@ fraps
 frasera
 frass
 frat
-frate
 fratercula
 fraternal
 fraternally
@@ -56898,6 +56898,7 @@ parchesi
 parchisi
 parchment
 parcs
+pard
 pardi
 pardner
 pardon
@@ -57068,10 +57069,10 @@ parsons
 part
 partake
 partaker
-parte
 parted
 parter
 parterre
+parters
 parthenium
 parthenocarpy
 parthenocissus
@@ -57274,6 +57275,7 @@ patellidae
 patelliform
 paten
 patency
+patens
 patent
 patented
 patentee
@@ -64099,8 +64101,10 @@ raffy
 rafik
 rafiq
 raft
+rafted
 rafter
 raftered
+rafters
 raftman
 rafts
 raftsman
@@ -70397,7 +70401,6 @@ serration
 serratula
 serratus
 serried
-serrs
 serrulate
 serry
 sers
@@ -77816,7 +77819,6 @@ tardily
 tardiness
 tardive
 tardo
-tards
 tardy
 tare
 tared
@@ -77868,6 +77870,8 @@ tartarean
 tartaric
 tartarus
 tartary
+tarted
+tarter
 tartlet
 tartly
 tartness
@@ -78461,6 +78465,7 @@ tense
 tensed
 tensely
 tenseness
+tenser
 tensile
 tensimeter
 tensiometer
@@ -80371,7 +80376,6 @@ trabecula
 trabecular
 trabeculate
 trablous
-trabs
 trace
 traceable
 traced
