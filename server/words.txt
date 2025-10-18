@@ -7914,6 +7914,7 @@ befittingly
 befog
 befogged
 befool
+befooled
 befooling
 before
 beforehand
@@ -8103,7 +8104,6 @@ bellyful
 bellying
 bellylaugh
 bellyless
-belmont
 belon
 belong
 belonging
@@ -9251,6 +9251,7 @@ blebs
 blech
 blechnaceae
 blechnum
+bled
 bleed
 bleeder
 bleeding
@@ -20456,7 +20457,6 @@ debauchee
 debaucher
 debauchery
 debby
-debel
 debenture
 debes
 debile
@@ -23526,7 +23526,6 @@ dolci
 doldrums
 dole
 doled
-dolee
 doleful
 dolefully
 dolefulness
@@ -23672,7 +23671,7 @@ doofus
 doohickey
 dooks
 dooky
-doole
+doolee
 doolittle
 dools
 dooly
@@ -25339,7 +25338,6 @@ elateridae
 elating
 elation
 elavil
-elbe
 elbow
 elbowing
 elbows
@@ -25493,7 +25491,6 @@ ellsworth
 ellul
 ellwand
 elmen
-elmont
 elmwood
 elocute
 elocution
@@ -28817,6 +28814,7 @@ fentanyl
 fents
 fenugreek
 fenusa
+feod
 feods
 feoff
 feosol
@@ -31904,11 +31902,11 @@ geasa
 geastraceae
 geastrum
 geats
-gebel
 gebur
 gecko
 gecks
 geebung
+geed
 geek
 geeked
 geeks
@@ -36449,6 +36447,7 @@ hodoscope
 hodr
 hodur
 hoecake
+hoed
 hoenir
 hoers
 hoffa
@@ -36547,6 +36546,7 @@ holly
 hollygrape
 hollyhock
 hollywood
+holm
 holme
 holmes
 holmium
@@ -36581,6 +36581,7 @@ holothuridae
 holothuroidea
 holotype
 holozoic
+holp
 hols
 holstein
 holster
@@ -44246,7 +44247,6 @@ lentinus
 lentisk
 lentissimo
 lento
-leon
 leonard
 leonardesque
 leonardo
@@ -44311,6 +44311,7 @@ leprechaun
 leprose
 leprosy
 leprous
+lept
 lepta
 leptarrhena
 leptinotarsa
@@ -45356,7 +45357,6 @@ lodgings
 lodgment
 lodine
 lodz
-loeb
 loess
 loestrin
 loewe
@@ -45525,6 +45525,7 @@ lontar
 looby
 looed
 looey
+loof
 loofa
 loofah
 loofs
@@ -50019,7 +50020,6 @@ mole
 molech
 molecular
 molecule
-moled
 molehill
 moler
 moles
@@ -50345,7 +50345,6 @@ monovalent
 monovular
 monoxide
 monozygotic
-monpe
 monroe
 monrovia
 mons
@@ -50407,6 +50406,7 @@ mooed
 mooey
 mooing
 mooks
+mool
 moola
 moolah
 mooli
@@ -54309,7 +54309,6 @@ odontoceti
 odontoglossum
 odontology
 odontophorus
-odoom
 odor
 odoriferous
 odorize
@@ -54506,6 +54505,7 @@ okras
 okrug
 oktoberfest
 olate
+olde
 olden
 oldenburg
 older
@@ -54776,7 +54776,6 @@ onyxis
 ooaas
 oobit
 oocyte
-oodle
 oodles
 oogenesis
 oohed
@@ -57641,7 +57640,6 @@ pedlar
 pedodontist
 pedology
 pedometer
-pedon
 pedophile
 pedophilia
 pedro
@@ -57652,6 +57650,7 @@ pedwood
 peebeen
 peebeens
 peece
+peed
 peeing
 peek
 peekaboo
@@ -59973,6 +59972,7 @@ plectranthus
 plectron
 plectrophenax
 plectrum
+pled
 pledge
 pledged
 pledgee
