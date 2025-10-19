@@ -33293,7 +33293,6 @@ gowned
 gowns
 goxes
 goyim
-goyle
 goys
 graal
 grab
@@ -42770,6 +42769,7 @@ kobus
 koch
 kochia
 kodiak
+koel
 koellia
 koels
 koestler
@@ -43042,6 +43042,7 @@ kyphotic
 kyrgyzstan
 kyrgyzstani
 kyrie
+kyte
 kytes
 kythe
 kyudo
@@ -44311,6 +44312,7 @@ leprechaun
 leprose
 leprosy
 leprous
+lept
 lepta
 leptarrhena
 leptinotarsa
@@ -44341,7 +44343,6 @@ leres
 leresis
 lermontov
 lerner
-lerot
 lerps
 lesbian
 lesbianism
@@ -45627,7 +45628,6 @@ lorikeet
 loris
 lorisidae
 lorraine
-lorre
 lorry
 lory
 lose
@@ -54825,7 +54825,6 @@ opaqueness
 opas
 opcw
 opec
-opel
 open
 openbill
 opencast
@@ -54955,7 +54954,6 @@ opsonization
 opsonize
 optative
 opted
-opter
 optez
 optic
 optical
@@ -55094,7 +55092,6 @@ oregano
 oregon
 oregonian
 oreide
-oreo
 oreopteris
 oreortyx
 ores
@@ -55187,7 +55184,6 @@ orleans
 orles
 orlon
 orlop
-orly
 ormandy
 ormazd
 ormer
@@ -56112,6 +56108,7 @@ oxyura
 oxyuranus
 oxyuridae
 oyabun
+oyer
 oyers
 oyster
 oystercatcher
@@ -62197,6 +62194,7 @@ prolapse
 prolapsus
 prolate
 prole
+proleg
 prolegomenon
 prolepsis
 proletarian
@@ -62568,6 +62566,8 @@ protuberant
 protuberate
 protura
 proturan
+protyl
+protyle
 proud
 proudhon
 proudly
@@ -63386,7 +63386,6 @@ pyjama
 pyknic
 pyknosis
 pyknotic
-pyle
 pylodictus
 pylon
 pyloric
@@ -65852,7 +65851,9 @@ repletion
 replica
 replicate
 replication
+replot
 reply
+repo
 repoint
 report
 reportable
@@ -66263,6 +66264,7 @@ retiree
 retirement
 retiring
 retool
+retore
 retort
 retouch
 retox
@@ -66326,6 +66328,7 @@ rettery
 return
 returnable
 returning
+retype
 reuben
 reune
 reunification
@@ -67150,7 +67153,6 @@ rokos
 rolag
 rolaids
 role
-roleo
 roleplay
 roleplaying
 roles
@@ -67307,7 +67309,6 @@ roridulaceae
 rorippa
 rorqual
 rorschach
-rorty
 rosacea
 rosaceae
 rosaceous
@@ -67531,7 +67532,6 @@ rozelle
 rozes
 rozet
 rozit
-rtlt
 ruana
 ruanda
 ruandan
@@ -72096,7 +72096,6 @@ skydive
 skydiver
 skydiving
 skyed
-skyer
 skyey
 skyfs
 skyhook
@@ -72105,13 +72104,11 @@ skylab
 skylark
 skylight
 skyline
-skype
 skyre
 skyrocket
 skyrs
 skysail
 skyscraper
-skyte
 skywalk
 skyward
 skywards
@@ -79917,6 +79914,7 @@ tollwoman
 tolly
 tolmiea
 tolstoy
+tolt
 toltec
 tolts
 tolu
@@ -79924,6 +79922,7 @@ toluene
 tolus
 tolyl
 tolypeutes
+tolys
 tomahawk
 tomalley
 toman
@@ -81275,6 +81274,7 @@ trotskyism
 trotskyist
 trotskyite
 trotter
+trotyl
 troubadour
 trouble
 troubled
@@ -81851,6 +81851,7 @@ twyer
 tyche
 tycoon
 tyees
+tyer
 tyers
 tyes
 tyin
@@ -81861,7 +81862,6 @@ tykes
 tylenchidae
 tylenchus
 tylenol
-tyler
 tympan
 tympani
 tympanic
@@ -87095,6 +87095,7 @@ werfs
 wernicke
 weros
 wersh
+wert
 weser
 wesley
 wesleyan
@@ -88203,8 +88204,8 @@ wycliffe
 wyeth
 wykeham
 wykehamist
+wyle
 wyled
-wyler
 wyles
 wylie
 wynds
@@ -88217,6 +88218,7 @@ wyomingite
 wyrd
 wysiwyg
 wyszynski
+wyte
 wyted
 wytensin
 wytes
@@ -88577,6 +88579,7 @@ yeven
 yeves
 yevtushenko
 yewen
+yews
 yexed
 yexes
 yezo
@@ -88661,6 +88664,7 @@ yokels
 yoker
 yokes
 yokohama
+yoks
 yokul
 yokuts
 yolk
