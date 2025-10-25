@@ -1264,7 +1264,6 @@ adrianople
 adrianopolis
 adriatic
 adrift
-adrip
 adroit
 adroitly
 adroitness
@@ -5007,7 +5006,6 @@ ariocarpus
 ariomma
 ariose
 arioso
-ariot
 arisaema
 arisarum
 arise
@@ -20044,7 +20042,6 @@ dally
 dalmane
 dalmatia
 dalmatian
-dalo
 dals
 dalton
 daltonism
@@ -20184,7 +20181,6 @@ dares
 darfur
 darga
 dargs
-dari
 daric
 daricon
 daring
@@ -28604,7 +28600,6 @@ feal
 feals
 fealty
 fear
-feard
 feare
 feared
 fearful
@@ -30419,7 +30414,6 @@ fornication
 fornicator
 fornicatress
 fornix
-forrad
 forrader
 forrard
 forsake
@@ -30637,7 +30631,6 @@ franks
 frantic
 frantically
 frap
-frape
 frappe
 fraps
 frasera
@@ -41964,6 +41957,7 @@ karri
 karsavina
 karst
 karsy
+kart
 kartik
 kartikeya
 karts
@@ -54414,7 +54408,6 @@ offside
 offsides
 offspring
 offstage
-oflag
 often
 oftener
 oftenness
@@ -55081,6 +55074,7 @@ ordinary
 ordinate
 ordination
 ordnance
+ordo
 ordos
 ordovician
 ordure
@@ -59167,6 +59161,7 @@ piecework
 pied
 piedmont
 pieds
+piefort
 piemonte
 piend
 pieplant
@@ -67301,7 +67296,6 @@ ropy
 roque
 roquefort
 roquette
-roral
 roric
 rorid
 roridula
@@ -80101,7 +80095,6 @@ topspin
 topv
 toque
 tora
-toradol
 torah
 toran
 toras
@@ -80114,6 +80107,7 @@ tore
 toreador
 torero
 tores
+tori
 toric
 torii
 torino
@@ -80719,7 +80713,6 @@ tranylcypromine
 trap
 trapa
 trapaceae
-trape
 trapeze
 trapezium
 trapezius
@@ -81010,7 +81003,6 @@ tried
 triennial
 trier
 tries
-trifa
 triff
 trifid
 trifle
@@ -81105,7 +81097,6 @@ trionychidae
 trionyx
 triops
 triopsidae
-trior
 trios
 triose
 triostium
