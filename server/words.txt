@@ -2251,7 +2251,6 @@ alehoof
 alehouse
 alembic
 alendronate
-alep
 aleph
 alepisaurus
 aleppo
@@ -7022,7 +7021,6 @@ baloi
 balon
 baloney
 baloo
-balot
 balsa
 balsam
 balsamic
@@ -7644,6 +7642,7 @@ bawdry
 bawds
 bawdy
 bawdyhouse
+bawk
 bawks
 bawl
 bawler
@@ -26583,7 +26582,6 @@ epizootic
 epoch
 epochal
 epode
-epona
 eponym
 eponymic
 eponymous
@@ -26593,7 +26591,6 @@ epos
 epoxy
 eppie
 epris
-eprom
 epsilon
 epsom
 epstein
@@ -42601,7 +42598,6 @@ kiwi
 kiwis
 klaipeda
 klamath
-klan
 klang
 klansman
 klaproth
@@ -43012,7 +43008,6 @@ kwanza
 kwanzaa
 kwashiorkor
 kweek
-kwela
 kwell
 kwink
 kwirl
@@ -43072,7 +43067,6 @@ labis
 labium
 lablab
 lablink
-labne
 labor
 laboratory
 labored
@@ -43824,7 +43818,6 @@ lavvy
 lawbreaker
 lawcourt
 lawed
-lawer
 lawful
 lawfully
 lawfulness
@@ -44247,7 +44240,6 @@ lentinus
 lentisk
 lentissimo
 lento
-leon
 leonard
 leonardesque
 leonardo
@@ -44466,6 +44458,7 @@ lewdness
 lewis
 lewisia
 lewiston
+lewk
 lexeme
 lexes
 lexical
@@ -45461,7 +45454,6 @@ lomatia
 lombard
 lombardia
 lombardy
-lome
 lomed
 loment
 lomes
@@ -45614,7 +45606,6 @@ lordy
 lore
 lorel
 lorelei
-loren
 lorentz
 lorenz
 lores
@@ -48243,7 +48234,6 @@ melodrama
 melodramatic
 melodramatically
 melody
-meloe
 melogale
 meloid
 meloidae
@@ -48365,6 +48355,7 @@ menispermum
 menninger
 mennonite
 mennonitism
+meno
 menominee
 menomini
 menopausal
@@ -50021,7 +50012,6 @@ molecular
 molecule
 moled
 molehill
-moler
 moles
 moleskin
 molest
@@ -50549,11 +50539,9 @@ morne
 mornight
 morning
 morns
-moro
 moroccan
 morocco
 moron
-morone
 moronic
 moronity
 morons
@@ -50827,6 +50815,7 @@ mowie
 mowing
 mown
 mowra
+moxa
 moxas
 moxie
 moyas
@@ -53444,6 +53433,7 @@ nootka
 noove
 nopal
 nopalea
+nope
 noradrenaline
 nordic
 noreaster
@@ -53677,7 +53667,6 @@ nowrooz
 nowruz
 nowts
 nowty
-noxal
 noxas
 noxes
 noxious
@@ -54627,6 +54616,7 @@ omen
 omens
 omentum
 omeprazole
+omer
 omers
 omerta
 omiai
@@ -56045,6 +56035,7 @@ oxbridge
 oxcart
 oxeas
 oxen
+oxer
 oxers
 oxeye
 oxford
@@ -57729,6 +57720,7 @@ pelargonium
 pelas
 pelau
 pelch
+pele
 pelecanidae
 pelecaniformes
 pelecanoididae
@@ -57737,7 +57729,6 @@ pelecypod
 pelecypodous
 peles
 peleus
-pelew
 pelf
 pelfs
 pelham
@@ -57944,7 +57935,6 @@ penuriousness
 penury
 penutian
 penwoman
-peola
 peon
 peonage
 peons
@@ -58274,7 +58264,6 @@ perodicticus
 perog
 perognathus
 peromyscus
-peron
 peroneal
 peroneus
 peronospora
@@ -60304,7 +60293,6 @@ poecilocapsus
 poecilogale
 poem
 poems
-poena
 poenology
 poephila
 poeps
@@ -61545,6 +61533,7 @@ prelacy
 prelapsarian
 prelate
 prelature
+prelaw
 prelim
 preliminary
 prelims
@@ -61588,7 +61577,6 @@ preoccupancy
 preoccupation
 preoccupied
 preoccupy
-preon
 preop
 preoperative
 preordain
@@ -61779,6 +61767,7 @@ previse
 prevision
 prevue
 prewar
+prex
 prexy
 prey
 preyed
@@ -62190,6 +62179,7 @@ prokhorov
 prokofiev
 prolactin
 prolamine
+prolan
 prolapse
 prolapsus
 prolate
@@ -62631,7 +62621,6 @@ prowk
 prowl
 prowler
 prows
-prox
 proxemics
 proxima
 proximal
@@ -67208,7 +67197,6 @@ romany
 romas
 romberg
 romeo
-romer
 romish
 rommany
 rommel
@@ -67225,7 +67213,6 @@ rondeau
 rondel
 rondelet
 rondo
-roneo
 roneograph
 rones
 ronin
@@ -79878,6 +79865,7 @@ tokos
 tokyo
 tola
 tolan
+tolane
 tolar
 tolas
 tolazamide
@@ -79942,7 +79930,6 @@ tombs
 tombstone
 tomcat
 tome
-tomen
 tomentose
 tomentous
 tomentum
