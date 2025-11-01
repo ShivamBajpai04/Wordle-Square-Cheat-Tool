@@ -29852,6 +29852,7 @@ flourishing
 floury
 flout
 flouter
+flouts
 flow
 flowage
 flowchart
@@ -29936,6 +29937,7 @@ flurazepam
 flurbiprofen
 flurr
 flurry
+flus
 flush
 flushed
 fluster
@@ -30131,6 +30133,7 @@ foolproof
 fools
 foolscap
 foons
+foos
 foot
 footage
 football
@@ -37130,7 +37133,6 @@ housewrecker
 housing
 housman
 houston
-houts
 houttuynia
 houyhnhnm
 houyhnhnms
@@ -41462,6 +41464,7 @@ jokey
 joking
 jokingly
 jokol
+joky
 joled
 joles
 jolie
@@ -41522,6 +41525,7 @@ jotun
 jotunn
 joual
 jougs
+jouk
 jouks
 joule
 jounce
@@ -41643,7 +41647,6 @@ julep
 julia
 julian
 julienne
-july
 jumar
 jumbal
 jumble
@@ -41743,6 +41746,7 @@ jute
 jutes
 jutish
 jutland
+juts
 jutting
 jutty
 juvenal
@@ -45518,6 +45522,7 @@ lontar
 looby
 looed
 looey
+loof
 loofa
 loofah
 loofs
@@ -45645,6 +45650,7 @@ lothringen
 loti
 lotic
 lotion
+loto
 lotos
 lots
 lotsa
@@ -55330,7 +55336,6 @@ osier
 osiris
 oskin
 oslin
-oslo
 osmanli
 osmanthus
 osmeridae
@@ -72338,7 +72343,6 @@ sloke
 slomo
 sloom
 sloop
-sloot
 slop
 slope
 sloped
@@ -73098,6 +73102,7 @@ solomons
 solon
 solos
 solresol
+sols
 solstice
 solubility
 soluble
@@ -73225,10 +73230,9 @@ sonsy
 sontag
 soochong
 sooey
+sook
 sooks
-sooky
 soole
-sools
 sooms
 soon
 sooner
@@ -73343,6 +73347,8 @@ sothis
 sotho
 soths
 sotol
+sotols
+sots
 sottish
 sottishly
 sottishness
@@ -73369,7 +73375,6 @@ soulfulness
 soulless
 soullessly
 souls
-souly
 soums
 sound
 soundable
@@ -73448,7 +73453,6 @@ southwestern
 southwestward
 southwestwardly
 soutine
-souts
 souvenir
 souvlaki
 souvlakia
@@ -75317,6 +75321,7 @@ stouthearted
 stoutheartedness
 stoutly
 stoutness
+stouts
 stove
 stovepipe
 stovepiped
@@ -76242,6 +76247,7 @@ sultanate
 sultrily
 sultriness
 sultry
+sulu
 sulus
 sumac
 sumach
@@ -79997,6 +80003,7 @@ tonsured
 tontine
 tonto
 tonus
+took
 tool
 toolbox
 toolhouse
@@ -81504,7 +81511,6 @@ tulpa
 tulps
 tulsa
 tulsi
-tulu
 tumble
 tumblebug
 tumbler
@@ -82052,6 +82058,7 @@ ultrasuede
 ultraviolet
 ululate
 ululation
+ulus
 ulva
 ulvaceae
 ulvales
@@ -88652,8 +88659,6 @@ yoker
 yokes
 yokohama
 yoks
-yokul
-yokuts
 yolk
 yolks
 yolky
@@ -88665,6 +88670,7 @@ yonic
 yonis
 yonks
 yonny
+yoof
 yoofs
 yoops
 yopos
@@ -88693,6 +88699,7 @@ younker
 yourn
 yours
 yourt
+yous
 youse
 youth
 youthful
