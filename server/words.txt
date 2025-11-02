@@ -5436,11 +5436,9 @@ asiatic
 aside
 asilidae
 asimina
-asimov
 asin
 asinine
 asininity
-asio
 asity
 askance
 askant
@@ -26110,7 +26108,6 @@ enjoyment
 enjoys
 enkaid
 enkephalin
-enki
 enkidu
 enkindle
 enkindled
@@ -26335,7 +26332,6 @@ entsi
 entwine
 enucleate
 enucleation
-enuki
 enumerable
 enumerate
 enumeration
@@ -41890,6 +41886,7 @@ kandahar
 kandinski
 kandinsky
 kandy
+kane
 kaneh
 kanes
 kanga
@@ -41902,7 +41899,6 @@ kansa
 kansan
 kansas
 kansu
-kant
 kantian
 kantrex
 kants
@@ -42515,7 +42511,6 @@ kinsman
 kinsperson
 kinswoman
 kinyarwanda
-kiore
 kiosk
 kiowa
 kipah
@@ -42546,7 +42541,6 @@ kirpan
 kirri
 kirsch
 kirtle
-kisan
 kishar
 kishinev
 kishke
@@ -42749,7 +42743,6 @@ knule
 knurl
 knurr
 knurs
-knut
 knuts
 koala
 koan
@@ -42780,6 +42773,7 @@ kohlrabi
 kohls
 koine
 koinonia
+kois
 koiwi
 kojis
 kokam
@@ -42800,7 +42794,6 @@ kolonia
 kolos
 kombi
 kombu
-komi
 komondor
 konakri
 konbu
@@ -45960,6 +45953,7 @@ lungi
 lungs
 lungyi
 lunisolar
+lunk
 lunkhead
 lunks
 lunt
@@ -48408,6 +48402,7 @@ menus
 menyanthaceae
 menyanthes
 menziesia
+meou
 meous
 meow
 meows
@@ -49106,7 +49101,6 @@ mihis
 mihrab
 mikado
 mikagura
-mikan
 mikania
 mike
 miked
@@ -49980,10 +49974,8 @@ moke
 moker
 mokes
 mokey
-mokis
 mokky
 mokos
-moksa
 mokulu
 mokus
 mola
@@ -51650,7 +51642,6 @@ naieo
 naif
 naifs
 naiki
-naiks
 nail
 nailbrush
 nailed
@@ -52432,6 +52423,7 @@ netts
 netty
 network
 networklike
+neuk
 neuks
 neumann
 neume
@@ -55538,7 +55530,6 @@ outdoorswoman
 outdoorsy
 outdraw
 outed
-outen
 outer
 outercourse
 outermost
@@ -60171,6 +60162,7 @@ plunge
 plunger
 plunk
 plunker
+plunks
 pluot
 pluperfect
 plups
@@ -60188,7 +60180,6 @@ pluses
 plush
 plushy
 plutarch
-plute
 pluteaceae
 pluteus
 pluto
@@ -60357,6 +60348,7 @@ pointsman
 pointswoman
 pointy
 poire
+pois
 poise
 poised
 poison
@@ -61153,7 +61145,6 @@ pouffe
 poufs
 poufy
 pouis
-pouks
 poule
 poulenc
 poulet
@@ -62981,8 +62972,6 @@ puissant
 pujah
 pujas
 pujunan
-puka
-pukas
 puke
 puked
 puker
@@ -63068,6 +63057,7 @@ pumpkin
 pumpkinseed
 pumps
 pumpy
+puna
 punas
 punce
 punch
@@ -63125,6 +63115,7 @@ punji
 punk
 punka
 punkah
+punkas
 punkey
 punkie
 punks
@@ -65683,7 +65674,6 @@ remote
 remotely
 remoteness
 remotion
-remou
 remould
 remount
 removability
@@ -65825,7 +65815,6 @@ rephrase
 rephrasing
 repin
 repine
-repla
 replace
 replaceability
 replaceable
@@ -65936,9 +65925,7 @@ repulsively
 repulsiveness
 repulsor
 repulsorlift
-repun
 repurchase
-reput
 reputability
 reputable
 reputably
@@ -67404,7 +67391,6 @@ rouble
 roue
 rouen
 roues
-rouet
 roufs
 rouge
 rougeberry
@@ -67424,7 +67410,6 @@ roughneck
 roughness
 roughrider
 roughshod
-rouks
 rouky
 roulade
 roule
@@ -67456,6 +67441,7 @@ roundswoman
 roundtable
 roundup
 roundworm
+roup
 roups
 roupy
 rous
@@ -68424,7 +68410,6 @@ sanitize
 sanitized
 sanity
 sank
-sanko
 sannup
 sannyasi
 sannyasin
@@ -71768,7 +71753,6 @@ sinusitis
 sinusoid
 sinusoidal
 sinusoidally
-siouan
 sioux
 siped
 sipes
@@ -71995,7 +71979,6 @@ skimcoat
 skimmed
 skimmer
 skimming
-skimo
 skimp
 skimpily
 skimpiness
@@ -81500,7 +81483,6 @@ tully
 tulostoma
 tulostomaceae
 tulostomataceae
-tulpa
 tulps
 tulsa
 tulsi
@@ -85444,6 +85426,7 @@ veritable
 verity
 verlaine
 vermeer
+vermian
 vermicelli
 vermicide
 vermicular
