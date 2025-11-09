@@ -1927,6 +1927,7 @@ aided
 aider
 aides
 aiding
+aidmen
 aidoi
 aidoneus
 aidos
@@ -2933,6 +2934,7 @@ amicableness
 amicably
 amice
 amici
+amid
 amide
 amido
 amidopyrine
@@ -2961,6 +2963,7 @@ amins
 amiodarone
 amir
 amirs
+amis
 amish
 amiss
 amitosis
@@ -3022,7 +3025,6 @@ amoebous
 amok
 amoks
 amole
-amon
 among
 amontillado
 amoral
@@ -19996,6 +19998,7 @@ dahomey
 daiko
 daikon
 daily
+daimen
 daimler
 daimon
 daine
@@ -20078,7 +20081,6 @@ damning
 damns
 damocles
 damoiselle
-damon
 damosel
 damourite
 damozel
@@ -22038,7 +22040,6 @@ dialyse
 dialysis
 dialyze
 dialyzer
-diam
 diamagnet
 diamagnetic
 diamagnetism
@@ -22391,7 +22392,6 @@ diluvial
 diluvian
 dimaggio
 dimash
-dimbo
 dime
 dimenhydrinate
 dimension
@@ -22519,6 +22519,7 @@ diploid
 diploidy
 diploma
 diplomacy
+diplomas
 diplomat
 diplomate
 diplomatic
@@ -38060,6 +38061,7 @@ ideate
 ideation
 ideational
 idees
+idem
 idempotent
 ident
 identical
@@ -41855,6 +41857,7 @@ kamarupan
 kamas
 kamasutra
 kamba
+kame
 kameez
 kames
 kamet
@@ -42403,6 +42406,7 @@ killingly
 killjoy
 kills
 kiln
+kilned
 kilns
 kilo
 kilobit
@@ -42429,7 +42433,6 @@ kilts
 kilty
 kimberley
 kimberlite
-kimbo
 kimono
 kina
 kinaesthesia
@@ -44781,6 +44784,7 @@ limitlessness
 limits
 limma
 limn
+limned
 limner
 limnimeter
 limning
@@ -44968,6 +44972,7 @@ lipizzan
 lipless
 liplike
 lipmann
+lipo
 lipogram
 lipoid
 lipoidaemia
@@ -45442,12 +45447,10 @@ lolog
 loloish
 lolos
 lomariopsidaceae
-lomas
 lomatia
 lombard
 lombardia
 lombardy
-lomed
 loment
 lomes
 lomogramma
@@ -45567,7 +45570,6 @@ lophophora
 lophophorus
 lophosoria
 lophosoriaceae
-lopid
 lopped
 lopper
 loppy
@@ -46588,7 +46590,6 @@ maiger
 maigre
 maiko
 maikoa
-maiks
 mail
 mailbag
 mailboat
@@ -46602,7 +46603,6 @@ maill
 maillol
 maillot
 mailman
-mailo
 mails
 mailsorter
 mailwoman
@@ -46679,6 +46679,7 @@ makes
 makeshift
 makeup
 makeweight
+maki
 makie
 makin
 making
@@ -47981,6 +47982,7 @@ medial
 medially
 median
 mediant
+medias
 mediastinum
 mediate
 mediated
@@ -49016,7 +49018,6 @@ micturate
 micturition
 midafternoon
 midair
-midas
 midazolam
 midbrain
 midday
@@ -49046,6 +49047,7 @@ midland
 midline
 midmost
 midnight
+midnoon
 midplane
 midpoint
 midrash
@@ -49238,7 +49240,6 @@ millwheel
 millwork
 millwright
 milly
-milne
 milo
 milometer
 milontin
@@ -50389,9 +50390,9 @@ mooed
 mooey
 mooing
 mooks
+mool
 moola
 moolah
-mooli
 mools
 mooly
 moon
@@ -52913,7 +52914,6 @@ njirl
 njord
 njorth
 nkosi
-nmoli
 nmols
 nnrti
 noachian
@@ -53017,7 +53017,6 @@ nomen
 nomenclature
 nomenklatura
 nomes
-nomia
 nomic
 nominal
 nominalism
@@ -53130,7 +53129,6 @@ noncurrent
 noncy
 noncyclic
 noncyclical
-nonda
 nondeductible
 nondescript
 nondevelopment
@@ -53405,6 +53403,7 @@ nonwashable
 nonwoody
 nonworker
 nonyl
+noob
 noobs
 noodle
 noois
@@ -53416,7 +53415,6 @@ nooky
 noon
 noona
 noonday
-noone
 noons
 noontide
 noops
@@ -54587,6 +54585,7 @@ olympus
 omaha
 oman
 omani
+omas
 omasa
 omasum
 omayyad
@@ -54596,7 +54595,6 @@ ombudsman
 ombudsperson
 ombudswoman
 omdah
-omdas
 omdda
 omdeh
 omdurman
@@ -54766,6 +54764,8 @@ ooids
 oojah
 oology
 oolong
+oomiak
+oomiaks
 oomph
 oomycetes
 oonts
@@ -59263,7 +59263,6 @@ pillowcase
 pills
 pillwort
 pilocarpine
-pilon
 pilose
 pilosebaceous
 pilosella
@@ -60061,7 +60060,6 @@ plodding
 ploddingly
 plods
 ploit
-plomb
 plong
 plonk
 plook
@@ -68289,7 +68287,6 @@ samoyedic
 samp
 sampan
 samphire
-sampi
 sample
 sampler
 sampling
@@ -71315,7 +71312,6 @@ sialidae
 sialis
 sialolith
 sials
-siam
 siamang
 siamese
 sibbs
@@ -71611,7 +71607,6 @@ simarre
 simas
 simazine
 simba
-simenon
 simeon
 simian
 similar
@@ -71625,13 +71620,13 @@ simmering
 simmpleness
 simnel
 simoleons
-simon
 simonise
 simoniz
 simonize
 simony
 simoom
 simoon
+simp
 simper
 simperer
 simperingly
