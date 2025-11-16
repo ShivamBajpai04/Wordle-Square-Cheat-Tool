@@ -120,7 +120,6 @@ aberrancy
 aberrant
 aberrate
 aberration
-abers
 abet
 abetment
 abets
@@ -5851,7 +5850,6 @@ atman
 atmas
 atmometer
 atmoradiograph
-atmos
 atmosphere
 atmospheric
 atmospherical
@@ -7627,7 +7625,6 @@ bauhinia
 bauks
 baulk
 baulker
-baum
 baurs
 bauxite
 bauxitic
@@ -16571,6 +16568,7 @@ commonsensible
 commonsensical
 commonweal
 commonwealth
+commos
 commotion
 commove
 comms
@@ -17725,6 +17723,7 @@ coordinating
 coordination
 coordinative
 coordinator
+coos
 coosa
 coost
 coot
@@ -19239,7 +19238,6 @@ ctenocephalus
 ctenoid
 ctenophora
 ctenophore
-cuba
 cuban
 cubby
 cubbyhole
@@ -19248,6 +19246,7 @@ cubeb
 cubed
 cubelike
 cuber
+cubers
 cubes
 cubic
 cubical
@@ -19291,6 +19290,7 @@ cudgel
 cudweed
 cueca
 cued
+cues
 cuff
 cuffed
 cufflink
@@ -19399,7 +19399,6 @@ cunny
 cunoniaceae
 cunt
 cunts
-cuon
 cupal
 cupbearer
 cupboard
@@ -41561,8 +41560,10 @@ joyousness
 joyride
 joystick
 juarez
+juba
 jubas
 jubbulpore
+jube
 jubes
 jubilance
 jubilancy
@@ -41571,6 +41572,7 @@ jubilantly
 jubilate
 jubilation
 jubilee
+juco
 jucos
 juda
 judaea
@@ -50044,6 +50046,7 @@ molos
 molossidae
 molothrus
 molotov
+mols
 molt
 molten
 molter
@@ -50081,7 +50084,6 @@ mommsen
 mommy
 mommys
 momordica
-momos
 momot
 momotidae
 momotus
@@ -50436,6 +50438,7 @@ moorland
 moors
 moorwort
 moory
+moos
 moose
 moosewood
 moot
@@ -52914,7 +52917,6 @@ njirl
 njord
 njorth
 nkosi
-nmols
 nnrti
 noachian
 noahs
@@ -53515,7 +53517,6 @@ nosedive
 nosegay
 noseless
 nosepiece
-noser
 noses
 nosewheel
 nosey
@@ -60776,6 +60777,7 @@ poorly
 poorness
 poort
 poorwill
+poos
 poots
 pooty
 poove
@@ -65498,7 +65500,6 @@ rejoice
 rejoicing
 rejoin
 rejoinder
-rejon
 rejuvenate
 rejuvenation
 rejuvenescence
@@ -66046,7 +66047,6 @@ resit
 resize
 resmudge
 resod
-resol
 resold
 resole
 resolute
@@ -72314,7 +72314,6 @@ slojd
 sloka
 sloke
 slomo
-sloom
 sloop
 sloot
 slop
@@ -72959,6 +72958,7 @@ soja
 sojas
 sojourn
 sojourner
+soju
 sojus
 sokah
 soke
@@ -77280,6 +77280,7 @@ taber
 tabernacle
 tabernacles
 tabernaemontana
+tabers
 tabes
 tabi
 tabid
@@ -77913,7 +77914,6 @@ tattling
 tattoo
 tatts
 tatty
-taube
 taught
 tauld
 taunt
@@ -81501,6 +81501,7 @@ tummy
 tumor
 tumors
 tumour
+tump
 tumps
 tumpy
 tums
