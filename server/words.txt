@@ -9708,7 +9708,6 @@ bolds
 bole
 bolero
 boles
-bolet
 boletaceae
 bolete
 boletellus
@@ -10046,7 +10045,6 @@ bortz
 borzoi
 bosc
 bosch
-bose
 boselaphus
 bosey
 bosh
@@ -10108,6 +10106,7 @@ botox
 botrychium
 botryoid
 botryoidal
+bots
 botswana
 botswanan
 bott
@@ -25701,6 +25700,7 @@ emolument
 emong
 emos
 emote
+emotes
 emoticon
 emotion
 emotional
@@ -44349,6 +44349,7 @@ lesser
 lessing
 lesson
 lessor
+lest
 lests
 lesvos
 letch
@@ -45245,6 +45246,7 @@ lobes
 lobipes
 lobito
 loblolly
+lobo
 lobos
 lobotes
 lobotidae
@@ -48500,6 +48502,7 @@ meritorious
 meritoriously
 meritoriousness
 merits
+merk
 merks
 merl
 merlangus
@@ -49970,7 +49973,6 @@ mojave
 mojo
 mojos
 moke
-moker
 mokes
 mokey
 mokky
@@ -50453,6 +50455,7 @@ mopper
 moppet
 mopping
 moppy
+mops
 mopsy
 mopus
 moquelumnan
@@ -52928,6 +52931,7 @@ nobleness
 nobler
 nobles
 noblesse
+noblest
 noblewoman
 nobly
 nobody
@@ -52996,7 +53000,6 @@ noisome
 noisomeness
 noisy
 nokes
-noles
 nolina
 nolle
 nolls
@@ -53663,7 +53666,6 @@ noyau
 noyed
 noyes
 nozzle
-nrem
 nrna
 nrti
 nrtta
@@ -54039,7 +54041,9 @@ obnubilate
 oboe
 oboes
 oboist
+obol
 obole
+oboles
 oboli
 obols
 obolus
@@ -54521,6 +54525,7 @@ oleophilic
 oleophobic
 oleoresin
 oleos
+oles
 oleum
 oleyl
 olfaction
@@ -54571,7 +54576,6 @@ olmec
 olmsted
 ology
 olpae
-olpes
 olympia
 olympiad
 olympian
@@ -54848,6 +54852,7 @@ operon
 operose
 operoseness
 opery
+opes
 opgaf
 opheodrys
 ophidia
@@ -61089,7 +61094,6 @@ potentilla
 potentiometer
 potently
 poterium
-potes
 potful
 pothead
 pother
@@ -65668,6 +65672,8 @@ remorselessly
 remote
 remotely
 remoteness
+remotes
+remotest
 remotion
 remould
 remount
@@ -75172,7 +75178,6 @@ stolid
 stolidity
 stolidly
 stolidness
-stoln
 stolon
 stoloniferous
 stoma
@@ -78273,6 +78278,7 @@ telosporidia
 telpher
 telpherage
 tels
+telson
 telsontail
 telugu
 temazepam
@@ -78623,6 +78629,7 @@ testimony
 testiness
 testing
 testis
+teston
 testosterone
 tests
 testudinata
@@ -79952,6 +79959,7 @@ tonics
 tonight
 tonka
 tonks
+tonlet
 tonnage
 tonne
 tonocard
