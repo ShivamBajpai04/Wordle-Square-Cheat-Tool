@@ -23662,7 +23662,6 @@ doody
 doofs
 doofus
 doohickey
-dooks
 dooky
 doole
 doolittle
@@ -23744,6 +23743,7 @@ dorotheanthus
 dorp
 dorps
 dorrs
+dors
 dorsa
 dorsal
 dorsally
@@ -24199,13 +24199,14 @@ dromaeosauridae
 dromaius
 drome
 dromedary
+dromon
+dromons
 dronabinol
 drone
 drones
 droning
 droob
 droog
-drook
 drool
 drooler
 drools
@@ -24314,7 +24315,6 @@ drypis
 drywall
 dscdna
 dsobo
-dsomo
 duad
 duads
 dual
@@ -30078,7 +30078,6 @@ fomentation
 fomenter
 fomes
 fomite
-fomor
 fomorian
 fond
 fonda
@@ -30095,6 +30094,7 @@ fondue
 fones
 fonio
 fonly
+fons
 font
 fontanel
 fontanelle
@@ -30121,7 +30121,7 @@ foolishness
 foolproof
 fools
 foolscap
-foons
+foos
 foot
 footage
 football
@@ -42840,6 +42840,7 @@ koris
 korlan
 korma
 koros
+kors
 korun
 koruna
 korus
@@ -45538,7 +45539,6 @@ loophole
 looping
 loops
 loopy
-loord
 loos
 loose
 looseleaf
@@ -49974,7 +49974,6 @@ moker
 mokes
 mokey
 mokky
-mokos
 mokulu
 mokus
 mola
@@ -50387,6 +50386,7 @@ moody
 mooed
 mooey
 mooing
+mook
 mooks
 mool
 moola
@@ -50448,6 +50448,7 @@ moper
 mopes
 mopey
 moping
+mopoke
 mopped
 mopper
 moppet
@@ -50608,6 +50609,7 @@ moses
 mosey
 mosh
 moshav
+mosk
 mosks
 moslem
 mosque
@@ -53031,6 +53033,7 @@ nomograph
 nomoi
 nomos
 nomothetic
+noms
 nona
 nonabsorbency
 nonabsorbent
@@ -54285,7 +54288,6 @@ odontoceti
 odontoglossum
 odontology
 odontophorus
-odoom
 odor
 odoriferous
 odorize
@@ -60060,7 +60062,6 @@ plods
 ploit
 plong
 plonk
-plook
 ploot
 plop
 plops
@@ -60268,7 +60269,6 @@ podocarp
 podocarpaceae
 podocarpus
 podophyllum
-podos
 pods
 podsol
 podunk
@@ -60367,7 +60367,6 @@ pokeweed
 pokey
 pokie
 poking
-pokomo
 poky
 polack
 poland
@@ -60682,6 +60681,7 @@ pompous
 pompously
 pompousness
 pomps
+poms
 ponca
 ponce
 poncho
@@ -60752,7 +60752,6 @@ poohs
 poohy
 pooja
 pooka
-pooks
 pool
 pooled
 pooler
@@ -67078,6 +67077,7 @@ rodlike
 rodny
 rodolia
 rodomontade
+rods
 roebling
 roebuck
 roentgen
@@ -67118,7 +67118,6 @@ rojak
 rojis
 rokes
 rokey
-rokos
 rolag
 rolaids
 role
@@ -67231,6 +67230,7 @@ roomy
 roons
 roops
 roopy
+roos
 roosa
 roose
 roosevelt
@@ -72024,7 +72024,6 @@ skoff
 skofs
 skogs
 skols
-skool
 skopje
 skoplje
 skort
@@ -72525,7 +72524,6 @@ smokescreen
 smokestack
 smokey
 smoking
-smoko
 smoky
 smol
 smolder
@@ -72536,8 +72534,6 @@ smollett
 smolt
 smooch
 smooching
-smoor
-smoot
 smooth
 smoothbark
 smoothbore
@@ -72721,6 +72717,7 @@ snoke
 snood
 snook
 snooker
+snooks
 snool
 snoop
 snooper
@@ -73197,11 +73194,11 @@ sonsy
 sontag
 soochong
 sooey
+sook
 sooks
 sooky
 soole
 sools
-sooms
 soon
 sooner
 soonest
@@ -73260,12 +73257,12 @@ sorcerise
 sorcerize
 sorcerous
 sorcery
+sord
 sorda
 sordid
 sordidly
 sordidness
 sordino
-sordo
 sords
 sore
 sored
@@ -79767,7 +79764,7 @@ toddler
 toddy
 todea
 todidae
-todos
+tods
 todus
 tody
 toea
@@ -79969,13 +79966,14 @@ tonsured
 tontine
 tonto
 tonus
+took
 tool
 toolbox
 toolhouse
 toolmaker
 tools
 toolshed
-tooms
+toom
 toon
 toona
 toons
@@ -80030,6 +80028,7 @@ topmast
 topminnow
 topmost
 topnotch
+topo
 topognosia
 topognosis
 topographic
