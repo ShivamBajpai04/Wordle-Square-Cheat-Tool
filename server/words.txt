@@ -32432,6 +32432,7 @@ giotto
 gipon
 gippo
 gippy
+gips
 gipsy
 gipsywort
 giraffa
@@ -33892,6 +33893,7 @@ grubstake
 grudge
 grudging
 grudgingly
+grue
 grued
 gruel
 grueling
@@ -36717,6 +36719,7 @@ homotoxicology
 homozygosity
 homozygote
 homozygous
+homs
 homunculus
 homy
 homyel
@@ -36860,7 +36863,6 @@ hopelessly
 hopelessness
 hoper
 hopes
-hopi
 hoping
 hopkins
 hopkinson
@@ -38624,7 +38626,6 @@ impost
 imposter
 impostor
 imposture
-impot
 impotence
 impotency
 impotent
@@ -38698,6 +38699,7 @@ improvize
 imprudence
 imprudent
 imprudently
+imps
 impudence
 impudent
 impudently
@@ -45570,6 +45572,7 @@ lopped
 lopper
 loppy
 lopressor
+lops
 lopsided
 lopsidedly
 lopsidedness
@@ -45672,7 +45675,6 @@ louns
 loupe
 loups
 lour
-loure
 lours
 loury
 louse
@@ -45974,7 +45976,6 @@ lured
 lurer
 lures
 lurex
-lurgi
 lurgy
 lurid
 luridly
@@ -50050,7 +50051,6 @@ molto
 molts
 moluccas
 molucella
-molue
 molva
 molvi
 molybdenite
@@ -50454,6 +50454,7 @@ mopper
 moppet
 mopping
 moppy
+mops
 mopsy
 mopus
 moquelumnan
@@ -58763,7 +58764,6 @@ phleum
 phloem
 phlogiston
 phlogopite
-phlomis
 phlox
 phobe
 phobia
@@ -58844,7 +58844,6 @@ phosphoric
 phosphorous
 phosphorus
 phot
-phota
 photalgia
 photic
 photinia
@@ -59188,7 +59187,6 @@ piggy
 piggyback
 pigheaded
 pigheadedness
-pight
 piglet
 pigly
 pigman
@@ -59510,7 +59508,6 @@ pises
 pisiform
 pisky
 pismire
-pismo
 pisonia
 pisos
 piss
@@ -71418,6 +71415,7 @@ sifts
 sigeh
 sigh
 sighed
+sigher
 sighs
 sight
 sighted
@@ -72525,7 +72523,6 @@ smokestack
 smokey
 smoking
 smoky
-smol
 smolder
 smoldering
 smolderingly
@@ -79250,6 +79247,7 @@ thrower
 thrown
 throws
 throwster
+thru
 thrum
 thrush
 thrust
@@ -79918,6 +79916,7 @@ tomorrow
 tomos
 tomoz
 tompion
+toms
 tomtate
 tomtit
 tomtom
@@ -80007,6 +80006,7 @@ topeka
 toper
 topes
 topgallant
+toph
 tophe
 tophi
 tophs
@@ -84647,7 +84647,6 @@ ursinia
 urson
 ursulines
 ursus
-urth
 urtica
 urticaceae
 urticales
