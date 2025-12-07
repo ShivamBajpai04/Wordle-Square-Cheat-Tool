@@ -5408,11 +5408,9 @@ ashamedly
 ashbin
 ashcake
 ashcan
-ashe
 ashed
 ashen
 ashes
-ashet
 asheville
 ashgabat
 ashir
@@ -7512,6 +7510,7 @@ bastardized
 bastardly
 bastardy
 baste
+basted
 baster
 bastet
 basti
@@ -8377,7 +8376,6 @@ beted
 betel
 betelgeuse
 beth
-bethe
 bethel
 bethink
 bethlehem
@@ -8395,6 +8393,7 @@ betrayer
 betroth
 betrothal
 betrothed
+bets
 betta
 betted
 better
@@ -10598,6 +10597,7 @@ breathtaking
 breccia
 brecciate
 brecht
+bred
 brede
 breds
 bree
@@ -10634,7 +10634,6 @@ brere
 brers
 brescia
 breslau
-brest
 bretagne
 brethren
 breton
@@ -23493,6 +23492,7 @@ dogmatise
 dogmatism
 dogmatist
 dogmatize
+dogs
 dogsbody
 dogshit
 dogsled
@@ -27064,6 +27064,7 @@ ethosuximide
 ethoxyethane
 ethrane
 ethril
+eths
 ethyl
 ethylene
 ethyne
@@ -32223,6 +32224,7 @@ gesneriaceae
 gesneriad
 gesse
 gesso
+gest
 gestalt
 gestapo
 gestate
@@ -32939,6 +32941,7 @@ goddaughter
 goddess
 godel
 godet
+godets
 godfather
 godforsaken
 godhead
@@ -34331,7 +34334,6 @@ habacuc
 habakkuk
 habanera
 habenaria
-haber
 haberdasher
 haberdashery
 habergeon
@@ -35053,6 +35055,7 @@ haschisch
 hasdrubal
 hasek
 hash
+hashed
 hasheesh
 hashish
 hashmark
@@ -35075,9 +35078,11 @@ hassidism
 hassium
 hassle
 hassock
+hast
 hasta
 hastate
 haste
+hasted
 hasten
 hastily
 hastinapura
@@ -35502,6 +35507,7 @@ hegelian
 hegemon
 hegemony
 hegira
+hehs
 heiau
 heidegger
 heids
@@ -35961,6 +35967,7 @@ hess
 hesse
 hessian
 hessonite
+hest
 hestia
 hests
 heteranthera
@@ -36017,9 +36024,9 @@ heterotrophic
 heterozygosity
 heterozygote
 heterozygous
-hetes
 heth
 heths
+hets
 heuch
 heuchera
 heugh
@@ -54261,9 +54268,7 @@ odds
 odea
 odeon
 odes
-odesa
 odessa
-odets
 odeum
 odin
 odious
@@ -64759,6 +64764,7 @@ reawaken
 rebab
 rebar
 rebarbative
+rebase
 rebate
 rebato
 rebbe
@@ -66000,7 +66006,6 @@ reshape
 reship
 reshipment
 reshoot
-resht
 reshuffle
 reshuffling
 resid
@@ -70267,7 +70272,6 @@ seraph
 seraphic
 seraphical
 serax
-serb
 serbia
 serbian
 serbianness
@@ -70421,7 +70425,6 @@ setae
 setal
 setaria
 setback
-seth
 seths
 setline
 setoff
@@ -78984,6 +78987,7 @@ thete
 thetis
 theurgy
 thevetia
+thew
 thews
 thewy
 theyll
@@ -87056,7 +87060,6 @@ wernicke
 weros
 wersh
 wert
-weser
 wesley
 wesleyan
 wesleyanism
@@ -87088,6 +87091,7 @@ wetland
 wetly
 wetness
 wetnurse
+wets
 wetted
 wetter
 wetting
