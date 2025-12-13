@@ -6504,7 +6504,6 @@ ayahs
 ayapana
 ayatollah
 ayaya
-ayelp
 aygre
 ayin
 ayins
@@ -11332,6 +11331,7 @@ bunk
 bunker
 bunkmate
 bunko
+bunkoed
 bunks
 bunkum
 bunns
@@ -11348,6 +11348,7 @@ bunty
 bunuel
 bunya
 bunyan
+bunyas
 bunyaviridae
 bunyavirus
 buoy
@@ -11535,6 +11536,8 @@ buster
 busti
 bustier
 bustle
+bustled
+bustler
 bustling
 busts
 busty
@@ -11626,6 +11629,7 @@ buyi
 buyin
 buying
 buyout
+buys
 buzz
 buzzard
 buzzed
@@ -20990,6 +20994,7 @@ delayed
 delayer
 delays
 delbruck
+dele
 delectability
 delectable
 delectation
@@ -21085,6 +21090,7 @@ delusional
 delusive
 delusively
 delusory
+deluster
 deluxe
 delve
 demagnetisation
@@ -21543,7 +21549,6 @@ derogation
 derogative
 derogatory
 deros
-derpy
 derrick
 derrida
 derriere
@@ -21945,6 +21950,7 @@ dextrose
 dextrous
 dextrously
 dexys
+deys
 dflp
 dhaba
 dhahran
@@ -24125,9 +24131,7 @@ dressmaking
 dressy
 drest
 drew
-drey
 dreyfus
-dreys
 drib
 dribble
 dribbler
@@ -42745,7 +42749,6 @@ knucklehead
 knuckler
 knuckles
 knucks
-knule
 knurl
 knurr
 knurs
@@ -42989,7 +42992,6 @@ kutuzov
 kuvasz
 kuwait
 kuwaiti
-kuyas
 kuznets
 kuzus
 kvass
@@ -44329,7 +44331,6 @@ leptosporangium
 leptotene
 leptotyphlopidae
 leptotyphlops
-lepus
 lered
 leres
 leresis
@@ -44483,6 +44484,7 @@ lexis
 leycesteria
 leyden
 leymus
+leys
 leyte
 lezes
 lezza
@@ -45963,6 +45965,7 @@ lunisolar
 lunk
 lunkhead
 lunks
+luns
 lunt
 lunts
 lunula
@@ -46008,6 +46011,7 @@ lusitania
 lusitanian
 lusks
 lust
+lusted
 luster
 lusterless
 lusterlessness
@@ -46218,6 +46222,7 @@ lyrics
 lyrist
 lyrurus
 lysander
+lysate
 lysed
 lysenko
 lyses
@@ -46244,7 +46249,6 @@ lysosome
 lysozyme
 lyssa
 lyssavirus
-lyted
 lytes
 lythe
 lythraceae
@@ -55218,7 +55222,6 @@ oropharyngeal
 oropharynx
 orotund
 orozco
-orped
 orphan
 orphanage
 orphaned
@@ -55486,7 +55489,6 @@ ounce
 ounces
 oundy
 oupas
-ouped
 ouphe
 ouphs
 ouranopithecus
@@ -57624,6 +57626,7 @@ pedionomus
 pedipalpi
 pedis
 pedlar
+pedler
 pedodontist
 pedology
 pedometer
@@ -57755,15 +57758,14 @@ peloponnesus
 pelota
 pelsh
 pelt
-pelta
 peltandra
 peltate
+pelted
 pelter
 pelting
 peltiphyllum
 pelts
 peludo
-pelus
 pelvic
 pelvimeter
 pelvimetry
@@ -59954,6 +59956,7 @@ plectranthus
 plectron
 plectrophenax
 plectrum
+pled
 pledge
 pledged
 pledgee
@@ -60003,7 +60006,6 @@ plethodontidae
 plethora
 plethoric
 plethysmograph
-plets
 pleura
 pleural
 pleuralgia
@@ -61146,17 +61148,17 @@ pouffe
 poufs
 poufy
 pouis
-poule
 poulenc
-poulet
 poulette
 poulp
 poult
+poulter
 poulterer
 poultice
 poultry
 poultryman
 poultrywoman
+poults
 pounce
 pound
 poundage
@@ -61172,7 +61174,6 @@ poured
 pouring
 pours
 poussin
-pousy
 pout
 pouted
 pouter
@@ -62553,8 +62554,6 @@ protyle
 proud
 proudhon
 proudly
-proul
-proust
 proustian
 provability
 provable
@@ -63124,6 +63123,7 @@ punky
 punnet
 punning
 punny
+puns
 punster
 punt
 punter
@@ -63327,7 +63327,6 @@ puttyroot
 putz
 putza
 puuko
-puyas
 puzel
 puzta
 puzzle
@@ -63338,7 +63337,7 @@ puzzling
 pwned
 pyaemia
 pyaemic
-pyats
+pyas
 pycnanthemum
 pycnidium
 pycnodysostosis
@@ -63354,7 +63353,6 @@ pyelography
 pyelonephritis
 pyemia
 pyemic
-pyets
 pygal
 pygmalion
 pygmy
@@ -65553,6 +65551,7 @@ relentless
 relentlessly
 relentlessness
 relet
+relets
 relevance
 relevancy
 relevant
@@ -65822,6 +65821,7 @@ replacement
 replacing
 replant
 replay
+repled
 replenish
 replenishment
 replete
@@ -66304,6 +66304,7 @@ return
 returnable
 returning
 retype
+retyped
 reuben
 reune
 reunification
@@ -67409,7 +67410,6 @@ roughrider
 roughshod
 rouky
 roulade
-roule
 rouleau
 roulette
 rouls
@@ -67439,9 +67439,9 @@ roundtable
 roundup
 roundworm
 roup
+rouped
 roups
 roupy
-rous
 rouse
 roused
 rouser
@@ -67450,6 +67450,8 @@ rousseau
 rousseauan
 roust
 roustabout
+rousted
+rouster
 rout
 route
 routed
@@ -68615,7 +68617,6 @@ sated
 sateen
 satellite
 satem
-sater
 sates
 satiable
 satiate
@@ -72795,6 +72796,7 @@ snugly
 snugness
 snugs
 snush
+snye
 snyes
 soak
 soakage
@@ -74772,7 +74774,6 @@ steatornis
 steatornithidae
 steatorrhea
 stedd
-stede
 steed
 steek
 steel
@@ -76339,7 +76340,7 @@ sunts
 sunup
 suomi
 suona
-suped
+supe
 super
 superable
 superabundance
@@ -77215,7 +77216,6 @@ synthetical
 synthetically
 synthetism
 syntony
-syped
 sypes
 syph
 syphilis
@@ -84092,6 +84092,7 @@ unstaple
 unstarred
 unstated
 unstatesmanlike
+unstayed
 unsteadily
 unsteadiness
 unsteady
@@ -84443,7 +84444,6 @@ upjohn
 upkeep
 upland
 uplay
-upled
 uplift
 uplifted
 uplifting
@@ -84705,7 +84705,6 @@ ussher
 ussr
 usss
 ustad
-uster
 ustilaginaceae
 ustilaginales
 ustilaginoidea
@@ -88481,6 +88480,7 @@ yeeek
 yeesh
 yeggs
 yekaterinoslav
+yeld
 yelks
 yell
 yella
@@ -88504,9 +88504,10 @@ yellowwood
 yells
 yelms
 yelp
+yelped
+yelper
 yelping
 yelps
-yelts
 yemen
 yemeni
 yenisei
