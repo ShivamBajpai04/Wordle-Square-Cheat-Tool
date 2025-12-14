@@ -5301,7 +5301,6 @@ arty
 aruba
 arugula
 aruhe
-arui
 arulo
 arum
 arums
@@ -10467,6 +10466,7 @@ brank
 brans
 brant
 braque
+bras
 brasenia
 brash
 brashly
@@ -10487,7 +10487,6 @@ brassie
 brassiere
 brasslike
 brassy
-brast
 brat
 bratislava
 brats
@@ -10514,6 +10513,7 @@ bravo
 bravos
 bravura
 braw
+brawer
 brawl
 brawler
 brawn
@@ -10979,6 +10979,7 @@ bruiser
 bruising
 bruit
 bruitism
+bruits
 bruja
 brujo
 brumaire
@@ -11464,6 +11465,7 @@ burroughs
 burrow
 burrs
 burry
+burs
 bursa
 bursal
 bursar
@@ -11565,6 +11567,7 @@ butle
 butled
 butler
 butoh
+buts
 butsu
 butt
 butte
@@ -26661,6 +26664,7 @@ eradication
 eradicator
 eragrostis
 eranthis
+eras
 erasable
 erase
 erased
@@ -36373,13 +36377,13 @@ hitler
 hitlerian
 hitless
 hitman
+hits
 hitter
 hitting
 hittite
 hitwoman
 hive
 hived
-hiver
 hives
 hizballah
 hizbollah
@@ -66887,7 +66891,6 @@ ripps
 ripsaw
 riptide
 riqqs
-rira
 risc
 rise
 risen
@@ -66940,7 +66943,6 @@ rived
 rivel
 riven
 river
-rivera
 riverbank
 riverbed
 rivers
@@ -68562,7 +68564,6 @@ sargent
 sargo
 sari
 sarin
-sarir
 saris
 sarks
 sarky
@@ -68583,7 +68584,6 @@ sarsenet
 sartor
 sartorial
 sartorius
-sartre
 sarus
 sarvo
 sash
@@ -68617,6 +68617,7 @@ satellite
 satem
 sater
 sates
+sati
 satiable
 satiate
 satiated
@@ -74720,6 +74721,7 @@ staurikosaurus
 stavanger
 stave
 staved
+staw
 staws
 stay
 stayed
@@ -75081,7 +75083,6 @@ stipulation
 stipulatory
 stipule
 stir
-stire
 stirk
 stirp
 stirred
@@ -75096,6 +75097,7 @@ stitcher
 stitchery
 stitching
 stitchwort
+stiver
 stivy
 stizidae
 stizolobium
@@ -75624,6 +75626,7 @@ stuffiness
 stuffing
 stuffs
 stuffy
+stuiver
 stull
 stulm
 stultification
@@ -75669,7 +75672,6 @@ stuporous
 sturdily
 sturdiness
 sturdy
-sture
 sturgeon
 sturmabteilung
 sturnella
@@ -84643,6 +84645,7 @@ uropygi
 uropygium
 urosaurus
 urped
+ursa
 ursae
 ursid
 ursidae
@@ -85417,6 +85420,7 @@ verily
 verisimilar
 verisimilitude
 veritable
+veritas
 verity
 verlaine
 vermeer
@@ -85960,6 +85964,7 @@ visualize
 visualized
 visualizer
 visually
+vita
 vitaceae
 vitae
 vital
@@ -85980,7 +85985,6 @@ vitam
 vitamin
 vitaminise
 vitaminize
-vitas
 vitellarium
 vitellus
 vitex
@@ -86617,9 +86621,9 @@ warrigal
 warring
 warrior
 warriorlike
+wars
 warsaw
 warship
-warst
 warszawa
 wart
 warthog
@@ -86669,6 +86673,7 @@ wassail
 wassailer
 wassermann
 wassup
+wast
 wastage
 waste
 wastebasket
@@ -88055,7 +88060,6 @@ wrapping
 wraps
 wrapt
 wrasse
-wrast
 wrate
 wrath
 wrathful
