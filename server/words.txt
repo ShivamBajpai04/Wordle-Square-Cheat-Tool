@@ -20756,12 +20756,12 @@ deepness
 deeps
 deer
 deerberry
-deere
 deerhound
 deers
 deerskin
 deerstalker
 deerstalking
+deet
 deets
 deeve
 deevs
@@ -20822,9 +20822,11 @@ deferential
 deferentially
 deferment
 deferral
+defers
 defervesce
 defervescence
 defervescent
+deffer
 deffo
 defiance
 defiant
@@ -21487,6 +21489,7 @@ derat
 derate
 deray
 derby
+dere
 derecognise
 derecognize
 dered
@@ -21554,7 +21557,6 @@ derringer
 derris
 derro
 derry
-derth
 derv
 dervish
 dervs
@@ -21934,6 +21936,7 @@ dexter
 dexterity
 dexterous
 dexterously
+dexters
 dextral
 dextrality
 dextrin
@@ -25134,7 +25137,6 @@ effeminateness
 effeminise
 effeminize
 effendi
-effer
 efferent
 effervesce
 effervescence
@@ -27012,7 +27014,6 @@ eternally
 eternise
 eternity
 eternize
-etext
 ethanal
 ethanamide
 ethane
@@ -27032,6 +27033,7 @@ etherify
 etherise
 etherize
 ethernet
+ethers
 ethic
 ethical
 ethicality
@@ -27533,6 +27535,7 @@ executioner
 executive
 executor
 executrix
+exed
 exeem
 exegesis
 exegete
@@ -27556,6 +27559,7 @@ exercycle
 exergonic
 exert
 exertion
+exerts
 exfil
 exfiltrate
 exfoliate
@@ -28688,6 +28692,7 @@ feed
 feedback
 feedbag
 feeder
+feeders
 feeding
 feedlot
 feeds
@@ -28705,6 +28710,7 @@ feet
 feetfirst
 feeze
 fehme
+fehs
 feiffer
 feign
 feigned
@@ -28816,7 +28822,7 @@ feosol
 feral
 ferber
 ferdinand
-ferer
+fere
 feres
 fergon
 fergusonite
@@ -30698,13 +30704,13 @@ freemason
 freemasonry
 freeperson
 freer
+freers
 frees
 freesia
 freestanding
 freestone
 freestyle
 freestyling
-freet
 freetail
 freethinker
 freethinking
@@ -35464,6 +35470,7 @@ hector
 hedeoma
 heder
 hedera
+heders
 hedge
 hedged
 hedgefund
@@ -35940,6 +35947,7 @@ herrick
 herring
 herringbone
 herry
+hers
 herschel
 herse
 hershey
@@ -36065,6 +36073,7 @@ hexapoda
 hexed
 hexenbesen
 hexer
+hexers
 hexes
 hexestrol
 hexine
@@ -65172,13 +65181,14 @@ reecho
 reechoing
 reed
 reedbird
-reede
 reedlike
 reedmace
 reeds
 reedy
 reef
+reefed
 reefer
+reefers
 reefs
 reefy
 reek
@@ -65218,10 +65228,12 @@ refashion
 refection
 refectory
 refed
+refeed
 refel
 refer
 referable
 referee
+refereed
 refereeing
 reference
 referenced
@@ -65230,6 +65242,7 @@ referent
 referential
 referral
 refers
+reffed
 reffo
 refill
 refilling
@@ -70792,9 +70805,12 @@ sheepskin
 sheepwalk
 sheepwoman
 sheer
+sheered
+sheerer
 sheesh
 sheesha
 sheet
+sheeter
 sheeting
 sheetlike
 sheetrock
@@ -70850,7 +70866,7 @@ sheraton
 sherbert
 sherbet
 sherd
-shere
+shereef
 sheridan
 sheriff
 sherlock
@@ -78109,6 +78125,7 @@ tediously
 tediousness
 tedium
 teds
+teed
 teel
 teels
 teem
@@ -78126,13 +78143,17 @@ teentsy
 teeny
 teeoff
 teepee
-teers
 tees
 teeter
 teeterboard
+teetered
+teeters
 teetertotter
 teeth
 teethe
+teethed
+teether
+teethers
 teething
 teetotal
 teetotaler
@@ -78141,7 +78162,6 @@ teetotalism
 teetotalist
 teetotaller
 teetotum
-teets
 teff
 teffs
 tefillin
@@ -78501,7 +78521,6 @@ teres
 teresa
 tereshkova
 terete
-terfe
 terfs
 terga
 tergiversate
@@ -78586,7 +78605,6 @@ tertian
 tertiary
 tertigravida
 tertry
-terts
 tertullian
 terylene
 terza
@@ -78645,6 +78663,7 @@ teth
 tether
 tetherball
 tethered
+tethers
 teths
 tethyidae
 tethys
@@ -78714,6 +78733,8 @@ texas
 texes
 text
 textbook
+texter
+texters
 textile
 texting
 textolite
@@ -78806,7 +78827,7 @@ thebes
 theca
 thecodont
 thecodontia
-theed
+thee
 theek
 theelin
 thees
