@@ -1898,6 +1898,7 @@ agush
 aguti
 ahead
 aheap
+ahed
 ahem
 ahent
 ahhed
@@ -5448,7 +5449,6 @@ asleep
 aslope
 asmara
 asmera
-asmr
 asocial
 aspadana
 aspalathus
@@ -19984,6 +19984,7 @@ daggy
 dago
 dagon
 dagos
+dags
 daguerre
 daguerreotype
 dahis
@@ -19992,6 +19993,7 @@ dahlia
 dahls
 dahna
 dahomey
+dahs
 daiko
 daikon
 daily
@@ -20233,6 +20235,7 @@ dashcam
 dashed
 dasheen
 dasher
+dashes
 dashi
 dashiki
 dashing
@@ -20761,6 +20764,7 @@ deers
 deerskin
 deerstalker
 deerstalking
+dees
 deet
 deets
 deeve
@@ -21739,7 +21743,6 @@ detach
 detachable
 detached
 detachment
-detag
 detail
 detailed
 detailing
@@ -25047,6 +25050,7 @@ edgewise
 edginess
 edging
 edgy
+edhs
 edibility
 edible
 edibleness
@@ -25657,6 +25661,7 @@ emergence
 emergency
 emergent
 emerging
+emergs
 emeritus
 emersion
 emerson
@@ -26700,6 +26705,7 @@ erethizontidae
 eretmochelys
 erevs
 erewhon
+ergate
 ergo
 ergocalciferol
 ergodic
@@ -31338,6 +31344,7 @@ gadjo
 gadoid
 gadolinite
 gadolinium
+gads
 gadsden
 gadso
 gadus
@@ -31710,7 +31717,9 @@ gases
 gasfield
 gash
 gashed
+gasher
 gasherbrum
+gashes
 gashy
 gasification
 gasified
@@ -31792,7 +31801,6 @@ gathered
 gatherer
 gathering
 gathic
-gaths
 gatling
 gator
 gats
@@ -34515,6 +34523,7 @@ hagiologist
 hagiology
 hagionym
 hagridden
+hags
 haha
 haham
 hahas
@@ -35067,6 +35076,7 @@ hasek
 hash
 hashed
 hasheesh
+hashes
 hashish
 hashmark
 hashtag
@@ -35781,6 +35791,7 @@ hemp
 hempen
 hemps
 hempy
+hems
 hemstitch
 hemstitching
 henbane
@@ -35903,7 +35914,6 @@ hermaphroditism
 hermaphroditus
 hermeneutic
 hermeneutics
-hermes
 hermetic
 hermetically
 hermissenda
@@ -48549,7 +48559,6 @@ merriness
 merry
 merrymaker
 merrymaking
-mers
 merse
 mersk
 mertensia
@@ -65453,6 +65462,7 @@ rehearse
 reheat
 reheel
 rehem
+rehems
 rehnquist
 rehouse
 reich
@@ -65699,6 +65709,7 @@ removal
 remove
 removed
 remover
+rems
 remuda
 remunerate
 remunerated
@@ -66496,6 +66507,7 @@ rheims
 rhein
 rheinland
 rheme
+rhemes
 rhenish
 rhenium
 rheologic
@@ -68023,6 +68035,7 @@ sagittate
 sagittiform
 sago
 sagos
+sags
 saguaro
 sagum
 sahab
@@ -69821,6 +69834,8 @@ seels
 seely
 seem
 seemed
+seemer
+seemers
 seeming
 seemingly
 seemliness
@@ -70731,9 +70746,9 @@ sharpshoot
 sharpshooter
 sharpy
 shart
-shash
 shasta
 shastan
+shat
 shatter
 shattered
 shattering
@@ -70762,6 +70777,7 @@ shaya
 shays
 shaytan
 shchi
+shea
 sheaf
 sheal
 shear
@@ -70808,7 +70824,6 @@ sheer
 sheered
 sheerer
 sheesh
-sheesha
 sheet
 sheeter
 sheeting
@@ -70850,7 +70865,6 @@ sheltered
 shelve
 shelver
 shelvy
-shem
 shema
 shemozzle
 shenanigan
@@ -70876,6 +70890,7 @@ sherpa
 sherrington
 sherry
 sherwood
+shes
 shetland
 shets
 sheva
@@ -77398,6 +77413,7 @@ tadarida
 tadjik
 tadorna
 tadpole
+tads
 tadzhik
 tadzhikistan
 taegu
@@ -78174,7 +78190,6 @@ tegucigalpa
 tegular
 tegument
 tegus
-tehee
 teheran
 tehran
 tehrs
@@ -78830,7 +78845,6 @@ thecodontia
 thee
 theek
 theelin
-thees
 theft
 thefts
 thegn
