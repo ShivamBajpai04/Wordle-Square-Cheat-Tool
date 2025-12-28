@@ -2034,6 +2034,7 @@ aisled
 aisles
 aitch
 aitchbone
+aits
 aitus
 aiver
 aixes
@@ -5443,6 +5444,7 @@ asking
 asklepios
 askoi
 askos
+asks
 aslant
 asleep
 aslope
@@ -9658,6 +9660,7 @@ bogie
 bogle
 bogmat
 bogota
+bogs
 bogue
 bogus
 bogy
@@ -9975,6 +9978,7 @@ boozing
 boozy
 bopeep
 boppy
+bops
 bora
 boracic
 borage
@@ -28164,7 +28168,6 @@ fagus
 fahd
 fahrenheit
 faience
-faiks
 fail
 failed
 failing
@@ -29112,7 +29115,7 @@ fighter
 fighting
 fights
 figment
-figos
+figs
 figural
 figuration
 figurative
@@ -29394,7 +29397,6 @@ fishtail
 fishwife
 fishworm
 fishy
-fisks
 fissile
 fission
 fissionable
@@ -29430,7 +29432,6 @@ fitment
 fitness
 fits
 fitspiration
-fitspo
 fitte
 fitted
 fitter
@@ -30038,6 +30039,7 @@ foiled
 foiling
 foils
 foins
+foison
 foist
 folacin
 folate
@@ -30854,9 +30856,9 @@ frisk
 friskily
 friskiness
 frisking
+frisks
 frisky
 frisson
-frist
 frit
 frite
 frith
@@ -32347,6 +32349,7 @@ gidgee
 gielgud
 gien
 gies
+gifs
 gifset
 gift
 gifted
@@ -41804,6 +41807,7 @@ kafir
 kafka
 kafkaesque
 kafocin
+kafs
 kaftan
 kagos
 kagura
@@ -42396,6 +42400,7 @@ kieslowski
 kiev
 kieve
 kievs
+kifs
 kigali
 kiggelaria
 kight
@@ -42574,6 +42579,7 @@ kissimmee
 kissing
 kissinger
 kissy
+kist
 kists
 kisumu
 kiswahili
@@ -42855,6 +42861,7 @@ kore
 korea
 korean
 kores
+kori
 korinthos
 koris
 korlan
@@ -52998,6 +53005,7 @@ noggin
 nogging
 noggs
 noggy
+nogs
 noguchi
 nohow
 noias
@@ -53543,7 +53551,6 @@ nosh
 nosher
 noshi
 nosiness
-nosir
 nosocomial
 nosohusial
 nosology
@@ -54948,7 +54955,6 @@ opprobrious
 opprobrium
 oppugn
 opsin
-opsit
 opsonin
 opsonisation
 opsonization
@@ -55163,7 +55169,6 @@ originate
 origination
 originative
 originator
-origo
 orinasal
 orinase
 oring
@@ -55460,7 +55465,6 @@ otic
 otides
 otididae
 otiose
-otis
 otitis
 otium
 otoganglion
@@ -60319,6 +60323,7 @@ poets
 pogey
 pogge
 poggy
+pogo
 pogonia
 pogonion
 pogonip
@@ -60748,7 +60753,6 @@ pontificate
 ponto
 pontoon
 pontos
-ponts
 pontus
 ponty
 pony
@@ -62724,7 +62728,6 @@ pseudovariola
 pseudowintera
 pshaw
 pshut
-psias
 psidium
 psilocin
 psilocine
@@ -66628,6 +66631,7 @@ riads
 rial
 rials
 riant
+rias
 riata
 ribald
 ribaldry
@@ -66804,6 +66808,7 @@ rigorousness
 rigour
 rigourousness
 rigout
+rigs
 rigveda
 rijstafel
 rijsttafel
@@ -68039,7 +68044,6 @@ saics
 said
 saids
 saiga
-saigon
 sail
 sailboat
 sailcloth
@@ -71896,6 +71900,7 @@ skank
 skanky
 skarn
 skart
+skas
 skat
 skate
 skateboard
@@ -72023,6 +72028,7 @@ skirret
 skirt
 skirting
 skirts
+skis
 skit
 skite
 skits
@@ -72041,7 +72047,6 @@ skoal
 skobe
 skody
 skoff
-skofs
 skogs
 skols
 skopje
@@ -79480,10 +79485,10 @@ tightwad
 tighty
 tiglon
 tigon
+tigons
 tigress
 tigris
 tijuana
-tikas
 tike
 tikes
 tikia
@@ -79823,7 +79828,6 @@ together
 togetherness
 togged
 toggle
-togo
 togolese
 togs
 togue
@@ -80176,7 +80180,6 @@ toscanini
 toses
 tosh
 toshy
-tosk
 tospot
 toss
 tossed
@@ -81397,6 +81400,7 @@ tshirt
 tsimshian
 tsine
 tsked
+tsks
 tsoris
 tsouic
 tsuba
