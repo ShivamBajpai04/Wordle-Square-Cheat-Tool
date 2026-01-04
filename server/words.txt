@@ -5952,7 +5952,6 @@ attenuate
 attenuated
 attenuation
 attenuator
-atter
 attest
 attestant
 attestation
@@ -10007,7 +10006,6 @@ boreas
 borecole
 bored
 boredom
-borek
 borer
 bores
 borges
@@ -10090,7 +10088,6 @@ botch
 botched
 botcher
 botchy
-boteh
 botel
 botes
 botew
@@ -10113,7 +10110,6 @@ botryoidal
 botswana
 botswanan
 bott
-botte
 botticelli
 bottle
 bottlebrush
@@ -34484,7 +34480,6 @@ haemothorax
 haems
 haemulidae
 haemulon
-haere
 haet
 haets
 hafiz
@@ -35923,7 +35918,6 @@ herns
 hero
 herod
 herodotus
-heroe
 heroes
 heroic
 heroical
@@ -35986,6 +35980,7 @@ hest
 hestia
 hests
 heteranthera
+hetero
 heterocephalus
 heterocercal
 heterocycle
@@ -36460,6 +36455,7 @@ hodr
 hodur
 hoecake
 hoenir
+hoer
 hoers
 hoffa
 hoffman
@@ -36500,9 +36496,11 @@ hoister
 hoka
 hokan
 hokas
+hoke
 hoked
 hokes
 hokey
+hokier
 hokis
 hokkaido
 hokkianese
@@ -36997,7 +36995,6 @@ horsewoman
 horsey
 horst
 horsy
-horta
 hortative
 hortatory
 hortensia
@@ -37052,7 +37049,6 @@ hotcake
 hotch
 hotchpotch
 hotdog
-hotei
 hotel
 hotelier
 hotelkeeper
@@ -37076,7 +37072,6 @@ hots
 hotshot
 hotspot
 hotspur
-hotte
 hottentot
 hotter
 hottie
@@ -42775,7 +42770,6 @@ koans
 koas
 koasati
 koban
-kobe
 kobenhavn
 kobo
 kobos
@@ -42841,6 +42835,7 @@ koopmans
 koori
 kopeck
 kopek
+koph
 kophs
 kopiyka
 kopje
@@ -42858,7 +42853,6 @@ korda
 kordofan
 kordofanian
 kore
-korea
 korean
 kores
 kori
@@ -55255,7 +55249,6 @@ orris
 orrisroot
 ortalis
 ortega
-ortet
 orthicon
 orthilia
 ortho
@@ -58652,6 +58645,7 @@ phasmida
 phasmidae
 phasmidia
 phat
+phatter
 pheasant
 pheer
 phegopteris
@@ -58787,7 +58781,6 @@ phlogiston
 phlogopite
 phlomis
 phlox
-phobe
 phobia
 phobic
 phobophobia
@@ -58866,7 +58859,6 @@ phosphoric
 phosphorous
 phosphorus
 phot
-phota
 photalgia
 photic
 photinia
@@ -60307,7 +60299,6 @@ poephila
 poeps
 poesy
 poet
-poete
 poetess
 poetic
 poetical
@@ -60388,7 +60379,7 @@ pokers
 pokes
 pokeweed
 pokey
-pokie
+pokier
 poking
 poky
 polack
@@ -60917,7 +60908,6 @@ porter
 porterage
 porterhouse
 portfolio
-porth
 porthole
 portico
 porticoed
@@ -61074,7 +61064,6 @@ postwar
 postwoman
 posy
 potable
-potae
 potage
 potai
 potamogale
@@ -62838,7 +62827,6 @@ psyllid
 psyllidae
 psyllium
 psyop
-ptah
 ptarmigan
 pteretis
 pteridaceae
@@ -78519,7 +78507,6 @@ teredinid
 teredinidae
 teredo
 terefah
-terek
 terence
 terengganu
 teres
@@ -78750,6 +78737,7 @@ textured
 thack
 thackeray
 thaddaeus
+thae
 thagi
 thai
 thailand
@@ -80038,6 +80026,7 @@ topeka
 toper
 topes
 topgallant
+toph
 tophe
 tophi
 tophs
