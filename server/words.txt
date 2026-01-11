@@ -1885,7 +1885,6 @@ aground
 agrum
 agrypnia
 agrypnotic
-agua
 aguacate
 ague
 agued
@@ -1895,7 +1894,6 @@ aguey
 aguish
 aguna
 agush
-aguti
 ahead
 aheap
 ahem
@@ -5004,7 +5002,6 @@ ariocarpus
 ariomma
 ariose
 arioso
-ariot
 arisaema
 arisarum
 arise
@@ -5032,7 +5029,6 @@ aristotelian
 aristotelianism
 aristotelic
 aristotle
-arith
 arithmancy
 arithmetic
 arithmetical
@@ -5114,7 +5110,6 @@ arnold
 arnoseris
 arnut
 aroba
-aroha
 aroid
 aroma
 aromatherapy
@@ -5794,7 +5789,6 @@ athanasius
 athanor
 athapascan
 athapaskan
-athar
 atharvaveda
 atheism
 atheist
@@ -6045,6 +6039,7 @@ augen
 augend
 auger
 auges
+augh
 aught
 augite
 augitic
@@ -30244,6 +30239,7 @@ foregoing
 foregone
 foreground
 foregrounding
+foregut
 forehand
 forehanded
 forehead
@@ -31675,6 +31671,7 @@ garnish
 garnishee
 garnishment
 garonne
+garote
 garotte
 garpike
 garret
@@ -32293,7 +32290,6 @@ ghostly
 ghosts
 ghostwrite
 ghostwriter
-ghoti
 ghoul
 ghoulish
 ghouls
@@ -35121,7 +35117,6 @@ hatha
 hathaway
 hathi
 hating
-hatiora
 hatless
 hatmaker
 hatpin
@@ -35162,9 +35157,11 @@ hausen
 hausmannite
 haussa
 haustorium
+haut
 hautbois
 hautboy
 haute
+hauter
 hauteur
 havan
 havana
@@ -35936,7 +35933,6 @@ herpestes
 herpetologist
 herpetology
 herps
-herr
 herrenvolk
 herrerasaur
 herrerasaurus
@@ -36893,6 +36889,7 @@ hops
 hopsack
 hopsacking
 hopscotch
+hora
 horace
 horah
 horal
@@ -40584,6 +40581,7 @@ irascibility
 irascible
 irate
 irately
+irater
 ireful
 ireland
 irelander
@@ -53945,7 +53943,6 @@ nyuze
 oafish
 oafos
 oafs
-oahu
 oaked
 oaken
 oaker
@@ -55248,7 +55245,6 @@ orrery
 orris
 orrisroot
 ortalis
-ortega
 orthicon
 orthilia
 ortho
@@ -55451,7 +55447,6 @@ otherwise
 otherworld
 otherworldliness
 otherworldly
-otho
 othonna
 othyl
 otic
@@ -64125,8 +64120,6 @@ ragusa
 ragweed
 ragwort
 rahed
-rahu
-rahui
 raia
 raiah
 raias
@@ -64484,7 +64477,7 @@ ratel
 ratepayer
 rater
 rates
-ratha
+rath
 rathe
 rather
 rathole
@@ -66749,7 +66742,6 @@ riflewoman
 rifling
 rifs
 rift
-rifte
 rifts
 rifty
 riga
@@ -66926,7 +66918,6 @@ ritardando
 rite
 ritenuto
 rites
-rithe
 ritonavir
 rittenhouse
 ritts
@@ -67007,7 +66998,6 @@ roasted
 roaster
 roasting
 roasts
-roate
 robalo
 robaxin
 robbed
@@ -67362,6 +67352,7 @@ rotes
 rotgut
 rothko
 rothschild
+roti
 rotifer
 rotifera
 rotis
@@ -78580,6 +78571,7 @@ territoriality
 territorialize
 territorially
 territory
+terroir
 terror
 terrorisation
 terrorise
@@ -78738,7 +78730,6 @@ thack
 thackeray
 thaddaeus
 thae
-thagi
 thai
 thailand
 thaim
@@ -78878,7 +78869,6 @@ theophany
 theophrastaceae
 theophrastus
 theophylline
-theor
 theorem
 theoretic
 theoretical
@@ -79103,7 +79093,6 @@ thistledown
 thistlelike
 thither
 thlaspi
-thoft
 thole
 tholepin
 tholi
@@ -79671,7 +79660,6 @@ tirol
 tirolean
 tiros
 tirrs
-tirth
 tisane
 tishri
 tisiphone
@@ -79686,7 +79674,6 @@ titanosaurian
 titanosauridae
 titanosaurus
 titans
-titar
 titas
 titbit
 titch
@@ -79694,7 +79681,6 @@ titer
 titfer
 tithe
 tither
-tithi
 tithonia
 titi
 titian
@@ -79794,6 +79780,7 @@ toed
 toehold
 toeless
 toenail
+toerag
 toes
 toetoe
 toff
@@ -80092,6 +80079,7 @@ tore
 toreador
 torero
 tores
+tori
 toric
 torii
 torino
@@ -80109,6 +80097,7 @@ toroidal
 toronto
 toros
 torot
+toroth
 torpedinidae
 torpediniformes
 torpedo
@@ -80204,6 +80193,7 @@ totemism
 totemist
 toter
 totes
+tother
 toting
 totipotence
 totipotency
@@ -80444,7 +80434,6 @@ tragifarce
 tragopan
 tragopogon
 trags
-tragu
 tragulidae
 tragulus
 tragus
@@ -81082,7 +81071,6 @@ trionychidae
 trionyx
 triops
 triopsidae
-trior
 trios
 triose
 triostium
@@ -81134,6 +81122,7 @@ tritanopic
 trite
 tritely
 triteness
+triter
 tritheism
 tritheist
 triticum
@@ -84748,7 +84737,6 @@ utas
 utensil
 uteri
 uterine
-utero
 uterus
 utes
 utica
