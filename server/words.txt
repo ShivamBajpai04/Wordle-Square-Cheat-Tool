@@ -2051,7 +2051,6 @@ ajuga
 ajupa
 ajwan
 akaba
-akan
 akara
 akaryocyte
 akaryote
@@ -2763,7 +2762,6 @@ amateurish
 amateurishly
 amateurishness
 amateurism
-amati
 amative
 amativeness
 amatory
@@ -3122,9 +3120,7 @@ amsonia
 amsterdam
 amuck
 amulet
-amun
 amundsen
-amur
 amusd
 amuse
 amused
@@ -4137,8 +4133,8 @@ antres
 antrorse
 antrozous
 antrum
+ants
 antsy
-antum
 antwerp
 antwerpen
 anubis
@@ -5834,6 +5830,7 @@ atlantic
 atlantides
 atlantis
 atlas
+atma
 atman
 atmas
 atmometer
@@ -25216,7 +25213,6 @@ egress
 egression
 egret
 egretta
-egtk
 egypt
 egyptian
 egyptologist
@@ -28289,6 +28285,7 @@ famishment
 famotidine
 famous
 famously
+fams
 famulus
 fanac
 fanal
@@ -28346,6 +28343,7 @@ fantasticalness
 fantasy
 fantods
 fanum
+fanums
 fanweed
 fanwort
 faqir
@@ -31493,6 +31491,7 @@ galvanometer
 galveston
 galway
 galwegian
+gama
 gamas
 gamay
 gamba
@@ -31547,7 +31546,9 @@ gamopetalous
 gamow
 gamp
 gamps
+gams
 gamut
+gamuts
 gamy
 ganapati
 ganch
@@ -31556,6 +31557,7 @@ gander
 gandhi
 gandhian
 gandy
+gane
 ganef
 ganesa
 ganesh
@@ -31594,7 +31596,6 @@ gantanol
 gantlet
 gantrisin
 gantry
-gants
 ganymede
 gaol
 gaolbird
@@ -38198,6 +38199,7 @@ ijssel
 ijsselmeer
 ijtihad
 ikans
+ikat
 ikats
 ikhanaton
 ikon
@@ -41866,9 +41868,7 @@ kalua
 kaluga
 kalumpang
 kaluresis
-kama
 kamarupan
-kamas
 kamasutra
 kamba
 kame
@@ -41918,7 +41918,6 @@ kansas
 kansu
 kantian
 kantrex
-kants
 kanzu
 kaochlor
 kaoliang
@@ -42758,10 +42757,10 @@ knuckler
 knuckles
 knucks
 knule
+knur
 knurl
 knurr
 knurs
-knuts
 koala
 koan
 koans
@@ -46464,6 +46463,7 @@ maffia
 mafia
 mafic
 mafioso
+maftir
 mafts
 magadhan
 magas
@@ -46473,6 +46473,7 @@ magdalena
 mage
 magellan
 magenta
+magentas
 mages
 maggot
 maggoty
@@ -46678,12 +46679,9 @@ majors
 majos
 majuscular
 majuscule
-makaf
 makagigi
-makai
 makaira
 makalu
-makan
 makar
 make
 makedonija
@@ -47120,6 +47118,7 @@ manslayer
 manso
 manson
 manta
+mantas
 mante
 mantegna
 manteidae
@@ -47150,7 +47149,6 @@ manto
 mantophasmatodea
 mantra
 mantrap
-mants
 mantua
 manty
 manual
@@ -47710,8 +47708,6 @@ mauby
 maudlin
 mauds
 maugham
-maui
-mauka
 maul
 maula
 mauldin
@@ -47727,7 +47723,6 @@ maunder
 maundy
 maunt
 maupassant
-mauri
 mauriac
 mauritania
 mauritanian
@@ -50954,7 +50949,6 @@ muhlenbergia
 muhly
 muids
 muils
-muir
 muirs
 muiry
 muishond
@@ -50973,7 +50967,6 @@ mukalla
 mukataa
 mukden
 mukim
-mukti
 mulai
 mulatto
 mulberry
@@ -51101,8 +51094,6 @@ mundanity
 munds
 mundu
 mung
-munga
-munge
 munggo
 mungi
 mungo
@@ -51147,6 +51138,7 @@ murderous
 murderously
 murderousness
 murdoch
+mure
 mured
 mures
 murex
@@ -51688,7 +51680,6 @@ najadaceae
 najas
 najd
 najib
-nakas
 naked
 nakedly
 nakedness
@@ -51706,7 +51697,6 @@ nalorphine
 naloxone
 naltrexone
 namad
-namak
 namaz
 name
 named
@@ -51729,7 +51719,6 @@ namoi
 nampa
 namtar
 namtaru
-namur
 namus
 nanaimo
 nanak
@@ -52445,6 +52434,7 @@ network
 networklike
 neuk
 neuks
+neum
 neumann
 neume
 neums
@@ -52626,11 +52616,9 @@ nexts
 nexum
 nexus
 ngaio
-ngaka
 ngana
 nganasan
 ngapi
-ngati
 ngege
 ngoma
 ngoni
@@ -65386,6 +65374,7 @@ regma
 regna
 regnant
 regnellidium
+regnum
 regorge
 regos
 regosol
@@ -65714,7 +65703,6 @@ renewal
 renewed
 renewing
 reney
-renga
 rengs
 reniform
 renig
@@ -67639,6 +67627,7 @@ rules
 ruling
 rully
 ruly
+rumaki
 rumal
 rumania
 rumanian
@@ -67676,6 +67665,7 @@ rumps
 rumpus
 rumpy
 rumrunner
+rums
 runabout
 runaway
 runch
@@ -68657,7 +68647,6 @@ saturation
 saturday
 satureia
 satureja
-saturn
 saturnalia
 saturnia
 saturniid
@@ -68693,7 +68682,6 @@ saunf
 saunter
 saunterer
 saurel
-sauria
 saurian
 saurischia
 saurischian
@@ -72428,7 +72416,6 @@ smack
 smacker
 smacking
 smacks
-smaik
 small
 smaller
 smalley
@@ -77582,7 +77569,6 @@ tamarindo
 tamarindus
 tamarisk
 tamarix
-tamas
 tambac
 tambala
 tambocor
@@ -77621,6 +77607,7 @@ tampon
 tamponade
 tamponage
 tamps
+tams
 tamus
 tanacetum
 tanach
@@ -77638,7 +77625,6 @@ taney
 tang
 tanga
 tanganyika
-tange
 tangelo
 tangency
 tangent
@@ -77669,6 +77655,7 @@ tank
 tanka
 tankage
 tankard
+tankas
 tanked
 tanker
 tankful
@@ -77860,7 +77847,6 @@ tasker
 taskmaster
 taskmistress
 tasks
-tasman
 tasmania
 tasmanian
 tassa
@@ -79363,7 +79349,7 @@ thysanoptera
 thysanopteron
 thysanura
 thysanuron
-tiamat
+tian
 tianjin
 tians
 tiara
@@ -81528,7 +81514,6 @@ tunelessly
 tuner
 tunes
 tung
-tunga
 tungs
 tungstate
 tungsten
@@ -84582,8 +84567,6 @@ ureid
 ureide
 uremia
 uremic
-urena
-urent
 ureter
 ureteritis
 ureterocele
