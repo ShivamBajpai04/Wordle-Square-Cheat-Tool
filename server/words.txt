@@ -953,7 +953,6 @@ activist
 activistic
 activity
 actomyosin
-acton
 actor
 actors
 actress
@@ -3026,7 +3025,6 @@ amoralism
 amoralist
 amorality
 amorally
-amore
 amorist
 amoristic
 amorous
@@ -3043,7 +3041,6 @@ amortize
 amos
 amount
 amour
-amove
 amowt
 amoxicillin
 amoxil
@@ -13352,7 +13349,6 @@ cavas
 cave
 caveat
 caved
-cavel
 cavell
 caveman
 cavendish
@@ -15659,7 +15655,6 @@ clostridium
 closure
 clot
 clotbur
-clote
 cloth
 clothe
 clothed
@@ -16373,6 +16368,7 @@ columniation
 columniform
 columnist
 columnlike
+colure
 colutea
 colymbiformes
 colza
@@ -44424,6 +44420,7 @@ leukopenia
 leukorrhea
 leukotomy
 leuwenhoek
+leva
 levallorphan
 levant
 levanter
@@ -44457,6 +44454,7 @@ levitical
 leviticus
 levitra
 levity
+levo
 levodopa
 levorotary
 levorotation
@@ -45302,6 +45300,7 @@ locating
 location
 locative
 locator
+locavore
 loch
 loche
 lochia
@@ -46003,7 +46002,6 @@ lurked
 lurker
 lurks
 lurry
-lurve
 lusaka
 lusatian
 luscinia
@@ -46047,7 +46045,6 @@ lutefisk
 lutein
 lutenist
 luteotropin
-luter
 lutes
 lutetium
 lutfisk
@@ -47645,7 +47642,6 @@ matinee
 mating
 matins
 matisse
-matlo
 matman
 matoaka
 matra
@@ -53548,7 +53544,6 @@ notability
 notable
 notably
 notal
-notam
 notarise
 notarize
 notary
@@ -57302,7 +57297,6 @@ patka
 patly
 patness
 patois
-paton
 patrai
 patras
 patrial
@@ -77924,7 +77918,6 @@ tautology
 tauts
 tauty
 tavas
-taver
 tavern
 tavs
 tawaf
@@ -79864,7 +79857,6 @@ tolly
 tolmiea
 tolstoy
 tolt
-toltec
 tolts
 tolu
 toluene
@@ -79941,6 +79933,7 @@ tonics
 tonight
 tonka
 tonks
+tonlet
 tonnage
 tonne
 tonocard
@@ -86043,6 +86036,7 @@ vladivostok
 vlaminck
 vlast
 vldl
+vlei
 vleis
 vlies
 vlog
