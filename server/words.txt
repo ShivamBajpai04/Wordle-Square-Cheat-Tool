@@ -1240,11 +1240,11 @@ adoringly
 adorn
 adorned
 adornment
+ados
 adown
 adoxography
 adoze
 adpressed
-adps
 adrad
 adraw
 adrenal
@@ -1617,7 +1617,6 @@ afrikaans
 afrikander
 afrikaner
 afrit
-afrl
 afro
 afroasiatic
 afrocarpus
@@ -3038,7 +3037,6 @@ amortisation
 amortise
 amortization
 amortize
-amos
 amount
 amour
 amowt
@@ -20029,7 +20027,6 @@ dally
 dalmane
 dalmatia
 dalmatian
-dalo
 dals
 dalton
 daltonism
@@ -23632,7 +23629,6 @@ donjon
 donkey
 donkeywork
 donkin
-donko
 donna
 donne
 donnean
@@ -28320,6 +28316,7 @@ fanlight
 fanlike
 fanned
 fanny
+fano
 fanon
 fanos
 fansign
@@ -28337,7 +28334,9 @@ fantastical
 fantastically
 fantasticalness
 fantasy
+fantod
 fantods
+fantom
 fanum
 fanums
 fanweed
@@ -28370,6 +28369,7 @@ fargo
 farina
 farinaceous
 farkleberry
+farl
 farle
 farls
 farm
@@ -29496,6 +29496,7 @@ flakey
 flakiness
 flaks
 flaky
+flam
 flambe
 flambeau
 flamboyance
@@ -41878,6 +41879,7 @@ kamikaze
 kamilavka
 kamis
 kamme
+kamotik
 kampala
 kampong
 kampuchea
@@ -42651,7 +42653,7 @@ knap
 knaps
 knapsack
 knapweed
-knarl
+knar
 knars
 knaur
 knave
@@ -42717,6 +42719,7 @@ knocks
 knockwurst
 knoll
 knoop
+knop
 knops
 knosp
 knossos
@@ -42794,7 +42797,6 @@ koker
 kokka
 kokum
 kola
-kolam
 kolami
 kolas
 kolkata
@@ -42814,6 +42816,7 @@ kongfuze
 kongo
 konimeter
 konini
+konk
 konks
 konoe
 konoye
@@ -45442,7 +45445,6 @@ loiter
 loiterer
 lokes
 lokey
-loki
 lokum
 lolas
 loled
@@ -46431,7 +46433,6 @@ madnep
 madness
 madonna
 madoqua
-mados
 madras
 madrasa
 madrasah
@@ -47067,7 +47068,9 @@ manipur
 maniraptor
 maniraptora
 manis
+manito
 manitoba
+manitos
 mankato
 mankind
 manks
@@ -47142,7 +47145,6 @@ mantle
 mantled
 mantlepiece
 mantlet
-manto
 mantophasmatodea
 mantra
 mantrap
@@ -50096,11 +50098,10 @@ mompe
 mompreneur
 moms
 momus
-mona
 monacan
 monaco
 monad
-monal
+monads
 monandrous
 monandry
 monarch
@@ -50235,7 +50236,6 @@ monoculture
 monocycle
 monocyte
 monocytosis
-monod
 monodic
 monodical
 monodon
@@ -50464,6 +50464,7 @@ mopper
 moppet
 mopping
 moppy
+mops
 mopsy
 mopus
 moquelumnan
@@ -50837,7 +50838,6 @@ mozos
 mozzarella
 mpeg
 mpret
-mrads
 mrem
 mrna
 msasa
@@ -52960,6 +52960,7 @@ noddle
 noddy
 node
 nodes
+nods
 nodular
 nodulated
 nodule
@@ -54581,8 +54582,6 @@ olympics
 olympism
 olympus
 omaha
-oman
-omani
 omas
 omasa
 omasum
@@ -60214,7 +60213,6 @@ poached
 poacher
 poaching
 poaka
-poalo
 pobby
 poboy
 pocahontas
@@ -60348,7 +60346,6 @@ poitier
 poitiers
 poitou
 poivrade
-pokal
 poke
 poked
 poker
@@ -64046,6 +64043,7 @@ radius
 radix
 radome
 radon
+rads
 radyera
 raetam
 rafee
@@ -64237,7 +64235,6 @@ ramman
 rammed
 rammer
 rammy
-ramon
 ramona
 ramontchi
 ramose
@@ -73132,6 +73129,7 @@ somniloquy
 somnolence
 somnolent
 somnolently
+somoni
 somrai
 soms
 sonant
@@ -79563,7 +79561,6 @@ tingling
 tingly
 tings
 tininess
-tink
 tinker
 tinkerer
 tinkle
