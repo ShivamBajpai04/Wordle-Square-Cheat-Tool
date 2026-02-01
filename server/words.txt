@@ -20256,6 +20256,7 @@ dates
 datil
 dating
 dative
+dato
 datos
 datril
 datto
@@ -20303,14 +20304,15 @@ dawdling
 dawds
 dawed
 dawen
-dawes
 dawgs
 dawks
 dawn
 dawned
 dawning
 dawns
+daws
 dawson
+dawt
 dawts
 dayal
 dayan
@@ -21530,7 +21532,6 @@ dermochelyidae
 dermochelys
 dermoptera
 derms
-derns
 derny
 derogate
 derogation
@@ -21914,6 +21915,7 @@ dewey
 deweyan
 dewiness
 dewlap
+dews
 dewy
 dexamethasone
 dexedrine
@@ -23449,6 +23451,7 @@ doei
 doeks
 doer
 doers
+does
 doeskin
 doesnt
 doest
@@ -23826,6 +23829,7 @@ douglas
 douglass
 douks
 doula
+doum
 douma
 doums
 doups
@@ -23837,6 +23841,7 @@ douroucouli
 douse
 doused
 dousing
+dout
 douts
 dove
 dovecote
@@ -26743,6 +26748,7 @@ ermine
 erne
 erned
 ernes
+erns
 ernst
 erode
 eroded
@@ -38711,6 +38717,7 @@ improvize
 imprudence
 imprudent
 imprudently
+imps
 impudence
 impudent
 impudently
@@ -40921,7 +40928,6 @@ itineration
 itraconazole
 itself
 ivanov
-ives
 ivied
 ivies
 ivory
@@ -54264,6 +54270,7 @@ odeon
 odes
 odessa
 odeum
+odeums
 odin
 odious
 odiously
@@ -65016,6 +65023,8 @@ redact
 redaction
 redactor
 redan
+redate
+redates
 redbelly
 redberry
 redbird
@@ -65092,6 +65101,7 @@ redmaids
 redneck
 redness
 redo
+redoes
 redolence
 redolent
 redon
@@ -65102,6 +65112,7 @@ redoubled
 redoubt
 redoubtable
 redound
+redout
 redox
 redpoll
 redraft
@@ -70410,6 +70421,7 @@ setoff
 seton
 setophaga
 setose
+setout
 setscrew
 setswana
 sett
@@ -76706,7 +76718,6 @@ swab
 swabbing
 swabs
 swack
-swad
 swaddle
 swads
 swag
@@ -77363,6 +77374,7 @@ tadarida
 tadjik
 tadorna
 tadpole
+tads
 tadzhik
 tadzhikistan
 taegu
@@ -77928,11 +77940,14 @@ tawdriness
 tawdry
 tawed
 tawer
+tawers
 tawie
 tawney
 tawniness
 tawny
+taws
 tawse
+tawsed
 tawts
 taxability
 taxable
@@ -78315,7 +78330,6 @@ temptingly
 temptingness
 temptress
 tempura
-temse
 temuco
 temujin
 tenability
@@ -80170,6 +80184,7 @@ totem
 totemic
 totemism
 totemist
+totems
 toter
 totes
 tother
@@ -82060,6 +82075,7 @@ umped
 umphs
 umpirage
 umpire
+umps
 umpteen
 umpteenth
 umptieth
@@ -85161,7 +85177,6 @@ vealy
 veau
 veblen
 vector
-veda
 vedalia
 vedanga
 vedanta
@@ -85733,6 +85748,7 @@ vilnius
 vilno
 vimen
 viminaria
+vims
 vinaceous
 vinaigrette
 vinal
@@ -86323,6 +86339,7 @@ wadis
 wadmal
 wadmel
 wads
+wadset
 wadts
 waes
 wafer
