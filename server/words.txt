@@ -97,7 +97,6 @@ abducting
 abduction
 abductor
 abeam
-abear
 abeat
 abecedarian
 abecedarius
@@ -255,7 +254,6 @@ abramis
 abranchial
 abranchiate
 abranchious
-abrase
 abrasion
 abrasive
 abrasiveness
@@ -374,8 +372,6 @@ abundance
 abundant
 abundantly
 abune
-abura
-aburn
 abuse
 abused
 abuser
@@ -1424,6 +1420,7 @@ aerialist
 aerially
 aerides
 aerie
+aerier
 aeriferous
 aeriform
 aerify
@@ -2056,7 +2053,6 @@ akaryote
 akee
 akees
 akela
-aken
 akene
 akeridae
 akha
@@ -5287,7 +5283,6 @@ artsy
 artwork
 artworld
 arty
-aruba
 arugula
 aruhe
 arulo
@@ -7700,7 +7695,6 @@ beano
 beans
 beanstalk
 beantown
-beany
 bear
 bearable
 bearberry
@@ -8276,7 +8270,6 @@ bermuda
 bermudan
 bermudas
 bermudian
-bern
 bernard
 berne
 bernhardt
@@ -10411,7 +10404,6 @@ braked
 brakeman
 brakes
 brakewoman
-braks
 braky
 braless
 brama
@@ -10450,7 +10442,6 @@ brandt
 brandy
 brandyball
 brandysnap
-brane
 brank
 brans
 brant
@@ -10626,7 +10617,6 @@ breslau
 bretagne
 brethren
 breton
-breuer
 breughel
 breve
 brevet
@@ -11128,7 +11118,6 @@ budgie
 budis
 budorcas
 budos
-buena
 bueno
 buff
 buffa
@@ -11399,6 +11388,7 @@ burhinidae
 burhinus
 burial
 buried
+burier
 buries
 burin
 burk
@@ -11424,6 +11414,7 @@ burnability
 burnable
 burned
 burner
+burnet
 burnett
 burnham
 burning
@@ -24849,7 +24840,6 @@ ebbed
 ebbet
 ebbing
 ebbtide
-ebena
 ebenaceae
 ebenales
 ebike
@@ -25258,7 +25248,6 @@ einstein
 einsteinian
 einsteinium
 einthoven
-eire
 eiron
 eisegesis
 eisel
@@ -26342,6 +26331,7 @@ envenom
 enviable
 enviably
 envied
+envier
 envious
 enviously
 enviousness
@@ -26719,7 +26709,6 @@ ericales
 erick
 erics
 eridanus
-erie
 erigeron
 erignathus
 erinaceidae
@@ -26800,6 +26789,7 @@ erugo
 erupt
 eruption
 eruptive
+eruv
 eruvs
 erven
 ervil
@@ -27198,6 +27188,7 @@ eurasia
 eurasian
 eurasiatic
 eureka
+eurekas
 eurhythmics
 eurhythmy
 euripides
@@ -31183,6 +31174,7 @@ funsy
 fuqra
 furan
 furane
+furanes
 furbelow
 furbish
 furca
@@ -40590,10 +40582,10 @@ irater
 ireful
 ireland
 irelander
-irena
 irenaeus
 irenic
 irenidae
+ires
 iresine
 iridaceae
 iridaceous
@@ -40932,7 +40924,6 @@ ivied
 ivies
 ivory
 ivorybill
-ivry
 ixia
 ixias
 ixnay
@@ -41958,13 +41949,13 @@ karbala
 karee
 karelia
 karelian
-karen
 karenic
 karez
 karlfeldt
 karloff
 karma
 karmic
+karn
 karnataka
 karns
 karok
@@ -42056,7 +42047,7 @@ kbars
 kbit
 kcals
 keaki
-kean
+keas
 keaton
 keats
 kebab
@@ -42218,7 +42209,6 @@ kerry
 kerugma
 kerve
 kerygma
-kesar
 kesey
 kestrel
 kests
@@ -51618,6 +51608,7 @@ nadas
 nadir
 nadolol
 naemorhedus
+naes
 naeve
 naevi
 nafcil
@@ -51686,7 +51677,6 @@ naked
 nakedly
 nakedness
 nakedwood
-naker
 nakfa
 nakuru
 nalas
@@ -52380,7 +52370,7 @@ nervelessly
 nervelessness
 nerveroot
 nerves
-nervi
+nervier
 nervily
 nervism
 nervous
@@ -64297,7 +64287,6 @@ rands
 randy
 raned
 ranee
-ranes
 ranga
 range
 rangefinder
@@ -64426,7 +64415,6 @@ rashes
 rashly
 rashness
 rasht
-rask
 raskolnikov
 rasmussen
 rasp
@@ -64657,7 +64645,6 @@ reagan
 reagent
 reagin
 reais
-reaks
 real
 realer
 realgar
@@ -64752,6 +64739,8 @@ rebar
 rebarbative
 rebase
 rebate
+rebater
+rebates
 rebato
 rebbe
 rebec
@@ -66298,7 +66287,6 @@ return
 returnable
 returning
 retype
-reuben
 reune
 reunification
 reunify
@@ -66950,7 +66938,6 @@ rivulus
 riyadh
 riyal
 rizas
-rnase
 roach
 road
 roadbed
@@ -67581,7 +67568,9 @@ rueda
 rueful
 ruefully
 ruefulness
+ruer
 ruers
+rues
 ruff
 ruffe
 ruffian
@@ -67953,8 +67942,6 @@ sadomasochistic
 sados
 sadr
 sadza
-saek
-saeta
 safaqis
 safari
 safe
@@ -70052,6 +70039,7 @@ sempach
 sempiternal
 sempiternity
 sempstress
+senary
 senate
 senator
 senatorial
@@ -70173,7 +70161,6 @@ sentimentize
 sentinel
 sentry
 sents
-senvy
 senza
 seoul
 sepad
@@ -70322,7 +70309,6 @@ seriousness
 seriph
 seriphidium
 seriphus
-serir
 serjeant
 serkin
 serks
@@ -71871,7 +71857,6 @@ skald
 skanda
 skank
 skanky
-skarn
 skart
 skas
 skat
@@ -71887,7 +71872,6 @@ skats
 skatt
 skaws
 skean
-skear
 skeat
 sked
 skedaddle
@@ -78036,12 +78020,14 @@ tearful
 tearfully
 tearfulness
 teargas
+tearier
 tearing
 tearjerker
 tearless
 tearoom
 tears
 teary
+teas
 teasdale
 tease
 teased
@@ -78468,7 +78454,6 @@ terabyte
 teraflop
 terahertz
 terai
-teras
 teratogen
 teratogenesis
 teratogenic
@@ -85677,6 +85662,7 @@ vienne
 viennese
 vientiane
 vieques
+vier
 viers
 vietnam
 vietnamese
