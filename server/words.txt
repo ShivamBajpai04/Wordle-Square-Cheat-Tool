@@ -1789,6 +1789,7 @@ aglitter
 agloo
 aglow
 aglus
+agma
 agmas
 agnail
 agnate
@@ -1829,7 +1830,6 @@ agora
 agoraphobia
 agoraphobic
 agouti
-agra
 agranulocytic
 agranulocytosis
 agranulosis
@@ -2000,6 +2000,7 @@ airmailer
 airman
 airmanship
 airmen
+airn
 airns
 airplane
 airport
@@ -2931,6 +2932,7 @@ amids
 amidship
 amidships
 amidst
+amie
 amies
 amiga
 amigo
@@ -4923,7 +4925,6 @@ argiope
 argiopidae
 argive
 argle
-argo
 argol
 argon
 argonaut
@@ -4975,7 +4976,6 @@ arid
 aridity
 aridness
 arie
-ariel
 aries
 arietta
 aright
@@ -5054,6 +5054,7 @@ armenian
 armer
 armeria
 armet
+armets
 armful
 armguard
 armhole
@@ -5072,6 +5073,7 @@ arminius
 armistice
 armless
 armlet
+armlets
 armlike
 armoire
 armor
@@ -25786,7 +25788,6 @@ enanthema
 enantiomer
 enantiomorph
 enantiomorphism
-enarm
 enarthrosis
 enate
 enatic
@@ -26106,7 +26107,6 @@ enlist
 enlistee
 enlisting
 enlistment
-enlit
 enliven
 enlivened
 enlivener
@@ -29331,9 +29331,9 @@ firing
 firkin
 firks
 firm
-firma
 firmament
 firmamental
+firman
 firmer
 firmiana
 firmly
@@ -32392,6 +32392,7 @@ gimcrack
 gimcrackery
 gimel
 gimlet
+gimlets
 gimme
 gimmick
 gimmickry
@@ -32499,7 +32500,6 @@ givers
 gives
 giveth
 giving
-giza
 gizeh
 gizmo
 gizmos
@@ -32885,8 +32885,6 @@ goad
 goaded
 goading
 goads
-goafs
-goaft
 goal
 goaler
 goalie
@@ -33352,7 +33350,6 @@ grainy
 graip
 gram
 grama
-grame
 gramicidin
 graminaceae
 graminales
@@ -33691,6 +33688,7 @@ griffith
 griffon
 grift
 grifter
+grifts
 grig
 grigri
 grigs
@@ -33756,7 +33754,7 @@ gritstone
 gritted
 gritty
 grivet
-grize
+griz
 grizzle
 grizzled
 grizzly
@@ -37945,7 +37943,6 @@ hystricomorpha
 hythe
 hytrin
 iaea
-iago
 iamb
 iambi
 iambic
@@ -40941,7 +40938,6 @@ izar
 izard
 izars
 izbas
-izmir
 izzard
 izzat
 jaaps
@@ -44170,7 +44166,6 @@ lemme
 lemming
 lemmon
 lemmus
-lemna
 lemnaceae
 lemniscate
 lemniscus
@@ -45195,7 +45190,6 @@ livre
 livy
 liwaa
 liwas
-liza
 lizard
 lizardfish
 ljubljana
@@ -46985,7 +46979,6 @@ maneb
 maned
 maneh
 manes
-manet
 maneuver
 maneuverability
 maneuverable
@@ -47257,7 +47250,7 @@ mardy
 mare
 marengo
 mares
-marga
+marg
 margarin
 margarine
 margarita
@@ -47276,7 +47269,6 @@ marginalize
 marginally
 marginocephalia
 marginocephalian
-margo
 margosa
 margrave
 margs
@@ -48135,7 +48127,6 @@ meins
 meiny
 meiosis
 meiotic
-meir
 meism
 meissner
 meith
@@ -48862,7 +48853,6 @@ mgals
 mhorr
 miais
 miami
-miao
 miaou
 miaow
 miasm
@@ -50835,7 +50825,6 @@ mpeg
 mpret
 mrads
 mrem
-mrna
 msasa
 msec
 mtepe
@@ -52190,6 +52179,7 @@ negs
 negus
 nehemiah
 nehru
+neif
 neifs
 neigh
 neighbor
@@ -54452,7 +54442,6 @@ oink
 oinks
 oinky
 ointment
-oiran
 oireachtas
 ojibwa
 ojibway
@@ -66725,7 +66714,6 @@ rifs
 rift
 rifts
 rifty
-riga
 rigamarole
 rigatoni
 rigel
@@ -66787,7 +66775,6 @@ rill
 rille
 rills
 rilly
-rima
 rimactane
 rimae
 rimbaud
@@ -74794,7 +74781,6 @@ stegosaur
 stegosaurus
 steichen
 steik
-steil
 stein
 steinbeck
 steinberg
