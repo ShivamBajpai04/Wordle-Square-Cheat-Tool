@@ -3042,7 +3042,6 @@ amour
 amowt
 amoxicillin
 amoxil
-amoy
 amped
 amperage
 ampere
@@ -3116,6 +3115,7 @@ amsterdam
 amuck
 amulet
 amundsen
+amus
 amusd
 amuse
 amused
@@ -5023,7 +5023,6 @@ arithmetic
 arithmetical
 arithmetically
 arithmetician
-arity
 arius
 arizona
 arizonan
@@ -6491,6 +6490,7 @@ ayapana
 ayatollah
 ayaya
 ayelp
+ayes
 aygre
 ayin
 ayins
@@ -8968,7 +8968,7 @@ bitis
 bitmap
 bitok
 bitos
-bitou
+bits
 bitstock
 bitsy
 bitt
@@ -10091,6 +10091,7 @@ botox
 botrychium
 botryoid
 botryoidal
+bots
 botswana
 botswanan
 bott
@@ -10264,6 +10265,7 @@ boxty
 boxwood
 boxy
 boyar
+boyars
 boyau
 boycott
 boyed
@@ -10282,6 +10284,7 @@ boylike
 boyly
 boyne
 boyos
+boys
 boysenberry
 boysy
 boytrose
@@ -26963,7 +26966,9 @@ estrange
 estranged
 estrangement
 estranging
+estray
 estrilda
+estrin
 estriol
 estro
 estrogen
@@ -26972,6 +26977,7 @@ estrone
 estronol
 estrous
 estrus
+ests
 estuarial
 estuarine
 estuary
@@ -27229,7 +27235,6 @@ eusol
 eusporangiate
 eusporangium
 eustachio
-eustoma
 eutamias
 eutectic
 euterpe
@@ -28016,7 +28021,6 @@ eyetooth
 eyewash
 eyewitness
 eying
-eyots
 eyra
 eyras
 eyre
@@ -30519,6 +30523,7 @@ fourteenth
 fourth
 fourthly
 fourty
+fousty
 fouth
 fovea
 fowl
@@ -30541,6 +30546,7 @@ foxy
 foyer
 foyle
 foyne
+foys
 fracas
 frack
 fracking
@@ -50452,6 +50458,7 @@ mopping
 moppy
 mopsy
 mopus
+mopy
 moquelumnan
 moquette
 mora
@@ -50702,7 +50709,6 @@ motors
 motortruck
 motorway
 motown
-motrin
 mots
 mott
 motte
@@ -50808,7 +50814,6 @@ mowra
 moxa
 moxas
 moxie
-moyas
 moyle
 moyls
 moynihan
@@ -51160,7 +51165,6 @@ muruk
 murva
 musaceae
 musales
-musar
 musca
 muscadel
 muscadelle
@@ -52824,7 +52828,6 @@ nipple
 nippon
 nipponese
 nippy
-nipr
 nips
 niqaabi
 niqab
@@ -56073,6 +56076,7 @@ oxyuridae
 oyabun
 oyer
 oyers
+oyes
 oyster
 oystercatcher
 oysterfish
@@ -57437,7 +57441,6 @@ paysd
 paysheet
 payslip
 paywall
-pbit
 pdflp
 peabody
 peace
@@ -61141,7 +61144,6 @@ poured
 pouring
 pours
 poussin
-pousy
 pout
 pouted
 pouter
@@ -61191,10 +61193,8 @@ poxed
 poxes
 poxvirus
 poyang
-poyas
 poynt
 poyou
-poyse
 pozsony
 pozzy
 pplo
@@ -61268,7 +61268,6 @@ prats
 pratt
 prattle
 prattler
-praty
 praunus
 praus
 pravachol
@@ -62839,7 +62838,6 @@ ptyalise
 ptyalism
 ptyalith
 ptyalize
-ptyas
 ptychozoon
 ptype
 pubby
@@ -63305,7 +63303,7 @@ puzzling
 pwned
 pyaemia
 pyaemic
-pyats
+pyas
 pycnanthemum
 pycnidium
 pycnodysostosis
@@ -63321,6 +63319,7 @@ pyelography
 pyelonephritis
 pyemia
 pyemic
+pyes
 pyets
 pygal
 pygmalion
@@ -63348,7 +63347,6 @@ pyoid
 pyongyang
 pyorrhea
 pyorrhoea
-pyots
 pyracanth
 pyracantha
 pyral
@@ -68542,7 +68540,6 @@ sarpedon
 sarracenia
 sarraceniaceae
 sarraceniales
-sars
 sarsa
 sarsaparilla
 sarsenet
@@ -68763,6 +68760,7 @@ sayee
 sayer
 sayeret
 sayers
+sayest
 sayeth
 sayid
 saying
@@ -68770,6 +68768,7 @@ sayne
 sayon
 sayonara
 sayornis
+says
 sayst
 sazerac
 sazes
@@ -76228,6 +76227,7 @@ sumptuous
 sumptuously
 sumptuousness
 sums
+sumy
 sunbae
 sunbaked
 sunbathe
@@ -80221,7 +80221,6 @@ touse
 toused
 tousle
 tousled
-tousy
 tout
 touted
 touter
@@ -80297,6 +80296,7 @@ toyon
 toyonaka
 toyos
 toyota
+toys
 toyshop
 tozed
 tozes
@@ -81068,7 +81068,6 @@ trippy
 trips
 tripton
 triptych
-tripy
 triquetral
 trireme
 trisaccharide
@@ -88384,7 +88383,6 @@ yarra
 yarrow
 yarrs
 yarta
-yarto
 yashmac
 yashmak
 yastrzemski
@@ -88502,7 +88500,6 @@ yesks
 yessir
 yesterday
 yesteryear
-yests
 yesty
 yeti
 yetis
@@ -88642,6 +88639,7 @@ younker
 yourn
 yours
 yourt
+yous
 youse
 youth
 youthful
@@ -88695,7 +88693,6 @@ yulan
 yule
 yules
 yuletide
-yuma
 yuman
 yummo
 yummy
