@@ -1886,7 +1886,6 @@ ague
 agued
 agues
 agueweed
-aguey
 aguish
 aguna
 agush
@@ -2269,7 +2268,6 @@ alexandrine
 alexandrite
 alexia
 alexic
-aleye
 aleyrodes
 aleyrodidae
 alfalfa
@@ -26065,6 +26063,7 @@ engross
 engrossed
 engrossing
 engrossment
+engs
 engulf
 enhance
 enhanced
@@ -26316,6 +26315,7 @@ entsi
 entwine
 enucleate
 enucleation
+enuf
 enumerable
 enumerate
 enumeration
@@ -26789,6 +26789,7 @@ eruditely
 eruditeness
 erudition
 erugo
+erugos
 erupt
 eruption
 eruptive
@@ -28008,6 +28009,7 @@ eyelike
 eyeliner
 eyepatch
 eyepiece
+eyer
 eyers
 eyes
 eyeshade
@@ -28148,6 +28150,8 @@ fagin
 fagopyrum
 fagot
 fagoting
+fagots
+fags
 fagus
 fahd
 fahrenheit
@@ -29477,6 +29481,7 @@ flageolet
 flagfish
 flagging
 flagitious
+flagmen
 flagon
 flagpole
 flagrant
@@ -29678,7 +29683,7 @@ fleshly
 fleshy
 fletc
 fletcher
-fleur
+fleury
 flews
 flex
 flexeril
@@ -29694,6 +29699,7 @@ flexo
 flexor
 flexuous
 flexure
+fley
 fleys
 flibbertigibbet
 flick
@@ -31045,7 +31051,7 @@ fugle
 fugleman
 fuglewoman
 fugly
-fugo
+fugs
 fugu
 fugue
 fugus
@@ -31154,8 +31160,8 @@ fungicidal
 fungicide
 fungo
 fungoid
+fungos
 fungous
-fungs
 fungus
 funguslike
 funic
@@ -34159,6 +34165,7 @@ gunsight
 gunslinger
 gunsmith
 gunstock
+gunter
 gunwale
 gunwoman
 guomindang
@@ -34172,6 +34179,7 @@ gurks
 gurls
 gurly
 gurnard
+gurnet
 gurney
 gurns
 gurry
@@ -43248,9 +43256,9 @@ lagoon
 lagophthalmos
 lagopus
 lagorchestes
-lagos
 lagostomus
 lagothrix
+lags
 laguna
 laguncularia
 lagune
@@ -43921,6 +43929,7 @@ leafs
 leafstalk
 leafy
 league
+leaguer
 leak
 leakage
 leaked
@@ -48329,7 +48338,6 @@ mened
 menelaus
 menes
 menge
-mengs
 menhaden
 menhir
 menial
@@ -48394,6 +48402,7 @@ mentioner
 mento
 mentor
 mentoree
+mentos
 mentum
 mentzelia
 menu
@@ -53657,7 +53666,6 @@ noyau
 noyed
 noyes
 nozzle
-nrem
 nrna
 nrti
 nrtta
@@ -53714,9 +53722,9 @@ nudzh
 nuevo
 nuffield
 nuffs
-nugae
 nugatory
 nugget
+nugs
 nuisance
 nujol
 nuke
@@ -65684,7 +65692,6 @@ renewal
 renewed
 renewing
 reney
-rengs
 reniform
 renig
 renin
@@ -66274,7 +66281,6 @@ return
 returnable
 returning
 retype
-reune
 reunification
 reunify
 reunion
@@ -67569,7 +67575,6 @@ rufus
 ruga
 rugae
 rugal
-rugas
 rugby
 rugelach
 rugged
@@ -67582,7 +67587,9 @@ ruggedness
 ruggelach
 rugger
 ruggy
+rugosa
 rugose
+rugs
 rugulah
 ruhr
 ruice
@@ -78360,7 +78367,6 @@ tenesmus
 tenet
 tenets
 tenfold
-tenga
 tenge
 tenia
 tenne
@@ -84556,7 +84562,6 @@ urethral
 urethritis
 urethrocele
 urex
-urey
 urga
 urge
 urged
@@ -88435,6 +88440,7 @@ yearning
 yearningly
 yearns
 years
+yeas
 yeast
 yeastlike
 yeasty
@@ -88657,7 +88663,6 @@ yoyos
 ypres
 yquem
 yrapt
-yrent
 yrivd
 yrneh
 ytost
