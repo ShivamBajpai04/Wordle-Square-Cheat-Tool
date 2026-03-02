@@ -1712,6 +1712,7 @@ agerasia
 ageratina
 ageratum
 agers
+ages
 aggag
 agger
 aggeus
@@ -6026,7 +6027,6 @@ augeas
 augen
 augend
 auger
-auges
 augh
 aught
 augite
@@ -27130,7 +27130,6 @@ eugene
 eugenia
 eugenic
 eugenics
-eughs
 euglena
 euglenaceae
 euglenid
@@ -31342,6 +31341,7 @@ gadus
 gaea
 gaelic
 gaen
+gaes
 gaff
 gaffe
 gaffer
@@ -34483,6 +34483,7 @@ haemothorax
 haems
 haemulidae
 haemulon
+haes
 haet
 haets
 hafiz
@@ -34516,6 +34517,7 @@ hagiologist
 hagiology
 hagionym
 hagridden
+hags
 haha
 haham
 hahas
@@ -35205,6 +35207,7 @@ hawkweed
 hawkyns
 hawms
 haworth
+haws
 hawse
 hawsehole
 hawsepipe
@@ -37469,6 +37472,7 @@ huygens
 huzza
 huzzah
 huzzy
+hwan
 hwyls
 hyacinth
 hyacinthaceae
@@ -41808,6 +41812,7 @@ kafocin
 kafs
 kaftan
 kagos
+kagu
 kagura
 kagus
 kahal
@@ -42025,7 +42030,6 @@ katydid
 katzenjammer
 kauai
 kaufman
-kaugh
 kaunas
 kaunda
 kauri
@@ -42652,11 +42656,11 @@ knacker
 knackered
 knacks
 knackwurst
-knags
 knap
 knaps
 knapsack
 knapweed
+knar
 knarl
 knars
 knaur
@@ -42666,6 +42670,7 @@ knavish
 knavishly
 knawe
 knawel
+knawes
 knead
 knee
 kneecap
@@ -51626,7 +51631,6 @@ nagari
 nagas
 nagasaki
 nageia
-nages
 nagged
 nagger
 nagging
@@ -51634,6 +51638,7 @@ naggy
 nagi
 nagor
 nagoya
+nags
 nahal
 nahuatl
 nahum
@@ -64071,6 +64076,7 @@ ragde
 rage
 raged
 ragee
+ragees
 rager
 rages
 ragga
@@ -64086,6 +64092,7 @@ raglan
 ragnarok
 ragout
 ragpicker
+rags
 ragsorter
 ragtag
 ragtime
@@ -64302,7 +64309,6 @@ ranidae
 ranis
 ranitidine
 rank
-ranke
 ranked
 ranker
 rankin
@@ -64559,10 +64565,10 @@ rawdy
 rawer
 rawhide
 rawin
-rawks
 rawly
 rawness
 rawns
+raws
 raxed
 raxes
 rayah
@@ -69797,7 +69803,6 @@ seeth
 seethe
 seething
 segal
-segar
 segas
 segment
 segmental
@@ -70454,6 +70459,7 @@ seville
 sevir
 sevs
 sewage
+sewages
 sewan
 sewar
 seward
@@ -70627,7 +70633,6 @@ shampoo
 shamrock
 shams
 shamus
-shan
 shand
 shandy
 shandygaff
@@ -76699,6 +76704,7 @@ swaddle
 swads
 swag
 swage
+swages
 swagger
 swaggerer
 swaggering
@@ -81917,6 +81923,7 @@ uganda
 ugandan
 ugaritic
 ugged
+ughs
 uglier
 uglies
 uglify
@@ -86348,6 +86355,7 @@ wagoner
 wagons
 wagonwright
 wagram
+wags
 wagtail
 wagyu
 wahabi
@@ -86753,6 +86761,7 @@ wauks
 waul
 waulk
 wauls
+waur
 waurs
 wausau
 wave
@@ -87109,7 +87118,6 @@ whats
 whatsis
 whatsoever
 whaup
-whaur
 wheal
 whear
 wheat
