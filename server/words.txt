@@ -1911,7 +1911,6 @@ ahull
 ahura
 ahuru
 ahvenanmaa
-aidas
 aide
 aided
 aider
@@ -2585,6 +2584,7 @@ aloed
 aloes
 aloft
 aloha
+alohas
 aloin
 alone
 aloneness
@@ -5312,7 +5312,6 @@ asanga
 asap
 asarabacca
 asarum
-asat
 asbestos
 asbestosis
 ascaphidae
@@ -12960,6 +12959,7 @@ caryophyllales
 caryophyllidae
 caryopsis
 caryota
+casa
 casaba
 casablanca
 casals
@@ -12995,6 +12995,7 @@ cashed
 cashew
 cashier
 cashmere
+cashoo
 casing
 casino
 cask
@@ -13207,6 +13208,7 @@ caterwaul
 cates
 catfish
 catgut
+cath
 catha
 catharacta
 catharanthus
@@ -13242,6 +13244,7 @@ catholicize
 catholicon
 catholicos
 cathouse
+caths
 cation
 cationic
 catkin
@@ -14376,6 +14379,7 @@ chewink
 chews
 chewy
 cheyenne
+chia
 chian
 chianti
 chiao
@@ -14420,6 +14424,7 @@ chico
 chicory
 chicot
 chics
+chid
 chide
 chiding
 chief
@@ -14813,7 +14818,6 @@ chorus
 chose
 chosen
 choss
-chota
 chott
 chou
 chough
@@ -19974,6 +19978,7 @@ dahlia
 dahls
 dahna
 dahomey
+dahs
 daiko
 daikon
 daily
@@ -22485,7 +22490,6 @@ diorite
 dioscorea
 dioscoreaceae
 diospyros
-diota
 diovan
 dioxide
 dioxin
@@ -34521,6 +34525,7 @@ haham
 hahas
 hahn
 hahnium
+hahs
 haick
 haida
 haifa
@@ -35120,9 +35125,9 @@ hatemonger
 hater
 hates
 hatful
+hath
 hatha
 hathaway
-hathi
 hating
 hatless
 hatmaker
@@ -37061,7 +37066,6 @@ hotels
 hotelwoman
 hoten
 hotfoot
-hoth
 hothead
 hotheaded
 hothouse
@@ -38049,7 +38053,6 @@ ictodosaur
 ictodosauria
 ictonyx
 ictus
-idaho
 idahoan
 idant
 iddah
@@ -43273,7 +43276,6 @@ laicize
 laics
 laid
 laide
-laids
 laigh
 laiks
 lair
@@ -44506,7 +44508,6 @@ lezzy
 lgbt
 lgbtq
 lgbtqia
-lhasa
 lhotse
 liabilities
 liability
@@ -45434,6 +45435,7 @@ logrolling
 logrono
 logwood
 logy
+loid
 loids
 loin
 loincloth
@@ -45652,6 +45654,7 @@ lossy
 lost
 lota
 lotah
+lotahs
 lotas
 lotes
 loth
@@ -54420,9 +54423,9 @@ ogres
 ogress
 ohed
 ohhhh
+ohia
 ohias
 ohing
-ohio
 ohioan
 ohmage
 ohmic
@@ -54756,7 +54759,7 @@ oodle
 oodles
 oogenesis
 oohed
-ooids
+oohs
 oojah
 oology
 oolong
@@ -59027,6 +59030,7 @@ piaffe
 piaget
 piagetian
 piais
+pial
 pian
 piani
 pianism
@@ -60211,7 +60215,6 @@ poached
 poacher
 poaching
 poaka
-poalo
 pobby
 poboy
 pocahontas
@@ -60735,6 +60738,7 @@ pooey
 poof
 poofs
 poofy
+pooh
 poohs
 poohy
 pooja
@@ -62907,6 +62911,7 @@ pudginess
 pudgy
 pudic
 pudor
+puds
 pudsy
 pudus
 puebla
@@ -62940,7 +62945,6 @@ puglia
 pugnacious
 pugnaciously
 pugnacity
-puhas
 puissance
 puissant
 pujah
@@ -70556,6 +70560,7 @@ shah
 shahadah
 shahaptian
 shaheed
+shahid
 shahn
 shahs
 shaitan
@@ -70690,6 +70695,7 @@ shart
 shash
 shasta
 shastan
+shat
 shatter
 shattered
 shattering
@@ -70840,7 +70846,6 @@ shevchenko
 shew
 shewn
 shews
-shia
 shiah
 shiai
 shiatsu
@@ -71049,7 +71054,6 @@ shogun
 shogunate
 shoji
 shojo
-shola
 shona
 shone
 shonk
@@ -77295,7 +77299,6 @@ tacet
 tach
 tache
 tacheometer
-tachi
 tachinidae
 tachistoscope
 tachogram
@@ -77379,7 +77382,6 @@ tags
 tagua
 taguan
 tagus
-tahas
 tahini
 tahiti
 tahitian
@@ -79030,6 +79032,7 @@ thinner
 thinness
 thinning
 thins
+thio
 thiobacillus
 thiobacteria
 thiobacteriaceae
