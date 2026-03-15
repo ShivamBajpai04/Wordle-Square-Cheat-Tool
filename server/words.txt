@@ -7361,7 +7361,6 @@ bartender
 barter
 barterer
 barters
-barth
 barthelme
 bartholdi
 bartholin
@@ -7961,6 +7960,7 @@ behold
 beholden
 beholder
 beholding
+behoof
 behoove
 behove
 behrens
@@ -8254,7 +8254,6 @@ berith
 berk
 berkeley
 berkelium
-berko
 berks
 berkshire
 berkshires
@@ -10881,6 +10880,7 @@ bronze
 bronzed
 bronzer
 bronzy
+broo
 brooch
 brood
 brooder
@@ -10889,7 +10889,6 @@ broodmare
 broods
 broody
 brook
-brooke
 brooklet
 brooklime
 brooklyn
@@ -30186,6 +30185,7 @@ foramen
 foraminifer
 foraminifera
 foray
+forb
 forbear
 forbearance
 forbearing
@@ -30428,7 +30428,6 @@ forswear
 forswearing
 forsythia
 fort
-fortaz
 forte
 fortemente
 forth
@@ -30468,7 +30467,6 @@ forwarding
 forwardness
 forwards
 foryml
-forza
 forze
 fosamax
 fosbury
@@ -30935,6 +30933,7 @@ frostweed
 frostwort
 frosty
 froth
+frother
 frothily
 frothiness
 frothing
@@ -36837,7 +36836,6 @@ hooha
 hook
 hooka
 hookah
-hooke
 hooked
 hooker
 hooking
@@ -36919,6 +36917,7 @@ horizon
 horizontal
 horizontality
 horizontally
+hork
 horks
 horme
 hormism
@@ -42844,6 +42843,7 @@ kopje
 koppa
 koppie
 kops
+kora
 korai
 koran
 koranic
@@ -53953,6 +53953,7 @@ oath
 oaths
 oatmeal
 oats
+oaty
 oaves
 oaxaca
 obadiah
@@ -64492,6 +64493,7 @@ ratlike
 ratlin
 ratline
 rato
+ratoon
 ratos
 rats
 ratsbane
@@ -64569,6 +64571,7 @@ rawness
 rawns
 raxed
 raxes
+raya
 rayah
 rayas
 rayed
@@ -67325,7 +67328,6 @@ rote
 rotenone
 rotes
 rotgut
-rothko
 rothschild
 roti
 rotifer
@@ -79097,6 +79099,7 @@ thorns
 thornton
 thorny
 thoro
+thoron
 thorough
 thoroughbred
 thoroughfare
@@ -79125,7 +79128,6 @@ thousand
 thousandth
 thrace
 thracian
-thrae
 thraldom
 thrall
 thralldom
@@ -88312,7 +88314,6 @@ yacka
 yacks
 yadda
 yaffs
-yafo
 yager
 yages
 yagi
@@ -88397,7 +88398,6 @@ yastrzemski
 yataghan
 yates
 yatobyo
-yatra
 yaud
 yauds
 yauld
@@ -88627,7 +88627,6 @@ yoppo
 yore
 yores
 yorga
-york
 yorks
 yorkshire
 yorktown
