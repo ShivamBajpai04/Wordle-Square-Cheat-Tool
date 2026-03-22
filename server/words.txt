@@ -30857,7 +30857,6 @@ frisks
 frisky
 frisson
 frit
-frite
 frith
 fritillaria
 fritillary
@@ -30967,6 +30966,8 @@ frugs
 fruit
 fruitage
 fruitcake
+fruited
+fruiter
 fruiterer
 fruitful
 fruitfully
@@ -37254,7 +37255,6 @@ huhus
 huias
 huies
 huisache
-huitre
 huji
 hukou
 hula
@@ -37422,6 +37422,7 @@ hurry
 hurrying
 hurst
 hurt
+hurter
 hurtful
 hurting
 hurtle
@@ -39432,6 +39433,8 @@ inferiority
 infernal
 infernally
 inferno
+inferred
+inferrer
 infers
 infertile
 infertility
@@ -40592,6 +40595,7 @@ irascible
 irate
 irately
 irater
+ired
 ireful
 ireland
 irelander
@@ -41373,6 +41377,8 @@ jingoist
 jingoistic
 jings
 jinja
+jink
+jinker
 jinks
 jinnah
 jinne
@@ -41388,7 +41394,6 @@ jird
 jirds
 jirga
 jirrbal
-jirre
 jisms
 jitis
 jitney
@@ -42201,6 +42206,7 @@ kerchief
 kerel
 kerensky
 kerf
+kerfed
 kerfs
 kerfuffle
 kerion
@@ -42990,7 +42996,6 @@ kurosawa
 kuroshio
 kurrajong
 kurrat
-kurre
 kursk
 kurta
 kuru
@@ -53670,7 +53675,6 @@ noyed
 noyes
 nozzle
 nrna
-nrti
 nrtta
 nrtya
 nsaid
@@ -65494,6 +65498,7 @@ reked
 rekes
 rekey
 rekindle
+reknit
 relace
 relafen
 relanium
@@ -66206,9 +66211,9 @@ reticulitermes
 reticulocyte
 reticulum
 retie
-retin
 retina
 retinal
+retine
 retinene
 retinitis
 retinoblastoma
@@ -67609,6 +67614,7 @@ ruinous
 ruinously
 ruinousness
 ruins
+rukh
 rukhs
 rule
 ruled
@@ -67668,7 +67674,6 @@ runds
 rundstedt
 rune
 runed
-runer
 runes
 rung
 rungs
@@ -78528,6 +78533,7 @@ terrene
 terreplein
 terrestrial
 terrestrially
+terret
 terrible
 terribleness
 terribly
@@ -79559,7 +79565,6 @@ tingling
 tingly
 tings
 tininess
-tink
 tinker
 tinkerer
 tinkle
@@ -83313,6 +83318,7 @@ unitary
 unite
 united
 unitedly
+uniter
 unites
 uniting
 unitisation
@@ -83346,7 +83352,6 @@ unjustness
 unkempt
 unkemptness
 unkept
-unket
 unkey
 unkeyed
 unkid
@@ -83785,7 +83790,6 @@ unreconciled
 unreconstructed
 unrecorded
 unrecoverable
-unred
 unredeemable
 unredeemed
 unreduced
@@ -84589,7 +84593,6 @@ urinate
 urination
 urinator
 urine
-urite
 urman
 urmia
 urnal
