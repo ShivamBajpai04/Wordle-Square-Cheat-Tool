@@ -102,7 +102,6 @@ abecedarian
 abecedarius
 abed
 abeer
-abel
 abelard
 abele
 abelia
@@ -301,7 +300,6 @@ absently
 absentminded
 absentmindedly
 absentmindedness
-absey
 absinth
 absinthe
 absit
@@ -7390,7 +7388,6 @@ baseball
 baseboard
 baseborn
 based
-basel
 baseless
 baseline
 basely
@@ -7404,6 +7401,7 @@ bash
 basha
 bashed
 basher
+bashes
 bashful
 bashfully
 bashfulness
@@ -7877,6 +7875,7 @@ beetleweed
 beetling
 beetroot
 beets
+beezer
 befall
 befell
 befit
@@ -7996,7 +7995,6 @@ beldam
 beldame
 beleaguer
 beleaguering
-belee
 belem
 belemnite
 belemnitic
@@ -8422,6 +8420,7 @@ bewitchment
 bewray
 bextra
 beyond
+beys
 bezant
 bezel
 bezes
@@ -9226,7 +9225,6 @@ bleeder
 bleeding
 bleeds
 bleep
-blees
 blemish
 blemished
 blench
@@ -24845,6 +24843,7 @@ ebank
 ebbed
 ebbet
 ebbing
+ebbs
 ebbtide
 ebenaceae
 ebenales
@@ -25086,6 +25085,7 @@ edward
 edwardian
 edwards
 edwy
+eeew
 eejit
 eelam
 eelblenny
@@ -25323,7 +25323,6 @@ elateridae
 elating
 elation
 elavil
-elbe
 elbow
 elbowing
 elbows
@@ -26873,6 +26872,7 @@ escritoire
 escrow
 escudo
 escutcheon
+eses
 esfahan
 esidrix
 esile
@@ -28682,6 +28682,7 @@ feeble
 feebleminded
 feeblemindedness
 feebleness
+feebler
 feebly
 feebs
 feed
@@ -28701,7 +28702,6 @@ feelings
 feels
 feely
 fees
-feese
 feet
 feetfirst
 feeze
@@ -35436,17 +35436,14 @@ heavyhearted
 heavyheartedness
 heavyset
 heavyweight
-hebbel
 hebdomad
 hebdomadal
 hebdomadally
 hebdomadary
-hebe
 hebei
 heben
 hebephrenia
 hebephrenic
-hebes
 hebetude
 hebraic
 hebraical
@@ -36089,7 +36086,6 @@ heyday
 heyed
 heyerdahl
 heyrovsky
-heyse
 heyward
 hezbollah
 hezekiah
@@ -43983,6 +43979,7 @@ leasehold
 leaseholder
 leases
 leash
+leashes
 least
 leastways
 leastwise
@@ -44067,7 +44064,6 @@ leets
 leeuwenhoek
 leeward
 leeway
-leeze
 lefebvrism
 leflunomide
 left
@@ -44361,7 +44357,6 @@ lesbianism
 lesbo
 lesbos
 lescol
-leses
 lesion
 lesos
 lesotho
@@ -64749,6 +64744,7 @@ rebater
 rebates
 rebato
 rebbe
+rebbes
 rebec
 rebecca
 rebekah
@@ -65535,6 +65531,7 @@ relay
 relays
 relearn
 release
+releases
 releasing
 relegate
 relegating
@@ -67844,6 +67841,7 @@ sabinea
 sabir
 sabji
 sable
+sabler
 sabos
 sabot
 sabotage
@@ -69802,6 +69800,7 @@ seepy
 seer
 seers
 seersucker
+sees
 seesaw
 seest
 seeth
@@ -70390,6 +70389,7 @@ sesamum
 sesbania
 seseli
 sesey
+sesh
 sesotho
 sesquicentennial
 sesquipedalia
@@ -70731,6 +70731,7 @@ shaya
 shays
 shaytan
 shchi
+shea
 sheaf
 sheal
 shear
@@ -70753,7 +70754,6 @@ shed
 shedder
 shedding
 sheds
-sheel
 sheen
 sheeny
 sheep
@@ -70845,6 +70845,7 @@ sherpa
 sherrington
 sherry
 sherwood
+shes
 shetland
 shets
 sheva
@@ -86870,7 +86871,6 @@ weave
 weaver
 weaverbird
 weaving
-webb
 webbed
 webbing
 webby
@@ -86899,7 +86899,6 @@ wedlock
 wednesday
 weds
 weeaboo
-weeb
 weed
 weeder
 weedkiller
@@ -86916,6 +86915,7 @@ weeklong
 weekly
 weeknight
 weeks
+weel
 weels
 weems
 ween
@@ -87129,14 +87129,15 @@ wheatgrass
 wheatley
 wheatstone
 wheatworm
+whee
 wheedle
 wheedler
 wheedling
-wheee
 wheek
 wheel
 wheelbarrow
 wheelbase
+wheelbases
 wheelchair
 wheeled
 wheeler
@@ -87149,6 +87150,7 @@ wheelwright
 wheen
 wheep
 wheeze
+wheezer
 wheezily
 wheeziness
 wheezing
@@ -87354,6 +87356,7 @@ whup
 whups
 whyda
 whydah
+whys
 wicca
 wiccan
 wichita
@@ -88149,6 +88152,7 @@ wyatt
 wycherley
 wyclif
 wycliffe
+wyes
 wyeth
 wykeham
 wykehamist
@@ -88813,6 +88817,7 @@ zedas
 zeds
 zeeman
 zeera
+zees
 zeidae
 zeins
 zeitgeist
