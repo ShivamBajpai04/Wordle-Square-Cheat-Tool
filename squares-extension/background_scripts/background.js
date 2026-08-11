@@ -3,8 +3,9 @@ const DEBUG = true; // Toggle for production
 
 const CONFIG = {
   API_URL: "https://wordle-square-cheat-tool.onrender.com/solve",
-  MAX_RETRIES: 3,
-  RETRY_DELAY: 1000,
+  HEALTH_URL: "https://wordle-square-cheat-tool.onrender.com/health",
+  MAX_RETRIES: 5,
+  RETRY_DELAY: 3000,
   CACHE_KEY: "squaresSolverCache",
 };
 
@@ -101,7 +102,8 @@ async function handleSolveRequest(request, sendResponse) {
       return;
     }
 
-    Logger.info("Cache miss, fetching from API");
+    Logger.info("Cache miss, waking server and fetching from API");
+    await wakeUpServer();
     const words = await retryOperation(() =>
       fetchSolution(request.grid, request.depth)
     );
@@ -124,18 +126,44 @@ async function handleSolveRequest(request, sendResponse) {
   }
 }
 
+async function findSquaresTab() {
+  const active = await chrome.tabs.query({ active: true, currentWindow: true });
+  if (active[0]?.url?.includes("squares.org")) return active[0];
+
+  const lastFocused = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
+  if (lastFocused[0]?.url?.includes("squares.org")) return lastFocused[0];
+
+  const byUrl = await chrome.tabs.query({ url: ["*://squares.org/*", "*://www.squares.org/*"] });
+  if (byUrl[0]) return byUrl[0];
+
+  return null;
+}
+
 function handleExtractGrid(sendResponse) {
-  chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-    if (!tabs[0]?.id) {
-      Logger.error("No active tab found");
-      sendResponse({ error: "No active tab found", success: false });
+  findSquaresTab().then((tab) => {
+    if (!tab?.id) {
+      Logger.error("No squares.org tab found");
+      sendResponse({
+        error: "Could not find a squares.org tab. Please make sure the game is open.",
+        success: false,
+      });
       return;
     }
 
     chrome.tabs.sendMessage(
-      tabs[0].id,
+      tab.id,
       { action: "extractGrid" },
-      sendResponse
+      (response) => {
+        if (chrome.runtime.lastError) {
+          Logger.error("Tab messaging failed:", chrome.runtime.lastError.message);
+          sendResponse({
+            error: "Could not communicate with the page. Try refreshing squares.org.",
+            success: false,
+          });
+          return;
+        }
+        sendResponse(response);
+      }
     );
   });
 }
@@ -188,7 +216,15 @@ async function deleteCacheEntry(grid) {
   });
 }
 
-// API interaction with retry mechanism
+async function wakeUpServer() {
+  try {
+    await fetch(CONFIG.HEALTH_URL, { method: "GET" });
+    Logger.info("Server is awake");
+  } catch {
+    Logger.warn("Server wake-up ping failed (may still be booting)");
+  }
+}
+
 async function fetchSolution(grid, depth) {
   const response = await fetch(CONFIG.API_URL, {
     method: "POST",
@@ -222,10 +258,12 @@ async function retryOperation(operation) {
       return await operation();
     } catch (error) {
       lastError = error;
-      Logger.warn(`Attempt ${i + 1} failed:`, error.message);
+      const delay = CONFIG.RETRY_DELAY * Math.pow(2, i);
+      Logger.warn(`Attempt ${i + 1}/${CONFIG.MAX_RETRIES} failed:`, error.message,
+        i < CONFIG.MAX_RETRIES - 1 ? `retrying in ${delay}ms` : "giving up");
 
       if (i < CONFIG.MAX_RETRIES - 1) {
-        await new Promise((resolve) => setTimeout(resolve, CONFIG.RETRY_DELAY));
+        await new Promise((resolve) => setTimeout(resolve, delay));
       }
     }
   }
@@ -278,17 +316,16 @@ async function handleStoreInvalidWord(word) {
       [INVALID_WORDS_KEY]: Array.from(invalidWords),
     });
 
-    // Notify all tabs to update their invalid words list
-    const tabs = await chrome.tabs.query({});
+    const tabs = await chrome.tabs.query({
+      url: ["*://squares.org/*", "*://www.squares.org/*"],
+    });
     tabs.forEach((tab) => {
       chrome.tabs
         .sendMessage(tab.id, {
           action: "updateInvalidWords",
           invalidWords: Array.from(invalidWords),
         })
-        .catch(() => {
-          /* Ignore errors for inactive tabs */
-        });
+        .catch(() => {});
     });
   } catch (error) {
     Logger.error("Error storing invalid word:", error);
@@ -312,17 +349,16 @@ async function handleStoreFoundWord(word) {
       [FOUND_WORDS_KEY]: Array.from(foundWords),
     });
 
-    // Notify all tabs to update their word lists
-    const tabs = await chrome.tabs.query({});
+    const tabs = await chrome.tabs.query({
+      url: ["*://squares.org/*", "*://www.squares.org/*"],
+    });
     tabs.forEach((tab) => {
       chrome.tabs
         .sendMessage(tab.id, {
           action: "updateFoundWords",
           foundWords: Array.from(foundWords),
         })
-        .catch(() => {
-          /* Ignore errors for inactive tabs */
-        });
+        .catch(() => {});
     });
   } catch (error) {
     Logger.error("Error storing found word:", error);

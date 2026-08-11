@@ -140,199 +140,7 @@ function extractGridFromPage() {
   };
 }
 
-function createUI() {
-  if (document.getElementById("squares-solver-results")) {
-    return document.getElementById("solver-results");
-  }
-
-  const style = document.createElement("style");
-  style.textContent = `
-    #squares-solver-results {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 300px;
-      height: 400px;
-      background: white;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-      z-index: 10000;
-      font-family: Arial, sans-serif;
-      resize: both;
-      overflow: hidden;
-      min-width: 200px;
-      min-height: 200px;
-      max-width: 80vw;
-      max-height: 80vh;
-    }
-
-    .results-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 10px;
-      background: #f5f5f5;
-      border-bottom: 1px solid #ddd;
-      cursor: move;
-      user-select: none;
-    }
-
-    .results-title {
-      font-weight: bold;
-    }
-
-    .close-button {
-      background: none;
-      border: none;
-      color: #333;
-      cursor: pointer;
-      font-size: 20px;
-      padding: 0 5px;
-    }
-
-    #solver-results {
-      padding: 10px;
-      height: calc(100% - 45px);
-      overflow-y: auto;
-    }
-
-    .word-group {
-      width: 100%;
-      margin: 10px 0;
-    }
-
-    .length-header {
-      text-align: center;
-      position: relative;
-      margin: 15px 0;
-    }
-
-    .length-header hr {
-      border: none;
-      border-top: 1px solid #ccc;
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      width: 100%;
-      z-index: 1;
-    }
-
-    .length-header span {
-      background: white;
-      padding: 0 10px;
-      color: #666;
-      font-size: 12px;
-      position: relative;
-      z-index: 2;
-    }
-
-    .words-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 5px;
-      justify-content: center;
-    }
-
-    .word-item {
-      background-color: #f0f0f0;
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-size: 14px;
-      display: inline-block;
-    }
-
-    .word-item.not-found {
-      background-color: #ffebee;
-      color: #d32f2f;
-      border: 1px solid #ffcdd2;
-    }
-
-    .word-item.found {
-      background-color: #e8f5e9;
-      color: #2e7d32;
-      border: 1px solid #a5d6a7;
-    }
-  `;
-  document.head.appendChild(style);
-
-  const container = document.createElement("div");
-  container.id = "squares-solver-results";
-
-  const header = document.createElement("div");
-  header.className = "results-header";
-
-  const title = document.createElement("span");
-  title.className = "results-title";
-  title.textContent = "Found Words";
-
-  const closeBtn = document.createElement("button");
-  closeBtn.className = "close-button";
-  closeBtn.innerHTML = "×";
-
-  header.appendChild(title);
-  header.appendChild(closeBtn);
-  container.appendChild(header);
-
-  const resultsDiv = document.createElement("div");
-  resultsDiv.id = "solver-results";
-  container.appendChild(resultsDiv);
-
-  document.body.appendChild(container);
-
-  let isDragging = false;
-  let currentX;
-  let currentY;
-  let initialX;
-  let initialY;
-
-  header.addEventListener("mousedown", dragStart);
-  document.addEventListener("mousemove", drag);
-  document.addEventListener("mouseup", dragEnd);
-
-  function dragStart(e) {
-    initialX = e.clientX - container.offsetLeft;
-    initialY = e.clientY - container.offsetTop;
-    if (e.target === header) {
-      isDragging = true;
-    }
-  }
-
-  function drag(e) {
-    if (isDragging) {
-      e.preventDefault();
-      currentX = e.clientX - initialX;
-      currentY = e.clientY - initialY;
-
-      currentX = Math.min(
-        Math.max(0, currentX),
-        window.innerWidth - container.offsetWidth
-      );
-      currentY = Math.min(
-        Math.max(0, currentY),
-        window.innerHeight - container.offsetHeight
-      );
-
-      container.style.left = currentX + "px";
-      container.style.top = currentY + "px";
-      container.style.right = "auto";
-      container.style.bottom = "auto";
-    }
-  }
-
-  function dragEnd() {
-    isDragging = false;
-  }
-
-  closeBtn.addEventListener("click", () => {
-    container.remove();
-    style.remove();
-  });
-
-  return resultsDiv;
-}
-
-// Add this function to periodically update the UI
+// Periodically update the UI
 function setupAutoUpdate() {
   if (isInTutorial()) {
     return;
@@ -510,30 +318,6 @@ function setupInvalidWordWatcher() {
     attributes: false,
   });
   Logger.info("Observing document body for new scorebubbles");
-
-  if (lastAttemptedWord) {
-    notFoundWords.add(lastAttemptedWord);
-    Logger.info("Added to notFoundWords set:", Array.from(notFoundWords));
-
-    // Update the word in the UI
-    const resultsDiv = document.getElementById("solver-results");
-    if (resultsDiv && resultsDiv.updateWordStatus) {
-      resultsDiv.updateWordStatus(lastAttemptedWord);
-    }
-
-    chrome.runtime.sendMessage(
-      {
-        action: "storeInvalidWord",
-        word: lastAttemptedWord,
-      },
-      (response) => {
-        Logger.info("Stored invalid word response:", response);
-      }
-    );
-
-    // Update UI immediately
-    updateResultsUI();
-  }
 
   // Start auto-updating the UI
   setupAutoUpdate();
@@ -1032,3 +816,62 @@ function injectStyles() {
 
 // Call this function when the content script loads
 injectStyles();
+
+// Autosolve: automatically solve the puzzle on page load
+function attemptAutosolve() {
+  if (isInTutorial()) return;
+
+  chrome.storage.local.get(["autosolveEnabled"], (result) => {
+    if (!result.autosolveEnabled) return;
+
+    Logger.info("Autosolve enabled, waiting for grid...");
+    waitForGrid(0);
+  });
+}
+
+function waitForGrid(attempt) {
+  const MAX_ATTEMPTS = 20;
+  const RETRY_MS = 500;
+
+  if (attempt >= MAX_ATTEMPTS) {
+    Logger.warn("Autosolve: gave up waiting for grid after", MAX_ATTEMPTS, "attempts");
+    return;
+  }
+
+  const gridResult = extractGridFromPage();
+  if (!gridResult.grid) {
+    setTimeout(() => waitForGrid(attempt + 1), RETRY_MS);
+    return;
+  }
+
+  Logger.info("Autosolve: grid found, solving...");
+
+  chrome.storage.local.get(["autosolveDepth"], (settings) => {
+    const depth = settings.autosolveDepth || 10;
+
+    chrome.runtime.sendMessage(
+      { action: "solve", grid: gridResult.grid, depth },
+      (response) => {
+        if (chrome.runtime.lastError) {
+          Logger.error("Autosolve error:", chrome.runtime.lastError.message);
+          return;
+        }
+
+        if (!response || !response.success || !response.words || response.words.length === 0) {
+          Logger.warn("Autosolve: no results", response?.error);
+          return;
+        }
+
+        showResults({
+          words: response.words,
+          invalidWords: response.invalidWords || [],
+          foundWords: response.foundWords || [],
+        });
+        setupInvalidWordWatcher();
+        Logger.info("Autosolve: displayed", response.words.length, "words");
+      }
+    );
+  });
+}
+
+attemptAutosolve();

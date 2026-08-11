@@ -50,10 +50,11 @@ app.get("/health", (req, res) => {
 
 // Main solve endpoint
 app.post("/solve", async (req, res) => {
+  let isResponseSent = false;
+
   try {
     const { grid, depth } = req.body;
 
-    // Validate input
     if (!grid || !depth) {
       return res.status(400).json({
         error: "Missing required parameters",
@@ -61,36 +62,39 @@ app.post("/solve", async (req, res) => {
       });
     }
 
-    if (depth < 4 || depth > 16) {
+    const depthNum = Number(depth);
+    if (!Number.isInteger(depthNum) || depthNum < 4 || depthNum > 16) {
       return res.status(400).json({
         error: "Invalid depth",
-        details: "Depth must be between 4 and 16",
+        details: "Depth must be an integer between 4 and 16",
       });
     }
 
-    // Get path to C++ executable
+    const letters = grid.trim().split(/\s+/);
+    if (letters.length !== 16 || !letters.every((l) => /^[a-zA-Z]$/.test(l))) {
+      return res.status(400).json({
+        error: "Invalid grid",
+        details: "Grid must contain exactly 16 single letters separated by spaces",
+      });
+    }
+
     const solverPath = path.join(
       __dirname,
       "main",
       process.platform === "win32" ? "code.exe" : "code"
     );
 
-    // Track if response has been sent
-    let isResponseSent = false;
+    const solver = spawn(solverPath);
+    let result = "";
+    let errorOutput = "";
 
-    // Create timeout promise
-    const timeoutPromise = new Promise((_, reject) => {
-      setTimeout(() => {
-        reject(new Error("Solver timeout"));
-      }, process.env.SOLVER_TIMEOUT || 30000);
-    });
+    const timeoutMs = Number(process.env.SOLVER_TIMEOUT) || 30000;
 
-    // Create solver promise
+    const timeoutId = setTimeout(() => {
+      solver.kill("SIGKILL");
+    }, timeoutMs);
+
     const solverPromise = new Promise((resolve, reject) => {
-      const solver = spawn(solverPath);
-      let result = "";
-      let errorOutput = "";
-
       solver.stdout.on("data", (data) => {
         result += data.toString();
       });
@@ -99,11 +103,14 @@ app.post("/solve", async (req, res) => {
         errorOutput += data.toString();
       });
 
-      solver.stdin.write(`${grid} ${depth}\n`);
+      solver.stdin.write(`${grid} ${depthNum}\n`);
       solver.stdin.end();
 
-      solver.on("close", (code) => {
-        if (code !== 0) {
+      solver.on("close", (code, signal) => {
+        clearTimeout(timeoutId);
+        if (signal === "SIGKILL") {
+          reject(new Error("Solver timeout"));
+        } else if (code !== 0) {
           reject(new Error(errorOutput || "Solver process failed"));
         } else {
           resolve(result.trim());
@@ -111,16 +118,16 @@ app.post("/solve", async (req, res) => {
       });
 
       solver.on("error", (error) => {
+        clearTimeout(timeoutId);
         reject(error);
       });
     });
 
-    // Race between solver and timeout
     try {
-      const result = await Promise.race([solverPromise, timeoutPromise]);
+      const output = await solverPromise;
       if (!isResponseSent) {
         isResponseSent = true;
-        res.status(200).json({ output: result });
+        res.status(200).json({ output });
       }
     } catch (error) {
       if (!isResponseSent) {
@@ -140,6 +147,7 @@ app.post("/solve", async (req, res) => {
     }
   } catch (error) {
     if (!isResponseSent) {
+      isResponseSent = true;
       console.error("Server error:", error);
       res.status(500).json({
         error: "Internal server error",
@@ -158,16 +166,24 @@ app.use((err, req, res, next) => {
   });
 });
 
-// Start server
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+// Start server only when run directly (not imported for testing)
+const isMainModule =
+  process.argv[1] &&
+  path.resolve(process.argv[1]) === path.resolve(__filename);
 
-// Handle graceful shutdown
-process.on("SIGTERM", () => {
-  console.log("SIGTERM received. Shutting down gracefully...");
-  server.close(() => {
-    console.log("Process terminated");
+let server;
+if (isMainModule) {
+  const PORT = process.env.PORT || 3000;
+  server = app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
   });
-});
+
+  process.on("SIGTERM", () => {
+    console.log("SIGTERM received. Shutting down gracefully...");
+    server.close(() => {
+      console.log("Process terminated");
+    });
+  });
+}
+
+export { app, server };

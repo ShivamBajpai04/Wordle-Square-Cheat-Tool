@@ -3,70 +3,99 @@ document.addEventListener("DOMContentLoaded", () => {
   const clearBtn = document.getElementById("clear-btn");
   const solutionOutput = document.getElementById("solution-output");
   const depthInput = document.getElementById("depth-input");
+  const autosolveToggle = document.getElementById("autosolve-toggle");
+
+  chrome.storage.local.get(["autosolveEnabled", "autosolveDepth"], (result) => {
+    autosolveToggle.checked = !!result.autosolveEnabled;
+    if (result.autosolveDepth) {
+      depthInput.value = result.autosolveDepth;
+    }
+  });
+
+  autosolveToggle.addEventListener("change", () => {
+    chrome.storage.local.set({ autosolveEnabled: autosolveToggle.checked });
+  });
+
+  depthInput.addEventListener("change", () => {
+    const depth = parseInt(depthInput.value, 10);
+    if (!isNaN(depth) && depth >= 4 && depth <= 16) {
+      chrome.storage.local.set({ autosolveDepth: depth });
+    }
+  });
 
   solveBtn.addEventListener("click", handleSolve);
   clearBtn.addEventListener("click", handleClear);
 
-  function handleSolve() {
+  async function findSquaresTab() {
+    let tabs = await chrome.tabs.query({ active: true, currentWindow: true });
+    if (tabs[0]?.url?.includes("squares.org")) return tabs[0];
+
+    tabs = await chrome.tabs.query({ active: true, lastFocusedWindow: true });
+    if (tabs[0]?.url?.includes("squares.org")) return tabs[0];
+
+    tabs = await chrome.tabs.query({
+      url: ["*://squares.org/*", "*://www.squares.org/*"],
+    });
+    return tabs[0] || null;
+  }
+
+  async function handleSolve() {
     const depth = parseInt(depthInput.value, 10);
     if (isNaN(depth) || depth < 4 || depth > 16) {
       showError("Please enter a depth between 4 and 16.");
       return;
     }
 
-    // First extract the grid
-    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-      chrome.tabs.sendMessage(
-        tabs[0].id,
-        { action: "extractGrid" },
-        (gridResult) => {
-          if (!gridResult || gridResult.error) {
-            showError(gridResult?.error || "Failed to extract grid");
-            return;
-          }
+    const tab = await findSquaresTab();
+    if (!tab) {
+      showError("No squares.org tab found. Please open the game first.");
+      return;
+    }
 
-          // Then solve with the extracted grid
-          chrome.runtime.sendMessage(
-            { action: "solve", grid: gridResult.grid, depth },
-            handleSolveResponse
-          );
+    chrome.tabs.sendMessage(
+      tab.id,
+      { action: "extractGrid" },
+      (gridResult) => {
+        if (chrome.runtime.lastError) {
+          showError("Could not communicate with the page. Try refreshing squares.org.");
+          return;
         }
-      );
-    });
+
+        if (!gridResult || gridResult.error) {
+          showError(gridResult?.error || "Failed to extract grid");
+          return;
+        }
+
+        chrome.runtime.sendMessage(
+          { action: "solve", grid: gridResult.grid, depth },
+          handleSolveResponse
+        );
+      }
+    );
   }
 
-  function handleSolveResponse(response) {
+  async function handleSolveResponse(response) {
     if (!response || !response.success) {
       showError(response?.error || "Unknown error occurred");
       return;
     }
 
-    // Make sure we have words to display
     if (!response.words || response.words.length === 0) {
       showError("No words found");
       return;
     }
 
-    // Only send words to content script to display in injected UI
-    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-      chrome.tabs.sendMessage(tabs[0].id, {
+    const tab = await findSquaresTab();
+    if (tab) {
+      chrome.tabs.sendMessage(tab.id, {
         action: "showResults",
         words: response.words,
+        invalidWords: response.invalidWords || [],
+        foundWords: response.foundWords || [],
       });
-    });
-
-    // Close the popup
-    window.close();
-  }
-
-  function displayWords(words) {
-    if (!Array.isArray(words)) {
-      console.error("Expected words array, got:", words);
-      return;
     }
-    solutionOutput.innerHTML = words
-      .map((word) => `<span class="word-box">${word}</span>`)
-      .join(" ");
+
+    window.close();
   }
 
   function showError(message) {
@@ -74,11 +103,11 @@ document.addEventListener("DOMContentLoaded", () => {
     solutionOutput.innerHTML = `<p class="error" style="color: red;">${message}</p>`;
   }
 
-  function handleClear() {
+  async function handleClear() {
     solutionOutput.innerHTML = "";
-    // Also clear the injected UI if it exists
-    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-      chrome.tabs.sendMessage(tabs[0].id, { action: "showResults", words: [] });
-    });
+    const tab = await findSquaresTab();
+    if (tab) {
+      chrome.tabs.sendMessage(tab.id, { action: "showResults", words: [] });
+    }
   }
 });
