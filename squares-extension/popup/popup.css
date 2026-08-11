@@ -1,9 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: Arial, sans-serif;
   width: 300px;
+  max-height: 500px;
   padding: 15px;
-  margin: 0;
   background: #f8f9fa;
+  overflow-y: auto;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 .container {
@@ -152,56 +163,3 @@ input {
   margin: 10px 0;
 }
 
-#squares-solver-results {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  width: 300px;
-  height: 400px;
-  background: white;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-  z-index: 10000;
-  font-family: Arial, sans-serif;
-  resize: both;
-  overflow: hidden;
-  min-width: 200px;
-  min-height: 200px;
-  max-width: 80vw;
-  max-height: 80vh;
-}
-
-.results-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  background: #f5f5f5;
-  border-bottom: 1px solid #ddd;
-  cursor: move;
-  user-select: none;
-}
-
-.results-title {
-  font-weight: bold;
-}
-
-.close-button {
-  background: none;
-  border: none;
-  color: #333;
-  cursor: pointer;
-  font-size: 20px;
-  padding: 0 5px;
-}
-
-#solver-results {
-  padding: 10px;
-  height: calc(100% - 45px);
-  overflow-y: auto;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: flex-start;
-  gap: 5px;
-}

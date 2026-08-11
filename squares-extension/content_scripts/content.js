@@ -3,6 +3,7 @@ const DEBUG = false; // false - production, true - development
 let notFoundWords = new Set();
 let foundWords = new Set();
 let lastAttemptedWord = "";
+let watcherInitialized = false;
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "extractGrid") {
@@ -205,9 +206,10 @@ function updateResultsUI() {
 
 // Modify the setupInvalidWordWatcher function to call updateResultsUI
 function setupInvalidWordWatcher() {
-  if (isInTutorial()) {
+  if (isInTutorial() || watcherInitialized) {
     return;
   }
+  watcherInitialized = true;
 
   Logger.info("Setting up invalid word watcher");
 
@@ -245,10 +247,21 @@ function setupInvalidWordWatcher() {
           const scoreBubble = node.closest(".scorebubble");
 
           if (scoreBubble) {
-            const isSuccess = node.style.backgroundColor === "rgb(85, 172, 73)";
-            const isFailure = node.textContent
-              .toLowerCase()
-              .includes("word not found");
+            const text = node.textContent.toLowerCase();
+            const isFailure = text.includes("word not found");
+            const isAlreadyFound = text.includes("already found");
+            const computedBg = window.getComputedStyle(node).backgroundColor;
+            const isGreenBg = computedBg.match(
+              /rgb\(\s*(\d+),\s*(\d+),\s*(\d+)\)/
+            );
+            const isSuccess =
+              !isFailure &&
+              !isAlreadyFound &&
+              (text.match(/^\+?\d+$/) ||
+                (isGreenBg &&
+                  Number(isGreenBg[1]) < 150 &&
+                  Number(isGreenBg[2]) > 100 &&
+                  Number(isGreenBg[3]) < 150));
 
             if (lastAttemptedWord) {
               if (isSuccess) {
@@ -470,10 +483,13 @@ function showResults(response) {
   // Process and display the words
   const words = response.words || [];
   const invalidWords = response.invalidWords || [];
+  const responseFoundWords = response.foundWords || [];
 
-  // Update our sets
   if (invalidWords.length > 0) {
     invalidWords.forEach((word) => notFoundWords.add(word.toLowerCase()));
+  }
+  if (responseFoundWords.length > 0) {
+    responseFoundWords.forEach((word) => foundWords.add(word.toLowerCase()));
   }
 
   // Group words by length
@@ -875,3 +891,11 @@ function waitForGrid(attempt) {
 }
 
 attemptAutosolve();
+
+chrome.storage.onChanged.addListener((changes, area) => {
+  if (area !== "local") return;
+  if (changes.autosolveEnabled && changes.autosolveEnabled.newValue === true) {
+    Logger.info("Autosolve toggled on, solving now...");
+    waitForGrid(0);
+  }
+});
