@@ -13,7 +13,12 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   autosolveToggle.addEventListener("change", () => {
-    chrome.storage.local.set({ autosolveEnabled: autosolveToggle.checked });
+    const enabled = autosolveToggle.checked;
+    chrome.storage.local.set({ autosolveEnabled: enabled });
+
+    if (enabled) {
+      chrome.runtime.sendMessage({ action: "triggerAutosolve" });
+    }
   });
 
   depthInput.addEventListener("change", () => {

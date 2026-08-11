@@ -93,11 +93,19 @@ jobs:
                   });
                 });
                 
-                const predictions = await solverPromise;
-                console.log('Predictions for today:', predictions);
-                
-                // Store predictions for tomorrow's comparison
-                await fs.writeFile('predictions.txt', predictions);
+              const rawPredictions = await solverPromise;
+
+              // Solver emits "word:row,col:directions" - downstream only needs the word
+              const predictions = rawPredictions
+                .split(/\s+/)
+                .filter(Boolean)
+                .map((token) => token.split(':')[0])
+                .join(' ');
+
+              console.log('Predictions for today:', predictions);
+              
+              // Store predictions for tomorrow's comparison
+              await fs.writeFile('predictions.txt', predictions);
               }
             } catch (error) {
               console.error('Error:', error);
@@ -114,6 +122,24 @@ jobs:
 
           # Run the script with the proper extension
           node temp-script.mjs
+
+      # Runs before the dictionary update so the report is still sent on days
+      # where no dictionary changes are needed
+      - name: Compute daily stats and notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: cd server && node scripts/daily-stats.mjs
+
+      - name: Commit stats history
+        run: |
+          if [ -n "$(git status --porcelain stats/)" ]; then
+            git add stats/
+            git commit -m "Update daily stats history"
+            git push origin HEAD:main || echo "Failed to push stats"
+          else
+            echo "No stats changes to commit"
+          fi
 
       - name: Update words.txt and create commit
         run: |

@@ -14,7 +14,12 @@ A Chrome extension and server implementation for solving word puzzles on [Square
 │   └── clean_txt_file.cpp # Dictionary cleaning utility
 │
 ├── server/                 # Node.js server
-│   └── index.js           # Express server implementation
+│   ├── index.js           # Express server implementation
+│   └── scripts/
+│       └── daily-stats.mjs # Daily accuracy report + Telegram notifier
+│
+├── stats/
+│   └── history.json       # Daily accuracy history (appended by CI)
 │
 └── squares-extension/      # Chrome extension
     ├── manifest.json      # Extension configuration
@@ -37,6 +42,39 @@ A Chrome extension and server implementation for solving word puzzles on [Square
 - Draggable results window
 - Word grouping by length
 - Local caching of results
+- Auto-play that drags the solved words on the board for you
+- Daily accuracy tracking with a Telegram report
+
+## Daily Accuracy Reports
+
+A GitHub Action runs daily, scrapes yesterday's grid and its official answers,
+solves the grid, and compares the two to maintain the dictionary. The same run
+reports how the solver performed.
+
+Metrics:
+
+| Metric | Meaning |
+| --- | --- |
+| Recall | Share of the official answers the solver found |
+| Precision | Share of the solver's predictions that were real answers |
+| Missed | Official answers the solver failed to find (missing dictionary entries) |
+| False positives | Predictions that weren't real answers (junk dictionary entries) |
+
+Each run appends an entry to `stats/history.json` and sends a Telegram message
+that includes the day-over-day change in recall and precision.
+
+To enable notifications, add two repository secrets under
+Settings → Secrets and variables → Actions:
+
+- `TELEGRAM_BOT_TOKEN` — token from [@BotFather](https://t.me/BotFather)
+- `TELEGRAM_CHAT_ID` — the chat to post into
+
+If either secret is missing the report is still computed, logged, and committed;
+only the send is skipped. To preview a report locally:
+
+```bash
+cd server && npm run stats
+```
 
 ## Installation
 

@@ -4,6 +4,7 @@
 #include <map>
 #include <set>
 #include <unordered_set>
+#include <unordered_map>
 #include <fstream>
 #include <string>
 #include <sstream>
@@ -14,10 +15,18 @@ using namespace std;
 
 int dx[] = {1, -1, 1, -1, -1, 1, 0, 0};
 int dy[] = {1, -1, -1, 1, 0, 0, 1, -1};
+char dirLabel[] = {'1', '2', '3', '4', 'U', 'D', 'R', 'L'};
 
-auto cmp = [](const string &lhs, const string &rhs)
+struct WordInfo
 {
-    return make_tuple(lhs.length(), lhs) < make_tuple(rhs.length(), rhs);
+    string word;
+    int startRow, startCol;
+    string directions;
+};
+
+auto cmp = [](const WordInfo &lhs, const WordInfo &rhs)
+{
+    return make_tuple(lhs.word.length(), lhs.word) < make_tuple(rhs.word.length(), rhs.word);
 };
 
 bool isSafe(int x, int y)
@@ -25,15 +34,18 @@ bool isSafe(int x, int y)
     return x >= 0 && x < 4 && y >= 0 && y < 4;
 }
 
-void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j, string path,
-         set<string, decltype(cmp)> &words, unordered_set<string> &cache, int targetLength)
+void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j,
+         string path, string dirs, int startR, int startC,
+         set<WordInfo, decltype(cmp)> &results, unordered_set<string> &found,
+         unordered_set<string> &cache, int targetLength)
 {
     path += grid[i][j];
-    if (path.size() >= 4 && cache.find(path) != cache.end())
+    if (path.size() >= 4 && cache.count(path) && !found.count(path))
     {
-        words.insert(path);
+        found.insert(path);
+        results.insert({path, startR, startC, dirs});
     }
-    if (path.size() == targetLength)
+    if ((int)path.size() == targetLength)
     {
         return;
     }
@@ -44,7 +56,8 @@ void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j
         int y = j + dy[k];
         if (isSafe(x, y) && !visited[x][y])
         {
-            dfs(grid, visited, x, y, path, words, cache, targetLength);
+            dfs(grid, visited, x, y, path, dirs + dirLabel[k], startR, startC,
+                results, found, cache, targetLength);
         }
     }
     visited[i][j] = false;
@@ -68,7 +81,8 @@ unordered_set<string> readWordsFromFile(const string &filename)
     return words;
 }
 
-void findWords(vector<vector<char>> &grid, set<string, decltype(cmp)> &words, unordered_set<string> &cache, int targetLength = 10)
+void findWords(vector<vector<char>> &grid, set<WordInfo, decltype(cmp)> &results,
+               unordered_set<string> &found, unordered_set<string> &cache, int targetLength = 10)
 {
     int n = grid.size();
     for (int i = 0; i < n; i++)
@@ -76,59 +90,44 @@ void findWords(vector<vector<char>> &grid, set<string, decltype(cmp)> &words, un
         for (int j = 0; j < n; j++)
         {
             vector<vector<bool>> visited(n, vector<bool>(n, false));
-            dfs(grid, visited, i, j, "", words, cache, targetLength);
+            dfs(grid, visited, i, j, "", "", i, j, results, found, cache, targetLength);
         }
     }
-}
-
-void writeWordsToFile(const string &filename, const set<string, decltype(cmp)> &words)
-{
-    ofstream outfile(filename);
-    int a = 4;
-    outfile << "-----------------------------" << a << "---------------------------------" << endl;
-    for (const auto &word : words)
-    {
-        if (a != word.size())
-        {
-            a = word.size();
-            outfile << "-----------------------------" << a << "---------------------------------" << endl;
-        }
-        outfile << word << endl;
-    }
-    outfile.close();
 }
 
 int main()
 {
-    string path = filesystem::current_path().string();
-    unordered_set<string> cache = readWordsFromFile(path + "/words.txt");
-    set<string, decltype(cmp)> words(cmp);
+    string p = filesystem::current_path().string();
+    unordered_set<string> cache = readWordsFromFile(p + "/words.txt");
+    set<WordInfo, decltype(cmp)> results(cmp);
+    unordered_set<string> found;
     vector<vector<char>> grid(4, vector<char>(4));
     string inputLine;
     getline(cin, inputLine);
     istringstream iss(inputLine);
-    // Read 4x4 grid from input
+
     for (int i = 0; i < 4; i++)
         for (int j = 0; j < 4; j++)
             iss >> grid[i][j];
-            
-    // Read target word length
+
     int targetLength;
     iss >> targetLength;
 
-    if(targetLength < 4 || targetLength > 16){
+    if (targetLength < 4 || targetLength > 16)
+    {
         cout << "Invalid target length" << endl;
         return 0;
     }
 
-    findWords(grid, words, cache, targetLength);
-    string res = "";
-    for (const auto &word : words)
+    findWords(grid, results, found, cache, targetLength);
+
+    string res;
+    for (const auto &info : results)
     {
-        res += word + ' ';
+        if (!res.empty())
+            res += ' ';
+        res += info.word + ':' + to_string(info.startRow) + ',' + to_string(info.startCol) + ':' + info.directions;
     }
-    // cout << "Result: " << words.size() << endl;
     cout << res;
-    // writeWordsToFile(path + "/output.txt", words);
     return 0;
 }

@@ -1,67 +1,65 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+html {
+  overflow-y: auto;
 }
 
 body {
   font-family: Arial, sans-serif;
   width: 300px;
-  max-height: 500px;
-  padding: 15px;
+  margin: 0;
+  padding: 12px;
   background: #f8f9fa;
-  overflow-y: auto;
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
 }
 
 h2 {
-  font-size: 18px;
-  margin: 0 0 10px 0;
+  font-size: 17px;
+  margin: 0;
   color: #333;
   text-align: center;
 }
 
 .input-group {
   display: flex;
-  flex-direction: column;
-  gap: 5px;
+  align-items: center;
+  gap: 8px;
 }
 
-label {
-  font-size: 14px;
+.input-group label {
+  font-size: 13px;
   font-weight: bold;
   color: #555;
+  white-space: nowrap;
 }
 
-input {
-  width: 100%;
-  padding: 8px;
-  font-size: 14px;
+.input-group input {
+  width: 70px;
+  padding: 6px 8px;
+  font-size: 13px;
   border: 1px solid #ddd;
   border-radius: 4px;
-  box-sizing: border-box;
 }
 
 /* Autosolve toggle */
 .toggle-group {
-  margin: 5px 0;
+  margin: 2px 0;
 }
 
 .toggle-label {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 13px;
   color: #555;
   user-select: none;
 }
@@ -72,10 +70,10 @@ input {
 
 .toggle-slider {
   position: relative;
-  width: 40px;
-  height: 22px;
+  width: 36px;
+  height: 20px;
   background: #ccc;
-  border-radius: 11px;
+  border-radius: 10px;
   transition: background-color 0.2s;
   flex-shrink: 0;
 }
@@ -85,8 +83,8 @@ input {
   position: absolute;
   top: 2px;
   left: 2px;
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   background: white;
   border-radius: 50%;
   transition: transform 0.2s;
@@ -97,7 +95,7 @@ input {
 }
 
 .toggle-label input:checked + .toggle-slider::after {
-  transform: translateX(18px);
+  transform: translateX(16px);
 }
 
 .toggle-text {
@@ -107,14 +105,13 @@ input {
 /* Buttons */
 .button-group {
   display: flex;
-  gap: 10px;
-  margin: 10px 0;
+  gap: 8px;
 }
 
 .btn {
   flex: 1;
-  padding: 8px 16px;
-  font-size: 14px;
+  padding: 8px 12px;
+  font-size: 13px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -140,26 +137,25 @@ input {
 }
 
 #solution-output {
-  max-height: 300px;
+  max-height: 200px;
   overflow-y: auto;
-  padding: 10px;
+  padding: 4px 0;
 }
 
 .word-box {
   display: inline-block;
   background-color: #f0f0f0;
   color: #333;
-  padding: 6px 10px;
-  margin: 3px;
+  padding: 4px 8px;
+  margin: 2px;
   border-radius: 4px;
-  font-size: 13px;
+  font-size: 12px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .error {
   color: #dc3545;
-  font-size: 14px;
+  font-size: 13px;
   text-align: center;
-  margin: 10px 0;
+  margin: 6px 0;
 }
-

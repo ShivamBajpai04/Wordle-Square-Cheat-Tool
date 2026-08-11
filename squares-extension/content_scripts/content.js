@@ -4,6 +4,8 @@ let notFoundWords = new Set();
 let foundWords = new Set();
 let lastAttemptedWord = "";
 let watcherInitialized = false;
+let autoPlayRunning = false;
+let autoPlayAborted = false;
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "extractGrid") {
@@ -34,6 +36,15 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         resultsDiv.updateWordStatus(word)
       );
     }
+    sendResponse({ success: true });
+  } else if (request.action === "autoPlay") {
+    showResults({
+      words: request.words,
+      invalidWords: request.invalidWords,
+      foundWords: request.foundWords,
+    });
+    setupInvalidWordWatcher();
+    startAutoPlay(request.words);
     sendResponse({ success: true });
   }
   return true;
@@ -264,8 +275,13 @@ function setupInvalidWordWatcher() {
                   Number(isGreenBg[3]) < 150));
 
             if (lastAttemptedWord) {
-              if (isSuccess) {
-                Logger.info("Found successful word:", lastAttemptedWord);
+              // "already found" confirms the word is valid and on the board,
+              // so it counts the same as a fresh success
+              if (isSuccess || isAlreadyFound) {
+                Logger.info(
+                  isAlreadyFound ? "Word already found:" : "Found successful word:",
+                  lastAttemptedWord
+                );
                 foundWords.add(lastAttemptedWord);
                 notFoundWords.delete(lastAttemptedWord);
 
@@ -462,10 +478,32 @@ function showResults(response) {
 
     searchBox.appendChild(searchInput);
 
-    // Add all elements to the results div
+    const autoPlayBar = document.createElement("div");
+    autoPlayBar.className = "autoplay-bar";
+
+    const autoPlayBtn = document.createElement("button");
+    autoPlayBtn.id = "autoplay-btn";
+    autoPlayBtn.className = "autoplay-btn";
+    autoPlayBtn.textContent = "Auto Play";
+
+    const stopBtn = document.createElement("button");
+    stopBtn.id = "autoplay-stop-btn";
+    stopBtn.className = "autoplay-btn stop-btn";
+    stopBtn.textContent = "Stop";
+    stopBtn.style.display = "none";
+
+    const statusText = document.createElement("span");
+    statusText.id = "autoplay-status";
+    statusText.className = "autoplay-status";
+
+    autoPlayBar.appendChild(autoPlayBtn);
+    autoPlayBar.appendChild(stopBtn);
+    autoPlayBar.appendChild(statusText);
+
     resultsDiv.appendChild(header);
     resultsDiv.appendChild(statsBar);
     resultsDiv.appendChild(searchBox);
+    resultsDiv.appendChild(autoPlayBar);
     resultsDiv.appendChild(content);
 
     // Make the panel draggable
@@ -480,8 +518,7 @@ function showResults(response) {
     document.querySelector(".minimize-button").innerHTML = "−";
   }
 
-  // Process and display the words
-  const words = response.words || [];
+  const rawWords = response.words || [];
   const invalidWords = response.invalidWords || [];
   const responseFoundWords = response.foundWords || [];
 
@@ -492,7 +529,8 @@ function showResults(response) {
     responseFoundWords.forEach((word) => foundWords.add(word.toLowerCase()));
   }
 
-  // Group words by length
+  const words = rawWords.map((w) => (typeof w === "string" ? w : w.word));
+
   const wordsByLength = {};
   words.forEach((word) => {
     const length = word.length;
@@ -605,8 +643,27 @@ function showResults(response) {
   };
 
   resultsDiv.updateWordStatus = updateWordStatus;
+  resultsDiv._wordInfos = rawWords;
 
-  // Start auto-updating the UI
+  const autoPlayBtn = document.getElementById("autoplay-btn");
+  const stopBtn = document.getElementById("autoplay-stop-btn");
+  if (autoPlayBtn) {
+    autoPlayBtn.onclick = () => {
+      if (autoPlayRunning) return;
+      autoPlayBtn.style.display = "none";
+      stopBtn.style.display = "inline-block";
+      startAutoPlay(resultsDiv._wordInfos).then(() => {
+        autoPlayBtn.style.display = "inline-block";
+        stopBtn.style.display = "none";
+      });
+    };
+  }
+  if (stopBtn) {
+    stopBtn.onclick = () => {
+      autoPlayAborted = true;
+    };
+  }
+
   setupAutoUpdate();
 }
 
@@ -632,10 +689,8 @@ function initDrag(e) {
 
 const Logger = {
   info: (...args) => DEBUG && console.log("[Squares Solver]:", ...args),
-  error: (...args) =>
-    DEBUG && console.error("[Squares Solver Error]:", ...args),
-  warn: (...args) =>
-    DEBUG && console.warn("[Squares Solver Warning]:", ...args),
+  error: (...args) => console.error("[Squares Solver Error]:", ...args),
+  warn: (...args) => console.warn("[Squares Solver Warning]:", ...args),
 };
 
 // Add this function to inject the CSS styles
@@ -809,6 +864,49 @@ function injectStyles() {
       color: #1565c0;
     }
 
+    .word-item.auto-playing {
+      background: #fff3e0;
+      color: #e65100;
+      outline: 2px solid #ff9800;
+    }
+
+    .autoplay-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      background: #eef;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .autoplay-btn {
+      padding: 4px 12px;
+      border: none;
+      border-radius: 4px;
+      font-size: 13px;
+      cursor: pointer;
+      font-weight: bold;
+      color: white;
+      background: #4a6fa5;
+    }
+
+    .autoplay-btn:hover {
+      background: #3a5f95;
+    }
+
+    .autoplay-btn.stop-btn {
+      background: #d32f2f;
+    }
+
+    .autoplay-btn.stop-btn:hover {
+      background: #b71c1c;
+    }
+
+    .autoplay-status {
+      font-size: 12px;
+      color: #555;
+    }
+
     /* Scrollbar styling */
     #solver-results::-webkit-scrollbar {
       width: 8px;
@@ -830,72 +928,230 @@ function injectStyles() {
   document.head.appendChild(styleElement);
 }
 
-// Call this function when the content script loads
-injectStyles();
+// ── Auto-play engine ────────────────────────────────────────
 
-// Autosolve: automatically solve the puzzle on page load
-function attemptAutosolve() {
-  if (isInTutorial()) return;
+const DIR_MAP = {
+  D: [1, 0], U: [-1, 0], R: [0, 1], L: [0, -1],
+  "1": [1, 1], "2": [-1, -1], "3": [1, -1], "4": [-1, 1],
+};
 
-  chrome.storage.local.get(["autosolveEnabled"], (result) => {
-    if (!result.autosolveEnabled) return;
-
-    Logger.info("Autosolve enabled, waiting for grid...");
-    waitForGrid(0);
+function getGridElements() {
+  const map = {};
+  document.querySelectorAll("[data-board]").forEach((el) => {
+    const parts = el.getAttribute("data-board").split("-");
+    if (parts.length >= 3) {
+      map[`${parts[0]},${parts[1]}`] = el;
+    }
   });
+  return map;
 }
 
-function waitForGrid(attempt) {
-  const MAX_ATTEMPTS = 20;
-  const RETRY_MS = 500;
+function getGridMatrix() {
+  const grid = [
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null],
+  ];
+  document.querySelectorAll("[data-board]").forEach((el) => {
+    const [r, c, letter] = el.getAttribute("data-board").split("-");
+    const row = Number(r);
+    const col = Number(c);
+    if (grid[row] && letter && letter.length === 1) {
+      grid[row][col] = letter.toLowerCase();
+    }
+  });
+  return grid;
+}
 
-  if (attempt >= MAX_ATTEMPTS) {
-    Logger.warn("Autosolve: gave up waiting for grid after", MAX_ATTEMPTS, "attempts");
-    return;
-  }
+// Used only when the solver response predates path output, so the word list
+// arrives without direction strings.
+function computeDirs(grid, word) {
+  const labels = Object.entries(DIR_MAP);
+  const seen = Array.from({ length: 4 }, () => Array(4).fill(false));
 
-  const gridResult = extractGridFromPage();
-  if (!gridResult.grid) {
-    setTimeout(() => waitForGrid(attempt + 1), RETRY_MS);
-    return;
-  }
+  function walk(r, c, index, dirs) {
+    if (r < 0 || r > 3 || c < 0 || c > 3) return null;
+    if (seen[r][c] || grid[r][c] !== word[index]) return null;
+    if (index === word.length - 1) return dirs;
 
-  Logger.info("Autosolve: grid found, solving...");
-
-  chrome.storage.local.get(["autosolveDepth"], (settings) => {
-    const depth = settings.autosolveDepth || 10;
-
-    chrome.runtime.sendMessage(
-      { action: "solve", grid: gridResult.grid, depth },
-      (response) => {
-        if (chrome.runtime.lastError) {
-          Logger.error("Autosolve error:", chrome.runtime.lastError.message);
-          return;
-        }
-
-        if (!response || !response.success || !response.words || response.words.length === 0) {
-          Logger.warn("Autosolve: no results", response?.error);
-          return;
-        }
-
-        showResults({
-          words: response.words,
-          invalidWords: response.invalidWords || [],
-          foundWords: response.foundWords || [],
-        });
-        setupInvalidWordWatcher();
-        Logger.info("Autosolve: displayed", response.words.length, "words");
+    seen[r][c] = true;
+    for (const [label, [dr, dc]] of labels) {
+      const result = walk(r + dr, c + dc, index + 1, dirs + label);
+      if (result !== null) {
+        seen[r][c] = false;
+        return result;
       }
-    );
-  });
+    }
+    seen[r][c] = false;
+    return null;
+  }
+
+  for (let r = 0; r < 4; r++) {
+    for (let c = 0; c < 4; c++) {
+      const dirs = walk(r, c, 0, "");
+      if (dirs !== null) return { word, row: r, col: c, dirs };
+    }
+  }
+  return null;
 }
 
-attemptAutosolve();
+function normalizeWordInfos(rawWords) {
+  const needsFallback = [];
+  const normalized = rawWords.map((entry) => {
+    const info =
+      typeof entry === "string"
+        ? { word: entry, row: 0, col: 0, dirs: "" }
+        : { ...entry };
+    // A single-letter word needs no directions, everything else does
+    if (!info.dirs && info.word.length > 1) needsFallback.push(info);
+    return info;
+  });
 
-chrome.storage.onChanged.addListener((changes, area) => {
-  if (area !== "local") return;
-  if (changes.autosolveEnabled && changes.autosolveEnabled.newValue === true) {
-    Logger.info("Autosolve toggled on, solving now...");
-    waitForGrid(0);
+  if (needsFallback.length > 0) {
+    Logger.warn(
+      `${needsFallback.length} words arrived without path data; computing locally`
+    );
+    const grid = getGridMatrix();
+    needsFallback.forEach((info) => {
+      const resolved = computeDirs(grid, info.word.toLowerCase());
+      if (resolved) {
+        info.row = resolved.row;
+        info.col = resolved.col;
+        info.dirs = resolved.dirs;
+      }
+    });
   }
-});
+
+  return normalized;
+}
+
+function pathFromDirs(row, col, dirs) {
+  const cells = [[row, col]];
+  let r = row, c = col;
+  for (const ch of dirs) {
+    const d = DIR_MAP[ch];
+    if (!d) continue;
+    r += d[0];
+    c += d[1];
+    cells.push([r, c]);
+  }
+  return cells;
+}
+
+function firePointer(target, type, x, y) {
+  const opts = {
+    bubbles: true, cancelable: true, view: window,
+    clientX: x, clientY: y, pointerId: 1,
+    pointerType: "mouse", isPrimary: true, button: 0, buttons: type === "pointerup" ? 0 : 1,
+  };
+  target.dispatchEvent(new PointerEvent(type, opts));
+  const mouseType = type.replace("pointer", "mouse");
+  target.dispatchEvent(new MouseEvent(mouseType, opts));
+}
+
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+async function simulateWordDrag(wordInfo, gridEls) {
+  const cells = pathFromDirs(wordInfo.row, wordInfo.col, wordInfo.dirs);
+
+  const firstEl = gridEls[`${cells[0][0]},${cells[0][1]}`];
+  if (!firstEl) return false;
+  const firstRect = firstEl.getBoundingClientRect();
+  firePointer(firstEl, "pointerdown", firstRect.left + firstRect.width / 2, firstRect.top + firstRect.height / 2);
+
+  await sleep(40);
+
+  for (let i = 1; i < cells.length; i++) {
+    const el = gridEls[`${cells[i][0]},${cells[i][1]}`];
+    if (!el) return false;
+    const rect = el.getBoundingClientRect();
+    const x = rect.left + rect.width / 2;
+    const y = rect.top + rect.height / 2;
+    firePointer(el, "pointermove", x, y);
+    await sleep(40);
+  }
+
+  const lastEl = gridEls[`${cells[cells.length - 1][0]},${cells[cells.length - 1][1]}`];
+  const lastRect = lastEl.getBoundingClientRect();
+  firePointer(lastEl, "pointerup", lastRect.left + lastRect.width / 2, lastRect.top + lastRect.height / 2);
+
+  return true;
+}
+
+async function startAutoPlay(wordInfos) {
+  if (autoPlayRunning) return;
+  autoPlayRunning = true;
+  autoPlayAborted = false;
+
+  const gridEls = getGridElements();
+  if (Object.keys(gridEls).length === 0) {
+    Logger.error("Auto-play: no grid elements found on the page");
+    updateAutoPlayStatus("No game grid found");
+    autoPlayRunning = false;
+    return;
+  }
+
+  const normalized = normalizeWordInfos(wordInfos || []);
+  const unplayed = normalized.filter(
+    (w) =>
+      !foundWords.has(w.word.toLowerCase()) &&
+      !notFoundWords.has(w.word.toLowerCase())
+  );
+  const playable = unplayed.filter((w) => w.dirs);
+
+  if (playable.length === 0) {
+    const reason =
+      normalized.length === 0
+        ? "No words to play"
+        : unplayed.length === 0
+        ? "All words already tried"
+        : "No path data for these words";
+    Logger.warn(
+      `Auto-play: nothing to play (${reason}). total=${normalized.length}, untried=${unplayed.length}`
+    );
+    updateAutoPlayStatus(reason);
+    autoPlayRunning = false;
+    setTimeout(() => updateAutoPlayStatus(null), 4000);
+    return;
+  }
+
+  updateAutoPlayStatus(`Playing 0/${playable.length}...`);
+
+  for (let i = 0; i < playable.length; i++) {
+    if (autoPlayAborted) break;
+
+    const w = playable[i];
+    updateAutoPlayStatus(`Playing ${i + 1}/${playable.length}: ${w.word}`);
+    highlightCurrentWord(w.word.toLowerCase());
+
+    await simulateWordDrag(w, gridEls);
+    await sleep(900);
+  }
+
+  autoPlayRunning = false;
+  updateAutoPlayStatus(autoPlayAborted ? "Stopped" : "Done!");
+  setTimeout(() => updateAutoPlayStatus(null), 3000);
+}
+
+function highlightCurrentWord(word) {
+  document.querySelectorAll(".word-item.auto-playing").forEach((el) =>
+    el.classList.remove("auto-playing")
+  );
+  const el = document.querySelector(`.word-item[data-word="${word}"]`);
+  if (el) {
+    el.classList.add("auto-playing");
+    el.scrollIntoView({ block: "nearest", behavior: "smooth" });
+  }
+}
+
+function updateAutoPlayStatus(text) {
+  const el = document.getElementById("autoplay-status");
+  if (!el) return;
+  el.textContent = text || "";
+  el.style.display = text ? "block" : "none";
+}
+
+injectStyles();

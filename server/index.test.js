@@ -140,7 +140,7 @@ describe("Server", () => {
   // ── Solver integration ───────────────────────────────────────
 
   describe("POST /solve - solver", () => {
-    it("returns words for a valid grid", async () => {
+    it("returns words with paths for a valid grid", async () => {
       const res = await request("/solve", {
         method: "POST",
         body: { grid: "a b c d e f g h i j k l m n o p", depth: 6 },
@@ -149,17 +149,16 @@ describe("Server", () => {
       const data = await res.json();
       assert.ok(typeof data.output === "string");
 
-      const words = data.output.split(" ").filter((w) => w.length > 0);
-      assert.ok(words.length > 0, "Should find at least one word");
-      words.forEach((word) => {
-        assert.ok(
-          word.length >= 4,
-          `Word "${word}" should be at least 4 chars`
-        );
-        assert.ok(
-          word.length <= 6,
-          `Word "${word}" should not exceed depth 6`
-        );
+      const tokens = data.output.split(" ").filter((t) => t.length > 0);
+      assert.ok(tokens.length > 0, "Should find at least one word");
+      tokens.forEach((token) => {
+        const parts = token.split(":");
+        assert.equal(parts.length, 3, `Token "${token}" should have word:row,col:dirs format`);
+        const word = parts[0];
+        assert.ok(word.length >= 4, `Word "${word}" should be at least 4 chars`);
+        assert.ok(word.length <= 6, `Word "${word}" should not exceed depth 6`);
+        assert.match(parts[1], /^\d,\d$/, `Origin "${parts[1]}" should be row,col`);
+        assert.equal(parts[2].length, word.length - 1, `Directions length should be word length - 1`);
       });
     });
 
@@ -171,13 +170,10 @@ describe("Server", () => {
       assert.equal(res.status, 200);
       const data = await res.json();
 
-      const words = data.output.split(" ").filter((w) => w.length > 0);
-      words.forEach((word) => {
-        assert.equal(
-          word.length,
-          4,
-          `With depth 4, word "${word}" should be exactly 4 chars`
-        );
+      const tokens = data.output.split(" ").filter((t) => t.length > 0);
+      tokens.forEach((token) => {
+        const word = token.split(":")[0];
+        assert.equal(word.length, 4, `With depth 4, word "${word}" should be exactly 4 chars`);
       });
     });
 
