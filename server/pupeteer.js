@@ -9,6 +9,28 @@ const CONFIG = {
   },
 };
 
+// Reports which known selectors the page actually has, so a scrape failure
+// distinguishes "site markup changed" from "modal never opened"
+async function logDomDiagnostics(page) {
+  try {
+    const seen = await page.evaluate(() => {
+      const count = (sel) => document.querySelectorAll(sel).length;
+      const panel = document.querySelector(".modal-panel");
+      return {
+        iconbarItems: count(".iconbar__item"),
+        modalOpen: !!panel,
+        modalTitle: panel?.querySelector("h3")?.textContent.trim() ?? null,
+        wordpieceLabels: count(".micro-wordpiece__word__label"),
+        panelButtons: panel ? panel.querySelectorAll("button").length : 0,
+        url: location.href,
+      };
+    });
+    console.log("DOM diagnostics:", JSON.stringify(seen));
+  } catch (error) {
+    console.log("Could not collect DOM diagnostics:", error.message);
+  }
+}
+
 export const get_game_data = async () => {
   const browser = await puppeteer.launch({
     headless: true,
@@ -45,25 +67,41 @@ export const get_game_data = async () => {
       console.log("Skip tutorial error:", error.message);
     }
 
-    // Close popup if needed
+    // Close popup if needed. Best-effort: the popup doesn't always appear, so a
+    // failure here must not stop us from opening the archive modal below.
     try {
       await page.waitForSelector(".absolute.right-4.top-4", {
         visible: true,
-        timeout: CONFIG.TIMEOUTS.ELEMENT,
+        timeout: CONFIG.TIMEOUTS.ACTION,
       });
       await page.click(".absolute.right-4.top-4");
-      //go to the answers modal
+      console.log("Closed popup");
+    } catch (error) {
+      console.log("Close popup error (continuing):", error.message);
+    }
+
+    // Open the archive modal, which holds both yesterday's grid and its answers
+    try {
       await page.waitForSelector(".iconbar__item", {
         visible: true,
         timeout: CONFIG.TIMEOUTS.ELEMENT,
       });
 
-      await page.evaluate(() => {
-        const items = document.querySelectorAll(".iconbar__item");
-        if (items.length > 0) items[0].click();
+      const opened = await page.evaluate(() => {
+        const items = Array.from(document.querySelectorAll(".iconbar__item"));
+        // The archive icon is the only one drawing calendar date ticks, so match
+        // on that rather than a position that shifts when icons are reordered
+        const archive =
+          items.find((el) => el.querySelector('path[d="M16 3v4"]')) || items[0];
+        if (!archive) return false;
+        archive.click();
+        return true;
       });
+
+      if (!opened) throw new Error("No .iconbar__item found to click");
+      console.log("Opened archive modal");
     } catch (error) {
-      console.log("Close popup error:", error.message);
+      console.log("Archive modal error:", error.message);
     }
     // First extract today's grid
     let yesterdaysGrid = null;
@@ -89,35 +127,71 @@ export const get_game_data = async () => {
       console.log("Grid extraction error:", error.message);
     }
 
-    // Now navigate to history tab for yesterday's words
+    // Extract the answer list. Every word in the modal is a <button>, split
+    // into a main list and a "Bonus Words" list further down the panel.
     try {
-      // Wait for yesterday's words to load
-      await page.waitForSelector(".my__yesterday", {
-        visible: true,
-        timeout: CONFIG.TIMEOUTS.ELEMENT,
+      await page.waitForFunction(
+        () => {
+          const panel = document.querySelector(".modal-panel");
+          if (!panel) return false;
+          return Array.from(panel.querySelectorAll("button")).some((b) =>
+            /^[a-z]{3,}$/i.test(b.textContent.trim())
+          );
+        },
+        { timeout: CONFIG.TIMEOUTS.ELEMENT }
+      );
+
+      const { mainWords, bonusWords } = await page.evaluate(() => {
+        const panel = document.querySelector(".modal-panel");
+
+        const bonusHeading = Array.from(panel.querySelectorAll("div")).find(
+          (el) =>
+            el.children.length === 0 &&
+            el.textContent.trim().toLowerCase() === "bonus words"
+        );
+
+        const main = [];
+        const bonus = [];
+
+        for (const button of panel.querySelectorAll("button")) {
+          const word = button.textContent.trim().toLowerCase();
+          if (!/^[a-z]{3,}$/.test(word)) continue;
+
+          const isBonus =
+            bonusHeading &&
+            bonusHeading.compareDocumentPosition(button) &
+              Node.DOCUMENT_POSITION_FOLLOWING;
+
+          (isBonus ? bonus : main).push(word);
+        }
+
+        return { mainWords: main, bonusWords: bonus };
       });
 
-      const yesterdayWords = await page.evaluate(() => {
-        const lists = document.querySelectorAll(".my__yesterday");
-        const words = [];
-        lists.forEach((list) => {
-          const listItems = list.querySelectorAll("li");
-          listItems.forEach((li) => {
-            words.push(li.textContent.trim());
-          });
-        });
-        return words;
-      });
+      // The game accepts bonus words too, so they belong in the dictionary.
+      // Treating them as anything else would make the pruning step delete them.
+      const yesterdayWords = [...new Set([...mainWords, ...bonusWords])];
+
+      console.log(
+        `Extracted ${mainWords.length} answers + ${bonusWords.length} bonus words`
+      );
+
+      if (yesterdayWords.length === 0) await logDomDiagnostics(page);
 
       return {
         yesterdayWords,
+        mainWords,
+        bonusWords,
         yesterdaysGrid,
       };
     } catch (error) {
       console.log("Yesterday's words extraction error:", error.message);
+      await logDomDiagnostics(page);
       // Return whatever we have so far
       return {
         yesterdayWords: [],
+        mainWords: [],
+        bonusWords: [],
         yesterdaysGrid,
       };
     }
@@ -125,6 +199,8 @@ export const get_game_data = async () => {
     console.log("General error:", error.message);
     return {
       yesterdayWords: [],
+      mainWords: [],
+      bonusWords: [],
       yesterdaysGrid: null,
     };
   } finally {

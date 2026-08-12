@@ -136,7 +136,19 @@ async function main() {
   const dictionaryWords = await readWordList("words.txt");
 
   if (actualWords.length === 0) {
-    console.log("⚠️ No actual words scraped, skipping stats");
+    // Silence here would look identical to a healthy day, so make it loud
+    const alert = [
+      "⚠️ Squares Solver — scrape failed",
+      new Date().toISOString().slice(0, 10),
+      "",
+      "No official answers were scraped, so the dictionary was not updated.",
+      "Check the Puppeteer step log for selector errors.",
+    ].join("\n");
+
+    console.log(alert);
+    await sendTelegram(alert).catch((error) =>
+      console.error("⚠️ Failed to send alert:", error.message)
+    );
     return;
   }
 

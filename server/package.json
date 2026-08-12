@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "test": "node --test index.test.js daily-stats.test.js",
+    "test": "node --test index.test.js",
     "stats": "node scripts/daily-stats.mjs"
   },
   "author": "Shivam Bajpai",
