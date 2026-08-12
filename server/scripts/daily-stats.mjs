@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
-import { fileURLToPath } from "url";
+import { fileURLToPath, pathToFileURL } from "url";
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const HISTORY_PATH = path.join(REPO_ROOT, "stats/history.json");
@@ -186,7 +186,10 @@ async function main() {
   }
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+// pathToFileURL rather than a `file://` template: import.meta.url percent-encodes
+// characters like spaces, so a naive compare silently skips main() on any path
+// containing one
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((error) => {
     console.error("Error:", error);
     process.exit(1);

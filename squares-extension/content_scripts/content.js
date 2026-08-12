@@ -122,20 +122,14 @@ function extractGridFromPage() {
     };
   }
 
-  const grid = Array.from(elements)
-    .map((el) => {
-      const attr = el.getAttribute("data-board");
-      const parts = attr.split("-");
-      if (parts.length >= 3) {
-        const letter = parts[2];
-        return letter.length === 1 ? letter.toLowerCase() : "";
-      }
-      return "";
-    })
-    .filter((letter) => letter !== "")
-    .join(" ");
+  // Order by the board coordinates in data-board, never by DOM order. The
+  // solver returns paths as (row, col) and auto-play replays them through those
+  // same coordinates, so both must describe the same frame. Reading DOM order
+  // here silently rotates the board when the site changes its emission order,
+  // which still yields a valid word list but drags every path wrong.
+  const letters = getGridMatrix().flat();
 
-  if (!grid) {
+  if (letters.length !== 16 || letters.some((letter) => !letter)) {
     return {
       grid: null,
       error: "Could not extract letters from grid",
@@ -143,6 +137,8 @@ function extractGridFromPage() {
       notFoundWords: existingInvalidWords,
     };
   }
+
+  const grid = letters.join(" ");
 
   return {
     grid,
