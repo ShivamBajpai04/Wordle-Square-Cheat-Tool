@@ -173,10 +173,38 @@ function setupAutoUpdate() {
   resultsDiv.updateInterval = updateInterval;
 }
 
+// The scorebubble watcher only learns a word at the instant it is played, and
+// pairs it with whatever the game input held at that moment. Auto-play's drags
+// routinely outrun that race, so reconcile against the page's own found-words
+// list, which is authoritative and survives any missed event.
+function syncFoundWordsFromPage() {
+  const onPage = Array.from(
+    document.querySelectorAll(".foundwords__element")
+  )
+    .map((el) => el.textContent.trim().toLowerCase())
+    .filter(Boolean);
+
+  const missing = onPage.filter((word) => !foundWords.has(word));
+  if (missing.length === 0) return;
+
+  Logger.info("Reconciled found words from page:", missing);
+  missing.forEach((word) => {
+    foundWords.add(word);
+    notFoundWords.delete(word);
+  });
+
+  chrome.runtime.sendMessage(
+    { action: "storeFoundWord", word: missing },
+    () => chrome.runtime.lastError
+  );
+}
+
 // Function to update the UI with current word statuses
 function updateResultsUI() {
   const resultsDiv = document.getElementById("squares-solver-results");
   if (!resultsDiv) return;
+
+  syncFoundWordsFromPage();
 
   // Get all word items
   const wordItems = document.querySelectorAll(".word-item");
