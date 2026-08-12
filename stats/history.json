@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-08-12",
+    "totalActual": 117,
+    "totalPredicted": 105,
+    "hits": 78,
+    "missed": 39,
+    "falsePositives": 27,
+    "recall": 66.7,
+    "precision": 74.3,
+    "dictionaryAdded": 39,
+    "dictionaryRemoved": 27
+  }
+]
