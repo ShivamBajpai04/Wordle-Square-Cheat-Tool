@@ -31,7 +31,9 @@ async function logDomDiagnostics(page) {
   }
 }
 
-export const get_game_data = async () => {
+// url selects the board: CONFIG.URL is classic 4x4, /mini is the 3x3 board.
+// Both use identical modal markup, so the extraction below is shared.
+export const get_game_data = async (url = CONFIG.URL) => {
   const browser = await puppeteer.launch({
     headless: true,
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
@@ -39,7 +41,7 @@ export const get_game_data = async () => {
   const page = await browser.newPage();
 
   try {
-    await page.goto(CONFIG.URL, {
+    await page.goto(url, {
       waitUntil: "domcontentloaded",
       timeout: CONFIG.TIMEOUTS.PAGE_LOAD,
     });

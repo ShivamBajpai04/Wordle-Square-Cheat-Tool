@@ -127,9 +127,10 @@ function extractGridFromPage() {
   // same coordinates, so both must describe the same frame. Reading DOM order
   // here silently rotates the board when the site changes its emission order,
   // which still yields a valid word list but drags every path wrong.
+  // getGridMatrix returns [] unless the board is a full 3x3 or 4x4
   const letters = getGridMatrix().flat();
 
-  if (letters.length !== 16 || letters.some((letter) => !letter)) {
+  if (letters.length === 0 || letters.some((letter) => !letter)) {
     return {
       grid: null,
       error: "Could not extract letters from grid",
@@ -942,19 +943,18 @@ function getGridElements() {
   return map;
 }
 
+// Returns a 4x4 (classic) or 3x3 (mini) matrix, or [] if the board isn't ready.
 function getGridMatrix() {
-  const grid = [
-    [null, null, null, null],
-    [null, null, null, null],
-    [null, null, null, null],
-    [null, null, null, null],
-  ];
-  document.querySelectorAll("[data-board]").forEach((el) => {
+  const els = document.querySelectorAll("[data-board]");
+  const n = Math.sqrt(els.length);
+  if (n !== 3 && n !== 4) return [];
+
+  const grid = Array.from({ length: n }, () => Array(n).fill(null));
+  els.forEach((el) => {
+    // Format is row-col-letter[-row-col]; letter is always the 3rd token
     const [r, c, letter] = el.getAttribute("data-board").split("-");
-    const row = Number(r);
-    const col = Number(c);
-    if (grid[row] && letter && letter.length === 1) {
-      grid[row][col] = letter.toLowerCase();
+    if (letter && letter.length === 1) {
+      grid[Number(r)][Number(c)] = letter.toLowerCase();
     }
   });
   return grid;
@@ -963,11 +963,14 @@ function getGridMatrix() {
 // Used only when the solver response predates path output, so the word list
 // arrives without direction strings.
 function computeDirs(grid, word) {
+  const n = grid.length;
+  if (!n) return null;
+
   const labels = Object.entries(DIR_MAP);
-  const seen = Array.from({ length: 4 }, () => Array(4).fill(false));
+  const seen = Array.from({ length: n }, () => Array(n).fill(false));
 
   function walk(r, c, index, dirs) {
-    if (r < 0 || r > 3 || c < 0 || c > 3) return null;
+    if (r < 0 || r >= n || c < 0 || c >= n) return null;
     if (seen[r][c] || grid[r][c] !== word[index]) return null;
     if (index === word.length - 1) return dirs;
 
@@ -983,8 +986,8 @@ function computeDirs(grid, word) {
     return null;
   }
 
-  for (let r = 0; r < 4; r++) {
-    for (let c = 0; c < 4; c++) {
+  for (let r = 0; r < n; r++) {
+    for (let c = 0; c < n; c++) {
       const dirs = walk(r, c, 0, "");
       if (dirs !== null) return { word, row: r, col: c, dirs };
     }

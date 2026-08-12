@@ -62,19 +62,32 @@ app.post("/solve", async (req, res) => {
       });
     }
 
-    const depthNum = Number(depth);
-    if (!Number.isInteger(depthNum) || depthNum < 4 || depthNum > 16) {
+    const letters = grid.trim().split(/\s+/);
+    // Classic = 4x4 (16), Mini = 3x3 (9)
+    if (
+      (letters.length !== 9 && letters.length !== 16) ||
+      !letters.every((l) => /^[a-zA-Z]$/.test(l))
+    ) {
       return res.status(400).json({
-        error: "Invalid depth",
-        details: "Depth must be an integer between 4 and 16",
+        error: "Invalid grid",
+        details:
+          "Grid must contain 9 (mini) or 16 (classic) single letters separated by spaces",
       });
     }
 
-    const letters = grid.trim().split(/\s+/);
-    if (letters.length !== 16 || !letters.every((l) => /^[a-zA-Z]$/.test(l))) {
+    const gridSize = letters.length === 9 ? 3 : 4;
+    const minDepth = gridSize === 3 ? 3 : 4;
+    const maxDepth = letters.length;
+
+    const depthNum = Number(depth);
+    if (
+      !Number.isInteger(depthNum) ||
+      depthNum < minDepth ||
+      depthNum > maxDepth
+    ) {
       return res.status(400).json({
-        error: "Invalid grid",
-        details: "Grid must contain exactly 16 single letters separated by spaces",
+        error: "Invalid depth",
+        details: `Depth must be an integer between ${minDepth} and ${maxDepth} for a ${gridSize}x${gridSize} grid`,
       });
     }
 

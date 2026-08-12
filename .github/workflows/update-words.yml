@@ -123,6 +123,13 @@ jobs:
           # Run the script with the proper extension
           node temp-script.mjs
 
+      # Mini answers feed the same words.txt. Must run before the classic step
+      # below, which rewrites the file from whatever it reads. Intentionally does
+      # not commit: words.txt has a single commit path, on the word-updates
+      # branch, so committing here too would conflict at the Sunday merge.
+      - name: Add mini answers to dictionary
+        run: cd server && node scripts/update-mini-words.mjs
+
       # Runs before the dictionary update so the report is still sent on days
       # where no dictionary changes are needed
       - name: Compute daily stats and notify
@@ -244,11 +251,14 @@ jobs:
           updateWords();
           EOF
 
-          node process-words.mjs
+          # Exits 1 when classic needs no changes, which is not a failure. The
+          # step runs under `bash -e`, so an unguarded call would abort here.
+          node process-words.mjs || echo "No classic dictionary changes"
 
-          # Exit if no changes (exit code 1 from Node script)
-          if [ $? -ne 0 ]; then
-            echo "No changes to commit"
+          # Gate on the file, not on that exit code: mini may have added words
+          # on a day when classic had nothing to change.
+          if [ -z "$(git status --porcelain words.txt)" ]; then
+            echo "words.txt unchanged, nothing to commit"
             exit 0
           fi
 
@@ -257,7 +267,11 @@ jobs:
 
           # Commit changes
           git add words.txt
-          git commit -F commit-msg.txt || echo "Nothing to commit"
+          if [ -s commit-msg.txt ]; then
+            git commit -F commit-msg.txt || echo "Nothing to commit"
+          else
+            git commit -m "Update words.txt: add mini answers" || echo "Nothing to commit"
+          fi
 
           # Push changes
           git push -f origin word-updates || echo "Failed to push changes"

@@ -66,10 +66,20 @@ describe("Server", () => {
       assert.equal(data.error, "Missing required parameters");
     });
 
-    it("rejects depth below 4", async () => {
+    it("rejects depth below 4 on a classic grid", async () => {
       const res = await request("/solve", {
         method: "POST",
         body: { grid: "a b c d e f g h i j k l m n o p", depth: 2 },
+      });
+      assert.equal(res.status, 400);
+      const data = await res.json();
+      assert.equal(data.error, "Invalid depth");
+    });
+
+    it("rejects depth above grid size on a mini grid", async () => {
+      const res = await request("/solve", {
+        method: "POST",
+        body: { grid: "r t r i e a o l e", depth: 12 },
       });
       assert.equal(res.status, 400);
       const data = await res.json();
@@ -140,6 +150,26 @@ describe("Server", () => {
   // ── Solver integration ───────────────────────────────────────
 
   describe("POST /solve - solver", () => {
+    it("accepts a 3x3 mini grid", async () => {
+      const res = await request("/solve", {
+        method: "POST",
+        body: { grid: "r t r i e a o l e", depth: 6 },
+      });
+      assert.equal(res.status, 200);
+      const data = await res.json();
+      assert.ok(typeof data.output === "string");
+      // Mini includes 3-letter words; at least one path-bearing token should appear
+      if (data.output.trim()) {
+        const parts = data.output.trim().split(/\s+/);
+        for (const part of parts) {
+          const [word, origin, dirs] = part.split(":");
+          assert.ok(word.length >= 3);
+          assert.match(origin, /^\d+,\d+$/);
+          assert.equal(dirs.length, word.length - 1);
+        }
+      }
+    });
+
     it("returns words with paths for a valid grid", async () => {
       const res = await request("/solve", {
         method: "POST",

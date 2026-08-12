@@ -320,13 +320,19 @@ async function wakeUpServer() {
 }
 
 async function fetchSolution(grid, depth) {
+  // Mini (9 cells) caps out at 9 and allows 3-letter words; classic (16) at 16.
+  // Clamping here keeps the server from rejecting a depth carried over from the
+  // other board size.
+  const cells = grid.trim().split(/\s+/).length;
+  const clamped = Math.min(Math.max(depth, cells === 9 ? 3 : 4), cells);
+
   const response = await fetch(CONFIG.API_URL, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
       Accept: "application/json",
     },
-    body: JSON.stringify({ grid, depth }),
+    body: JSON.stringify({ grid, depth: clamped }),
   });
 
   if (!response.ok) {

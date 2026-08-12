@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   depthInput.addEventListener("change", () => {
     const depth = parseInt(depthInput.value, 10);
-    if (!isNaN(depth) && depth >= 4 && depth <= 16) {
+    if (!isNaN(depth) && depth >= 3 && depth <= 16) {
       chrome.storage.local.set({ autosolveDepth: depth });
     }
   });
@@ -46,8 +46,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function handleSolve() {
     const depth = parseInt(depthInput.value, 10);
-    if (isNaN(depth) || depth < 4 || depth > 16) {
-      showError("Please enter a depth between 4 and 16.");
+    if (isNaN(depth) || depth < 3 || depth > 16) {
+      showError("Please enter a depth between 3 and 16.");
       return;
     }
 
