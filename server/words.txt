@@ -8550,11 +8550,13 @@ bidentate
 bider
 bides
 bidet
+bidi
 biding
 bidirectional
 bidis
 bidon
 bidri
+bids
 biedermeier
 bield
 biennial
@@ -8775,6 +8777,7 @@ bioengineering
 bioethics
 biofeedback
 bioflavinoid
+biog
 biogenesis
 biogenetic
 biogenic
@@ -8887,7 +8890,6 @@ birefringence
 birefringent
 biretta
 biriani
-biris
 birken
 birks
 birl
@@ -10707,7 +10709,6 @@ brighten
 brightly
 brightness
 brighton
-brigid
 brigit
 brigs
 brihaspati
@@ -20734,6 +20735,7 @@ deduction
 deductions
 deductive
 deducts
+dee
 deed
 deedbox
 deeded
@@ -20981,6 +20983,7 @@ deked
 dekes
 dekker
 dekko
+del
 delabialization
 delacroix
 delairea
@@ -21241,6 +21244,7 @@ demythologise
 demythologised
 demythologize
 demythologized
+den
 denali
 denar
 denary
@@ -22263,6 +22267,7 @@ dieting
 dietitian
 dietrich
 diets
+dif
 diff
 differ
 difference
@@ -22422,6 +22427,7 @@ dimout
 dimple
 dimps
 dimwit
+din
 dinar
 dindymene
 dine
@@ -22466,6 +22472,7 @@ dinornithidae
 dinornithiformes
 dinos
 dinosaur
+dins
 dint
 dints
 diocesan
@@ -22586,6 +22593,7 @@ dirigible
 dirk
 dirke
 dirks
+dirl
 dirls
 dirndl
 dirt
@@ -22594,6 +22602,7 @@ dirtiness
 dirts
 dirty
 dirtying
+dis
 disability
 disable
 disabled
@@ -25075,6 +25084,7 @@ edmonton
 edmontonia
 edmontosaurus
 edronax
+eds
 educate
 educated
 educatee
@@ -25098,6 +25108,7 @@ edwards
 edwy
 eeew
 eejit
+eel
 eelam
 eelblenny
 eelgrass
@@ -25338,6 +25349,7 @@ elbow
 elbowing
 elbows
 elchi
+eld
 elder
 elderberry
 elderly
@@ -25448,6 +25460,7 @@ elfed
 elfin
 elfish
 elflike
+elhi
 elicit
 elicitation
 elicited
@@ -25893,6 +25906,7 @@ encyclopedism
 encyclopedist
 encyst
 encysted
+end
 endaemonism
 endameba
 endamoeba
@@ -26172,6 +26186,7 @@ enroll
 enrollee
 enrollment
 enrolment
+ens
 ensconce
 ensemble
 ensew
@@ -26741,7 +26756,6 @@ eriometer
 eriophorum
 eriophyllum
 eriosoma
-eris
 eristic
 eristical
 erithacus
@@ -29050,6 +29064,7 @@ fictitious
 fictitiously
 fictive
 ficus
+fid
 fiddle
 fiddlehead
 fiddleneck
@@ -29063,9 +29078,11 @@ fidget
 fidgetiness
 fidgety
 fidos
+fids
 fiducial
 fiduciary
 fidus
+fie
 fiedler
 fief
 fiefdom
@@ -29211,6 +29228,7 @@ filtration
 filum
 fimbria
 fimbriate
+fin
 finable
 finagle
 finagler
@@ -32304,7 +32322,10 @@ ghest
 ghetto
 ghettoise
 ghettoize
+ghibli
+ghiblis
 ghillie
+ghis
 ghost
 ghostfish
 ghostlike
@@ -32349,7 +32370,6 @@ gibingly
 gibit
 giblet
 giblets
-gibli
 gibraltar
 gibraltarian
 gibran
@@ -32361,6 +32381,7 @@ giddily
 giddiness
 giddy
 gidgee
+gids
 gielgud
 gien
 gies
@@ -32478,7 +32499,6 @@ girder
 girdle
 girds
 giriama
-giris
 girl
 girlfriend
 girlhood
@@ -32949,7 +32969,6 @@ gobiesocidae
 gobiesox
 gobiidae
 gobio
-gobis
 goblet
 goblin
 gobos
@@ -33762,7 +33781,6 @@ grips
 gripsack
 gript
 gripy
-gris
 grisaille
 grise
 griselinia
@@ -33774,7 +33792,6 @@ grist
 gristle
 gristly
 gristmill
-grisy
 grit
 grith
 gritrock
@@ -35606,7 +35623,6 @@ heliozoa
 heliozoan
 heliport
 helipterum
-helis
 helium
 helix
 hell
@@ -38165,6 +38181,7 @@ idolize
 idolized
 idolizer
 idols
+ids
 idun
 idyl
 idyll
@@ -39459,6 +39476,7 @@ infidel
 infidelity
 infield
 infielder
+infields
 infighting
 infiltrate
 infiltration
@@ -39797,6 +39815,7 @@ inroad
 inros
 inrun
 inrush
+ins
 insalubrious
 insalubriousness
 insalubrity
@@ -40622,6 +40641,7 @@ irenic
 irenidae
 ires
 iresine
+irid
 iridaceae
 iridaceous
 iridectomy
@@ -44058,6 +44078,7 @@ lecturer
 lectureship
 lecturing
 lecythidaceae
+led
 ledbetter
 lede
 lederhosen
@@ -44068,6 +44089,7 @@ ledger
 ledgewoman
 ledgy
 ledum
+lee
 leech
 leechee
 leechlike
@@ -44163,6 +44185,7 @@ leguminous
 lehr
 lehrs
 lehua
+lei
 leibnitz
 leibnitzian
 leibniz
@@ -45066,6 +45089,7 @@ liquorice
 lira
 liras
 lire
+liri
 liriodendron
 liriope
 lirks
@@ -52146,6 +52170,7 @@ nectary
 necturus
 neddy
 nederland
+nee
 neebs
 need
 needed
@@ -55354,7 +55379,6 @@ osculator
 osetr
 oseys
 osier
-osiris
 oskin
 oslin
 oslo
@@ -59550,6 +59574,7 @@ pisiform
 pisky
 pismire
 pismo
+piso
 pisonia
 pisos
 piss
@@ -66754,6 +66779,7 @@ ridiculously
 ridiculousness
 riding
 ridley
+rids
 riel
 riels
 riemann
@@ -66816,7 +66842,6 @@ rigidifying
 rigidity
 rigidly
 rigidness
-rigil
 rigmarole
 rigmo
 rigol
@@ -71364,6 +71389,7 @@ sibilate
 sibilation
 sibine
 sibling
+sibs
 sibyl
 sibyllic
 sibylline
@@ -71464,6 +71490,7 @@ sifts
 sigeh
 sigh
 sighed
+sigher
 sighs
 sight
 sighted
@@ -71528,7 +71555,7 @@ signorina
 signory
 signpost
 signs
-sigri
+sigs
 sigurd
 sigyn
 sihasapa
@@ -71558,7 +71585,6 @@ silent
 silently
 silents
 silenus
-siler
 siles
 silesia
 silesianness
@@ -71696,6 +71722,7 @@ simultaneous
 simultaneously
 simultaneousness
 simvastatin
+sin
 sinai
 sinanthropus
 sinapis
@@ -71815,8 +71842,6 @@ sirenidae
 sirens
 sires
 siriasis
-sirih
-siris
 sirius
 sirloin
 siroc
@@ -88633,6 +88658,7 @@ yobby
 yobibit
 yobibyte
 yobo
+yobs
 yocks
 yodel
 yodeling
