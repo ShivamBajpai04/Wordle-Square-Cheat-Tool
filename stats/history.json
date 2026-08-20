@@ -98,13 +98,13 @@
   {
     "date": "2026-08-20",
     "totalActual": 68,
-    "totalPredicted": 66,
-    "hits": 51,
-    "missed": 17,
-    "falsePositives": 15,
-    "recall": 75,
-    "precision": 77.3,
-    "dictionaryAdded": 17,
-    "dictionaryRemoved": 15
+    "totalPredicted": 68,
+    "hits": 68,
+    "missed": 0,
+    "falsePositives": 0,
+    "recall": 100,
+    "precision": 100,
+    "dictionaryAdded": 0,
+    "dictionaryRemoved": 0
   }
 ]
