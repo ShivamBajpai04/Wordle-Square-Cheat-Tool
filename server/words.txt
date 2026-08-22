@@ -97,7 +97,6 @@ abducting
 abduction
 abductor
 abeam
-abeat
 abecedarian
 abecedarius
 abed
@@ -179,7 +178,6 @@ ablepharia
 abler
 ables
 ablest
-ablet
 ablism
 abloom
 ablow
@@ -4867,6 +4865,7 @@ ardri
 arduous
 arduously
 arduousness
+are
 area
 aread
 areae
@@ -5167,6 +5166,7 @@ arrowsmith
 arrowworm
 arroyo
 arroz
+ars
 arse
 arsed
 arsehole
@@ -6414,6 +6414,7 @@ away
 awayness
 aways
 awdls
+awe
 aweary
 awed
 aweel
@@ -7515,10 +7516,10 @@ basuco
 basuto
 basutoland
 basyonym
-bata
 bataan
 batch
 bate
+bateau
 bated
 bates
 batfish
@@ -15844,7 +15845,6 @@ coastward
 coastwise
 coat
 coatdress
-coate
 coated
 coatee
 coati
@@ -19392,7 +19392,6 @@ cunningham
 cunningly
 cunny
 cunoniaceae
-cunt
 cunts
 cupal
 cupbearer
@@ -26674,6 +26673,7 @@ equivocate
 equivocation
 equivocator
 equus
+era
 eradicable
 eradicate
 eradication
@@ -26804,6 +26804,7 @@ error
 errorless
 errors
 errs
+ers
 ersatz
 erses
 erst
@@ -43602,6 +43603,7 @@ laptop
 laputa
 laputan
 lapwing
+lar
 laramie
 larbo
 larboard
@@ -43672,6 +43674,7 @@ laryngoscope
 laryngospasm
 laryngostenosis
 larynx
+las
 lasagna
 lasagne
 lascar
@@ -43873,6 +43876,7 @@ lavoisier
 lavra
 lavs
 lavvy
+law
 lawbreaker
 lawcourt
 lawed
@@ -43948,7 +43952,6 @@ lazzi
 lazzo
 leach
 leaching
-leacock
 lead
 leadbelly
 leaded
@@ -43995,7 +43998,6 @@ leanness
 leans
 leant
 leanto
-leany
 leap
 leaped
 leaper
@@ -51771,7 +51773,6 @@ namus
 nanaimo
 nanak
 nanas
-nance
 nancere
 nanchang
 nancy
@@ -51784,6 +51785,7 @@ nanking
 nanna
 nanning
 nanny
+nano
 nanocephalic
 nanocephaly
 nanogram
@@ -51799,7 +51801,6 @@ nanotechnology
 nanotube
 nanovolt
 nansen
-nante
 nantes
 nanti
 nanticoke
@@ -52012,7 +52013,6 @@ naughtiness
 naughty
 naumachia
 naumachy
-naunt
 naupathia
 nauru
 nauruan
@@ -52078,7 +52078,6 @@ neafe
 neandertal
 neanderthal
 neanderthalian
-neant
 neap
 neapolitan
 neaps
@@ -52106,7 +52105,6 @@ nebcin
 nebek
 nebel
 nebiim
-nebn
 nebraska
 nebraskan
 nebs
@@ -52292,7 +52290,6 @@ nemophila
 nempt
 nenes
 nenets
-nenta
 nentsi
 nentsy
 neobaroque
@@ -53100,6 +53097,7 @@ nonabsorbency
 nonabsorbent
 nonabsorptive
 nonacceptance
+nonaccountable
 nonachievement
 nonachiever
 nonadaptive
@@ -53119,7 +53117,7 @@ nonaligned
 nonalignment
 nonalinement
 nonallele
-nonan
+nonane
 nonappearance
 nonappointive
 nonarbitrable
@@ -53184,6 +53182,7 @@ noncontentious
 noncontinuous
 noncontroversial
 nonconvergent
+noncount
 noncritical
 noncrucial
 noncrystalline
@@ -64479,6 +64478,7 @@ raring
 rariora
 rarity
 rarks
+ras
 rasae
 rasam
 rascal
@@ -64638,6 +64638,7 @@ ravisher
 ravishing
 ravishingly
 ravishment
+raw
 rawalpindi
 rawboned
 rawdy
@@ -64648,6 +64649,7 @@ rawks
 rawly
 rawness
 rawns
+raws
 raxed
 raxes
 raya
@@ -66021,10 +66023,12 @@ reredos
 rerig
 rerun
 reruns
+res
 resale
 resam
 resat
 resaw
+resaws
 resay
 rescale
 reschedule
@@ -67645,6 +67649,7 @@ rudimentary
 rudiments
 rudis
 rudra
+rue
 rued
 rueda
 rueful
@@ -68129,6 +68134,7 @@ sakis
 sakkara
 sakti
 saktism
+sal
 salaah
 salaam
 salaat
@@ -68817,6 +68823,7 @@ savoury
 savoy
 savoyard
 savvy
+saw
 sawan
 sawbill
 sawbones
@@ -68824,6 +68831,7 @@ sawbuck
 sawdust
 sawed
 sawer
+sawers
 sawfish
 sawfly
 sawhorse
@@ -70324,6 +70332,7 @@ sequoia
 sequoiadendron
 sequoya
 sequoyah
+ser
 sera
 serac
 seraglio
@@ -70547,10 +70556,12 @@ sevilla
 seville
 sevir
 sevs
+sew
 sewage
 sewan
 sewar
 seward
+sewars
 sewed
 sewel
 sewellel
@@ -76133,11 +76144,13 @@ sudorific
 sudra
 suds
 sudsy
+sue
 sued
 suede
 suent
 suer
 suers
+sues
 suet
 suete
 suets
@@ -82283,7 +82296,6 @@ unassumingly
 unassumingness
 unassured
 unasterisked
-unate
 unattached
 unattackable
 unattainability
@@ -84243,6 +84255,7 @@ unsynchronized
 unsynchronous
 unsystematic
 unsystematically
+untack
 untactful
 untag
 untagged
@@ -84609,6 +84622,7 @@ urare
 urari
 urarthritis
 urase
+urases
 urate
 uratemia
 uraturia
@@ -84738,6 +84752,7 @@ usbeg
 usbek
 uscb
 usda
+use
 useable
 useableness
 used
@@ -84750,6 +84765,7 @@ uselessness
 usens
 user
 users
+uses
 useta
 ushas
 usher
@@ -86553,6 +86569,7 @@ walnut
 walnuts
 walpole
 walrus
+walruses
 walter
 walton
 walty
@@ -86608,6 +86625,7 @@ wanty
 wanze
 wapiti
 waqfs
+war
 waratah
 warble
 warbler
@@ -86696,6 +86714,7 @@ wartwort
 warty
 warwick
 wary
+was
 wasabi
 wash
 washable
@@ -86862,10 +86881,12 @@ wavey
 waviness
 waving
 wavy
+waw
 wawas
 wawes
 wawl
 wawls
+waws
 waxberry
 waxed
 waxen
@@ -88762,6 +88783,7 @@ yttric
 yttrium
 yuan
 yuans
+yuca
 yucas
 yucatan
 yucatec
@@ -88769,7 +88791,7 @@ yucateco
 yucca
 yucch
 yuchy
-yucko
+yuck
 yucks
 yucky
 yufts
