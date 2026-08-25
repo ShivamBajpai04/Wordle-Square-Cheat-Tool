@@ -536,8 +536,7 @@ function showResults(response) {
 
     document.body.appendChild(resultsDiv);
   } else {
-    // If panel exists, just show it
-    resultsDiv.style.display = "block";
+    resultsDiv.style.display = "flex";
     document.getElementById("solver-results").style.display = "flex";
     resultsDiv.classList.remove("minimized");
     document.querySelector(".minimize-button").innerHTML = "−";
