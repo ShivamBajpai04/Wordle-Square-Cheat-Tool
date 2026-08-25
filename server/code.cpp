@@ -35,20 +35,32 @@ bool isSafe(int x, int y, int n)
     return x >= 0 && x < n && y >= 0 && y < n;
 }
 
-void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j,
-         string path, string dirs, int startR, int startC,
+void dfs(const vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j,
+         string &path, string &dirs, int startR, int startC,
          set<WordInfo, decltype(cmp)> &results, unordered_set<string> &found,
-         unordered_set<string> &cache, int targetLength, int minLength)
+         const unordered_set<string> &words, const unordered_set<string> &prefixes,
+         int targetLength, int minLength)
 {
-    int n = (int)grid.size();
-    path += grid[i][j];
-    if ((int)path.size() >= minLength && cache.count(path) && !found.count(path))
+    const int n = (int)grid.size();
+    path.push_back(grid[i][j]);
+
+    // Every word is a prefix of itself, so a path that is not a prefix of any
+    // candidate cannot grow into one. Without this the search walks all ~12M
+    // simple paths of a 4x4 board instead of the few thousand worth visiting.
+    if (!prefixes.count(path))
+    {
+        path.pop_back();
+        return;
+    }
+
+    if ((int)path.size() >= minLength && words.count(path) && !found.count(path))
     {
         found.insert(path);
         results.insert({path, startR, startC, dirs});
     }
     if ((int)path.size() == targetLength)
     {
+        path.pop_back();
         return;
     }
     visited[i][j] = true;
@@ -58,11 +70,14 @@ void dfs(vector<vector<char>> &grid, vector<vector<bool>> &visited, int i, int j
         int y = j + dy[k];
         if (isSafe(x, y, n) && !visited[x][y])
         {
-            dfs(grid, visited, x, y, path, dirs + dirLabel[k], startR, startC,
-                results, found, cache, targetLength, minLength);
+            dirs.push_back(dirLabel[k]);
+            dfs(grid, visited, x, y, path, dirs, startR, startC,
+                results, found, words, prefixes, targetLength, minLength);
+            dirs.pop_back();
         }
     }
     visited[i][j] = false;
+    path.pop_back();
 }
 
 unordered_set<string> readWordsFromFile(const string &filename)
@@ -83,8 +98,60 @@ unordered_set<string> readWordsFromFile(const string &filename)
     return words;
 }
 
-void findWords(vector<vector<char>> &grid, set<WordInfo, decltype(cmp)> &results,
-               unordered_set<string> &found, unordered_set<string> &cache,
+// Narrows the dictionary to words this grid could actually spell before
+// expanding prefixes. A word needs each of its letters to be available on the
+// board, since a cell is used at most once per word. Filtering first keeps the
+// prefix set small, which matters because every request runs its own process.
+void buildSearchSets(const unordered_set<string> &dictionary,
+                     const vector<vector<char>> &grid,
+                     int minLength, int targetLength,
+                     unordered_set<string> &words,
+                     unordered_set<string> &prefixes)
+{
+    int gridCounts[26] = {0};
+    for (const auto &row : grid)
+    {
+        for (char c : row)
+        {
+            gridCounts[c - 'a']++;
+        }
+    }
+
+    int wordCounts[26];
+    for (const string &word : dictionary)
+    {
+        const int len = (int)word.size();
+        if (len < minLength || len > targetLength)
+        {
+            continue;
+        }
+
+        fill(begin(wordCounts), end(wordCounts), 0);
+        bool spellable = true;
+        for (char c : word)
+        {
+            if (c < 'a' || c > 'z' || ++wordCounts[c - 'a'] > gridCounts[c - 'a'])
+            {
+                spellable = false;
+                break;
+            }
+        }
+        if (!spellable)
+        {
+            continue;
+        }
+
+        words.insert(word);
+        for (int i = 1; i <= len; i++)
+        {
+            prefixes.insert(word.substr(0, i));
+        }
+    }
+}
+
+void findWords(const vector<vector<char>> &grid, set<WordInfo, decltype(cmp)> &results,
+               unordered_set<string> &found, const unordered_set<string> &words,
+               const unordered_set<string> &prefixes,
                int targetLength, int minLength)
 {
     int n = (int)grid.size();
@@ -93,8 +160,10 @@ void findWords(vector<vector<char>> &grid, set<WordInfo, decltype(cmp)> &results
         for (int j = 0; j < n; j++)
         {
             vector<vector<bool>> visited(n, vector<bool>(n, false));
-            dfs(grid, visited, i, j, "", "", i, j, results, found, cache,
-                targetLength, minLength);
+            string path;
+            string dirs;
+            dfs(grid, visited, i, j, path, dirs, i, j, results, found, words,
+                prefixes, targetLength, minLength);
         }
     }
 }
@@ -166,7 +235,11 @@ int main()
         grid[i / n][i % n] = static_cast<char>(tolower(static_cast<unsigned char>(tokens[i][0])));
     }
 
-    findWords(grid, results, found, cache, targetLength, minLength);
+    unordered_set<string> words;
+    unordered_set<string> prefixes;
+    buildSearchSets(cache, grid, minLength, targetLength, words, prefixes);
+
+    findWords(grid, results, found, words, prefixes, targetLength, minLength);
 
     string res;
     for (const auto &info : results)
