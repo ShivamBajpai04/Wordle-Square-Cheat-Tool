@@ -8078,7 +8078,6 @@ beijing
 being
 beingness
 beings
-beins
 beirut
 beisa
 bejel
@@ -8276,7 +8275,6 @@ benignity
 benignly
 benin
 beninese
-benis
 benison
 benjamin
 benne
@@ -9725,6 +9723,7 @@ bodkin
 bodle
 bodoh
 bodoni
+bods
 body
 bodybuilder
 bodybuilding
@@ -9949,11 +9948,12 @@ bongs
 bonheur
 bonhoeffer
 bonhomie
-bonie
+bonier
 boniface
 boniness
 boning
 bonito
+bonitos
 bonk
 bonkers
 bonks
@@ -10052,6 +10052,7 @@ boorish
 boorishly
 boorishness
 boors
+boos
 boose
 boost
 booster
@@ -10740,7 +10741,6 @@ breezy
 bregma
 bregmatic
 breid
-breis
 breiz
 breme
 bremen
@@ -10986,8 +10986,10 @@ bromeosin
 bromic
 bromide
 bromidic
+bromin
 brominate
 bromine
+bromins
 bromo
 bromoform
 bromoil
@@ -23612,6 +23614,7 @@ doats
 dob
 dobbin
 dobby
+dobe
 doberman
 dobes
 dobie
@@ -23934,6 +23937,7 @@ doorstopper
 doorway
 doorwoman
 dooryard
+doozer
 doozy
 dop
 dopa
@@ -23956,6 +23960,7 @@ dorad
 dorado
 dorba
 dorbeetle
+dore
 doree
 dores
 dorian
@@ -24017,6 +24022,7 @@ dossel
 dosser
 dosshouse
 dossier
+dost
 dostoevski
 dostoevskian
 dostoevsky
@@ -24032,6 +24038,7 @@ doter
 dotes
 doting
 dotrel
+dots
 dotted
 dotterel
 dottily
@@ -26678,7 +26685,9 @@ eolithic
 eolotropic
 eon
 eonian
+eonism
 eonni
+eons
 eoraptor
 eorls
 eosin
@@ -27354,11 +27363,12 @@ ethician
 ethicism
 ethicist
 ethics
+ethion
+ethions
 ethiopia
 ethiopian
 ethmoid
 ethnarch
-ethne
 ethnic
 ethnical
 ethnically
@@ -36187,6 +36197,7 @@ hemin
 heming
 hemingway
 hemingwayesque
+hemins
 hemiparasite
 hemiparasitic
 hemiplegia
@@ -36242,6 +36253,7 @@ hemp
 hempen
 hemps
 hempy
+hems
 hemstitch
 hemstitching
 hen
@@ -36264,6 +36276,7 @@ henny
 henpecked
 henroost
 henry
+hens
 henson
 hent
 henting
@@ -36397,6 +36410,7 @@ heroism
 heroization
 heron
 heronry
+herons
 heros
 herpangia
 herpes
@@ -36597,7 +36611,6 @@ hidrosis
 hidrotic
 hie
 hiemal
-hiems
 hiera
 hieracium
 hierarch
@@ -36746,6 +36759,7 @@ hinges
 hings
 hinky
 hinny
+hins
 hint
 hinted
 hinterland
@@ -36812,6 +36826,7 @@ hirudo
 hirundinidae
 hirundo
 his
+hisn
 hispanic
 hispaniola
 hispaniolan
@@ -37684,7 +37699,6 @@ hrvatska
 hryvnia
 hsian
 html
-http
 huaca
 huainaputina
 hualapai
@@ -40264,7 +40278,6 @@ inoperative
 inopportune
 inopportunely
 inopportuneness
-inorb
 inordinate
 inordinately
 inordinateness
@@ -40273,6 +40286,7 @@ inorganically
 inosculate
 inosculation
 inosine
+inosite
 inositol
 inpatient
 inpour
@@ -41082,6 +41096,7 @@ ionised
 ionization
 ionize
 ionized
+ionomer
 ionophoresis
 ionosphere
 ions
@@ -48823,13 +48838,11 @@ megrims
 meids
 meiko
 meils
-meins
 meiny
 meiosis
 meiotic
 meism
 meissner
-meith
 meitner
 meitnerium
 mekka
@@ -49057,7 +49070,6 @@ menopon
 menorah
 menorrhagia
 menorrhea
-menotti
 menotyphla
 mensa
 mensal
@@ -50109,7 +50121,6 @@ minocycline
 minor
 minority
 minors
-minos
 minotaur
 minoxidil
 minse
@@ -50633,7 +50644,6 @@ modulus
 modus
 moe
 moehringia
-moeni
 moers
 mofo
 mofos
@@ -50844,7 +50854,6 @@ mondo
 mondrian
 monecious
 monegasque
-moner
 monera
 moneran
 moneron
@@ -53541,6 +53550,7 @@ nimitz
 nimps
 nimravus
 nimrod
+nims
 nina
 nincompoop
 nine
@@ -53653,7 +53663,6 @@ nitrous
 nitry
 nits
 nitta
-nitto
 nitty
 nitweed
 nitwit
@@ -53730,7 +53739,6 @@ noel
 noels
 noema
 noeme
-noemi
 noesis
 noether
 noetic
@@ -54294,6 +54302,7 @@ nosey
 nosh
 nosher
 noshi
+nosier
 nosiness
 nosocomial
 nosohusial
@@ -54331,6 +54340,7 @@ notepaper
 noter
 notes
 noteworthy
+nother
 nothing
 nothingness
 nothings
@@ -58791,6 +58801,7 @@ penutian
 penwoman
 peon
 peonage
+peonism
 peons
 peony
 people
@@ -59334,10 +59345,10 @@ petiolule
 petit
 petite
 petiteness
-petitio
 petition
 petitionary
 petitioner
+petitions
 petos
 petrarca
 petrarch
@@ -59369,6 +59380,7 @@ petteria
 petti
 petticoat
 petticoated
+pettier
 pettifog
 pettifogger
 pettifoggery
@@ -59520,11 +59532,13 @@ phenobarbitone
 phenol
 phenolic
 phenolphthalein
+phenom
 phenomenal
 phenomenality
 phenomenally
 phenomenology
 phenomenon
+phenoms
 phenoplast
 phenothiazine
 phenotype
@@ -59541,8 +59555,8 @@ phenylethylene
 phenylketonuria
 phenyltoloxamine
 phenytoin
+pheo
 pheochromocytoma
-pheon
 pheresis
 pheromone
 phese
@@ -59609,6 +59623,7 @@ philter
 philtre
 phimosis
 phintias
+phis
 phish
 phiz
 phizz
@@ -65710,6 +65725,7 @@ rebound
 rebox
 reboxetine
 rebozo
+rebozos
 rebroadcast
 rebs
 rebud
@@ -66421,6 +66437,7 @@ reinvestment
 reinvigorate
 reinvigorated
 reird
+reis
 reissue
 reist
 reiter
@@ -66623,6 +66640,7 @@ removal
 remove
 removed
 remover
+rems
 remuda
 remunerate
 remunerated
@@ -66748,6 +66766,7 @@ repercussion
 repertoire
 repertory
 repetition
+repetitions
 repetitious
 repetitiousness
 repetitive
@@ -72626,7 +72645,6 @@ simarre
 simas
 simazine
 simba
-simeon
 simian
 similar
 similarity
@@ -72726,6 +72744,7 @@ singularity
 singularize
 singularly
 singultus
+sinh
 sinhala
 sinhalese
 sinhs
@@ -72839,7 +72858,7 @@ sitcom
 site
 sited
 sites
-sithe
+sith
 sitka
 sitophylus
 sitotroga
@@ -73578,7 +73597,6 @@ smoothie
 smoothly
 smoothness
 smoothy
-smore
 smores
 smorg
 smorgasbord
@@ -73741,7 +73759,6 @@ snobby
 snobs
 snods
 snoek
-snoep
 snog
 snogging
 snogs
@@ -73773,6 +73790,7 @@ snorts
 snorty
 snot
 snots
+snottier
 snotty
 snout
 snow
@@ -79919,6 +79937,7 @@ theia
 theic
 thein
 theine
+theins
 their
 theirs
 theism
@@ -79930,13 +79949,13 @@ thelephoraceae
 thelf
 thelypteridaceae
 thelypteris
+them
 thema
 thematic
 thematically
 theme
 themed
 themes
-themis
 themistocles
 then
 thenal
@@ -80087,7 +80106,6 @@ thessaloniki
 thessaly
 theta
 thete
-thetis
 theurgy
 thevetia
 thew
@@ -80186,6 +80204,7 @@ thirties
 thirtieth
 thirty
 thiry
+this
 thistle
 thistledown
 thistlelike
@@ -81066,6 +81085,7 @@ tonguelike
 tonic
 tonicity
 tonics
+tonier
 tonight
 tonka
 tonks
