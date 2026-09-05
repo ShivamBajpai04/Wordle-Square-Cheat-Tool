@@ -1399,7 +1399,6 @@ aeger
 aegiceras
 aegilops
 aegina
-aegir
 aegis
 aegisthus
 aegospotami
@@ -2324,9 +2323,6 @@ algebraic
 algebraical
 algebraically
 algebraist
-alger
-algeria
-algerian
 algerie
 algeripithecus
 algid
@@ -2354,7 +2350,6 @@ algorism
 algorithm
 algorithmic
 algos
-algren
 algum
 alhacen
 alhambra
@@ -3469,6 +3464,7 @@ anencephalic
 anencephalous
 anencephaly
 anent
+anergia
 anergy
 aneroid
 anes
@@ -4694,7 +4690,6 @@ araguaya
 arak
 araks
 arales
-aralia
 araliaceae
 aram
 aramaean
@@ -12119,7 +12114,6 @@ caliche
 calico
 calicular
 caliculus
-calid
 calidris
 calif
 california
@@ -12951,7 +12945,6 @@ carnally
 carnassial
 carnation
 carnauba
-carne
 carnegie
 carnegiea
 carnelian
@@ -15504,7 +15497,6 @@ clarity
 clark
 clarksburg
 claro
-clart
 clary
 clash
 clashing
@@ -22513,6 +22505,7 @@ diffusor
 diflunisal
 dig
 digenesis
+digerati
 digest
 digester
 digestibility
@@ -22776,7 +22769,6 @@ dipteryx
 diptych
 dipus
 dipylon
-dirac
 diram
 dirca
 dire
@@ -24206,7 +24198,6 @@ dozer
 dozes
 dozing
 dozy
-dphil
 drab
 draba
 drably
@@ -25457,6 +25448,7 @@ eflops
 efs
 eft
 egads
+egal
 egalitarian
 egalitarianism
 egalite
@@ -29249,6 +29241,7 @@ fes
 fescue
 fess
 fesse
+fest
 festa
 festal
 fester
@@ -29291,6 +29284,7 @@ fetor
 fetors
 fetoscope
 fetoscopy
+fets
 fetta
 fetter
 fetterbush
@@ -30377,6 +30371,7 @@ foe
 foehn
 foeman
 foeniculum
+foes
 foetal
 foetid
 foetology
@@ -30490,6 +30485,7 @@ fontanne
 fontenoy
 fonteyn
 fonts
+foo
 food
 foodgasm
 foodie
@@ -31740,7 +31736,6 @@ gadsden
 gadso
 gadus
 gae
-gaea
 gaed
 gaelic
 gaen
@@ -31824,7 +31819,6 @@ galeorhinus
 galeras
 galere
 gales
-galia
 galicia
 galician
 galilaean
@@ -32801,7 +32795,6 @@ gigolo
 gigot
 gigue
 gikuyu
-gila
 gilas
 gilbert
 gilbertian
@@ -32927,7 +32920,6 @@ gisms
 gist
 gists
 git
-gita
 gitana
 gitano
 gitch
@@ -33935,7 +33927,7 @@ grassless
 grasslike
 grassroots
 grassy
-grata
+grat
 grate
 grated
 grateful
@@ -35031,8 +35023,6 @@ hairtail
 hairweaving
 hairy
 haith
-haiti
-haitian
 haj
 hajes
 haji
@@ -36685,6 +36675,7 @@ hikers
 hikes
 hiking
 hikoi
+hila
 hilar
 hilarious
 hilariously
@@ -38475,7 +38466,6 @@ hystricidae
 hystricomorpha
 hythe
 hytrin
-iaea
 iamb
 iambi
 iambic
@@ -43863,7 +43853,6 @@ lafitte
 lag
 lagan
 lagarostrobus
-lagenaria
 lagend
 lagenophera
 lager
@@ -44222,7 +44211,6 @@ lari
 lariam
 lariat
 laricariidae
-larid
 laridae
 laris
 larix
@@ -52540,7 +52528,6 @@ naproxen
 naps
 napu
 naqua
-nara
 naranjilla
 naras
 narc
@@ -52940,7 +52927,6 @@ negotiator
 negotiatress
 negotiatrix
 negress
-negri
 negritude
 negro
 negroid
@@ -53100,7 +53086,6 @@ nepotist
 neptune
 neptunism
 neptunium
-neral
 neram
 nerd
 nerds
@@ -53108,10 +53093,7 @@ nerdy
 nereid
 nereus
 nerfs
-nergal
-nerita
 neritic
-neritid
 neritidae
 neritina
 nerium
@@ -53739,6 +53721,7 @@ noel
 noels
 noema
 noeme
+noes
 noesis
 noether
 noetic
@@ -55505,6 +55488,7 @@ onerously
 onerousness
 oners
 onery
+ones
 onesie
 onetime
 ongoing
@@ -60109,7 +60093,6 @@ pikestaff
 pikey
 pikis
 pikul
-pilae
 pilaf
 pilaff
 pilao
@@ -60367,7 +60350,6 @@ piqueria
 piquet
 pir
 piracy
-pirai
 pirana
 pirandello
 piranga
@@ -60377,6 +60359,7 @@ piratical
 piratically
 pirks
 pirls
+pirn
 pirns
 pirog
 pirogi
@@ -65040,6 +65023,7 @@ ragout
 ragpicker
 ragsorter
 ragtag
+ragtail
 ragtime
 ragus
 ragusa
@@ -65049,7 +65033,6 @@ rah
 rahed
 rai
 raia
-raiah
 raias
 raid
 raided
@@ -65106,7 +65089,6 @@ raises
 raisin
 raising
 raita
-raith
 raits
 raiu
 raj
@@ -65608,6 +65590,7 @@ reais
 real
 realer
 realgar
+realia
 realign
 realine
 realisation
@@ -66305,10 +66288,10 @@ reget
 regex
 reggae
 reggane
-regia
 regicide
 regie
 regift
+regild
 regime
 regimen
 regiment
@@ -79844,7 +79827,6 @@ thack
 thackeray
 thaddaeus
 thae
-thai
 thailand
 thaim
 thalamencephalon
@@ -80188,6 +80170,7 @@ thiosulfil
 thiotepa
 thiothixene
 thiouracil
+thir
 third
 thirdhand
 thirdly
@@ -82155,7 +82138,6 @@ triiodothyronine
 trike
 trilateral
 trilby
-trild
 trilingual
 trilisa
 trill
@@ -82284,7 +82266,6 @@ triviality
 trivialize
 trivially
 trivium
-trna
 trnc
 troad
 troak
