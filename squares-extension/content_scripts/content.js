@@ -2,6 +2,9 @@ const DEBUG = false; // false - production, true - development
 
 let notFoundWords = new Set();
 let foundWords = new Set();
+// The board these two sets describe. Found/invalid state is per-grid, so every
+// message to the background must say which board it is about.
+let currentGrid = null;
 let lastAttemptedWord = "";
 let watcherInitialized = false;
 let autoPlayRunning = false;
@@ -19,25 +22,23 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     });
     setupInvalidWordWatcher();
     sendResponse({ success: true });
-  } else if (request.action === "updateInvalidWords") {
-    notFoundWords = new Set(request.invalidWords);
-    const resultsDiv = document.getElementById("solver-results");
-    if (resultsDiv && resultsDiv.updateWordStatus) {
-      Array.from(notFoundWords).forEach((word) =>
-        resultsDiv.updateWordStatus(word)
-      );
+  } else if (request.action === "updateWordState") {
+    // Another tab may be on a different board; ignore state that isn't ours
+    if (currentGrid && request.grid && request.grid !== currentGrid) {
+      sendResponse({ success: true, ignored: true });
+      return true;
     }
-    sendResponse({ success: true });
-  } else if (request.action === "updateFoundWords") {
-    foundWords = new Set(request.foundWords);
+    notFoundWords = new Set(request.invalidWords || []);
+    foundWords = new Set(request.foundWords || []);
     const resultsDiv = document.getElementById("solver-results");
     if (resultsDiv && resultsDiv.updateWordStatus) {
-      Array.from(foundWords).forEach((word) =>
+      [...notFoundWords, ...foundWords].forEach((word) =>
         resultsDiv.updateWordStatus(word)
       );
     }
     sendResponse({ success: true });
   } else if (request.action === "autoPlay") {
+    if (request.grid) currentGrid = request.grid;
     showResults({
       words: request.words,
       invalidWords: request.invalidWords,
@@ -63,6 +64,24 @@ function extractGridFromPage() {
   }
 
   const elements = document.querySelectorAll("[data-board]");
+
+  // Order by the board coordinates in data-board, never by DOM order. The
+  // solver returns paths as (row, col) and auto-play replays them through those
+  // same coordinates, so both must describe the same frame. Reading DOM order
+  // here silently rotates the board when the site changes its emission order,
+  // which still yields a valid word list but drags every path wrong.
+  // getGridMatrix returns [] unless the board is a full 3x3 or 4x4
+  const letters = getGridMatrix().flat();
+  const grid =
+    letters.length > 0 && letters.every(Boolean) ? letters.join(" ") : null;
+
+  // Resolved before the sends below: found/invalid state is stored per board,
+  // so a word scraped off the page without a grid to attach it to is dropped.
+  if (grid && grid !== currentGrid) {
+    currentGrid = grid;
+    notFoundWords = new Set();
+    foundWords = new Set();
+  }
 
   // Extract already found words from the page
   const foundWordElements = document.querySelectorAll(".foundwords__element");
@@ -90,6 +109,7 @@ function extractGridFromPage() {
     chrome.runtime.sendMessage(
       {
         action: "storeFoundWord",
+        grid,
         word: existingFoundWords,
       },
       (response) => {
@@ -105,6 +125,7 @@ function extractGridFromPage() {
     chrome.runtime.sendMessage(
       {
         action: "storeInvalidWord",
+        grid,
         word: existingInvalidWords,
       },
       (response) => {
@@ -122,15 +143,7 @@ function extractGridFromPage() {
     };
   }
 
-  // Order by the board coordinates in data-board, never by DOM order. The
-  // solver returns paths as (row, col) and auto-play replays them through those
-  // same coordinates, so both must describe the same frame. Reading DOM order
-  // here silently rotates the board when the site changes its emission order,
-  // which still yields a valid word list but drags every path wrong.
-  // getGridMatrix returns [] unless the board is a full 3x3 or 4x4
-  const letters = getGridMatrix().flat();
-
-  if (letters.length === 0 || letters.some((letter) => !letter)) {
+  if (!grid) {
     return {
       grid: null,
       error: "Could not extract letters from grid",
@@ -138,8 +151,6 @@ function extractGridFromPage() {
       notFoundWords: existingInvalidWords,
     };
   }
-
-  const grid = letters.join(" ");
 
   return {
     grid,
@@ -194,7 +205,7 @@ function syncFoundWordsFromPage() {
   });
 
   chrome.runtime.sendMessage(
-    { action: "storeFoundWord", word: missing },
+    { action: "storeFoundWord", grid: currentGrid, word: missing },
     () => chrome.runtime.lastError
   );
 }
@@ -313,6 +324,7 @@ function setupInvalidWordWatcher() {
                 chrome.runtime.sendMessage(
                   {
                     action: "storeFoundWord",
+                    grid: currentGrid,
                     word: lastAttemptedWord,
                   },
                   (response) => {
@@ -330,6 +342,7 @@ function setupInvalidWordWatcher() {
                 chrome.runtime.sendMessage(
                   {
                     action: "storeInvalidWord",
+                    grid: currentGrid,
                     word: lastAttemptedWord,
                   },
                   (response) => {
@@ -542,6 +555,7 @@ function showResults(response) {
     document.querySelector(".minimize-button").innerHTML = "−";
   }
 
+  if (response.grid) currentGrid = response.grid;
   const rawWords = response.words || [];
   const invalidWords = response.invalidWords || [];
   const responseFoundWords = response.foundWords || [];
@@ -1107,6 +1121,38 @@ async function simulateWordDrag(wordInfo, gridEls) {
   return true;
 }
 
+function pageCounters() {
+  return {
+    bubbles: document.querySelectorAll(".scorebubble").length,
+    found: document.querySelectorAll(".foundwords__element").length,
+  };
+}
+
+/**
+ * Waits for the game to actually answer the drag instead of guessing at a fixed
+ * delay. Resolves as soon as the scorebubble watcher classifies the word, or
+ * the page's own counters move. A short floor keeps us from racing the drag's
+ * own animation; the ceiling keeps a missed event from stalling the run.
+ */
+async function waitForWordResult(word, baseline, { minMs = 120, timeoutMs = 1200 } = {}) {
+  await sleep(minMs);
+
+  const deadline = Date.now() + timeoutMs;
+  while (Date.now() < deadline) {
+    if (foundWords.has(word) || notFoundWords.has(word)) return "classified";
+
+    const now = pageCounters();
+    // Only growth counts: bubbles are torn down after their animation, so a
+    // shrinking count is the previous word clearing, not this one landing.
+    if (now.found > baseline.found || now.bubbles > baseline.bubbles) {
+      return "page-updated";
+    }
+
+    await sleep(50);
+  }
+  return "timeout";
+}
+
 async function startAutoPlay(wordInfos) {
   if (autoPlayRunning) return;
   autoPlayRunning = true;
@@ -1153,8 +1199,15 @@ async function startAutoPlay(wordInfos) {
     updateAutoPlayStatus(`Playing ${i + 1}/${playable.length}: ${w.word}`);
     highlightCurrentWord(w.word.toLowerCase());
 
+    const baseline = pageCounters();
     await simulateWordDrag(w, gridEls);
-    await sleep(900);
+    const outcome = await waitForWordResult(w.word.toLowerCase(), baseline);
+    if (outcome === "timeout") {
+      Logger.warn("Auto-play: no response for", w.word, "- continuing");
+    }
+    // Let the bubble finish clearing before the next drag, or the game reads
+    // the two gestures as one.
+    await sleep(120);
   }
 
   autoPlayRunning = false;

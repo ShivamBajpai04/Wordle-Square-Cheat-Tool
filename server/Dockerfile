@@ -11,20 +11,20 @@ RUN apt-get update && apt-get install -y \
     make \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy package files and install dependencies
+# Copy package files and install dependencies. --omit=dev keeps Puppeteer and
+# its bundled Chromium out of the image: scraping runs in CI, never here.
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm ci --omit=dev
 
 # Copy the entire server codebase
 COPY . .
 
-# Ensure 'main' directory exists
-RUN mkdir -p main
+# Compile the solver. -O2 is worth having: every /solve spawns a fresh process
+# that reloads and filters the whole dictionary.
+RUN mkdir -p main && g++ -std=c++17 -O2 -o ./main/code ./code.cpp
 
-# Copy C++ files and compile the solver
-COPY ./code.cpp ./main/code.cpp
-COPY ./words.txt ./main/words.txt
-RUN g++ -std=c++17 -o ./main/code ./main/code.cpp
+# The solver reads words.txt from its working directory, which is /app.
+ENV WORDS_FILE=/app/words.txt
 
 # Set environment variables
 ENV NODE_ENV=production

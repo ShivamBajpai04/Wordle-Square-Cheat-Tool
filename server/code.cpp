@@ -11,6 +11,7 @@
 #include <tuple>
 #include <cctype>
 #include <filesystem>
+#include <cstdlib>
 
 using namespace std;
 
@@ -86,8 +87,11 @@ unordered_set<string> readWordsFromFile(const string &filename)
     ifstream infile(filename);
     if (!infile.is_open())
     {
-        cout << "";
-        return words;
+        // Exiting loudly matters: a missing dictionary produces the same empty
+        // stdout as a grid with no words, and the pipeline would read that as
+        // "the solver predicted nothing" rather than "the solver is broken".
+        cerr << "Could not open dictionary: " << filename << endl;
+        exit(1);
     }
     string word;
     while (infile >> word)
@@ -170,8 +174,13 @@ void findWords(const vector<vector<char>> &grid, set<WordInfo, decltype(cmp)> &r
 
 int main()
 {
-    string p = filesystem::current_path().string();
-    unordered_set<string> cache = readWordsFromFile(p + "/words.txt");
+    // Resolved against the working directory, since the binary is compiled to
+    // different places in CI and in the container. WORDS_FILE overrides it.
+    const char *wordsEnv = getenv("WORDS_FILE");
+    const string wordsPath =
+        wordsEnv ? string(wordsEnv)
+                 : filesystem::current_path().string() + "/words.txt";
+    unordered_set<string> cache = readWordsFromFile(wordsPath);
     set<WordInfo, decltype(cmp)> results(cmp);
     unordered_set<string> found;
     string inputLine;

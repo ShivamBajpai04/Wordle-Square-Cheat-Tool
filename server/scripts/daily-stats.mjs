@@ -1,6 +1,9 @@
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath, pathToFileURL } from "url";
+import { planUpdate, CONFIRMED_PATH } from "./update-words.mjs";
+import { sendTelegram } from "./notify.mjs";
+import { loadGate, readBoardState, describeGate } from "./prune-gate.mjs";
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const HISTORY_PATH = path.join(REPO_ROOT, "stats/history.json");
@@ -35,7 +38,7 @@ function pct(numerator, denominator) {
   return Math.round((numerator / denominator) * 1000) / 10;
 }
 
-export function computeStats(actualWords, predictedWords, dictionaryWords) {
+export function computeStats(actualWords, predictedWords, dictionaryWords, confirmedWords = []) {
   const actual = new Set(actualWords);
   const predicted = new Set(predictedWords);
   const dictionary = new Set(dictionaryWords);
@@ -44,15 +47,14 @@ export function computeStats(actualWords, predictedWords, dictionaryWords) {
   const missed = [...actual].filter((w) => !predicted.has(w));
   const falsePositives = [...predicted].filter((w) => !actual.has(w));
 
-  // Mirrors the dictionary update step so the report stays accurate even if
-  // that step is skipped or fails. Same 30-answer floor: a thin scrape must
-  // not be reported as a mass prune we did not actually apply.
-  const MIN_ACTUAL_FOR_PRUNE = 30;
-  const wordsToAdd = [...actual].filter((w) => !dictionary.has(w));
-  const wordsToRemove =
-    actual.size >= MIN_ACTUAL_FOR_PRUNE
-      ? falsePositives.filter((w) => dictionary.has(w))
-      : [];
+  // Reuse the updater's own planner rather than a second copy of the rules, so
+  // the report can never disagree with what the dictionary step actually did.
+  const plan = planUpdate({
+    actual: actualWords,
+    predicted: predictedWords,
+    current: dictionaryWords,
+    confirmed: confirmedWords,
+  });
 
   return {
     totalActual: actual.size,
@@ -64,8 +66,10 @@ export function computeStats(actualWords, predictedWords, dictionaryWords) {
     precision: pct(hits.length, predicted.size),
     missedWords: missed.sort(),
     falsePositiveWords: falsePositives.sort(),
-    dictionaryAdded: wordsToAdd.length,
-    dictionaryRemoved: wordsToRemove.length,
+    dictionaryAdded: plan.wordsToAdd.length,
+    dictionaryRemoved: plan.wordsToRemove.length,
+    pruneSkippedReason: plan.skipReason,
+    protectedFromPrune: plan.protectedFromPrune,
   };
 }
 
@@ -84,7 +88,7 @@ function truncateList(words) {
   } more`;
 }
 
-export function buildMessage(date, stats, previous) {
+export function buildMessage(date, stats, previous, gateLines = []) {
   const recall = stats.recall === null ? "n/a" : `${stats.recall}%`;
   const precision = stats.precision === null ? "n/a" : `${stats.precision}%`;
 
@@ -108,37 +112,21 @@ export function buildMessage(date, stats, previous) {
     "",
     "📖 Dictionary",
     `+${stats.dictionaryAdded} added / -${stats.dictionaryRemoved} removed`,
-  ].join("\n");
-}
-
-async function sendTelegram(message) {
-  const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
-
-  if (!token || !chatId) {
-    console.log("⚠️ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set, skipping send");
-    return false;
-  }
-
-  const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ chat_id: chatId, text: message }),
-  });
-
-  if (!res.ok) {
-    const body = await res.text();
-    throw new Error(`Telegram API ${res.status}: ${body}`);
-  }
-
-  console.log("✅ Sent daily report to Telegram");
-  return true;
+    stats.pruneSkippedReason ? `⚠️ Pruning skipped — ${stats.pruneSkippedReason}` : null,
+    stats.protectedFromPrune?.length
+      ? `🛡️ Kept ${stats.protectedFromPrune.length} previously confirmed answer(s): ${truncateList(stats.protectedFromPrune)}`
+      : null,
+    ...(gateLines.length ? ["", "🚦 Prune gate", ...gateLines] : []),
+  ]
+    .filter((line) => line !== null)
+    .join("\n");
 }
 
 async function main() {
-  const actualWords = await readWordList("actual-words.txt");
-  const predictedWords = await readWordList("predictions.txt");
+  const actualWords = await readWordList("actual-words-classic.txt");
+  const predictedWords = await readWordList("predictions-classic.txt");
   const dictionaryWords = await readWordList("words.txt");
+  const confirmedWords = await readWordList(CONFIRMED_PATH);
 
   if (actualWords.length === 0) {
     // Silence here would look identical to a healthy day, so make it loud
@@ -157,7 +145,7 @@ async function main() {
     return;
   }
 
-  const stats = computeStats(actualWords, predictedWords, dictionaryWords);
+  const stats = computeStats(actualWords, predictedWords, dictionaryWords, confirmedWords);
   const date = new Date().toISOString().slice(0, 10);
 
   const history = await loadHistory();
@@ -176,11 +164,28 @@ async function main() {
     dictionaryRemoved: stats.dictionaryRemoved,
   };
 
-  // Replace same-day entry so manual re-runs don't create duplicates
-  const updated = history.filter((e) => e.date !== date).concat(entry);
-  await saveHistory(updated);
+  // Keep the first successful run of a day. A re-run happens after the
+  // dictionary has already learned that day's answers, so its recall and
+  // precision are inflated (a re-run scores ~100% by construction) and would
+  // silently overwrite the number that actually measured the solver.
+  const existing = history.find((e) => e.date === date);
+  if (existing && !process.env.STATS_OVERWRITE) {
+    console.log(
+      `Stats for ${date} already recorded (recall ${existing.recall}%); ` +
+        "keeping the first run. Set STATS_OVERWRITE=1 to replace it."
+    );
+  } else {
+    await saveHistory(history.filter((e) => e.date !== date).concat(entry));
+  }
 
-  const message = buildMessage(date, stats, previous);
+  // State as of yesterday's run: this step runs before today's update so the
+  // report measures the dictionary the solver actually used.
+  const gate = await loadGate();
+  const gateLines = Object.keys(gate.boards || {})
+    .sort()
+    .map((board) => describeGate(board, readBoardState(gate, board)));
+
+  const message = buildMessage(date, stats, previous, gateLines);
   console.log(message);
 
   try {
@@ -194,7 +199,9 @@ async function main() {
 // pathToFileURL rather than a `file://` template: import.meta.url percent-encodes
 // characters like spaces, so a naive compare silently skips main() on any path
 // containing one
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+// process.argv[1] is undefined under `node -e`/`node --test`, where this module
+// is imported rather than run.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((error) => {
     console.error("Error:", error);
     process.exit(1);

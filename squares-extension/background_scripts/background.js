@@ -12,9 +12,56 @@ const CONFIG = {
 // Bump whenever the cached word format changes
 const CACHE_VERSION = 2;
 
-// Add to the constants section
-const INVALID_WORDS_KEY = "squaresSolverInvalidWords";
-const FOUND_WORDS_KEY = "squaresSolverFoundWords";
+// Per-grid play state. The old global squaresSolverInvalidWords /
+// squaresSolverFoundWords lists were never scoped or expired, so a word marked
+// "not found" on one board was skipped forever on every later board, and a word
+// could sit in both lists at once (the content script kept them exclusive, the
+// stored copy did not). State is keyed by grid and dropped when the day rolls
+// over, matching the solution cache.
+const WORD_STATE_KEY = "squaresSolverWordState";
+const LEGACY_KEYS = ["squaresSolverInvalidWords", "squaresSolverFoundWords"];
+
+const emptyState = () => ({ found: [], invalid: [], timestamp: new Date().toISOString() });
+
+async function readWordState(grid) {
+  const store = await chrome.storage.local.get([WORD_STATE_KEY]);
+  const all = store[WORD_STATE_KEY] || {};
+  const entry = all[grid];
+  if (!entry || !isValidCache(entry.timestamp)) return emptyState();
+  return { found: entry.found || [], invalid: entry.invalid || [], timestamp: entry.timestamp };
+}
+
+// mutate receives Sets and is expected to keep them mutually exclusive.
+async function writeWordState(grid, mutate) {
+  const store = await chrome.storage.local.get([WORD_STATE_KEY]);
+  const all = store[WORD_STATE_KEY] || {};
+
+  // Drop yesterday's boards on the way past
+  for (const key of Object.keys(all)) {
+    if (!isValidCache(all[key]?.timestamp)) delete all[key];
+  }
+
+  const current = all[grid] && isValidCache(all[grid].timestamp) ? all[grid] : emptyState();
+  const found = new Set(current.found || []);
+  const invalid = new Set(current.invalid || []);
+
+  mutate(found, invalid);
+
+  const entry = {
+    found: [...found],
+    invalid: [...invalid],
+    timestamp: new Date().toISOString(),
+  };
+  all[grid] = entry;
+  await chrome.storage.local.set({ [WORD_STATE_KEY]: all });
+  return entry;
+}
+
+function toWordArray(word) {
+  return (Array.isArray(word) ? word : [word])
+    .filter(Boolean)
+    .map((w) => String(w).toLowerCase());
+}
 
 // Custom logger
 const Logger = {
@@ -50,10 +97,10 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
       sendResponse({ success: true });
       break;
     case "storeInvalidWord":
-      handleStoreInvalidWord(request.word);
+      handleStoreInvalidWord(request.grid, request.word);
       break;
     case "storeFoundWord":
-      handleStoreFoundWord(request.word);
+      handleStoreFoundWord(request.grid, request.word);
       break;
     default:
       Logger.warn("Unknown action received:", request.action);
@@ -62,17 +109,14 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   return true;
 });
 
-// Add this function to initialize storage
+// The legacy global lists cannot be migrated: they have no grid to attach to,
+// and carrying them forward is exactly the bug being fixed.
 async function initializeStorage() {
-  const storage = await chrome.storage.local.get([
-    INVALID_WORDS_KEY,
-    FOUND_WORDS_KEY,
-  ]);
-  if (!storage[INVALID_WORDS_KEY]) {
-    await chrome.storage.local.set({ [INVALID_WORDS_KEY]: [] });
-  }
-  if (!storage[FOUND_WORDS_KEY]) {
-    await chrome.storage.local.set({ [FOUND_WORDS_KEY]: [] });
+  const storage = await chrome.storage.local.get(LEGACY_KEYS);
+  const stale = LEGACY_KEYS.filter((key) => storage[key]);
+  if (stale.length > 0) {
+    Logger.info("Removing legacy un-scoped word lists:", stale);
+    await chrome.storage.local.remove(stale);
   }
 }
 
@@ -96,8 +140,8 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
 async function runAutosolve(tabId) {
   try {
     const storage = await chrome.storage.local.get([
-      "autosolveEnabled", "autosolveDepth",
-      INVALID_WORDS_KEY, FOUND_WORDS_KEY,
+      "autosolveEnabled",
+      "autosolveDepth",
     ]);
     if (!storage.autosolveEnabled) return;
 
@@ -129,14 +173,16 @@ async function runAutosolve(tabId) {
       return;
     }
 
-    const invalidWords = storage[INVALID_WORDS_KEY] || [];
-    const foundWords = storage[FOUND_WORDS_KEY] || [];
+    // Scoped to this board: a word the game rejected on another grid says
+    // nothing about this one.
+    const state = await readWordState(gridResult.grid);
 
     chrome.tabs.sendMessage(tabId, {
       action: "autoPlay",
+      grid: gridResult.grid,
       words,
-      invalidWords,
-      foundWords,
+      invalidWords: state.invalid,
+      foundWords: state.found,
     }).catch((err) => Logger.error("Autosolve: failed to send autoPlay:", err));
 
     Logger.info("Autosolve: sent", words.length, "words to tab for auto-play");
@@ -165,24 +211,21 @@ async function handleSolveRequest(request, sendResponse) {
       throw new SolverError("INVALID_INPUT", "Grid is required");
     }
 
-    // Always get current storage state
-    const storage = await chrome.storage.local.get([
-      INVALID_WORDS_KEY,
-      FOUND_WORDS_KEY,
-    ]);
-    const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
-    const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
+    const state = await readWordState(request.grid);
+    const invalidWords = state.invalid;
+    const foundWords = state.found;
 
-    Logger.info("Current invalid words:", Array.from(invalidWords));
-    Logger.info("Current found words:", Array.from(foundWords));
+    Logger.info("Invalid words for this grid:", invalidWords);
+    Logger.info("Found words for this grid:", foundWords);
 
     const cachedResult = await getCachedResults(request.grid);
     if (cachedResult) {
       Logger.info("Cache hit");
       sendResponse({
+        grid: request.grid,
         words: cachedResult,
-        invalidWords: Array.from(invalidWords),
-        foundWords: Array.from(foundWords),
+        invalidWords,
+        foundWords,
         success: true,
       });
       return;
@@ -197,9 +240,10 @@ async function handleSolveRequest(request, sendResponse) {
     await cacheResults(request.grid, words);
 
     sendResponse({
+      grid: request.grid,
       words,
-      invalidWords: Array.from(invalidWords),
-      foundWords: Array.from(foundWords),
+      invalidWords,
+      foundWords,
       success: true,
     });
   } catch (error) {
@@ -410,67 +454,55 @@ function cleanupCache(cache) {
   });
 }
 
-// Add this function to handle storing invalid words
-async function handleStoreInvalidWord(word) {
+// Storing a result for one board. The two sets are kept mutually exclusive:
+// a word the game just accepted is no longer "not found", and vice versa.
+async function broadcastWordState(grid, entry) {
+  const tabs = await chrome.tabs.query({
+    url: ["*://squares.org/*", "*://www.squares.org/*"],
+  });
+  tabs.forEach((tab) => {
+    chrome.tabs
+      .sendMessage(tab.id, {
+        action: "updateWordState",
+        grid,
+        foundWords: entry.found,
+        invalidWords: entry.invalid,
+      })
+      .catch(() => {});
+  });
+}
+
+async function handleStoreInvalidWord(grid, word) {
+  if (!grid) {
+    Logger.warn("storeInvalidWord without a grid, ignoring:", word);
+    return;
+  }
   try {
-    const storage = await chrome.storage.local.get([INVALID_WORDS_KEY]);
-    const invalidWords = new Set(storage[INVALID_WORDS_KEY] || []);
-
-    // Handle both single words and arrays of words
-    if (Array.isArray(word)) {
-      word.forEach((w) => invalidWords.add(w));
-    } else {
-      invalidWords.add(word);
-    }
-
-    await chrome.storage.local.set({
-      [INVALID_WORDS_KEY]: Array.from(invalidWords),
+    const entry = await writeWordState(grid, (found, invalid) => {
+      for (const w of toWordArray(word)) {
+        invalid.add(w);
+        found.delete(w);
+      }
     });
-
-    const tabs = await chrome.tabs.query({
-      url: ["*://squares.org/*", "*://www.squares.org/*"],
-    });
-    tabs.forEach((tab) => {
-      chrome.tabs
-        .sendMessage(tab.id, {
-          action: "updateInvalidWords",
-          invalidWords: Array.from(invalidWords),
-        })
-        .catch(() => {});
-    });
+    await broadcastWordState(grid, entry);
   } catch (error) {
     Logger.error("Error storing invalid word:", error);
   }
 }
 
-// Add new function to handle storing found words
-async function handleStoreFoundWord(word) {
+async function handleStoreFoundWord(grid, word) {
+  if (!grid) {
+    Logger.warn("storeFoundWord without a grid, ignoring:", word);
+    return;
+  }
   try {
-    const storage = await chrome.storage.local.get([FOUND_WORDS_KEY]);
-    const foundWords = new Set(storage[FOUND_WORDS_KEY] || []);
-
-    // Handle both single words and arrays of words
-    if (Array.isArray(word)) {
-      word.forEach((w) => foundWords.add(w));
-    } else {
-      foundWords.add(word);
-    }
-
-    await chrome.storage.local.set({
-      [FOUND_WORDS_KEY]: Array.from(foundWords),
+    const entry = await writeWordState(grid, (found, invalid) => {
+      for (const w of toWordArray(word)) {
+        found.add(w);
+        invalid.delete(w);
+      }
     });
-
-    const tabs = await chrome.tabs.query({
-      url: ["*://squares.org/*", "*://www.squares.org/*"],
-    });
-    tabs.forEach((tab) => {
-      chrome.tabs
-        .sendMessage(tab.id, {
-          action: "updateFoundWords",
-          foundWords: Array.from(foundWords),
-        })
-        .catch(() => {});
-    });
+    await broadcastWordState(grid, entry);
   } catch (error) {
     Logger.error("Error storing found word:", error);
   }

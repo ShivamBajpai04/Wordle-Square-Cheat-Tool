@@ -91,11 +91,15 @@ app.post("/solve", async (req, res) => {
       });
     }
 
-    const solverPath = path.join(
-      __dirname,
-      "main",
-      process.platform === "win32" ? "code.exe" : "code"
-    );
+    // SOLVER_BIN lets CI point at the binary it just compiled; the container
+    // builds into main/.
+    const solverPath =
+      process.env.SOLVER_BIN ||
+      path.join(
+        __dirname,
+        "main",
+        process.platform === "win32" ? "code.exe" : "code"
+      );
 
     const solver = spawn(solverPath);
     let result = "";

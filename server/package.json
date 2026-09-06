@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "test": "node --test index.test.js",
-    "stats": "node scripts/daily-stats.mjs"
+    "test": "node --test index.test.js scripts/*.test.js",
+    "stats": "node scripts/daily-stats.mjs",
+    "scrape": "node scripts/scrape-and-solve.mjs",
+    "update-words": "node scripts/update-words.mjs"
   },
   "author": "Shivam Bajpai",
   "license": "ISC",
@@ -16,10 +18,10 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "morgan": "^1.10.0",
-    "puppeteer": "^24.2.1"
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "puppeteer": "^24.2.1"
   }
 }

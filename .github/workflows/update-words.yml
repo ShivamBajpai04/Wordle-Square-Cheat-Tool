@@ -12,6 +12,9 @@ permissions:
 jobs:
   update-words:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: server
 
     steps:
       - name: Checkout repository
@@ -19,126 +22,45 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for all branches
 
-      # - name: Set up Node.js
-      #   uses: actions/setup-node@v3
-      #   with:
-      #     node-version: "18"
-      #     cache: "npm"
-      #     cache-dependency-path: "server/package.json"
-
       - name: Install dependencies
-        run: cd server && npm ci
+        run: npm ci
 
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
 
-      - name: Run Puppeteer to get game data
-        run: |
-          cd server
-          # Create a temporary JS file that uses ES modules
-          cat > temp-script.mjs << 'EOF'
-          import { get_game_data } from './pupeteer.js';
-          import { spawn } from 'child_process';
-          import path from 'path';
-          import { fileURLToPath } from 'url';
-          import fs from 'fs/promises';
+      # scripts/solver.mjs looks for ./code (override with SOLVER_BIN)
+      - name: Compile solver
+        run: g++ -std=c++17 -O2 code.cpp -o code && chmod +x code
 
-          const __filename = fileURLToPath(import.meta.url);
-          const __dirname = path.dirname(__filename);
+      # index.test.js exercises /solve, which needs a binary; point it at the
+      # one just compiled rather than the container's main/code.
+      - name: Run tests
+        env:
+          SOLVER_BIN: ${{ github.workspace }}/server/code
+        run: npm test
 
-          async function run() {
-            try {
-              // Get both yesterday's words and today's grid in one call
-              const gameData = await get_game_data();
-              console.log('Game data retrieved:', 
-                gameData.yesterdayWords.length + ' words from yesterday, ' +
-                (gameData.yesterdaysGrid ? 'grid extracted' : 'no grid found')
-              );
-              
-              // Write yesterday's words to a file
-              await fs.writeFile('actual-words.txt', gameData.yesterdayWords.join(' '));
-              
-              // If we have today's grid, solve it for predictions
-              if (gameData.yesterdaysGrid) {
-                console.log('Today\'s grid:', gameData.yesterdaysGrid);
-                
-                // Solve today's grid using our solver
-                const solverPath = path.join(__dirname, './code'); // Simpler path for Linux
-                
-                const solverPromise = new Promise((resolve, reject) => {
-                  const solver = spawn(solverPath);
-                  let output = '';
-                  let errorOutput = '';
-                  
-                  solver.stdout.on('data', (data) => {
-                    output += data.toString();
-                  });
-                  
-                  solver.stderr.on('data', (data) => {
-                    errorOutput += data.toString();
-                  });
-                  
-                  // Write to stdin instead of passing command line args
-                  solver.stdin.write(`${gameData.yesterdaysGrid} 16\n`);
-                  solver.stdin.end();
-                  
-                  solver.on('close', (code) => {
-                    if (code !== 0) {
-                      reject(new Error('Solver process failed: ' + errorOutput));
-                    } else {
-                      resolve(output.trim());
-                    }
-                  });
-                });
-                
-              const rawPredictions = await solverPromise;
+      # Writes actual-words-<board>.txt and predictions-<board>.txt. A failed
+      # scrape or solve leaves the file empty, which the updater reads as
+      # "add-only" rather than "delete everything".
+      - name: Scrape and solve classic board
+        run: node scripts/scrape-and-solve.mjs --board classic
 
-              // Solver emits "word:row,col:directions" - downstream only needs the word
-              const predictions = rawPredictions
-                .split(/\s+/)
-                .filter(Boolean)
-                .map((token) => token.split(':')[0])
-                .join(' ');
+      - name: Scrape and solve mini board
+        run: node scripts/scrape-and-solve.mjs --board mini
 
-              console.log('Predictions for today:', predictions);
-              
-              // Store predictions for tomorrow's comparison
-              await fs.writeFile('predictions.txt', predictions);
-              }
-            } catch (error) {
-              console.error('Error:', error);
-              process.exit(1);
-            }
-          }
-
-          run();
-          EOF
-
-          # Compile the C++ code first
-          g++ -std=c++17 code.cpp -o code
-          chmod +x code  # Ensure the executable has proper permissions
-
-          # Run the script with the proper extension
-          node temp-script.mjs
-
-      # Mini answers feed the same words.txt. Must run before the classic step
-      # below, which rewrites the file from whatever it reads. Mini does not
-      # commit: words.txt has a single commit path, after classic pruning.
-      - name: Add mini answers to dictionary
-        run: cd server && node scripts/update-mini-words.mjs
-
-      # Runs before the dictionary update so the report is still sent on days
-      # where no dictionary changes are needed
+      # Runs before the dictionary update so the report measures the dictionary
+      # the solver actually used, and is still sent on days with no changes
       - name: Compute daily stats and notify
         env:
           TELEGRAM_BOT_TOKEN: ${{ vars.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
-        run: cd server && node scripts/daily-stats.mjs
+        run: node scripts/daily-stats.mjs
 
       - name: Commit stats history
         run: |
+          cd ..
           if [ -n "$(git status --porcelain stats/)" ]; then
             git add stats/
             git commit -m "Update daily stats history"
@@ -147,141 +69,59 @@ jobs:
             echo "No stats changes to commit"
           fi
 
-      - name: Update words.txt and create commit
+      # --observe records evidence without governing: classic already prunes and
+      # acts as the control group for what a healthy board looks like.
+      - name: Update dictionary from classic board
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ vars.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
         run: |
-          cd server
+          node scripts/update-words.mjs \
+            --board classic \
+            --actual actual-words-classic.txt \
+            --predicted predictions-classic.txt \
+            --observe ../stats/prune-gate.json \
+            --commit-msg commit-msg-classic.txt
 
-          # Read actual words (with error handling for empty files)
-          if [ -s actual-words.txt ]; then
-            # Write to env file instead of storing in variable
-            cat actual-words.txt > actual-words-env.txt
-          else
-            echo "No actual words found, exiting"
+      # --gate lets the accumulated evidence decide. Mini starts add-only and
+      # unlocks itself once enough confirmed words have been placed on its grids
+      # and listed in its published answers; a single omission re-locks it. No
+      # flag to remember to flip. See server/scripts/prune-gate.mjs.
+      - name: Update dictionary from mini board
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ vars.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+        run: |
+          node scripts/update-words.mjs \
+            --board mini \
+            --actual actual-words-mini.txt \
+            --predicted predictions-mini.txt \
+            --gate ../stats/prune-gate.json \
+            --commit-msg commit-msg-mini.txt
+
+      # Persist every day's add/remove on main. words.txt, confirmed-words.txt
+      # and the prune gate commit together: the allowlist is what makes a prune
+      # safe and the gate is what authorised it, so neither may lag behind the
+      # dictionary they justify. The gate moves on days the dictionary does not,
+      # which is why it is part of the change check.
+      - name: Commit dictionary changes
+        run: |
+          cd ..
+          TRACKED="server/words.txt server/confirmed-words.txt stats/prune-gate.json"
+
+          if [ -z "$(git status --porcelain $TRACKED)" ]; then
+            echo "Dictionary and gate unchanged, nothing to commit"
             exit 0
           fi
 
-          # Read predicted words if file exists
-          if [ -s predictions.txt ]; then
-            cat predictions.txt > predicted-words-env.txt
+          cat server/commit-msg-classic.txt server/commit-msg-mini.txt \
+            > server/commit-msg.txt 2>/dev/null || true
+
+          git add $TRACKED
+          if [ -s server/commit-msg.txt ]; then
+            git commit -F server/commit-msg.txt
           else
-            echo "" > predicted-words-env.txt
-          fi
-
-          # Read current words.txt
-          if [ -s words.txt ]; then
-            cat words.txt > current-words-env.txt
-          else
-            echo "" > current-words-env.txt
-          fi
-
-          # Create a temporary JS file for processing words
-          cat > process-words.mjs << 'EOF'
-          import fs from 'fs/promises';
-
-          async function updateWords() {
-            try {
-              // Read from files instead of environment variables
-              const actualWordsRaw = await fs.readFile('actual-words-env.txt', 'utf8');
-              const predictedWordsRaw = await fs.readFile('predicted-words-env.txt', 'utf8');
-              const currentWordsRaw = await fs.readFile('current-words-env.txt', 'utf8');
-              
-              const actualWords = actualWordsRaw.trim().split(/\s+/).filter(Boolean);
-              const predictedWords = predictedWordsRaw.trim().split(/\s+/).filter(Boolean);
-              const currentWords = currentWordsRaw.trim().split(/\s+/).filter(Boolean);
-              
-              // Find words to add (in actual but not in current)
-              const wordsToAdd = actualWords.filter(word => !currentWords.includes(word));
-              
-              // Find false positives (in predicted but not in actual)
-              const falsePositives = predictedWords.filter(word => !actualWords.includes(word));
-              
-              // A thin scrape (bonus list missed, modal half-loaded) would treat
-              // real answers as false positives and delete them. Adds are still
-              // safe: every scraped word was shown as an official answer.
-              // Classic boards in the stats history never dropped below 46.
-              const MIN_ACTUAL_FOR_PRUNE = 30;
-              const prune = actualWords.length >= MIN_ACTUAL_FOR_PRUNE;
-              const wordsToRemove = prune
-                ? falsePositives.filter(word => currentWords.includes(word))
-                : [];
-
-              if (!prune) {
-                console.log(
-                  `Scrape looks thin (${actualWords.length} answers); adding misses but skipping prune`
-                );
-              }
-              
-              console.log('Words to add:', wordsToAdd);
-              console.log('False positives:', falsePositives);
-              console.log('Words to remove:', wordsToRemove);
-              
-              if (wordsToAdd.length === 0 && wordsToRemove.length === 0) {
-                console.log('No changes needed.');
-                process.exit(1); // Exit with error code to indicate no changes
-              }
-              
-              // Update words.txt - add new words and remove false positives
-              const updatedWords = [...new Set([...currentWords, ...wordsToAdd])]
-                .filter(word => !wordsToRemove.includes(word))
-                .sort();
-              
-              await fs.writeFile('words.txt', updatedWords.join('\n'));
-              
-              // Create commit message
-              let commitMsg = '';
-              if (wordsToAdd.length > 0 && wordsToRemove.length > 0) {
-                commitMsg = `Update words.txt: added ${wordsToAdd.length} words, removed ${wordsToRemove.length} false positives\n\n`;
-              } else if (wordsToAdd.length > 0) {
-                commitMsg = `Update words.txt: added ${wordsToAdd.length} new words\n\n`;
-              } else {
-                commitMsg = `Update words.txt: removed ${wordsToRemove.length} false positives\n\n`;
-              }
-              
-              if (wordsToAdd.length > 0) {
-                commitMsg += `Added: ${wordsToAdd.join(', ')}\n`;
-              }
-              
-              if (wordsToRemove.length > 0) {
-                commitMsg += `Removed: ${wordsToRemove.join(', ')}\n`;
-              }
-              
-              if (falsePositives.length > wordsToRemove.length) {
-                const otherFalsePositives = falsePositives.filter(word => !wordsToRemove.includes(word));
-                commitMsg += `Other false positives (not in words.txt): ${otherFalsePositives.join(', ')}`;
-              }
-              
-              await fs.writeFile('commit-msg.txt', commitMsg);
-              
-              console.log(`Updated words.txt: added ${wordsToAdd.length}, removed ${wordsToRemove.length}`);
-              process.exit(0); // Success
-            } catch (error) {
-              console.error('Error:', error);
-              process.exit(1);
-            }
-          }
-
-          updateWords();
-          EOF
-
-          # Exits 1 when classic needs no changes, which is not a failure. The
-          # step runs under `bash -e`, so an unguarded call would abort here.
-          node process-words.mjs || echo "No classic dictionary changes"
-
-          # Gate on the file, not on that exit code: mini may have added words
-          # on a day when classic had nothing to change.
-          if [ -z "$(git status --porcelain words.txt)" ]; then
-            echo "words.txt unchanged, nothing to commit"
-            exit 0
-          fi
-
-          # Persist every day's add/remove on main. The old word-updates + Sunday
-          # merge only kept one day's delta a week, so Monday–Saturday learning
-          # was discarded.
-          git add words.txt
-          if [ -s commit-msg.txt ]; then
-            git commit -F commit-msg.txt || echo "Nothing to commit"
-          else
-            git commit -m "Update words.txt: add mini answers" || echo "Nothing to commit"
+            git commit -m "Update dictionary: record confirmed answers and prune-gate evidence"
           fi
 
           git push origin HEAD:main || echo "Failed to push dictionary"
