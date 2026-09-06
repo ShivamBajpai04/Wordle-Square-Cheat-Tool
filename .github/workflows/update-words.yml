@@ -124,9 +124,8 @@ jobs:
           node temp-script.mjs
 
       # Mini answers feed the same words.txt. Must run before the classic step
-      # below, which rewrites the file from whatever it reads. Intentionally does
-      # not commit: words.txt has a single commit path, on the word-updates
-      # branch, so committing here too would conflict at the Sunday merge.
+      # below, which rewrites the file from whatever it reads. Mini does not
+      # commit: words.txt has a single commit path, after classic pruning.
       - name: Add mini answers to dictionary
         run: cd server && node scripts/update-mini-words.mjs
 
@@ -196,8 +195,21 @@ jobs:
               // Find false positives (in predicted but not in actual)
               const falsePositives = predictedWords.filter(word => !actualWords.includes(word));
               
-              // Find words to remove (false positives that are in current words)
-              const wordsToRemove = falsePositives.filter(word => currentWords.includes(word));
+              // A thin scrape (bonus list missed, modal half-loaded) would treat
+              // real answers as false positives and delete them. Adds are still
+              // safe: every scraped word was shown as an official answer.
+              // Classic boards in the stats history never dropped below 46.
+              const MIN_ACTUAL_FOR_PRUNE = 30;
+              const prune = actualWords.length >= MIN_ACTUAL_FOR_PRUNE;
+              const wordsToRemove = prune
+                ? falsePositives.filter(word => currentWords.includes(word))
+                : [];
+
+              if (!prune) {
+                console.log(
+                  `Scrape looks thin (${actualWords.length} answers); adding misses but skipping prune`
+                );
+              }
               
               console.log('Words to add:', wordsToAdd);
               console.log('False positives:', falsePositives);
@@ -262,10 +274,9 @@ jobs:
             exit 0
           fi
 
-          # Create or switch to update branch
-          git checkout -B word-updates
-
-          # Commit changes
+          # Persist every day's add/remove on main. The old word-updates + Sunday
+          # merge only kept one day's delta a week, so Monday–Saturday learning
+          # was discarded.
           git add words.txt
           if [ -s commit-msg.txt ]; then
             git commit -F commit-msg.txt || echo "Nothing to commit"
@@ -273,15 +284,4 @@ jobs:
             git commit -m "Update words.txt: add mini answers" || echo "Nothing to commit"
           fi
 
-          # Push changes
-          git push -f origin word-updates || echo "Failed to push changes"
-
-      - name: Merge to main on Sunday
-        run: |
-          if [ "$(date -u +'%w')" -eq 0 ]; then
-            git checkout main
-            git merge word-updates || echo "Merge failed, manual intervention needed"
-            git push origin main || echo "Failed to push to main"
-          else
-            echo "Today is not Sunday. Skipping merge."
-          fi
+          git push origin HEAD:main || echo "Failed to push dictionary"

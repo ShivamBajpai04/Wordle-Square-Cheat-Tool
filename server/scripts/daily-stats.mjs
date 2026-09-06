@@ -45,9 +45,14 @@ export function computeStats(actualWords, predictedWords, dictionaryWords) {
   const falsePositives = [...predicted].filter((w) => !actual.has(w));
 
   // Mirrors the dictionary update step so the report stays accurate even if
-  // that step is skipped or fails
+  // that step is skipped or fails. Same 30-answer floor: a thin scrape must
+  // not be reported as a mass prune we did not actually apply.
+  const MIN_ACTUAL_FOR_PRUNE = 30;
   const wordsToAdd = [...actual].filter((w) => !dictionary.has(w));
-  const wordsToRemove = falsePositives.filter((w) => dictionary.has(w));
+  const wordsToRemove =
+    actual.size >= MIN_ACTUAL_FOR_PRUNE
+      ? falsePositives.filter((w) => dictionary.has(w))
+      : [];
 
   return {
     totalActual: actual.size,
