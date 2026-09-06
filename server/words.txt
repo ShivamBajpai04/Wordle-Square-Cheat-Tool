@@ -9087,7 +9087,6 @@ bitstock
 bitsy
 bitt
 bittacidae
-bitte
 bitten
 bitter
 bittercress
@@ -25129,7 +25128,6 @@ ebenaceae
 ebenales
 ebike
 ebionite
-ebit
 ebitda
 eblis
 ebola
@@ -25380,6 +25378,7 @@ eelblenny
 eelgrass
 eellike
 eelpout
+eels
 eelworm
 een
 eensy
@@ -25617,6 +25616,7 @@ elated
 elater
 elaterid
 elateridae
+elates
 elating
 elation
 elavil
@@ -29466,6 +29466,7 @@ fifthly
 fifths
 fifties
 fiftieth
+fiftieths
 fifty
 fig
 figeater
@@ -29516,6 +29517,7 @@ filename
 filer
 files
 filet
+filets
 filial
 filiate
 filiation
@@ -29562,6 +29564,7 @@ filter
 filth
 filthily
 filthiness
+filths
 filthy
 filtrate
 filtration
@@ -29796,13 +29799,11 @@ fitment
 fitness
 fits
 fitspiration
-fitte
 fitted
 fitter
 fitting
 fittingly
 fittingness
-fitts
 fitzgerald
 five
 fivefold
@@ -30132,7 +30133,6 @@ flit
 flitch
 flite
 flits
-flitt
 flitter
 flnc
 float
@@ -32811,7 +32811,6 @@ gilder
 gildhall
 gilding
 gilds
-gilet
 gilgamesh
 gilgamish
 gill
@@ -41768,6 +41767,7 @@ jeerer
 jeering
 jeeringly
 jeers
+jees
 jeeze
 jefes
 jeffers
@@ -45788,7 +45788,6 @@ liths
 lithuania
 lithuanian
 lithuresis
-litie
 litigant
 litigate
 litigation
@@ -46467,7 +46466,6 @@ lozal
 lozen
 lozenge
 lozier
-ltte
 luach
 luanda
 luau
@@ -50496,7 +50494,6 @@ mizzen
 mizzenmast
 mizzle
 mizzy
-mlitt
 mmkay
 mmpi
 mna
@@ -58377,6 +58374,7 @@ pears
 peart
 pearter
 peary
+peas
 peasant
 peasanthood
 peasantry
@@ -72283,6 +72281,7 @@ shrugs
 shrunk
 shrunken
 shtar
+shtetl
 shtick
 shtickl
 shtik
@@ -80489,7 +80488,6 @@ tiara
 tiars
 tiber
 tiberius
-tibet
 tibetan
 tibia
 tibial
@@ -80624,6 +80622,7 @@ tilt
 tilted
 tilter
 tilth
+tilths
 tilts
 tiltyard
 timalia
@@ -82587,7 +82586,6 @@ tuesday
 tufa
 tufas
 tuff
-tuffe
 tuffet
 tuffs
 tuft
@@ -86898,6 +86896,7 @@ viewpoint
 views
 viewy
 vifda
+viff
 viffs
 vig
 vigas
@@ -87214,6 +87213,7 @@ vitro
 vitta
 vittaria
 vittariaceae
+vittle
 vituperate
 vituperation
 vituperative
