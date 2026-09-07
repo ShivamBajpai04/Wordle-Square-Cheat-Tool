@@ -2122,6 +2122,7 @@ aladdin
 alae
 alalia
 alamo
+alan
 aland
 alane
 alang
@@ -2785,6 +2786,7 @@ amarelle
 amaretto
 amari
 amarillo
+amarna
 amaro
 amaryllidaceae
 amaryllis
@@ -2805,7 +2807,7 @@ amatungulu
 amauropelta
 amaurosis
 amaurotic
-amaut
+amauti
 amaze
 amazed
 amazement
@@ -2949,7 +2951,6 @@ ametria
 ametropia
 ametropic
 amex
-amhara
 amharic
 ami
 amia
@@ -3342,7 +3343,6 @@ anastomotic
 anastomus
 anastrophe
 anastylosis
-anata
 anathema
 anathematisation
 anathematise
@@ -4696,7 +4696,6 @@ araks
 arales
 aralia
 araliaceae
-aram
 aramaean
 aramaic
 aramaicism
@@ -5159,7 +5158,6 @@ arnica
 arnis
 arnold
 arnoseris
-arnut
 aro
 aroba
 aroid
@@ -5183,7 +5181,6 @@ arpen
 arpent
 arquebus
 arrack
-arrah
 arraign
 arraignment
 arrange
@@ -5362,7 +5359,6 @@ arvicola
 arvo
 arvos
 ary
-aryan
 aryl
 aryls
 arytaenoid
@@ -20332,6 +20328,7 @@ dankness
 danks
 danmark
 danny
+dans
 danse
 danseur
 danseuse
@@ -47638,6 +47635,7 @@ manda
 mandaean
 mandaeanism
 mandala
+mandalas
 mandalay
 mandamus
 mandara
@@ -47760,6 +47758,7 @@ maniraptor
 maniraptora
 manis
 manitoba
+manitu
 mankato
 mankind
 manks
@@ -47795,6 +47794,7 @@ manpad
 manpower
 manque
 manroot
+mans
 mansard
 mansart
 manse
@@ -47842,6 +47842,7 @@ mantua
 manty
 manual
 manually
+manuary
 manubrium
 manufactory
 manufacture
@@ -47895,7 +47896,6 @@ maraco
 marae
 marah
 maral
-maran
 marang
 maranta
 marantaceae
@@ -47904,7 +47904,6 @@ marasca
 maraschino
 marasmius
 marasmus
-marat
 maratha
 marathi
 marathon
@@ -48069,7 +48068,6 @@ marquetry
 marquette
 marquis
 marquise
-marra
 marrakech
 marrakesh
 marrano
@@ -48146,6 +48144,7 @@ marzipan
 mas
 masa
 masai
+masala
 masas
 mascara
 mascarpone
@@ -48278,7 +48277,6 @@ masut
 mat
 matabele
 matador
-matai
 matakam
 matamoros
 match
@@ -48409,10 +48407,10 @@ mauls
 maulstick
 maums
 maumy
+maun
 maund
 maunder
 maundy
-maunt
 maupassant
 mauriac
 mauritania
@@ -48424,6 +48422,7 @@ maurois
 mauser
 mausoleum
 mausy
+maut
 mauts
 mauve
 mauvy
@@ -51846,6 +51845,7 @@ munjs
 munjuk
 munro
 muntiacus
+muntin
 muntingia
 muntjac
 muon
@@ -52422,6 +52422,7 @@ nakedness
 nakedwood
 nakfa
 nakuru
+nala
 nalas
 nalchik
 naled
@@ -52453,7 +52454,6 @@ nammad
 nammu
 namoi
 nampa
-namtar
 namtaru
 namus
 nan
@@ -52537,7 +52537,6 @@ naproxen
 naps
 napu
 naqua
-nara
 naranjilla
 naras
 narc
@@ -52578,7 +52577,6 @@ nark
 narks
 narky
 narod
-narra
 narrate
 narration
 narrative
@@ -52635,6 +52633,7 @@ nat
 natak
 natal
 natality
+natant
 natantia
 natation
 natator
@@ -54657,6 +54656,7 @@ nuzzle
 nwbn
 nwbw
 nyaff
+nyah
 nyala
 nyams
 nyamuragira
@@ -64595,7 +64595,6 @@ quasi
 quasiparticle
 quass
 quassia
-quat
 quate
 quatercentenary
 quatercentennial
@@ -64725,7 +64724,6 @@ quilting
 quilts
 quims
 quin
-quina
 quinacrine
 quince
 quincentenary
@@ -64746,7 +64744,10 @@ quinquennium
 quins
 quinsy
 quint
+quinta
 quintal
+quintan
+quintar
 quintessence
 quintessential
 quintet
@@ -65208,7 +65209,6 @@ ramsons
 ramtil
 ramus
 ran
-rana
 ranales
 ranas
 ranatra
@@ -78533,6 +78533,7 @@ tailspin
 tailstock
 tailwind
 tailwort
+tain
 tains
 taint
 tainted
@@ -78788,7 +78789,6 @@ tantalum
 tantalus
 tantamount
 tante
-tanti
 tantilla
 tanto
 tantra
@@ -78852,6 +78852,7 @@ taradiddle
 tarahumara
 taraktagenos
 taraktogenos
+tarama
 tarantella
 tarantelle
 tarantino
@@ -82603,7 +82604,6 @@ tui
 tuile
 tuileries
 tuille
-tuina
 tuis
 tuism
 tuition
@@ -89629,7 +89629,6 @@ yaltopya
 yam
 yamaltu
 yamamoto
-yamani
 yamen
 yammer
 yamoussoukro
@@ -89637,7 +89636,6 @@ yamoussukro
 yampa
 yampy
 yamun
-yana
 yanan
 yandy
 yang
@@ -89680,7 +89678,6 @@ yarmulka
 yarmulke
 yarn
 yarns
-yarra
 yarrow
 yarrs
 yarta

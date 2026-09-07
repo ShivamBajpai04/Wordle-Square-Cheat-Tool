@@ -1,4 +1,25 @@
 {
   "version": 1,
-  "boards": {}
+  "boards": {
+    "classic": {
+      "pruneEnabled": false,
+      "observations": 6,
+      "days": 1,
+      "firstObserved": "2026-09-07",
+      "lastObserved": "2026-09-07",
+      "lastContradiction": null,
+      "unlockedOn": null,
+      "relockedOn": null
+    },
+    "mini": {
+      "pruneEnabled": false,
+      "observations": 2,
+      "days": 1,
+      "firstObserved": "2026-09-07",
+      "lastObserved": "2026-09-07",
+      "lastContradiction": null,
+      "unlockedOn": null,
+      "relockedOn": null
+    }
+  }
 }
