@@ -25777,6 +25777,7 @@ ellwand
 elm
 elmen
 elmont
+elms
 elmwood
 elocute
 elocution
@@ -27055,6 +27056,7 @@ erivan
 erk
 erlang
 erlenmeyer
+erm
 ermine
 ern
 erne
@@ -33325,6 +33327,7 @@ gnostic
 gnosticism
 gnows
 gnu
+gnus
 goa
 goad
 goaded
@@ -34605,6 +34608,7 @@ gunpoint
 gunpowder
 gunrunner
 gunrunning
+guns
 gunshot
 gunsight
 gunslinger
@@ -34681,6 +34685,7 @@ guyanese
 guyed
 guyle
 guyot
+guys
 guyse
 guzzle
 guzzler
@@ -37752,6 +37757,7 @@ huggy
 hughes
 hugo
 hugoesque
+hugs
 hugueninia
 huguenot
 huh
@@ -37878,6 +37884,7 @@ hundred
 hundredfold
 hundredth
 hundredweight
+hung
 hungarian
 hungarumlaut
 hungary
@@ -37892,6 +37899,7 @@ hunkpapa
 hunks
 hunky
 hunnemannia
+huns
 hunt
 hunted
 hunter
@@ -37955,7 +37963,6 @@ husking
 husks
 husky
 husos
-huss
 hussar
 hussein
 husserl
@@ -38456,7 +38463,7 @@ hyracotherium
 hyrax
 hyson
 hyssop
-hyssopus
+hyssops
 hysterectomy
 hysteresis
 hysteria
@@ -42691,6 +42698,7 @@ keflin
 keftab
 keg
 kegful
+kegs
 kehua
 keirs
 keister
@@ -43331,9 +43339,10 @@ knockout
 knocks
 knockwurst
 knoll
-knoop
+knop
 knops
 knosp
+knosps
 knossos
 knot
 knotgrass
@@ -44333,6 +44342,7 @@ lath
 lathe
 lathee
 lather
+lathers
 lathery
 lathes
 lathi
@@ -47509,6 +47519,7 @@ mallophaga
 mallotus
 mallow
 malls
+malm
 malmo
 malms
 malmsey
@@ -48319,6 +48330,7 @@ maternalism
 maternalistic
 maternally
 maternity
+maters
 mates
 matey
 mateys
@@ -48832,6 +48844,7 @@ megilp
 megohm
 megrim
 megrims
+meh
 meids
 meiko
 meils
@@ -48950,6 +48963,7 @@ melosa
 melospiza
 melphalan
 melpomene
+mels
 melt
 meltability
 meltable
@@ -54191,7 +54205,6 @@ noona
 noonday
 noons
 noontide
-noops
 noose
 nootka
 noove
@@ -55118,7 +55131,6 @@ oedogoniales
 oedogonium
 oedometer
 oenanthe
-oengus
 oenologist
 oenology
 oenomel
@@ -55596,7 +55608,7 @@ oopak
 ooped
 oophorectomy
 oophoritis
-oopsy
+oops
 oor
 oorie
 oos
@@ -55727,6 +55739,7 @@ oporto
 opossum
 oppa
 oppenheimer
+oppo
 opponent
 opportune
 opportunely
@@ -56174,7 +56187,6 @@ osmotic
 osmotically
 osmund
 osmundaceae
-osone
 osprey
 osseous
 ossete
@@ -56317,6 +56329,7 @@ oundy
 oup
 oupas
 ouped
+ouph
 ouphe
 ouphs
 our
@@ -58548,6 +58561,7 @@ pegleg
 pegma
 pegmatite
 pegos
+pegs
 peh
 pehlevi
 peignoir
@@ -58745,7 +58759,6 @@ pensively
 pensiveness
 penstemon
 penstock
-pensy
 pent
 pentacle
 pentad
@@ -62065,7 +62078,6 @@ poundal
 pounder
 pounding
 pounds
-poupe
 poupt
 pour
 pourboire
@@ -64058,6 +64070,7 @@ puppis
 puppy
 puppyish
 puppylike
+pups
 pupus
 pur
 purace
@@ -73757,7 +73770,6 @@ snobbism
 snobby
 snobs
 snods
-snoek
 snog
 snogging
 snogs
@@ -73770,6 +73782,7 @@ snool
 snoop
 snooper
 snoopiness
+snoops
 snoopy
 snoot
 snootily
@@ -74246,6 +74259,7 @@ sonority
 sonorous
 sonorously
 sonorousness
+sons
 sonse
 sonsie
 sonsy
@@ -74260,7 +74274,6 @@ sools
 soon
 sooner
 soonest
-soops
 soot
 soote
 sooth
@@ -74424,6 +74437,7 @@ soupfin
 soupiness
 soups
 soupspoon
+soupspoons
 soupy
 sour
 sourball
@@ -74827,7 +74841,6 @@ spendthrift
 spengler
 spenser
 spent
-speos
 spergula
 spergularia
 sperm
@@ -75241,8 +75254,6 @@ sporty
 sporulate
 sporulation
 sposa
-sposh
-sposo
 spot
 spotless
 spotlessly
@@ -77415,6 +77426,7 @@ sunup
 suomi
 suona
 sup
+supe
 suped
 super
 superable
@@ -77616,6 +77628,7 @@ suprematist
 supreme
 supremely
 supremo
+sups
 suq
 sur
 sura
@@ -77763,6 +77776,7 @@ suspiciousness
 suspiration
 suspire
 susquehanna
+suss
 sussex
 sustain
 sustainability
@@ -78598,6 +78612,7 @@ talented
 talentless
 talentlessness
 taler
+talers
 tales
 taleteller
 tali
@@ -80040,6 +80055,7 @@ therm
 thermal
 thermalgesia
 thermally
+thermals
 thermel
 thermic
 thermidor
@@ -80088,6 +80104,7 @@ thermostatically
 thermostatics
 thermotherapy
 thermotropism
+therms
 theropod
 theropoda
 thesaurus
@@ -84811,6 +84828,7 @@ unpay
 unpeaceable
 unpeaceful
 unpeg
+unpegs
 unpen
 unpeopled
 unperceivable
@@ -85875,7 +85893,6 @@ uskub
 usmc
 usnea
 usneaceae
-usps
 usque
 ussher
 ussr
