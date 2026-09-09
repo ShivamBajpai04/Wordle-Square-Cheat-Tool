@@ -789,7 +789,6 @@ acokanthera
 acold
 acolyte
 aconcagua
-acone
 aconite
 aconitum
 acoraceae
@@ -3390,6 +3389,7 @@ ancistrodon
 ancle
 ancohuma
 ancon
+anconal
 ancylidae
 ancylose
 ancylostomatidae
@@ -13948,7 +13948,6 @@ cetrimide
 cetus
 cetyl
 cewa
-ceylon
 ceylonese
 ceylonite
 cezanne
@@ -15567,6 +15566,7 @@ clayeyness
 clayiness
 clayishness
 claymore
+claypan
 clays
 claystone
 claytonia
@@ -16541,6 +16541,7 @@ columnist
 columnlike
 colure
 colutea
+coly
 colymbiformes
 colza
 coma
@@ -20228,7 +20229,6 @@ dally
 dalmane
 dalmatia
 dalmatian
-dalo
 dals
 dalton
 daltonism
@@ -20285,8 +20285,6 @@ damselfish
 damselfly
 damson
 dan
-dana
-danaea
 danaid
 danaidae
 danau
@@ -20296,6 +20294,7 @@ danceable
 danced
 dancer
 dances
+dancey
 dancing
 dancy
 danda
@@ -20519,7 +20518,6 @@ dawt
 dawts
 day
 dayal
-dayan
 daybed
 daybook
 dayboy
@@ -25386,6 +25384,7 @@ eery
 eeven
 eever
 eevns
+eew
 eff
 efface
 effaceable
@@ -41658,6 +41657,7 @@ jampack
 jampan
 jampot
 jamun
+jane
 janes
 jangle
 jangling
@@ -42689,6 +42689,7 @@ keeping
 keeps
 keepsake
 keeshond
+keet
 keets
 keeve
 kef
@@ -44094,7 +44095,6 @@ landwoman
 lane
 laned
 lanes
-laney
 lang
 langbeinite
 langlaufer
@@ -44817,6 +44817,7 @@ leitmotiv
 leitneria
 leitneriaceae
 lek
+leke
 leku
 lekvar
 lemaireocereus
@@ -52428,7 +52429,6 @@ naivety
 naja
 najadaceae
 najas
-najd
 najib
 naked
 nakedly
@@ -52471,10 +52471,10 @@ nampa
 namtaru
 namus
 nan
+nana
 nanaimo
 nanak
 nanas
-nance
 nancere
 nanchang
 nancy
@@ -52487,6 +52487,7 @@ nanking
 nanna
 nanning
 nanny
+nano
 nanocephalic
 nanocephaly
 nanogram
@@ -52518,7 +52519,6 @@ naomi
 naos
 nap
 napa
-napaea
 napalm
 napas
 nape
@@ -54201,7 +54201,6 @@ nookie
 nooks
 nooky
 noon
-noona
 noonday
 noons
 noontide
@@ -57365,6 +57364,7 @@ paltering
 paltriness
 paltry
 palus
+paly
 pam
 pamby
 pamelor
@@ -57388,7 +57388,6 @@ panatela
 panax
 pancake
 pancarditis
-pance
 panch
 panchayat
 panchayet
@@ -58313,10 +58312,8 @@ payables
 payback
 paycheck
 payday
-paye
 payed
 payee
-payena
 payer
 paygrade
 paying
@@ -79370,6 +79367,7 @@ televangelist
 televise
 television
 televisuality
+telework
 teleworking
 telex
 telfer
@@ -87779,6 +87777,7 @@ wantonly
 wantonness
 wants
 wanty
+wany
 wanze
 wap
 wapiti
@@ -88065,9 +88064,7 @@ waybill
 wayed
 wayfarer
 wayfaring
-wayland
 waylay
-wayne
 ways
 wayside
 wayward
@@ -88197,6 +88194,7 @@ weepy
 weer
 wees
 weest
+weet
 weete
 weets
 weevil
@@ -89038,6 +89036,7 @@ woful
 wog
 wojus
 wok
+woke
 woken
 woker
 wokka
@@ -89208,6 +89207,7 @@ wordsmith
 wordsworth
 wordsworthian
 wordy
+wore
 work
 workable
 workaday
@@ -89639,6 +89639,7 @@ yakka
 yakow
 yakut
 yakuza
+yald
 yale
 yales
 yalta
@@ -89653,7 +89654,6 @@ yamoussukro
 yampa
 yampy
 yamun
-yanan
 yandy
 yang
 yangon
@@ -89739,6 +89739,7 @@ yeads
 yeah
 yeahs
 yealm
+yean
 yeans
 year
 yearbook
