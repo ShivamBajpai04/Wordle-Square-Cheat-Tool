@@ -7,7 +7,6 @@ aalborg
 aalii
 aals
 aalst
-aalto
 aapas
 aardvark
 aardwolf
@@ -2290,7 +2289,6 @@ aletris
 aleurites
 aleurone
 aleuronic
-aleut
 aleutian
 aleutians
 aleve
@@ -3386,7 +3384,6 @@ ancientness
 ancients
 ancillary
 ancistrodon
-ancle
 ancohuma
 ancon
 anconal
@@ -6567,7 +6564,6 @@ ayapana
 ayatollah
 ayaya
 aye
-ayelp
 ayes
 aygre
 ayin
@@ -15439,7 +15435,6 @@ clamatores
 clamatorial
 clambake
 clamber
-clame
 clammily
 clamminess
 clammy
@@ -15753,7 +15748,6 @@ cloak
 cloaked
 cloakmaker
 cloakroom
-cloam
 clobber
 clochard
 cloche
@@ -43422,7 +43416,6 @@ koker
 kokka
 kokum
 kola
-kolam
 kolami
 kolas
 kolkata
@@ -44593,7 +44586,6 @@ leaning
 leanness
 leans
 leant
-leanto
 leany
 leap
 leaped
@@ -46335,6 +46327,7 @@ lothringen
 loti
 lotic
 lotion
+loto
 lotos
 lots
 lotsa
@@ -46367,6 +46360,7 @@ lounge
 lounger
 loungewear
 louns
+loup
 loupe
 loups
 lour
@@ -47445,7 +47439,6 @@ malawi
 malawian
 malax
 malaxis
-malay
 malaya
 malayalam
 malayan
@@ -47470,7 +47463,6 @@ maleficence
 maleficent
 malemute
 maleness
-maleo
 males
 maleseet
 malevich
@@ -47558,7 +47550,6 @@ malthusian
 malthusianism
 malti
 maltman
-malto
 maltose
 maltreat
 maltreated
@@ -47846,7 +47837,6 @@ mantle
 mantled
 mantlepiece
 mantlet
-manto
 mantophasmatodea
 mantra
 mantrap
@@ -52755,7 +52745,6 @@ navvy
 navy
 naw
 nawab
-nawal
 nawcwpns
 nay
 naysay
@@ -55406,7 +55395,6 @@ olympics
 olympism
 olympus
 omaha
-oman
 omani
 omas
 omasa
@@ -56425,6 +56413,7 @@ outlined
 outlive
 outlook
 outlying
+outman
 outmaneuver
 outmanoeuvre
 outmarch
@@ -60607,7 +60596,6 @@ planaria
 planarian
 planate
 planation
-planc
 planchet
 planchette
 planck
@@ -60988,8 +60976,6 @@ ploughman
 ploughshare
 ploughwoman
 ploughwright
-plouk
-plout
 plovdiv
 plover
 plow
@@ -61320,7 +61306,6 @@ polenta
 poler
 poles
 polestar
-poley
 polianthes
 police
 policeman
@@ -63774,7 +63759,6 @@ ptilonorhynchus
 ptish
 ptloris
 ptolemaic
-ptolemy
 ptomain
 ptomaine
 ptosis
@@ -79079,6 +79063,7 @@ taxidea
 taxidermist
 taxidermy
 taxidriver
+taxied
 taximan
 taximeter
 taxing
@@ -82713,7 +82698,6 @@ tupek
 tupelo
 tupik
 tupinambis
-tuple
 tuppence
 tuppeny
 tups
@@ -85629,7 +85613,6 @@ upjet
 upjohn
 upkeep
 upland
-uplay
 upled
 uplift
 uplifted
@@ -86785,6 +86768,7 @@ vexer
 vexes
 vexil
 vexing
+vext
 vezir
 via
 viability
@@ -87731,6 +87715,7 @@ walty
 waltz
 waltzer
 wamble
+wame
 wamed
 wames
 wampanoag
@@ -87761,7 +87746,6 @@ wank
 wanker
 wanks
 wanky
-wanle
 wanly
 wanna
 wannabe
@@ -89497,6 +89481,7 @@ xcvi
 xcvii
 xcviii
 xebec
+xed
 xenarthra
 xenia
 xenic
@@ -89640,7 +89625,6 @@ yakow
 yakut
 yakuza
 yald
-yale
 yales
 yalta
 yaltopya
@@ -89830,6 +89814,7 @@ yetis
 yett
 yetts
 yeuch
+yeuk
 yeuks
 yeuky
 yeven

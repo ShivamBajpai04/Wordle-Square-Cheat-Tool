@@ -3,20 +3,20 @@
   "boards": {
     "classic": {
       "pruneEnabled": false,
-      "observations": 22,
-      "days": 3,
+      "observations": 38,
+      "days": 4,
       "firstObserved": "2026-09-07",
-      "lastObserved": "2026-09-09",
+      "lastObserved": "2026-09-10",
       "lastContradiction": null,
       "unlockedOn": null,
       "relockedOn": null
     },
     "mini": {
       "pruneEnabled": false,
-      "observations": 21,
-      "days": 3,
+      "observations": 29,
+      "days": 4,
       "firstObserved": "2026-09-07",
-      "lastObserved": "2026-09-09",
+      "lastObserved": "2026-09-10",
       "lastContradiction": null,
       "unlockedOn": null,
       "relockedOn": null
