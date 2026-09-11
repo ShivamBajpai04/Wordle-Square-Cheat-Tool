@@ -1777,6 +1777,7 @@ agila
 agile
 agilely
 agility
+agin
 agincourt
 aging
 agio
@@ -4251,6 +4252,7 @@ apers
 apert
 aperture
 apery
+apes
 apetalous
 apex
 apgar
@@ -4610,6 +4612,7 @@ apricot
 april
 apriorism
 apron
+aproning
 aprons
 apropos
 apse
@@ -11977,6 +11980,7 @@ cager
 cages
 cagey
 cagily
+caging
 cagliostro
 cagney
 cagot
@@ -12605,12 +12609,12 @@ capes
 capet
 capetian
 capeweed
-capex
 capful
 caphs
 capibara
 capillarity
 capillary
+caping
 capital
 capitalisation
 capitalise
@@ -14001,8 +14005,11 @@ chagga
 chagrin
 chagrined
 chahta
+chai
 chain
+chaine
 chained
+chainer
 chainlike
 chains
 chainsaw
@@ -14168,6 +14175,8 @@ chapel
 chapelgoer
 chaperon
 chaperone
+chaperonin
+chaperoning
 chapfallen
 chapiter
 chaplain
@@ -14918,7 +14927,6 @@ chons
 choof
 chook
 choom
-choon
 choos
 choose
 chooser
@@ -15251,7 +15259,6 @@ cion
 cions
 cipher
 cippi
-cipro
 ciprofloxacin
 circa
 circadian
@@ -16237,7 +16244,6 @@ cogwheel
 cohab
 cohabit
 cohabitation
-cohan
 cohen
 cohere
 coherence
@@ -17275,7 +17281,6 @@ congruity
 congruous
 congruousness
 coni
-conia
 conic
 conical
 conically
@@ -17291,6 +17296,8 @@ coniferous
 conilurus
 conima
 conin
+conine
+coning
 coniogramme
 conium
 conjectural
@@ -26376,7 +26383,6 @@ enhancement
 enhancer
 enhancive
 enhydra
-eniac
 enigma
 enigmatic
 enigmatical
@@ -26702,7 +26708,6 @@ epaulette
 epauliere
 epee
 epees
-epena
 ependyma
 epenthesis
 epenthetic
@@ -27234,6 +27239,7 @@ essay
 essayer
 essayist
 essays
+esse
 esselen
 essen
 essence
@@ -31707,6 +31713,7 @@ gaborone
 gabriel
 gabs
 gabun
+gach
 gad
 gadaba
 gadabout
@@ -32443,10 +32450,8 @@ genic
 geniculate
 genie
 genii
-genin
 genio
 genip
-genipa
 genipap
 genista
 genital
@@ -32835,9 +32840,7 @@ gimps
 gimpy
 gin
 ginch
-ginep
 ginga
-ginge
 ginger
 gingerbread
 gingerly
@@ -32864,7 +32867,6 @@ ginmill
 ginny
 ginsberg
 ginseng
-ginzo
 gio
 giotto
 gip
@@ -35305,7 +35307,6 @@ hangs
 hangup
 hangwoman
 hangzhou
-hani
 hank
 hanked
 hanker
@@ -38494,7 +38495,6 @@ ibsen
 ibsenian
 ibuprofen
 icaco
-icao
 icarus
 icbm
 ice
@@ -40071,7 +40071,6 @@ infusorian
 inga
 ingan
 ingathering
-inge
 ingeminate
 ingenious
 ingeniously
@@ -40081,7 +40080,6 @@ ingenuity
 ingenuous
 ingenuously
 ingenuousness
-inger
 ingerman
 ingest
 ingesta
@@ -49291,6 +49289,7 @@ mesmerized
 mesmerizer
 mesmerizing
 mesne
+mesnes
 mesoamerica
 mesoamerican
 mesoblast
@@ -52376,7 +52375,6 @@ nagged
 nagger
 nagging
 naggy
-nagi
 nagor
 nagoya
 nah
@@ -52988,6 +52986,7 @@ nemic
 nemns
 nemophila
 nempt
+nene
 nenes
 nenets
 nenta
@@ -53053,13 +53052,11 @@ neotoma
 neotony
 neoza
 nep
-nepa
 nepal
 nepalese
 nepali
 nepenthaceae
 nepenthes
-neper
 nepeta
 nepheline
 nephelinite
@@ -53364,7 +53361,6 @@ newt
 newton
 newtonian
 newts
-nexin
 next
 nexts
 nexum
@@ -53550,7 +53546,6 @@ nimps
 nimravus
 nimrod
 nims
-nina
 nincompoop
 nine
 ninefold
@@ -53671,6 +53666,7 @@ nivas
 nivel
 nivose
 nix
+nixe
 nixed
 nixer
 nixes
@@ -54203,7 +54199,6 @@ nor
 noradrenaline
 nordic
 noreaster
-noreg
 norepinephrine
 norethandrolone
 norethindrone
@@ -57117,7 +57112,6 @@ pahoehoe
 pahos
 pahus
 paid
-paige
 paigle
 paiks
 pail
@@ -57125,7 +57119,6 @@ pailful
 paillasse
 pails
 pain
-paine
 pained
 painful
 painfully
@@ -57456,6 +57449,7 @@ panks
 panna
 panne
 panned
+pannes
 panni
 pannier
 pannikin
@@ -57473,6 +57467,7 @@ panorama
 panoramic
 panorpidae
 panpipe
+pans
 pansa
 pansexual
 pansinusitis
@@ -58552,7 +58547,6 @@ peh
 pehlevi
 peignoir
 pein
-peine
 peins
 peiping
 peirce
@@ -58687,7 +58681,6 @@ penicillamine
 penicillin
 penicillinase
 penicillium
-penie
 penile
 peninsula
 peninsular
@@ -58704,12 +58697,14 @@ penman
 penmanship
 penn
 penna
+pennae
 pennant
 pennate
 pennatula
 pennatulidae
 penne
 penned
+pennes
 penni
 penniless
 pennilessness
@@ -59994,7 +59989,6 @@ picofarad
 picoides
 picometer
 picometre
-picon
 picornavirus
 picosecond
 picot
@@ -60186,6 +60180,7 @@ pimpled
 pimply
 pimps
 pin
+pina
 pinaceae
 pinafore
 pinas
@@ -60215,7 +60210,7 @@ pinealoma
 pineapple
 pinecone
 pined
-piner
+pinene
 pines
 pinesap
 pinetum
@@ -60226,7 +60221,6 @@ pinfish
 pinfold
 ping
 pinga
-pinge
 pinger
 pingo
 pings
@@ -63151,6 +63145,7 @@ prongbuck
 pronged
 pronghorn
 prongy
+proning
 pronk
 pronominal
 pronoun
@@ -66748,7 +66743,6 @@ repellent
 repellently
 repelling
 repellingly
-repen
 repent
 repentance
 repentant
@@ -89524,7 +89518,6 @@ xerotes
 xerox
 xerus
 xhosa
-xian
 xiii
 xinjiang
 xiphias
@@ -90313,7 +90306,6 @@ zone
 zoned
 zoner
 zones
-zoning
 zonked
 zonks
 zonotrichia
@@ -90339,6 +90331,7 @@ zoomed
 zoomorphism
 zooms
 zoomy
+zooning
 zoonosis
 zoonotic
 zoons
