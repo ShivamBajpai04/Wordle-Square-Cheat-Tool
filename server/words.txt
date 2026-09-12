@@ -20939,8 +20939,8 @@ deedy
 deely
 deem
 deemed
+deeming
 deems
-deens
 deep
 deepen
 deepening
@@ -20956,6 +20956,7 @@ deers
 deerskin
 deerstalker
 deerstalking
+dees
 deet
 deets
 deeve
@@ -21153,6 +21154,7 @@ deific
 deification
 deify
 deign
+deigns
 deils
 deimos
 deink
@@ -21336,6 +21338,8 @@ demetrius
 demic
 demiglace
 demigod
+demigoddess
+demigods
 demijohn
 demilitarise
 demilitarize
@@ -21370,9 +21374,11 @@ democratization
 democratize
 democritus
 demode
+demoded
 demodulate
 demodulation
 demodulator
+demoed
 demogorgon
 demographer
 demographic
@@ -23670,6 +23676,7 @@ dodge
 dodged
 dodgem
 dodger
+dodges
 dodging
 dodgson
 dodgy
@@ -23678,7 +23685,6 @@ dodoma
 dodonaea
 dodos
 doe
-doei
 doeks
 doer
 doers
@@ -23826,12 +23832,11 @@ dominating
 domination
 dominatrix
 domine
-dominee
 domineer
 domineering
 domineeringly
 domineeringness
-domingo
+doming
 dominic
 dominica
 dominical
@@ -25291,6 +25296,7 @@ edaphosaurus
 eddies
 eddington
 eddo
+eddoes
 eddy
 edecrin
 edelweiss
@@ -25489,6 +25495,7 @@ egoistic
 egoistical
 egomania
 egomaniac
+egos
 egotism
 egotist
 egotistic
@@ -32321,8 +32328,11 @@ gebur
 gecko
 gecks
 ged
+geds
 gee
 geebung
+geed
+geeing
 geek
 geeked
 geeks
@@ -32523,6 +32533,7 @@ geochelone
 geochemistry
 geococcyx
 geode
+geodes
 geodesic
 geodesical
 geodesy
@@ -32769,6 +32780,7 @@ giddy
 gidgee
 gids
 gie
+gied
 gielgud
 gien
 gies
@@ -32865,6 +32877,7 @@ ginkgopsida
 ginks
 ginmill
 ginny
+gins
 ginsberg
 ginseng
 gio
@@ -33317,6 +33330,7 @@ gnomes
 gnomic
 gnomish
 gnomon
+gnoses
 gnosis
 gnostic
 gnosticism
@@ -33380,6 +33394,7 @@ goddamn
 goddamned
 goddard
 goddaughter
+godded
 goddess
 godel
 godet
@@ -33396,6 +33411,7 @@ godly
 godmother
 godown
 godparent
+gods
 godsend
 godso
 godson
@@ -33666,7 +33682,6 @@ gospeler
 gospeller
 gospels
 gossamer
-gosse
 gossip
 gossiper
 gossiping
@@ -33724,6 +33739,7 @@ governor
 governorship
 goves
 gowan
+gowd
 gowds
 gowfs
 gowks
@@ -40340,7 +40356,6 @@ insecure
 insecurely
 insecureness
 insecurity
-insee
 inseminate
 insemination
 insensate
@@ -48833,6 +48848,7 @@ megilp
 megohm
 megrim
 megrims
+megs
 meh
 meids
 meiko
@@ -49038,7 +49054,6 @@ mends
 mened
 menelaus
 menes
-menge
 menhaden
 menhir
 menial
@@ -49075,6 +49090,7 @@ mensa
 mensal
 mensch
 mense
+mensed
 menses
 mensh
 menshevik
@@ -49809,7 +49825,6 @@ mighty
 migma
 mignon
 mignonette
-migod
 migraine
 migrant
 migrate
@@ -49817,6 +49832,7 @@ migration
 migrational
 migrator
 migratory
+migs
 mihas
 mihis
 mihrab
@@ -49985,6 +50001,7 @@ mimamsa
 mime
 mimed
 mimeo
+mimeoed
 mimeograph
 mimer
 mimes
@@ -50050,13 +50067,10 @@ minestrone
 minesweeper
 minesweeping
 mineworker
-ming
-minge
 mingi
 minginess
 mingle
 mingling
-mings
 mingy
 mini
 miniate
@@ -50124,7 +50138,6 @@ minority
 minors
 minotaur
 minoxidil
-minse
 minsk
 minster
 minstrel
@@ -50574,6 +50587,7 @@ mocus
 mod
 modal
 modality
+modded
 mode
 model
 modeled
@@ -50584,6 +50598,7 @@ modeller
 modelling
 models
 modem
+modeming
 moder
 moderate
 moderately
@@ -50614,7 +50629,6 @@ modest
 modestly
 modestness
 modesty
-modge
 modicon
 modicum
 modifiable
@@ -50654,8 +50668,8 @@ mogar
 mogas
 moggy
 moghul
-mogos
 mogra
+mogs
 mogue
 mogul
 mohair
@@ -53542,6 +53556,7 @@ nimbus
 nimby
 nimiety
 nimitz
+nimmed
 nimps
 nimravus
 nimrod
@@ -55404,7 +55419,6 @@ omdah
 omdda
 omdeh
 omdurman
-omees
 omega
 omelet
 omelette
@@ -55431,7 +55445,6 @@ ommastrephes
 ommatidium
 ommel
 ommiad
-ommin
 omnes
 omnibus
 omnidirectional
@@ -56148,6 +56161,7 @@ osculate
 osculation
 osculator
 ose
+oses
 osetr
 oseys
 osier
@@ -70797,6 +70811,7 @@ seedwoman
 seedy
 seeger
 seeing
+seeings
 seek
 seeker
 seeking
@@ -70810,6 +70825,7 @@ seem
 seemed
 seeming
 seemingly
+seemings
 seemliness
 seemly
 seems
@@ -70838,6 +70854,7 @@ segmentation
 segmented
 segni
 segno
+segnos
 sego
 segol
 segos
@@ -70848,6 +70865,7 @@ segregation
 segregationism
 segregationist
 segregator
+segs
 segue
 segway
 sehri
@@ -73684,13 +73702,12 @@ sneap
 snebs
 sneck
 sned
+snedded
 sneds
-sneed
 sneer
 sneerer
 sneering
 sneeringly
-snees
 sneeze
 sneezer
 sneezeweed
@@ -73705,7 +73722,6 @@ snicker
 snickersnee
 snide
 snidely
-snied
 snies
 sniff
 sniffer
@@ -73716,7 +73732,6 @@ sniffs
 sniffy
 snifter
 snigger
-snigs
 snip
 snipe
 snipefish
@@ -74212,7 +74227,6 @@ songful
 songfulness
 songhai
 songlike
-songo
 songs
 songster
 songstress
@@ -89003,12 +89017,14 @@ wocks
 wodan
 wodehouse
 wodge
+wodges
 wodgy
 woe
 woebegone
 woeful
 woefully
 woefulness
+woes
 wof
 woful
 wog
