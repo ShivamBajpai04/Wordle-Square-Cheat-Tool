@@ -2,23 +2,23 @@
   "version": 1,
   "boards": {
     "classic": {
-      "pruneEnabled": false,
-      "observations": 67,
-      "days": 6,
+      "pruneEnabled": true,
+      "observations": 81,
+      "days": 7,
       "firstObserved": "2026-09-07",
-      "lastObserved": "2026-09-12",
+      "lastObserved": "2026-09-13",
       "lastContradiction": null,
-      "unlockedOn": null,
+      "unlockedOn": "2026-09-13",
       "relockedOn": null
     },
     "mini": {
-      "pruneEnabled": false,
-      "observations": 52,
-      "days": 6,
+      "pruneEnabled": true,
+      "observations": 77,
+      "days": 7,
       "firstObserved": "2026-09-07",
-      "lastObserved": "2026-09-12",
+      "lastObserved": "2026-09-13",
       "lastContradiction": null,
-      "unlockedOn": null,
+      "unlockedOn": "2026-09-13",
       "relockedOn": null
     }
   }

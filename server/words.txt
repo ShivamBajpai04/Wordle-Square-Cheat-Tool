@@ -13,7 +13,6 @@ aardwolf
 aargh
 aarhus
 aaron
-aarp
 aarti
 aas
 aba
@@ -4244,7 +4243,6 @@ apelike
 apennines
 aper
 apercu
-aperea
 aperient
 aperiodic
 aperitif
@@ -4572,7 +4570,6 @@ appressed
 apprisal
 apprise
 apprize
-appro
 approach
 approachability
 approachable
@@ -4609,7 +4606,6 @@ apraxic
 apres
 apresoline
 apricot
-april
 apriorism
 apron
 aproning
@@ -4925,7 +4921,6 @@ area
 aread
 areae
 areal
-arear
 areas
 areaway
 areca
@@ -38488,7 +38483,6 @@ hystricidae
 hystricomorpha
 hythe
 hytrin
-iaea
 iamb
 iambi
 iambic
@@ -41491,6 +41485,7 @@ itself
 ivanov
 ivied
 ivies
+ivorier
 ivory
 ivorybill
 ivy
@@ -42708,6 +42703,7 @@ keg
 kegful
 kegs
 kehua
+keir
 keirs
 keister
 kekchi
@@ -44248,6 +44244,8 @@ larnt
 larodopa
 larotid
 larousse
+larp
+larper
 larrea
 larrup
 lars
@@ -45637,6 +45635,7 @@ liopelma
 liopelmidae
 liothyronine
 lip
+lipa
 lipaemia
 liparidae
 liparididae
@@ -45644,6 +45643,7 @@ liparis
 lipas
 lipase
 lipchitz
+lipe
 lipectomy
 lipemia
 lipes
@@ -45676,6 +45676,7 @@ liposuction
 lipotropic
 lipotyphla
 lipped
+lipper
 lippi
 lippizan
 lippizaner
@@ -46418,7 +46419,7 @@ lovesick
 lovesickness
 lovesome
 lovey
-lovie
+lovier
 loving
 lovingly
 lovingness
@@ -54733,7 +54734,6 @@ oaks
 oakum
 oar
 oared
-oarer
 oarfish
 oarlock
 oars
@@ -57519,7 +57519,6 @@ panty
 pantyhose
 pantywaist
 panzer
-paoli
 paolo
 pap
 papa
@@ -57581,7 +57580,6 @@ pappoose
 pappose
 pappus
 pappy
-papri
 paprika
 papua
 papuan
@@ -57759,6 +57757,7 @@ pare
 pared
 paregmenon
 paregoric
+pareira
 paren
 parenchyma
 parenesis
@@ -58372,6 +58371,7 @@ pearl
 pearler
 pearlescent
 pearlfish
+pearlier
 pearlite
 pearls
 pearlweed
@@ -58920,6 +58920,7 @@ perea
 peregrinate
 peregrination
 peregrine
+pereia
 perejil
 peremptorily
 peremptory
@@ -60117,7 +60118,6 @@ pikul
 pilae
 pilaf
 pilaff
-pilao
 pilar
 pilary
 pilaster
@@ -60372,7 +60372,6 @@ piqueria
 piquet
 pir
 piracy
-pirai
 pirana
 pirandello
 piranga
@@ -62163,7 +62162,6 @@ pragmatist
 prags
 prague
 prahu
-praia
 prairial
 prairie
 praise
@@ -62189,6 +62187,7 @@ prankish
 prankishness
 pranks
 prankster
+prao
 praos
 praps
 prase
@@ -62230,6 +62229,7 @@ preak
 preakness
 preamble
 preanal
+preapproval
 prearrange
 prearrangement
 preassemble
@@ -62474,6 +62474,7 @@ preoccupied
 preoccupy
 preop
 preoperative
+preoral
 preordain
 preordination
 prep
@@ -62848,7 +62849,6 @@ pro
 proa
 proaccelerin
 proactive
-proal
 proas
 probabilism
 probabilistic
@@ -65317,7 +65317,6 @@ rapin
 rapine
 rapist
 rappahannock
-rappe
 rappee
 rappel
 rappeller
@@ -65503,6 +65502,7 @@ raver
 ravers
 raves
 ravey
+ravier
 ravigote
 ravigotte
 ravin
@@ -65652,6 +65652,7 @@ reapportion
 reapportionment
 reappraisal
 reappraise
+reapproval
 reaps
 rear
 reard
@@ -68611,6 +68612,8 @@ rugulah
 ruhr
 ruice
 ruin
+ruinate
+ruinates
 ruination
 ruined
 ruiner
@@ -79016,6 +79019,7 @@ taunts
 tauon
 taupe
 taurine
+taurines
 tauromachy
 taurotragus
 taurus
@@ -85789,9 +85793,11 @@ urinal
 urinalysis
 urinary
 urinate
+urinates
 urination
 urinator
 urine
+urines
 urman
 urmia
 urn
@@ -86087,7 +86093,6 @@ valetudinarian
 valetudinary
 valgus
 valhalla
-vali
 valiance
 valiancy
 valiant
@@ -86262,6 +86267,7 @@ variedness
 variegate
 variegated
 variegation
+varier
 varies
 varietal
 variety
