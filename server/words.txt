@@ -1922,6 +1922,7 @@ ahing
 ahint
 ahistorical
 ahold
+ahorse
 ahorseback
 ahoy
 ahpcrc
@@ -5546,7 +5547,6 @@ aspiring
 aspis
 aspleniaceae
 asplenium
-aspro
 asquint
 ass
 assagai
@@ -24771,6 +24771,7 @@ dup
 dupe
 duped
 duper
+dupers
 dupery
 dupes
 duple
@@ -25040,6 +25041,7 @@ earpiece
 earplug
 earreach
 earring
+ears
 earshot
 earsplitting
 earst
@@ -25072,6 +25074,7 @@ eased
 easel
 easement
 easer
+easers
 eases
 easier
 easily
@@ -27243,7 +27246,6 @@ essayist
 essays
 esse
 esselen
-essen
 essence
 essene
 essential
@@ -27681,7 +27683,6 @@ eviscerate
 evisceration
 evitable
 evite
-evo
 evocation
 evocative
 evohe
@@ -36898,7 +36899,6 @@ hizbullah
 hizen
 hmm
 hmong
-hoa
 hoach
 hoactzin
 hoaed
@@ -36963,6 +36963,7 @@ hoecake
 hoenir
 hoer
 hoers
+hoes
 hoffa
 hoffman
 hoffmann
@@ -37659,6 +37660,7 @@ houts
 houttuynia
 houyhnhnm
 houyhnhnms
+hove
 hovea
 hoved
 hovel
@@ -37666,7 +37668,7 @@ hoven
 hover
 hoverboard
 hovercraft
-hoves
+hovers
 how
 howard
 howay
@@ -41682,6 +41684,7 @@ japaneseness
 jape
 japed
 japer
+japers
 japery
 japes
 japheth
@@ -41698,6 +41701,7 @@ jarps
 jarrell
 jarring
 jarringly
+jars
 jarul
 jasey
 jasmine
@@ -42103,6 +42107,7 @@ josephus
 josh
 joshua
 joss
+josses
 jostle
 jostling
 josue
@@ -42116,6 +42121,7 @@ jotun
 jotunn
 joual
 jougs
+jouk
 jouks
 joule
 jounce
@@ -42298,6 +42304,7 @@ junta
 junto
 jupati
 jupaty
+jupe
 jupes
 jupiter
 jupon
@@ -43496,10 +43503,10 @@ korzybski
 kos
 kosciusko
 kosciuszko
-koses
 kosher
 kosherness
 kosovo
+koss
 kosteletzya
 kotar
 kotch
@@ -52781,6 +52788,7 @@ ncdc
 ndebele
 ndjamena
 nduja
+ndujas
 neafe
 neandertal
 neanderthal
@@ -53157,6 +53165,7 @@ neski
 nesokia
 ness
 nesselrode
+nesses
 nessie
 nest
 nester
@@ -56136,7 +56145,7 @@ orzo
 orzos
 osage
 osaka
-osars
+osar
 osasco
 osborne
 oscan
@@ -56184,6 +56193,7 @@ osmotically
 osmund
 osmundaceae
 osprey
+ossa
 osseous
 ossete
 ossia
@@ -56323,7 +56333,6 @@ ounce
 ounces
 oundy
 oup
-oupas
 ouped
 ouph
 ouphe
@@ -57777,12 +57786,12 @@ parentless
 pareo
 parer
 pares
+pareses
 paresis
 paresthesia
 paretic
 pareto
 pareu
-parev
 pareve
 parfait
 parge
@@ -57898,11 +57907,13 @@ parrotiopsis
 parrotlike
 parrs
 parry
+pars
 parse
 parsec
 parsee
 parseeism
 parser
+parses
 parsi
 parsiism
 parsimonious
@@ -58031,12 +58042,11 @@ passementerie
 passenger
 passer
 passerby
-passeres
 passeridae
 passeriformes
 passerina
 passerine
-passero
+passers
 passes
 passiflora
 passifloraceae
@@ -58663,12 +58673,12 @@ penchant
 pencil
 penciled
 pencilled
+pend
 pendant
 pendent
 pending
 pendragon
 pends
-pendu
 pendulous
 pendulum
 pened
@@ -59174,6 +59184,7 @@ persecution
 persecutor
 persephone
 persepolis
+perses
 perseus
 perseverance
 perseverate
@@ -62192,6 +62203,7 @@ praos
 praps
 prase
 praseodymium
+prases
 prat
 prate
 prater
@@ -62216,7 +62228,6 @@ prayerbook
 prayerful
 prays
 prazosin
-pre
 preach
 preacher
 preachification
@@ -62576,6 +62587,7 @@ presocratic
 press
 pressburg
 pressed
+presses
 pressing
 pressingly
 pressman
@@ -63879,6 +63891,7 @@ pugnacity
 puh
 puissance
 puissant
+puja
 pujah
 pujas
 pujunan
@@ -65311,10 +65324,11 @@ rapid
 rapidity
 rapidly
 rapidness
+rapidnesses
 rapids
 rapier
-rapin
 rapine
+rapines
 rapist
 rappahannock
 rappee
@@ -65324,6 +65338,7 @@ rapper
 rapport
 rapporteur
 rapprochement
+raps
 rapscallion
 rapso
 rapt
@@ -66664,7 +66679,6 @@ rendezvous
 rending
 rendition
 rends
-rendu
 renegade
 renege
 renegociate
@@ -66706,7 +66720,6 @@ rents
 renunciant
 renunciation
 renunciative
-reo
 reoil
 reopen
 reorder
@@ -66734,7 +66747,8 @@ repand
 reparable
 reparation
 repartee
-repas
+repass
+repasses
 repast
 repat
 repatriate
@@ -66946,6 +66960,7 @@ reseen
 resell
 resemblance
 resemble
+resend
 resent
 resentful
 resentfully
@@ -69442,7 +69457,6 @@ saphar
 saphead
 sapid
 sapidity
-sapidness
 sapience
 sapiens
 sapient
@@ -69492,7 +69506,6 @@ sapwood
 saqqara
 saqqarah
 saquinavir
-sar
 saraband
 saracen
 sarafem
@@ -69586,12 +69599,12 @@ sarraceniaceae
 sarraceniales
 sarsa
 sarsaparilla
+sarsen
 sarsenet
 sartor
 sartorial
 sartorius
 sarus
-sarvo
 sash
 sashay
 sashimi
@@ -70638,14 +70651,12 @@ searcher
 searching
 searchingly
 searchlight
-seare
 seared
 searing
 searobin
 sears
 seas
 seascape
-sease
 seashell
 seashore
 seasick
@@ -71296,6 +71307,7 @@ serai
 serail
 seral
 serape
+serapes
 seraph
 seraphic
 seraphical
@@ -71480,6 +71492,7 @@ setts
 setubal
 setup
 seurat
+sev
 sevastopol
 seven
 sevener
@@ -73858,8 +73871,11 @@ soaks
 soap
 soapberry
 soapbox
+soaper
+soapers
 soapfish
 soapiness
+soapinesses
 soaprock
 soaps
 soapstone
@@ -73868,7 +73884,6 @@ soapweed
 soapwort
 soapy
 soar
-soare
 soared
 soaring
 soars
@@ -74427,6 +74442,7 @@ soup
 soupcon
 soupfin
 soupiness
+soupinesses
 soups
 soupspoon
 soupspoons
@@ -85584,6 +85600,8 @@ unyoke
 unzip
 upanishad
 upanishads
+upas
+upases
 upbeat
 upbound
 upbow
@@ -86655,13 +86673,11 @@ verona
 veronal
 veronese
 veronica
-verpa
 verrazano
 verrazzano
 verruca
 verrucose
 verry
-versa
 versace
 versailles
 versant
@@ -86721,7 +86737,6 @@ vesiculate
 vesiculation
 vesiculitis
 vesiculovirus
-vespa
 vespasian
 vesper
 vespers
@@ -87434,7 +87449,6 @@ vonnegut
 voodoo
 voodooism
 voops
-vor
 voracious
 voraciously
 voraciousness
