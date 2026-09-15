@@ -9980,7 +9980,6 @@ booger
 boogeyman
 boogie
 boogy
-boohs
 booing
 book
 bookable
@@ -10019,9 +10018,7 @@ bookstore
 bookwoman
 bookworm
 booky
-boole
 boolean
-bools
 boom
 boomed
 boomer
@@ -11022,7 +11019,6 @@ brooklime
 brooklyn
 brooks
 brookweed
-brool
 broom
 broomcorn
 brooms
@@ -13573,6 +13569,7 @@ cedis
 cedrela
 cedrus
 cee
+cees
 cefadroxil
 cefobid
 cefoperazone
@@ -15387,8 +15384,6 @@ city
 cityfied
 cityscape
 citywide
-cive
-cives
 civet
 civic
 civics
@@ -16971,6 +16966,7 @@ conceivableness
 conceivably
 conceive
 conceiver
+conceives
 concenter
 concentrate
 concentrated
@@ -17282,6 +17278,7 @@ conically
 conidiophore
 conidiospore
 conidium
+conies
 conifer
 coniferales
 coniferophyta
@@ -25380,7 +25377,6 @@ eellike
 eelpout
 eels
 eelworm
-een
 eensy
 eerie
 eerily
@@ -27679,6 +27675,7 @@ evilly
 evilness
 evils
 evince
+evinces
 eviscerate
 evisceration
 evitable
@@ -29555,6 +29552,7 @@ filming
 filmmaker
 films
 filmy
+filo
 filon
 filos
 filoselle
@@ -29754,9 +29752,9 @@ fishgig
 fishhook
 fishily
 fishing
+fishless
 fishmonger
 fishnet
-fisho
 fishpaste
 fishplate
 fishpond
@@ -30175,6 +30173,7 @@ floor
 floorboard
 floored
 flooring
+floorless
 floors
 floorshow
 floorwalker
@@ -30205,7 +30204,6 @@ florilegium
 florin
 florio
 florist
-flors
 flory
 flosh
 floss
@@ -36461,7 +36459,6 @@ hesperiphona
 hesperis
 hesperus
 hesps
-hess
 hesse
 hessian
 hessonite
@@ -37334,6 +37331,7 @@ hoof
 hoofed
 hoofer
 hoofing
+hoofless
 hooflike
 hoofprint
 hoofs
@@ -37366,7 +37364,6 @@ hoopskirt
 hoopy
 hooray
 hoord
-hoors
 hoosegow
 hoosgow
 hoosh
@@ -38526,6 +38523,7 @@ icelandicness
 iceman
 icepick
 icers
+ices
 icetray
 icewoman
 ich
@@ -38554,6 +38552,7 @@ icker
 ickle
 icky
 icon
+icones
 iconic
 iconoclasm
 iconoclast
@@ -41305,7 +41304,6 @@ iseult
 isfahan
 ish
 isherwood
-ishes
 ishmael
 ishtar
 isinglass
@@ -45325,7 +45323,6 @@ lifestyle
 lifetime
 lifework
 lifey
-lifo
 lift
 lifted
 lifter
@@ -45946,6 +45943,7 @@ lobes
 lobipes
 lobito
 loblolly
+lobo
 lobos
 lobotes
 lobotidae
@@ -46143,7 +46141,6 @@ lollop
 lolls
 lolly
 lollygag
-lolo
 lolog
 loloish
 lolos
@@ -46216,6 +46213,7 @@ loo
 looby
 looed
 looey
+loof
 loofa
 loofah
 loofs
@@ -46336,6 +46334,7 @@ losses
 lossless
 lossy
 lost
+lostness
 lot
 lota
 lotah
@@ -52983,7 +52982,6 @@ neighbourliness
 neighbourly
 neist
 neither
-neive
 nejd
 nek
 nekton
@@ -53465,7 +53463,6 @@ nidularia
 nidulariaceae
 nidulariales
 nidus
-nie
 niebuhr
 niece
 nieces
@@ -53627,7 +53624,6 @@ niqab
 nirls
 nirly
 nirvana
-nis
 nisan
 nisei
 nisi
@@ -54857,7 +54853,9 @@ obo
 oboe
 oboes
 oboist
+obol
 obole
+oboles
 oboli
 obols
 obolus
@@ -55344,7 +55342,6 @@ oleaster
 olecranon
 olefin
 olefine
-olehs
 oleic
 olein
 oleo
@@ -55354,6 +55351,7 @@ oleophilic
 oleophobic
 oleoresin
 oleos
+oles
 oleum
 oleyl
 olfaction
@@ -55487,7 +55485,6 @@ onanism
 onanist
 once
 oncer
-onces
 oncet
 onchocerciasis
 oncidium
@@ -55518,6 +55515,7 @@ onerously
 onerousness
 oners
 onery
+ones
 onesie
 onetime
 ongoing
@@ -68099,7 +68097,6 @@ roguish
 roguishly
 roguishness
 roguy
-rohes
 rohun
 rohus
 rohypnol
@@ -70985,6 +70982,7 @@ sellotape
 sellout
 sells
 selma
+sels
 selsyn
 seltzer
 selva
@@ -71127,6 +71125,7 @@ seneschal
 senex
 sengi
 senhor
+senhors
 senile
 senility
 senior
@@ -71141,7 +71140,6 @@ sennit
 senor
 senora
 senorita
-sens
 sensa
 sensate
 sensation
@@ -71890,6 +71888,7 @@ shelvy
 shem
 shema
 shemozzle
+shen
 shenanigan
 shend
 sheng
@@ -72138,6 +72137,7 @@ shoo
 shoofly
 shook
 shool
+shools
 shoon
 shoos
 shoot
@@ -72169,6 +72169,7 @@ shores
 shoreward
 shoring
 shorl
+shorls
 shorn
 short
 shortage
@@ -72384,6 +72385,7 @@ sibyllic
 sibylline
 sic
 siccative
+sice
 sices
 sicht
 sichuan
@@ -74010,6 +74012,7 @@ sogginess
 soggy
 soh
 soho
+sohs
 sohur
 soigne
 soignee
@@ -74093,7 +74096,6 @@ solenogastres
 solenoid
 solenopsis
 solenostemon
-solent
 soler
 soles
 soleus
@@ -74101,6 +74103,7 @@ solfa
 solfege
 solfeggio
 solferino
+soli
 solicit
 solicitation
 solicitor
@@ -74144,6 +74147,7 @@ solomons
 solon
 solos
 solresol
+sols
 solstice
 solubility
 soluble
@@ -74277,7 +74281,6 @@ sook
 sooks
 sooky
 soole
-sools
 soon
 sooner
 soonest
@@ -74327,7 +74330,6 @@ sorbefacient
 sorbent
 sorbet
 sorbian
-sorbo
 sorbonne
 sorbs
 sorcerer
@@ -86415,6 +86417,7 @@ veered
 veering
 veers
 veery
+vees
 veg
 vega
 vegan
@@ -86908,6 +86911,7 @@ vientiane
 vieques
 vier
 viers
+vies
 vietnam
 vietnamese
 vieux
