@@ -406,5 +406,17 @@
     "precision": 88.7,
     "dictionaryAdded": 35,
     "dictionaryRemoved": 13
+  },
+  {
+    "date": "2026-09-15",
+    "totalActual": 107,
+    "totalPredicted": 106,
+    "hits": 89,
+    "missed": 18,
+    "falsePositives": 17,
+    "recall": 83.2,
+    "precision": 84,
+    "dictionaryAdded": 18,
+    "dictionaryRemoved": 17
   }
 ]
