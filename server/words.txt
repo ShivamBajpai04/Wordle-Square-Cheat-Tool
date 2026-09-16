@@ -8353,6 +8353,7 @@ berkshire
 berkshires
 berlage
 berlin
+berline
 berliner
 berlioz
 berm
@@ -23857,7 +23858,6 @@ donbas
 donbass
 done
 donee
-doner
 donetsk
 donetske
 dong
@@ -23878,10 +23878,10 @@ donnish
 donny
 donor
 donors
+dons
 donsy
 donut
 donuts
-doo
 doob
 doobie
 doobs
@@ -24003,6 +24003,7 @@ dosed
 doseh
 dosemeter
 doser
+dosers
 doses
 dosh
 dosha
@@ -24185,7 +24186,6 @@ doxology
 doxorubicin
 doxy
 doxycycline
-doy
 doyen
 doyenne
 doyley
@@ -25458,6 +25458,7 @@ egalitarianism
 egalite
 egality
 egbert
+eger
 egeria
 egers
 egest
@@ -32495,6 +32496,7 @@ gentianaceae
 gentianales
 gentianella
 gentianopsis
+gentil
 gentile
 gentility
 gentle
@@ -32612,7 +32614,6 @@ gerfalcon
 geriatric
 geriatrician
 geriatrics
-gerle
 germ
 german
 germander
@@ -32726,7 +32727,6 @@ ghostwriter
 ghoul
 ghoulish
 ghouls
-ghrelin
 ghrf
 ghusl
 ghyll
@@ -35988,7 +35988,6 @@ heftiness
 hefts
 hefty
 hegari
-hegel
 hegelian
 hegemon
 hegemony
@@ -36004,6 +36003,7 @@ height
 heighten
 heightening
 heights
+heil
 heilong
 heils
 heimdal
@@ -36027,7 +36027,6 @@ hejra
 hela
 held
 heled
-helen
 helena
 helenium
 heleodytes
@@ -44896,7 +44895,6 @@ lenswoman
 lent
 lenten
 lententide
-lenti
 lentia
 lentibulariaceae
 lentic
@@ -53546,7 +53544,6 @@ nikah
 nikau
 nil
 nilas
-nile
 nilgai
 nills
 nilotic
@@ -53744,6 +53741,8 @@ noddy
 node
 nodes
 nodi
+nodose
+nods
 nodular
 nodulated
 nodule
@@ -54211,6 +54210,8 @@ noonday
 noons
 noontide
 noose
+nooser
+noosers
 nootka
 noove
 nopal
@@ -54458,7 +54459,6 @@ noxes
 noxious
 noxiously
 noxiousness
-noy
 noyau
 noyed
 noyes
@@ -54715,8 +54715,6 @@ nymphomaniacal
 nymphs
 nynorsk
 nyong
-nys
-nyse
 nyssa
 nyssaceae
 nystagmus
@@ -55513,7 +55511,6 @@ oneness
 onerous
 onerously
 onerousness
-oners
 onery
 ones
 onesie
@@ -55574,7 +55571,6 @@ ontology
 onus
 onward
 onwards
-ony
 onychium
 onychogalea
 onycholysis
@@ -55603,7 +55599,6 @@ oomiak
 oomiaks
 oomph
 oomycetes
-oon
 oonts
 oop
 oopak
@@ -55613,7 +55608,6 @@ oophoritis
 oops
 oor
 oorie
-oos
 ooses
 oosphere
 oospore
@@ -56958,7 +56952,6 @@ oye
 oyer
 oyers
 oyes
-oys
 oyster
 oystercatcher
 oysterfish
@@ -60506,7 +60499,6 @@ pityrogramma
 piu
 piuma
 piums
-piute
 pivos
 pivot
 pivotal
@@ -60866,7 +60858,6 @@ pledger
 pleep
 pleiad
 pleiades
-plein
 pleione
 pleiospilos
 pleistocene
@@ -60928,6 +60919,7 @@ pleurotus
 pleven
 plevna
 plews
+plex
 plexi
 plexiglas
 plexiglass
@@ -63914,7 +63906,6 @@ pule
 puled
 puler
 pules
-pulex
 puli
 pulicaria
 pulicidae
@@ -64132,6 +64123,8 @@ purity
 purkinje
 purl
 purlieu
+purlin
+purline
 purloin
 purloo
 purls
@@ -64743,7 +64736,6 @@ quince
 quincentenary
 quincentennial
 quincy
-quine
 quinidex
 quinidine
 quinine
@@ -64762,6 +64754,7 @@ quinta
 quintal
 quintan
 quintar
+quinte
 quintessence
 quintessential
 quintet
@@ -66316,8 +66309,6 @@ regeneration
 regent
 reges
 regest
-reget
-regex
 reggae
 reggane
 regia
@@ -66429,7 +66420,6 @@ reincarnate
 reincarnation
 reincarnationism
 reindeer
-reine
 reinforce
 reinforced
 reinforcement
@@ -66538,7 +66528,6 @@ reliant
 relic
 relics
 relict
-relie
 relied
 relief
 relies
@@ -66663,7 +66652,6 @@ remuneration
 remunerative
 remunerator
 remus
-ren
 renaissance
 renal
 rename
@@ -67023,6 +67011,7 @@ resit
 resize
 resmudge
 resod
+resods
 resold
 resole
 resolute
@@ -67457,7 +67446,6 @@ rheid
 rheidae
 rheiformes
 rheims
-rhein
 rheinland
 rheme
 rhenish
@@ -73777,12 +73765,12 @@ snobbishness
 snobbism
 snobby
 snobs
-snods
 snog
 snogging
 snogs
 snoke
 snood
+snoods
 snook
 snooker
 snooks
@@ -73792,6 +73780,7 @@ snooper
 snoopiness
 snoops
 snoopy
+snoose
 snoot
 snootily
 snootiness
@@ -73862,7 +73851,6 @@ snugly
 snugness
 snugs
 snush
-sny
 snyes
 soak
 soakage
@@ -73980,6 +73968,7 @@ sodomist
 sodomite
 sodomize
 sodomy
+sods
 soever
 sofa
 sofar
@@ -74283,6 +74272,7 @@ sooky
 soole
 soon
 sooner
+sooners
 soonest
 soot
 soote
@@ -78255,7 +78245,7 @@ syndicate
 syndication
 syndicator
 syndrome
-synds
+syne
 synecdoche
 synecdochic
 synecdochical
@@ -78281,6 +78271,7 @@ syngonium
 synizesis
 synod
 synodontidae
+synods
 synoecious
 synoicous
 synonym
@@ -79389,7 +79380,6 @@ telfer
 telferage
 telia
 telic
-telint
 teliospore
 tell
 teller
@@ -79585,6 +79575,8 @@ tenth
 tenthly
 tenthredinidae
 tenths
+tentie
+tentier
 tenting
 tentmaker
 tentorium
@@ -83173,7 +83165,6 @@ ulcers
 ule
 ulema
 ulemorrhagia
-ulex
 ulfila
 ulfilas
 ulitis
@@ -85714,7 +85705,6 @@ upter
 upthrow
 upthrust
 uptick
-uptie
 uptight
 uptime
 uptown
@@ -85793,7 +85783,6 @@ urethra
 urethral
 urethritis
 urethrocele
-urex
 urga
 urge
 urged
@@ -89920,6 +89909,7 @@ yodeller
 yodh
 yodhs
 yodle
+yods
 yoga
 yogacara
 yogas
@@ -89960,6 +89950,7 @@ yom
 yomim
 yomps
 yon
+yond
 yonder
 yoni
 yonic
@@ -89978,7 +89969,6 @@ yorkshire
 yorktown
 yorps
 yoruba
-yos
 yosemite
 yottabit
 yottabyte
