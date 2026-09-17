@@ -2085,6 +2085,7 @@ akee
 akees
 akela
 akene
+akenes
 akeridae
 akha
 akhbari
@@ -6060,7 +6061,6 @@ audaciousness
 audacity
 audad
 audax
-auden
 audenesque
 audibility
 audible
@@ -6121,7 +6121,6 @@ aulos
 aulostomidae
 aulostomus
 aumil
-aunes
 aunt
 auntie
 aunts
@@ -6511,6 +6510,7 @@ awner
 awning
 awninged
 awnless
+awns
 awny
 awoke
 awoken
@@ -7882,7 +7882,6 @@ bedder
 bedding
 bedeck
 bedel
-bedes
 bedesman
 bedeswoman
 bedevil
@@ -7913,6 +7912,7 @@ bedridden
 bedrock
 bedroll
 bedroom
+beds
 bedside
 bedsit
 bedsitter
@@ -20952,7 +20952,6 @@ deerstalking
 dees
 deet
 deets
-deeve
 deevs
 def
 deface
@@ -21476,7 +21475,6 @@ dendrolagus
 dendrology
 dendromecon
 dene
-deneb
 denebola
 denes
 dengue
@@ -22706,7 +22704,6 @@ dioon
 diophantus
 diopter
 dioptre
-dior
 diorama
 diorite
 dioscorea
@@ -24752,6 +24749,7 @@ dunlin
 dunno
 dunnock
 dunny
+duns
 dunsh
 dunt
 dunts
@@ -25382,7 +25380,6 @@ eerie
 eerily
 eeriness
 eery
-eeven
 eever
 eevns
 eew
@@ -25808,7 +25805,6 @@ elsewhere
 elsholtzia
 elsin
 elspar
-elt
 eluate
 elucidate
 elucidation
@@ -26217,7 +26213,6 @@ ender
 endergonic
 endermatic
 endermic
-endew
 endgame
 endicott
 ending
@@ -36272,7 +36267,6 @@ henchwoman
 hencoop
 hendiadys
 hendrix
-hends
 henge
 henhouse
 henna
@@ -37736,6 +37730,7 @@ hudson
 hudsonia
 hudud
 hue
+hued
 hueless
 huers
 huff
@@ -38584,7 +38579,6 @@ iddah
 iddat
 iddm
 iddut
-ide
 idea
 ideal
 idealisation
@@ -42006,7 +42000,6 @@ jocular
 jocularity
 jocund
 jocundity
-jodel
 jodhpur
 jodhpurs
 joe
@@ -42054,7 +42047,6 @@ jokey
 joking
 jokingly
 jokol
-jol
 joled
 joles
 jolie
@@ -42091,7 +42083,6 @@ jook
 jooks
 joplin
 joppa
-jor
 joram
 jordan
 jordanella
@@ -42640,7 +42631,6 @@ kaw
 kawaka
 kawas
 kawau
-kawed
 kay
 kayak
 kayle
@@ -42945,7 +42935,6 @@ khoum
 khowar
 khrushchev
 khuds
-khuen
 khufu
 khukuri
 khula
@@ -46026,7 +46015,6 @@ locust
 locusta
 locustidae
 locution
-lod
 lode
 loden
 lodes
@@ -46117,8 +46105,6 @@ loin
 loincloth
 loins
 loipe
-loir
-loire
 loirs
 loiseleuria
 loiter
@@ -46299,7 +46285,6 @@ lords
 lordship
 lordy
 lore
-lorel
 lorelei
 lorentz
 lorenz
@@ -55394,7 +55379,6 @@ olla
 ollari
 ollas
 ollav
-oller
 ollie
 olm
 olmec
@@ -55884,7 +55868,6 @@ orcins
 orcinus
 orcus
 orczy
-ord
 ordain
 ordained
 ordainer
@@ -66555,7 +66538,6 @@ relistening
 relit
 relive
 reliving
-rello
 reload
 relocate
 relocated
@@ -82131,7 +82113,6 @@ tricycle
 tricyclic
 tridacna
 tridacnidae
-tride
 trident
 tridymite
 tried
@@ -82338,6 +82319,7 @@ troke
 troked
 troland
 troll
+trolled
 troller
 trolley
 trolleybus
@@ -85523,6 +85505,7 @@ unvoiced
 unvoluntary
 unvulcanised
 unvulcanized
+unwakened
 unwanted
 unwantedly
 unwarily
@@ -86481,6 +86464,7 @@ venation
 vend
 vendable
 vendee
+vendees
 vendemiaire
 vender
 vendetta
@@ -86489,7 +86473,6 @@ vending
 vendition
 vendor
 vends
-vendu
 vendue
 veneer
 veneering
@@ -87668,6 +87651,7 @@ wakeful
 wakefulness
 wakeless
 waken
+wakened
 wakening
 waker
 wakes
@@ -88020,6 +88004,8 @@ watusi
 watutsi
 wauff
 waugh
+wauk
+wauked
 wauks
 waul
 waulk
@@ -88433,6 +88419,7 @@ wheft
 whelk
 whelm
 whelp
+when
 whence
 whens
 where
@@ -88445,6 +88432,7 @@ wherry
 whet
 whets
 whetstone
+whew
 whews
 whey
 wheys
