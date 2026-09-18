@@ -12,7 +12,6 @@ aardvark
 aardwolf
 aargh
 aarhus
-aaron
 aarti
 aas
 aba
@@ -1512,7 +1511,6 @@ aevum
 afald
 afanc
 afar
-afara
 afars
 afeard
 afeared
@@ -1710,6 +1708,7 @@ agelaius
 ageless
 agelessness
 agelong
+agemate
 agency
 agenda
 agendum
@@ -1726,6 +1725,7 @@ agerasia
 ageratina
 ageratum
 agers
+ages
 aggag
 agger
 aggeus
@@ -2792,7 +2792,6 @@ amaryllis
 amas
 amass
 amastia
-amate
 amaterasu
 amateur
 amateurish
@@ -4714,7 +4713,6 @@ ararat
 arariba
 araroba
 arars
-aras
 arauca
 araucaria
 araucariaceae
@@ -5172,6 +5170,8 @@ arousal
 arouse
 aroused
 arouser
+arowana
+arowanas
 arpas
 arpeggio
 arpen
@@ -5951,6 +5951,7 @@ atropidae
 atropine
 atropos
 atrovent
+ats
 atsugewi
 att
 attacapa
@@ -24996,7 +24997,6 @@ eaglet
 eagly
 eagre
 ealed
-eames
 ean
 eaned
 ear
@@ -25063,7 +25063,6 @@ earthworm
 earthy
 earwax
 earwig
-eas
 ease
 eased
 easel
@@ -25459,6 +25458,7 @@ eger
 egeria
 egers
 egest
+egesta
 egg
 eggar
 eggbeater
@@ -25477,7 +25477,6 @@ eggwhisk
 egis
 eglantine
 eglevsky
-egmas
 ego
 egocentric
 egocentrism
@@ -28664,6 +28663,7 @@ fanlight
 fanlike
 fanned
 fanny
+fano
 fanon
 fanos
 fansign
@@ -30476,7 +30476,6 @@ fondu
 fondue
 fones
 fonio
-fonly
 fons
 font
 fontanel
@@ -31321,6 +31320,7 @@ frothing
 frothy
 frottage
 frotteur
+frow
 froward
 frown
 frowning
@@ -31736,7 +31736,6 @@ gadsden
 gadso
 gadus
 gae
-gaea
 gaed
 gaelic
 gaen
@@ -31930,6 +31929,7 @@ gameness
 gamer
 games
 gamesmanship
+gamest
 gametangium
 gamete
 gametocyte
@@ -32312,7 +32312,6 @@ geartrain
 geasa
 geastraceae
 geastrum
-geats
 gebel
 gebur
 gecko
@@ -32386,6 +32385,7 @@ gemot
 gempylid
 gempylidae
 gempylus
+gems
 gemsbok
 gemsbuck
 gemstone
@@ -35484,7 +35484,6 @@ harmsworth
 harness
 harnessed
 harns
-haros
 harp
 harper
 harpia
@@ -35976,7 +35975,6 @@ heels
 heeltip
 heerd
 heeze
-hefa
 heft
 hefte
 heftiness
@@ -47237,6 +47235,7 @@ magnum
 magot
 magpie
 magritte
+mags
 maguey
 magus
 magyar
@@ -48775,6 +48774,7 @@ meffs
 mefloquine
 mefoxin
 meg
+mega
 megabat
 megabit
 megabucks
@@ -49409,7 +49409,6 @@ metaphysics
 metaphysis
 metaproterenol
 metarule
-metas
 metascience
 metasequoia
 metastability
@@ -55802,7 +55801,6 @@ oradexon
 oral
 orally
 orals
-oran
 orang
 orange
 orangeade
@@ -56837,6 +56835,7 @@ owlish
 owlishly
 owls
 owlt
+owly
 own
 owned
 owner
@@ -67944,7 +67943,6 @@ roams
 roan
 roanoke
 roans
-roany
 roar
 roared
 roarer
@@ -69227,7 +69225,6 @@ salvor
 salwar
 salyut
 salzburg
-sam
 samanala
 samara
 samarang
@@ -69477,7 +69474,6 @@ saraband
 saracen
 sarafem
 saragossa
-sarah
 sarajevo
 saran
 sarape
@@ -73463,7 +73459,6 @@ slyer
 slyly
 slyness
 slype
-sma
 smaak
 smack
 smacker
@@ -78681,6 +78676,7 @@ tameness
 tamer
 tamerlane
 tames
+tamest
 tamias
 tamiasciurus
 tamil
@@ -79395,7 +79391,6 @@ temblor
 temed
 temerarious
 temerity
-temes
 temnospondyli
 temp
 tempe
@@ -87719,6 +87714,7 @@ walton
 walty
 waltz
 waltzer
+waly
 wamble
 wame
 wamed
@@ -89593,7 +89589,6 @@ xyridales
 xyris
 xysti
 xysts
-yaars
 yaass
 yabas
 yabba
