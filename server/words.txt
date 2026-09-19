@@ -25749,6 +25749,7 @@ eliot
 elisabethville
 elision
 elite
+elites
 elitism
 elitist
 elixir
@@ -26861,6 +26862,7 @@ epithelioid
 epithelioma
 epithelium
 epithet
+epithets
 epitome
 epitomise
 epitomize
@@ -27191,7 +27193,6 @@ escutcheon
 eses
 esfahan
 esidrix
-esile
 eskalith
 eskar
 esker
@@ -36714,6 +36715,7 @@ himantoglossum
 himantopus
 himbo
 himmler
+hims
 hin
 hinau
 hinault
@@ -36764,7 +36766,6 @@ hip
 hipbone
 hiped
 hiper
-hipes
 hipflask
 hiphop
 hiplength
@@ -36796,6 +36797,7 @@ hipposideridae
 hipposideros
 hippotragus
 hippy
+hips
 hipster
 hipsters
 hipsurus
@@ -36811,6 +36813,8 @@ hirohito
 hiroshima
 hirschfeld
 hirschsprung
+hirsel
+hirsle
 hirsute
 hirsuteness
 hirsutism
@@ -36832,6 +36836,7 @@ hisser
 hisses
 hissing
 hissy
+hist
 histaminase
 histamine
 histidine
@@ -38169,7 +38174,6 @@ hyla
 hylactophryne
 hylas
 hyleg
-hyles
 hylic
 hylidae
 hylobates
@@ -39034,6 +39038,7 @@ impelled
 impellent
 impeller
 impelling
+impels
 impend
 impendence
 impendency
@@ -39270,7 +39275,6 @@ imputation
 impute
 imputrescible
 imshi
-imshy
 imuran
 inability
 inaccessibility
@@ -41293,7 +41297,6 @@ isentropic
 isere
 iseult
 isfahan
-ish
 isherwood
 ishmael
 ishtar
@@ -44916,7 +44919,6 @@ leopardess
 leopoldville
 leotard
 leotards
-lep
 lepadidae
 lepak
 lepanto
@@ -44993,7 +44995,6 @@ leresis
 lermontov
 lerner
 lerps
-les
 lesbian
 lesbianism
 lesbo
@@ -45635,7 +45636,6 @@ lipchitz
 lipe
 lipectomy
 lipemia
-lipes
 lipfern
 lipid
 lipidaemia
@@ -45709,7 +45709,6 @@ lirot
 lis
 lisboa
 lisbon
-lises
 lisinopril
 lisks
 lisle
@@ -45760,6 +45759,7 @@ literatim
 literature
 liters
 lites
+litest
 lithane
 lithe
 litheness
@@ -45787,7 +45787,6 @@ lithops
 lithospermum
 lithosphere
 lithotomy
-liths
 lithuania
 lithuanian
 lithuresis
@@ -46913,6 +46912,7 @@ lyrics
 lyrist
 lyrurus
 lysander
+lyse
 lysed
 lysenko
 lyses
@@ -50191,6 +50191,7 @@ mirror
 mirrored
 mirrorlike
 mirrs
+mirs
 mirth
 mirthful
 mirthfully
@@ -50268,6 +50269,7 @@ misdemeanour
 misdirect
 misdirection
 misdo
+mise
 miser
 miserabilism
 miserable
@@ -58608,7 +58610,6 @@ peloponnese
 peloponnesian
 peloponnesus
 pelota
-pelsh
 pelt
 pelta
 peltandra
@@ -59301,7 +59302,6 @@ pestiferous
 pestilence
 pestilent
 pestilential
-pestis
 pestle
 pesto
 pests
@@ -59365,6 +59365,7 @@ petromyzontidae
 petronius
 petroselinum
 petrous
+pets
 petted
 petter
 petteria
@@ -60322,6 +60323,7 @@ piperocaine
 pipers
 pipes
 pipet
+pipets
 pipette
 pipework
 pipewort
@@ -60354,7 +60356,6 @@ pique
 piqued
 piqueria
 piquet
-pir
 piracy
 pirana
 pirandello
@@ -60388,7 +60389,7 @@ piscidia
 piscine
 piscivorous
 pisco
-pises
+pish
 pisiform
 pisky
 pismire
@@ -60401,11 +60402,11 @@ pissed
 pisser
 pisses
 pissing
-pissis
 pissy
 pistachio
 pistacia
 piste
+pistes
 pistia
 pistil
 pistillate
@@ -60868,7 +60869,6 @@ pleonasm
 pleonaste
 pleonastic
 pleopod
-plesh
 plesianthropus
 plesiosaur
 plesiosauria
@@ -60881,7 +60881,6 @@ plethodontidae
 plethora
 plethoric
 plethysmograph
-plets
 pleura
 pleural
 pleuralgia
@@ -60933,7 +60932,7 @@ plinth
 pliny
 pliocene
 plips
-plish
+plisse
 ploat
 ploceidae
 ploceus
@@ -63749,7 +63748,6 @@ pterygium
 ptilocercus
 ptilocrinus
 ptilonorhynchus
-ptish
 ptloris
 ptolemaic
 ptomain
@@ -64763,7 +64761,6 @@ quirt
 quiscalus
 quisling
 quislingism
-quist
 quit
 quitclaim
 quite
@@ -67534,7 +67531,6 @@ rhubarb
 rhumb
 rhumba
 rhus
-rhy
 rhyacotriton
 rhyme
 rhymed
@@ -67774,6 +67770,9 @@ rimless
 rimmed
 rimon
 rimose
+rimple
+rimples
+rims
 rimu
 rimus
 rimy
@@ -67842,6 +67841,7 @@ ripple
 rippled
 rippling
 ripps
+rips
 ripsaw
 riptide
 riqqs
@@ -71240,6 +71240,8 @@ septuagesima
 septuagint
 septum
 septuple
+septuplet
+septuplets
 sepulcher
 sepulchral
 sepulchre
@@ -71430,13 +71432,13 @@ setae
 setal
 setaria
 setback
-seths
 setline
 setoff
 seton
 setophaga
 setose
 setout
+sets
 setscrew
 setswana
 sett
@@ -71526,6 +71528,7 @@ sext
 sextant
 sextet
 sextette
+sextile
 sextillion
 sexting
 sexto
@@ -71533,6 +71536,7 @@ sexton
 sexts
 sextuple
 sextuplet
+sextuplets
 sexual
 sexualise
 sexuality
@@ -71880,7 +71884,6 @@ sherry
 sherwood
 shes
 shetland
-shets
 sheva
 shevat
 shevchenko
@@ -72005,8 +72008,10 @@ shisha
 shishapangma
 shiso
 shist
+shists
 shit
 shite
+shites
 shithead
 shitless
 shitlist
@@ -72233,6 +72238,7 @@ shrewish
 shrewishly
 shrewishness
 shrewmouse
+shri
 shriek
 shrieked
 shrieking
@@ -72778,6 +72784,7 @@ sinusoidal
 sinusoidally
 sioux
 sip
+sipe
 siped
 sipes
 siphon
@@ -72814,12 +72821,10 @@ sirrah
 sirup
 sis
 sisal
-sise
 sises
 sisham
 siskin
 sison
-siss
 sissification
 sissified
 sissiness
@@ -72834,7 +72839,6 @@ sisterlike
 sisterly
 sistership
 sistrurus
-sists
 sisyphean
 sisyphus
 sisyridae
@@ -72851,6 +72855,7 @@ sith
 sitka
 sitophylus
 sitotroga
+sits
 sitsang
 sitta
 sitter
@@ -76127,6 +76132,7 @@ stipa
 stipe
 stipend
 stipendiary
+stipes
 stipple
 stippled
 stippler
@@ -76716,6 +76722,7 @@ stupefy
 stupefying
 stupendous
 stupendously
+stupes
 stupid
 stupidity
 stupidly
@@ -79719,7 +79726,6 @@ testate
 testator
 testatrix
 testcross
-teste
 tested
 testee
 tester
@@ -80760,7 +80766,6 @@ tiptoe
 tiptop
 tipuana
 tipulidae
-tipup
 tirade
 tiramisu
 tirana
@@ -85684,6 +85689,8 @@ upthrow
 upthrust
 uptick
 uptight
+uptilt
+uptilts
 uptime
 uptown
 upturn
