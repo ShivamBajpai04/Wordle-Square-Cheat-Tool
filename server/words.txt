@@ -1976,6 +1976,7 @@ aiming
 aimless
 aimlessly
 aimlessness
+aims
 ain
 ainas
 ainee
@@ -5080,7 +5081,6 @@ arius
 arizona
 arizonan
 arizonian
-arjuna
 ark
 arkansan
 arkansas
@@ -5404,6 +5404,7 @@ ascetically
 asceticism
 asch
 aschelminthes
+asci
 ascidiaceae
 ascidian
 ascii
@@ -5436,6 +5437,7 @@ ascus
 asdic
 asea
 asean
+aseismic
 asepsis
 aseptic
 asexual
@@ -12015,6 +12017,7 @@ cakewalk
 cakey
 cakile
 cakra
+cal
 calabash
 calabazilla
 calabria
@@ -12303,6 +12306,7 @@ cami
 camion
 camis
 camise
+camises
 camisole
 camlan
 camlet
@@ -19395,7 +19399,6 @@ crystallogen
 crystallographer
 crystallography
 csardas
-csis
 ctenidium
 ctenizidae
 ctenocephalides
@@ -25030,7 +25033,6 @@ earnestly
 earnestness
 earnings
 earns
-earnt
 earphone
 earpiece
 earplug
@@ -41302,7 +41304,6 @@ ishmael
 ishtar
 isinglass
 iskcon
-islam
 islamabad
 islamic
 islamise
@@ -41652,6 +41653,7 @@ jamon
 jampack
 jampan
 jampot
+jams
 jamun
 jane
 janes
@@ -41714,7 +41716,6 @@ jatropha
 jauks
 jaundice
 jaundiced
-jaune
 jaunt
 jauntily
 jauntiness
@@ -42287,7 +42288,6 @@ junkie
 junks
 junky
 junkyard
-juno
 junoesque
 junta
 junto
@@ -43769,7 +43769,6 @@ lachrymatory
 lachrymose
 lacing
 laciniate
-lacis
 lack
 lacka
 lackadaisical
@@ -44582,7 +44581,6 @@ leakproof
 leaks
 leaky
 leal
-leams
 lean
 leander
 leaned
@@ -45286,6 +45284,7 @@ lieu
 lieus
 lieutenancy
 lieutenant
+lieutenants
 lieve
 life
 lifeblood
@@ -47343,14 +47342,12 @@ maintenon
 maiolica
 mair
 mairs
-maise
 maisonette
 maisonnette
 maist
 maitland
 maitreya
 maize
-maja
 majagua
 majas
 majat
@@ -47393,7 +47390,6 @@ makis
 mako
 makomako
 makos
-mal
 malabo
 malabsorption
 malacanthidae
@@ -47813,7 +47809,6 @@ manso
 manson
 manta
 mantas
-mante
 mantegna
 manteidae
 mantel
@@ -49577,7 +49572,6 @@ mflop
 mgals
 mho
 mhorr
-miais
 miami
 miaou
 miaow
@@ -49736,6 +49730,7 @@ microwave
 microzide
 micruroides
 micrurus
+mics
 micturate
 micturition
 mid
@@ -50204,7 +50199,6 @@ mis
 misaddress
 misadventure
 misadvise
-misal
 misalign
 misalignment
 misalliance
@@ -52419,7 +52413,6 @@ naively
 naiveness
 naivete
 naivety
-naja
 najadaceae
 najas
 najib
@@ -52495,13 +52488,12 @@ nanosecond
 nanotechnology
 nanotube
 nanovolt
+nans
 nansen
-nante
 nantes
 nanti
 nanticoke
 nanto
-nants
 nantua
 nantucket
 nanty
@@ -52709,7 +52701,6 @@ naughtiness
 naughty
 naumachia
 naumachy
-naunt
 naupathia
 nauru
 nauruan
@@ -54380,7 +54371,6 @@ nouakchott
 nougat
 nought
 nougs
-nouja
 nould
 noule
 nouls
@@ -54572,7 +54562,6 @@ nummy
 numps
 numskull
 nun
-nuna
 nunavut
 nuncio
 nung
@@ -54580,6 +54569,7 @@ nunks
 nunky
 nunnery
 nunny
+nuns
 nunus
 nuphar
 nuprin
@@ -54629,6 +54619,7 @@ nuthatch
 nuthouse
 nutjob
 nutlet
+nutlets
 nutlike
 nutmeg
 nutria
@@ -56295,7 +56286,6 @@ ouche
 oucht
 oud
 ouds
-ouens
 ought
 oughta
 ouguiya
@@ -56362,6 +56352,8 @@ outdoorsperson
 outdoorswoman
 outdoorsy
 outdraw
+outearn
+outearns
 outed
 outer
 outercourse
@@ -56399,7 +56391,12 @@ outlaw
 outlawed
 outlawry
 outlay
+outlearn
+outlearns
+outlearnt
 outlet
+outlets
+outlie
 outlier
 outline
 outlined
@@ -65462,7 +65459,6 @@ raudixin
 rauli
 raunch
 raunchy
-rauns
 raupo
 rauvolfia
 rauwolfia
@@ -68905,6 +68901,7 @@ sacristan
 sacristy
 sacrosanct
 sacrum
+sacs
 sad
 sadat
 saddam
@@ -69002,10 +68999,8 @@ saharan
 saheb
 sahib
 sahuaro
-sai
 saice
 saick
-saics
 said
 saids
 saiga
@@ -69021,7 +69016,6 @@ sailplane
 sailplaning
 sails
 saimiri
-saims
 saine
 sainfoin
 sains
@@ -69158,8 +69152,8 @@ salpingectomy
 salpingitis
 salpinx
 salps
+sals
 salsa
-salse
 salsify
 salsilla
 salsola
@@ -70862,10 +70856,12 @@ seigniory
 seils
 seine
 seirs
+seis
 seise
 seism
 seismal
 seismic
+seismical
 seismogram
 seismograph
 seismography
@@ -72383,6 +72379,7 @@ sicko
 sickroom
 sicks
 sicky
+sics
 sidalcea
 siddhartha
 siddons
@@ -72632,7 +72629,6 @@ silviculture
 silybum
 sim
 sima
-simal
 simar
 simarouba
 simaroubaceae
@@ -72674,6 +72670,7 @@ simplistic
 simply
 simps
 simpson
+sims
 simul
 simulacrum
 simulate
@@ -73128,7 +73125,6 @@ slackline
 slackly
 slackness
 slacks
-slaes
 slag
 slagheap
 slags
@@ -75820,8 +75816,6 @@ steamroller
 steamship
 steamtightness
 steamy
-stean
-stear
 stearate
 stearic
 stearin
@@ -75845,7 +75839,6 @@ steelworks
 steely
 steelyard
 steem
-steen
 steenbok
 steep
 steepen
@@ -79462,6 +79455,7 @@ tenancy
 tenant
 tenanted
 tenantry
+tenants
 tench
 tend
 tended
@@ -82534,7 +82528,6 @@ tsuris
 tsushima
 tswana
 tuamotus
-tuans
 tuareg
 tuart
 tuatara
@@ -82695,6 +82688,7 @@ tunnage
 tunnel
 tunney
 tunny
+tuns
 tup
 tupaia
 tupaiidae
@@ -83366,6 +83360,7 @@ unarm
 unarmed
 unarmored
 unarmoured
+unarms
 unarticulate
 unarticulated
 unartistic
@@ -84528,6 +84523,7 @@ university
 univocal
 unix
 unjam
+unjams
 unjointed
 unjust
 unjustifiable
