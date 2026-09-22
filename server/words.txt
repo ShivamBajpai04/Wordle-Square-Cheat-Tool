@@ -632,9 +632,9 @@ acerbic
 acerbity
 acerola
 acerose
-acers
 acervate
 acervulus
+aces
 aceta
 acetabular
 acetabulum
@@ -1305,10 +1305,13 @@ adumbration
 adumbrative
 adunc
 adust
+adv
 advance
 advanced
 advancement
 advancer
+advancers
+advances
 advancing
 advantage
 advantageous
@@ -2261,6 +2264,7 @@ aldrovanda
 ale
 aleak
 aleatory
+alec
 aleck
 alecost
 alecs
@@ -3441,6 +3445,7 @@ ands
 andvari
 ane
 anear
+anears
 anecdotal
 anecdotalism
 anecdote
@@ -4904,7 +4909,6 @@ arctotis
 arcturus
 arcuate
 arcus
-ard
 arda
 ardea
 ardeb
@@ -5333,7 +5337,6 @@ artlang
 artless
 artlessly
 artlessness
-artly
 artocarpus
 artois
 arts
@@ -11803,7 +11806,6 @@ byzant
 byzantine
 byzantinism
 byzantium
-caa
 caaed
 cab
 cabal
@@ -11929,6 +11931,7 @@ cadmium
 cadmus
 cadra
 cadre
+cadres
 caducean
 caduceus
 caducous
@@ -12454,6 +12457,7 @@ caneh
 canella
 canellaceae
 caner
+caners
 canes
 canescent
 canetti
@@ -13135,7 +13139,6 @@ caseful
 casein
 casement
 caseous
-caser
 casern
 cases
 casework
@@ -13809,7 +13812,6 @@ ceramicist
 ceramics
 ceramist
 cerapteryx
-ceras
 cerastes
 cerastium
 ceratin
@@ -13900,7 +13902,6 @@ certify
 certiorari
 certitude
 certs
-certy
 cerulean
 cerumen
 ceruminous
@@ -15498,7 +15499,6 @@ clarity
 clark
 clarksburg
 claro
-clart
 clary
 clash
 clashing
@@ -16160,7 +16160,6 @@ codling
 codon
 codpiece
 codswallop
-cody
 coeds
 coeducate
 coeducation
@@ -16362,7 +16361,6 @@ collateral
 collateralize
 collation
 collator
-colle
 colleague
 collect
 collectable
@@ -19524,7 +19522,6 @@ culturati
 culture
 cultured
 cultus
-culty
 culverin
 culvert
 cum
@@ -20143,7 +20140,6 @@ dadla
 dado
 dados
 dads
-dae
 daedal
 daedalus
 daegu
@@ -20293,6 +20289,7 @@ dance
 danceable
 danced
 dancer
+dancers
 dances
 dancey
 dancing
@@ -24209,6 +24206,7 @@ drabness
 drabs
 dracaena
 dracaenaceae
+dracena
 dracenaceae
 drachm
 drachma
@@ -25002,7 +25000,6 @@ eaglet
 eagly
 eagre
 ealed
-ean
 eaned
 ear
 earache
@@ -25145,7 +25142,6 @@ ebullition
 eburnation
 eburophyton
 ecads
-ecard
 ecarte
 ecash
 ecballium
@@ -38668,7 +38664,6 @@ idling
 idly
 idocrase
 idol
-idola
 idolater
 idolatress
 idolatrous
@@ -39444,7 +39439,6 @@ incitement
 inciter
 incitive
 incivility
-incle
 inclemency
 inclement
 inclementness
@@ -39591,6 +39585,7 @@ inculpate
 inculpation
 inculpative
 inculpatory
+incult
 incumbency
 incumbent
 incumbrance
@@ -40952,7 +40947,6 @@ intumescency
 intumescent
 intussuscept
 intussusception
-inula
 inulin
 inunction
 inundate
@@ -45053,6 +45047,7 @@ leucaemia
 leucaena
 leucanthemum
 leuch
+leucin
 leucine
 leuciscus
 leucocyte
@@ -45875,7 +45870,6 @@ lizardfish
 ljubljana
 llama
 llano
-lloyd
 llud
 llullaillaco
 llyr
@@ -45978,6 +45972,7 @@ loche
 lochia
 lochs
 lochy
+loci
 locie
 locis
 lock
@@ -46010,6 +46005,7 @@ locomotive
 locomotor
 locos
 locoweed
+locular
 locule
 loculus
 locum
@@ -46032,6 +46028,7 @@ lodges
 lodging
 lodgings
 lodgment
+lodicule
 lodine
 lodz
 loeb
@@ -46114,7 +46111,6 @@ loiter
 loiterer
 lokes
 lokey
-loki
 lokum
 lolas
 loled
@@ -52598,7 +52594,6 @@ narwal
 narwhal
 narwhale
 nary
-nas
 nasal
 nasale
 nasalis
@@ -52718,12 +52713,14 @@ nautch
 nautical
 nautilidae
 nautilus
+nav
 navaho
 navajo
 naval
 navane
 navar
 navarino
+navars
 nave
 naved
 navel
@@ -53119,7 +53116,6 @@ nerthus
 nerts
 nertz
 neruda
-nerva
 nerve
 nerveless
 nervelessly
@@ -54517,9 +54513,7 @@ nullifier
 nullify
 nullipara
 nullity
-nullo
 nulls
-nully
 numb
 numbat
 number
@@ -55035,6 +55029,7 @@ octroi
 octuple
 octyl
 ocular
+ocularly
 oculi
 oculism
 oculist
@@ -55064,6 +55059,7 @@ odes
 odessa
 odeum
 odeums
+odic
 odin
 odious
 odiously
@@ -55101,6 +55097,7 @@ odovakar
 ods
 odsos
 odums
+odyl
 odyle
 odyls
 odynophagia
@@ -55308,6 +55305,7 @@ oldster
 oldtimer
 oldwench
 oldwife
+oldy
 ole
 olea
 oleaceae
@@ -65199,6 +65197,7 @@ ranales
 ranas
 ranatra
 rance
+rances
 ranch
 rancher
 ranching
@@ -65837,6 +65836,7 @@ recognize
 recognized
 recoil
 recoilless
+recoin
 recollect
 recollection
 recollective
@@ -68941,7 +68941,6 @@ sadomasochism
 sadomasochist
 sadomasochistic
 sados
-sadr
 sadza
 sae
 safaqis
@@ -69699,7 +69698,6 @@ sauterne
 sauternes
 sauts
 sauve
-sav
 savage
 savagely
 savageness
@@ -83142,7 +83140,6 @@ ulfila
 ulfilas
 ulitis
 ullage
-ullr
 ulmaceae
 ulmin
 ulmos
@@ -86017,7 +86014,6 @@ vaded
 vades
 vadge
 vaduz
-vae
 vag
 vagabond
 vagabondage
@@ -86229,7 +86225,6 @@ vardenafil
 vardo
 vardy
 varec
-vares
 varese
 vargas
 varia
