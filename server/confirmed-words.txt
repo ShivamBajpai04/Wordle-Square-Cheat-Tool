@@ -5,6 +5,8 @@ aas
 abas
 abaser
 abasers
+able
+abled
 abri
 acai
 ace
@@ -41,6 +43,7 @@ aglu
 agma
 agmas
 ags
+ahi
 ahorse
 ahoy
 aidmen
@@ -168,6 +171,7 @@ arepa
 ares
 aretes
 arfs
+argh
 arie
 aril
 arks
@@ -226,15 +230,28 @@ axe
 axed
 axite
 ayes
+bade
 bads
 baes
 bag
+bah
+bald
+bale
+baled
 ban
+band
+bandy
+bane
+baned
 bani
+bank
 banked
+banned
+bannock
 bans
 bap
 baps
+bar
 bardes
 barters
 bashes
@@ -275,7 +292,15 @@ biomes
 biont
 biota
 bits
+blade
+blae
 blam
+bland
+blank
+blanked
+bled
+blend
+blende
 blet
 boa
 boas
@@ -379,6 +404,7 @@ cath
 caths
 cava
 cays
+cede
 cee
 cees
 cell
@@ -400,11 +426,17 @@ chape
 chaperon
 chaperonin
 chaperoning
+char
 chay
+chi
 chia
 chid
+chimp
+chip
 chon
 ciao
+cig
+cigar
 cine
 cines
 cion
@@ -431,6 +463,7 @@ clot
 clout
 cloy
 clue
+coed
 coft
 cogs
 coin
@@ -450,7 +483,10 @@ con
 conceive
 conceives
 concise
+condemn
+condemnable
 cone
+coned
 cones
 coney
 coni
@@ -459,6 +495,10 @@ conies
 conin
 conine
 coning
+conk
+conky
+conn
+conned
 cons
 cony
 cool
@@ -485,6 +525,7 @@ dahs
 daimen
 daks
 dal
+dale
 dalles
 dals
 dam
@@ -496,6 +537,8 @@ dancer
 dancers
 dances
 dancey
+dandy
+dank
 dans
 daphnes
 daps
@@ -505,6 +548,10 @@ das
 dato
 daws
 dawt
+deal
+dean
+deck
+deco
 deductions
 deducts
 deed
@@ -538,6 +585,7 @@ deni
 denim
 dens
 dense
+deny
 deps
 dere
 dev
@@ -626,6 +674,8 @@ duper
 dupers
 dupes
 duro
+dyne
+dynel
 ear
 eardrop
 earl
@@ -669,6 +719,7 @@ eked
 ekes
 ekka
 elan
+eland
 eld
 elds
 elfish
@@ -688,10 +739,13 @@ emes
 emos
 ems
 emus
+enable
+enabled
 encyst
 end
 ends
 engs
+ennead
 enol
 ens
 enuf
@@ -902,6 +956,7 @@ gape
 gaper
 gaping
 gaps
+gar
 garote
 garrets
 garters
@@ -941,6 +996,7 @@ getas
 gets
 getup
 ghee
+ghi
 ghibli
 ghiblis
 ghis
@@ -953,6 +1009,7 @@ gies
 gifs
 gimlets
 gimme
+gimp
 ginger
 gink
 gins
@@ -973,6 +1030,9 @@ gorp
 gosh
 gowd
 goys
+grab
+graph
+graphic
 gravers
 grayed
 grebes
@@ -993,6 +1053,7 @@ habu
 hade
 hae
 haet
+hag
 haha
 hahs
 hailer
@@ -1059,6 +1120,7 @@ hets
 hew
 hewn
 hexers
+hic
 hilt
 hilts
 him
@@ -1125,6 +1187,7 @@ hyssop
 hyssops
 ice
 ices
+ich
 icon
 icones
 idem
@@ -1229,6 +1292,8 @@ kegs
 keir
 kemp
 ken
+kenned
+kennel
 keno
 kenos
 kens
@@ -1261,6 +1326,7 @@ kist
 kits
 klatch
 knaur
+knead
 knew
 knop
 knops
@@ -1291,6 +1357,8 @@ kyte
 lac
 lacs
 lad
+lade
+laden
 ladron
 lads
 lags
@@ -1309,6 +1377,8 @@ lance
 land
 lane
 lang
+lank
+lanky
 lari
 larp
 larper
@@ -1341,6 +1411,7 @@ learnt
 leas
 leashes
 led
+lede
 lee
 leek
 leer
@@ -1353,6 +1424,7 @@ lek
 leke
 leku
 leman
+lend
 leno
 lens
 lensman
@@ -1523,6 +1595,7 @@ maxed
 maxi
 maya
 mayan
+mead
 meal
 mean
 meanness
@@ -1532,6 +1605,7 @@ measle
 meat
 meats
 med
+medal
 medias
 meds
 meed
@@ -1547,6 +1621,9 @@ mels
 melt
 memo
 men
+menad
+mend
+mendable
 meno
 mense
 mensed
@@ -1577,7 +1654,9 @@ mics
 midnoon
 mien
 miens
+mig
 migs
+mihrab
 milf
 milk
 milo
@@ -1650,6 +1729,7 @@ nag
 naif
 nala
 nalas
+naled
 nam
 name
 nana
@@ -1679,6 +1759,7 @@ neap
 near
 nears
 neat
+neck
 nee
 need
 needs
@@ -1717,10 +1798,12 @@ nite
 nitres
 nits
 nixe
+nock
 nod
 nodder
 nodose
 nods
+noel
 nogs
 noise
 nolo
@@ -1824,6 +1907,7 @@ onos
 ons
 onto
 onus
+onyx
 oohs
 oomiak
 oomiaks
@@ -2002,6 +2086,7 @@ phatter
 phenom
 phenoms
 pheo
+phi
 phis
 phut
 pia
@@ -2009,6 +2094,7 @@ pial
 pian
 piano
 pias
+pic
 pica
 pier
 pies
@@ -2168,7 +2254,9 @@ rad
 raff
 rafted
 rafters
+rag
 raga
+ragi
 rah
 raia
 raja

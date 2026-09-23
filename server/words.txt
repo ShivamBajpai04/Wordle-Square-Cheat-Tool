@@ -2265,7 +2265,6 @@ ale
 aleak
 aleatory
 alec
-aleck
 alecost
 alecs
 alectis
@@ -3712,7 +3711,6 @@ annapolis
 annapurna
 annas
 annat
-anne
 anneal
 annealing
 annelid
@@ -4977,6 +4975,7 @@ argentinidae
 argentinosaur
 argentite
 argentous
+argh
 argil
 argillaceous
 argillite
@@ -7208,7 +7207,6 @@ bankrupt
 bankruptcy
 banks
 banksia
-banky
 banned
 banner
 banneret
@@ -9235,6 +9233,7 @@ blandishment
 blandly
 blandness
 blank
+blanked
 blanket
 blanketed
 blankly
@@ -9338,6 +9337,7 @@ blebs
 blech
 blechnaceae
 blechnum
+bled
 bleed
 bleeder
 bleeding
@@ -13953,7 +13953,6 @@ ceylonese
 ceylonite
 cezanne
 cezve
-cha
 chaap
 chaat
 chabad
@@ -16160,6 +16159,7 @@ codling
 codon
 codpiece
 codswallop
+coed
 coeds
 coeducate
 coeducation
@@ -17332,7 +17332,6 @@ connaraceae
 connarus
 connate
 connatural
-conne
 connect
 connected
 connectedness
@@ -17343,6 +17342,7 @@ connection
 connective
 connectivity
 connector
+conned
 connexion
 conniption
 connivance
@@ -20323,7 +20323,6 @@ dank
 dankness
 danks
 danmark
-danny
 dans
 danse
 danseur
@@ -20857,7 +20856,6 @@ decompound
 decompress
 decompressing
 decompression
-decon
 deconcentrate
 decongestant
 deconsecrate
@@ -24999,7 +24997,6 @@ eagles
 eaglet
 eagly
 eagre
-ealed
 eaned
 ear
 earache
@@ -26079,6 +26076,7 @@ emyde
 emydidae
 emyds
 enable
+enabled
 enabling
 enact
 enactment
@@ -26197,7 +26195,6 @@ endangered
 endangerment
 endarterectomy
 endarteritis
-endband
 endear
 endearing
 endearingly
@@ -42735,11 +42732,11 @@ kenaf
 kenalog
 kench
 kencur
-kendal
 kendall
 kendo
 kendrew
 kennan
+kenned
 kennedia
 kennedy
 kennedya
@@ -43665,7 +43662,6 @@ kylin
 kylix
 kyloe
 kymograph
-kynde
 kynds
 kyoto
 kypes
@@ -44049,7 +44045,6 @@ lancinate
 lancinating
 land
 landau
-lande
 landed
 lander
 landfall
@@ -44090,7 +44085,6 @@ landward
 landwards
 landwoman
 lane
-laned
 lanes
 lang
 langbeinite
@@ -48674,7 +48668,6 @@ medalist
 medallion
 medallist
 medals
-medan
 medawar
 meddle
 meddler
@@ -48739,7 +48732,6 @@ medium
 medivac
 medlar
 medlars
-medle
 medley
 medline
 medoc
@@ -49021,11 +49013,11 @@ menarche
 mence
 mencken
 mend
+mendable
 mendacious
 mendaciously
 mendacity
 mended
-mendel
 mendeleev
 mendelevium
 mendeleyev
@@ -55510,7 +55502,6 @@ online
 onlooker
 only
 onmun
-onned
 ono
 onobrychis
 onoclea
@@ -89715,7 +89706,6 @@ yazoo
 ybit
 yclad
 ycled
-ycond
 ydrad
 ydred
 yea
