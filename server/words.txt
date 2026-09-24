@@ -1815,7 +1815,6 @@ agnatha
 agnathan
 agnatic
 agnation
-agni
 agnise
 agnize
 agnomen
@@ -5124,8 +5123,8 @@ armilla
 armillaria
 armillariella
 armillary
-armin
 arming
+armings
 arminian
 arminianism
 arminius
@@ -5152,10 +5151,8 @@ armstrong
 army
 armyworm
 arnas
-arng
 arnhem
 arnica
-arnis
 arnold
 arnoseris
 aro
@@ -5477,7 +5474,6 @@ asiatic
 aside
 asilidae
 asimina
-asin
 asinine
 asininity
 asity
@@ -5781,7 +5777,6 @@ astuteness
 astylar
 asuncion
 asunder
-asur
 asura
 asurbanipal
 asvina
@@ -12463,7 +12458,6 @@ canescent
 canetti
 canfield
 canful
-cangs
 cangue
 canicula
 canicular
@@ -12472,7 +12466,6 @@ canid
 canidae
 canine
 caning
-canis
 canistel
 canister
 canker
@@ -12918,6 +12911,7 @@ carinal
 carinate
 carinated
 caring
+carings
 carioca
 carious
 carissa
@@ -13154,6 +13148,8 @@ cashier
 cashmere
 cashoo
 casing
+casings
+casini
 casino
 cask
 casket
@@ -32067,7 +32063,6 @@ gargle
 gargoyle
 gargoylism
 garibaldi
-garis
 garish
 garishly
 garishness
@@ -32078,7 +32073,6 @@ garment
 garmented
 garmentless
 garmentmaker
-garms
 garner
 garnet
 garni
@@ -32093,8 +32087,8 @@ garotte
 garpike
 garret
 garrets
-garri
 garrick
+garring
 garrison
 garrote
 garroter
@@ -32106,6 +32100,7 @@ garrulous
 garrulously
 garrulousness
 garrulus
+gars
 garter
 garters
 garth
@@ -32847,7 +32842,6 @@ gimps
 gimpy
 gin
 ginch
-ginga
 ginger
 gingerbread
 gingerly
@@ -32862,7 +32856,6 @@ gingivitis
 gingko
 ginglymostoma
 ginglymus
-gings
 gink
 ginkgo
 ginkgoaceae
@@ -32913,8 +32906,6 @@ girondin
 girondism
 girondist
 giros
-girrs
-girru
 girsh
 girt
 girted
@@ -33294,10 +33285,12 @@ glyptics
 glyptography
 gnaphalium
 gnapi
+gnar
 gnarl
 gnarled
 gnarly
 gnarr
+gnarrs
 gnars
 gnash
 gnat
@@ -38698,7 +38691,6 @@ iglus
 ignatius
 igneous
 ignescent
-ignis
 ignitable
 ignite
 ignited
@@ -39332,6 +39324,7 @@ inaptness
 inarguable
 inarguably
 inarm
+inarms
 inarticulate
 inarticulately
 inartistic
@@ -40075,7 +40068,6 @@ infuse
 infusion
 infusoria
 infusorian
-inga
 ingan
 ingathering
 ingeminate
@@ -41121,7 +41113,6 @@ ipsedixitism
 ipsilateral
 ipsus
 irade
-irani
 iranian
 iraq
 iraqi
@@ -43522,8 +43513,6 @@ krakatoa
 krakau
 krakow
 krams
-krang
-krans
 kranz
 krasner
 kraurosis
@@ -43615,7 +43604,6 @@ kurta
 kuru
 kurus
 kurux
-kusan
 kusso
 kutai
 kutch
@@ -50001,7 +49989,6 @@ mina
 minacious
 minae
 minah
-minar
 minaret
 minas
 minatory
@@ -50046,7 +50033,6 @@ minestrone
 minesweeper
 minesweeping
 mineworker
-mingi
 minginess
 mingle
 mingling
@@ -50170,6 +50156,7 @@ miridae
 mirin
 miriness
 mirish
+mirk
 mirkn
 mirks
 mirky
@@ -50180,7 +50167,6 @@ mirrl
 mirror
 mirrored
 mirrorlike
-mirrs
 mirs
 mirth
 mirthful
@@ -52369,6 +52355,7 @@ nagging
 naggy
 nagor
 nagoya
+nags
 nah
 nahal
 nahuatl
@@ -53495,7 +53482,6 @@ nightwalker
 nightwear
 nightwork
 nighty
-nigra
 nigre
 nigroporus
 nigua
@@ -57311,6 +57297,7 @@ palometa
 palomino
 palooka
 paloverde
+palp
 palpability
 palpable
 palpably
@@ -57530,7 +57517,6 @@ paperweight
 paperwork
 papery
 papes
-papey
 paphiopedilum
 papilionaceae
 papilionoideae
@@ -58795,7 +58781,6 @@ pepcid
 peperomia
 pepin
 pepla
-peple
 peplos
 peplum
 peplus
@@ -64797,7 +64782,6 @@ quotidian
 quotient
 quouk
 quoys
-quran
 qursh
 qurush
 quyte
@@ -65012,6 +64996,7 @@ raglan
 ragnarok
 ragout
 ragpicker
+rags
 ragsorter
 ragtag
 ragtime
@@ -65213,13 +65198,13 @@ rands
 randy
 raned
 ranee
+rang
 ranga
 range
 rangefinder
 rangeland
 ranger
 ranges
-rangi
 rangifer
 ranginess
 ranging
@@ -65344,6 +65329,7 @@ rashes
 rashly
 rashness
 rasht
+rasing
 raskolnikov
 rasmussen
 rasp
@@ -68697,7 +68683,6 @@ ruritania
 ruritanian
 rurps
 rurus
-rusas
 ruscaceae
 ruscus
 ruse
@@ -68982,6 +68967,7 @@ sagittate
 sagittiform
 sago
 sagos
+sags
 saguaro
 sagum
 sahab
@@ -69353,7 +69339,6 @@ sango
 sangoma
 sangraal
 sangria
-sangs
 sanguification
 sanguinaria
 sanguinary
@@ -69382,6 +69367,7 @@ sank
 sannup
 sannyasi
 sannyasin
+sans
 sansa
 sansevieria
 sanskrit
@@ -69534,7 +69520,9 @@ sargent
 sargo
 sari
 sarin
+sarins
 saris
+sark
 sarks
 sarky
 sarnoff
@@ -69554,7 +69542,6 @@ sarsenet
 sartor
 sartorial
 sartorius
-sarus
 sash
 sashay
 sashimi
@@ -69912,11 +69899,13 @@ scarfpin
 scaridae
 scarify
 scarily
+scaring
 scarlatina
 scarlet
 scarp
 scarper
 scarred
+scarring
 scars
 scart
 scartella
@@ -72757,7 +72746,7 @@ sinoper
 sinopia
 sinopis
 sinornis
-sinsi
+sins
 sinter
 sintered
 sinuate
@@ -72806,6 +72795,7 @@ siroc
 sirocco
 sirra
 sirrah
+sirras
 sirup
 sis
 sisal
@@ -73525,7 +73515,6 @@ smilingly
 smirch
 smirk
 smirker
-smirr
 smirs
 smit
 smitane
@@ -73656,7 +73645,6 @@ snarky
 snarl
 snarled
 snarly
-snars
 snash
 snatch
 snatcher
@@ -77680,6 +77668,7 @@ surprising
 surprisingly
 surprisingness
 surra
+surras
 surreal
 surrealism
 surrealist
@@ -85693,6 +85682,7 @@ urals
 uranalysis
 urania
 uraninite
+uranism
 uranium
 uranologist
 uranology
@@ -85703,6 +85693,7 @@ uranyl
 uraos
 urare
 urari
+uraris
 urarthritis
 urase
 urate
@@ -85778,6 +85769,7 @@ urmia
 urn
 urnal
 urned
+urns
 urobilin
 urobilinogen
 urocele
@@ -89591,7 +89583,6 @@ yacka
 yacks
 yad
 yadda
-yae
 yaffs
 yag
 yager
@@ -89712,7 +89703,6 @@ yea
 yeads
 yeah
 yeahs
-yealm
 yean
 yeans
 year
@@ -89813,7 +89803,6 @@ yevtushenko
 yew
 yewen
 yews
-yex
 yexed
 yexes
 yezo
