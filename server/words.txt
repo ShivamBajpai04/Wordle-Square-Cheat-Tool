@@ -1043,7 +1043,6 @@ addict
 addicted
 addiction
 addictive
-addin
 adding
 addio
 addition
@@ -1061,6 +1060,7 @@ addressable
 addressed
 addressee
 addressograph
+adds
 adduce
 adducent
 adducer
@@ -1911,6 +1911,7 @@ agush
 aha
 ahead
 aheap
+ahed
 ahem
 ahent
 ahhed
@@ -3407,7 +3408,6 @@ andelmin
 andersen
 anderson
 andesite
-andic
 andira
 andiron
 andorra
@@ -5151,7 +5151,6 @@ armstrong
 army
 armyworm
 arnas
-arnhem
 arnica
 arnold
 arnoseris
@@ -11900,6 +11899,7 @@ cadaveric
 cadaverine
 cadaverous
 caddie
+caddis
 caddish
 caddisworm
 caddo
@@ -11919,6 +11919,7 @@ cadetship
 cadge
 cadger
 cadgy
+cadi
 cadie
 cadis
 cadiz
@@ -11927,6 +11928,7 @@ cadmus
 cadra
 cadre
 cadres
+cads
 caducean
 caduceus
 caducous
@@ -11984,6 +11986,7 @@ cagy
 cahita
 cahoot
 cahow
+caid
 caids
 caiman
 caimitillo
@@ -12821,7 +12824,6 @@ cardcastle
 carded
 cardholder
 cardhouse
-cardi
 cardia
 cardiac
 cardiff
@@ -15187,7 +15189,6 @@ ciconia
 ciconiidae
 ciconiiformes
 cicuta
-cid
 cided
 cider
 ciderpress
@@ -20346,12 +20347,10 @@ dapsone
 daraf
 darbs
 darcy
-dard
 dardan
 dardanelles
 dardanian
 dardanus
-dardic
 dare
 dared
 daredevil
@@ -20593,11 +20592,9 @@ deanery
 deans
 deanship
 dear
-deare
 dearest
 dearie
 dearly
-dearn
 dearness
 dears
 dearth
@@ -21543,7 +21540,6 @@ denumerable
 denunciation
 denunciative
 denunciatory
-denver
 deny
 deoch
 deodar
@@ -22856,7 +22852,6 @@ disarrangement
 disarray
 disarrayed
 disarticulate
-disas
 disassemble
 disassembly
 disassociate
@@ -22887,6 +22882,7 @@ discalced
 discant
 discard
 discarded
+discards
 discase
 disceptation
 discern
@@ -27049,7 +27045,6 @@ erm
 ermine
 ern
 erne
-erned
 ernes
 erns
 ernst
@@ -27648,7 +27643,6 @@ everywhere
 everywoman
 eves
 evets
-evhoe
 evict
 eviction
 evidence
@@ -27671,7 +27665,6 @@ evitable
 evite
 evocation
 evocative
-evohe
 evoke
 evoked
 evolution
@@ -28937,7 +28930,6 @@ feals
 fealty
 fear
 feard
-feare
 feared
 fearful
 fearfully
@@ -29157,6 +29149,7 @@ fentanyl
 fents
 fenugreek
 fenusa
+feod
 feods
 feoff
 feosol
@@ -34870,6 +34863,7 @@ hadst
 hae
 haecceity
 haeckel
+haed
 haem
 haemagglutinate
 haemal
@@ -34941,6 +34935,7 @@ haemothorax
 haems
 haemulidae
 haemulon
+haen
 haet
 haets
 hafiz
@@ -35818,7 +35813,6 @@ heapy
 hear
 hearable
 heard
-heare
 hearer
 hearing
 hearken
@@ -36950,6 +36944,7 @@ hodr
 hodur
 hoe
 hoecake
+hoed
 hoenir
 hoer
 hoers
@@ -36987,7 +36982,7 @@ hoheria
 hohhot
 hoi
 hoick
-hoied
+hoiden
 hoiks
 hoing
 hoise
@@ -37654,7 +37649,6 @@ hove
 hovea
 hoved
 hovel
-hoven
 hover
 hoverboard
 hovercraft
@@ -39765,7 +39759,6 @@ indorse
 indorsement
 indorser
 indow
-indra
 indrawn
 indri
 indriidae
@@ -42683,6 +42676,7 @@ kef
 kefir
 keflex
 keflin
+kefs
 keftab
 keg
 kegful
@@ -42720,6 +42714,7 @@ kempt
 kempy
 ken
 kenaf
+kenafs
 kenalog
 kench
 kencur
@@ -42903,6 +42898,7 @@ khaya
 khazi
 kheda
 khedah
+khedas
 khedive
 kheer
 khepera
@@ -43392,7 +43388,6 @@ koffs
 kofta
 kogal
 kogia
-kohas
 kohl
 kohleria
 kohlrabi
@@ -43495,8 +43490,6 @@ koudou
 koumiss
 koura
 koussevitzky
-kovna
-kovno
 kow
 koweit
 kowhai
@@ -49020,7 +49013,6 @@ mendicant
 mendicity
 mending
 mends
-mened
 menelaus
 menes
 menhaden
@@ -53363,6 +53355,7 @@ nibelung
 nibelungenlied
 niblick
 nicad
+nicads
 nicaea
 nicaean
 nicandra
@@ -53401,7 +53394,6 @@ nictated
 nictation
 nictitate
 nictitation
-nid
 nidal
 nidaros
 nidation
@@ -55019,6 +55011,7 @@ odah
 odahs
 odalisque
 odals
+odas
 odd
 oddball
 odder
@@ -55253,7 +55246,6 @@ oke
 okeechobee
 okeh
 okehs
-oken
 okenfuss
 okey
 okies
@@ -55459,7 +55451,6 @@ ondes
 ondol
 one
 onega
-oneida
 oneiric
 oneirism
 oneiromancer
@@ -64865,7 +64856,6 @@ racy
 rad
 radar
 radars
-raddi
 raddle
 raddled
 raddy
@@ -64947,6 +64937,7 @@ radius
 radix
 radome
 radon
+rads
 radyera
 raetam
 rafee
@@ -65005,7 +64996,6 @@ ragusa
 ragweed
 ragwort
 rah
-rahed
 rai
 raia
 raiah
@@ -65056,6 +65046,7 @@ rainstorm
 rainwater
 rainy
 raird
+rais
 raisable
 raise
 raiseable
@@ -65196,7 +65187,6 @@ randomly
 randomness
 rands
 randy
-raned
 ranee
 rang
 ranga
@@ -67324,6 +67314,7 @@ revocable
 revocation
 revokable
 revoke
+revoked
 revolt
 revolting
 revoltingly
@@ -67896,6 +67887,7 @@ road
 roadbed
 roadblock
 roadbook
+roadeo
 roadhog
 roadhouse
 roadie
@@ -68905,7 +68897,6 @@ sades
 sadhe
 sadhu
 sadi
-sadic
 sadis
 sadism
 sadist
@@ -68924,7 +68915,6 @@ safari
 safe
 safebreaker
 safecracker
-safed
 safeguard
 safehold
 safekeeping
@@ -68995,6 +68985,7 @@ sailplane
 sailplaning
 sails
 saimiri
+sain
 saine
 sainfoin
 sains
@@ -69387,7 +69378,6 @@ sants
 sanvitalia
 sanyasi
 saola
-saone
 sap
 sapan
 saphar
@@ -69505,7 +69495,6 @@ sardine
 sardinia
 sardinian
 sardinops
-sardis
 sardius
 sardonic
 sardonically
@@ -69831,7 +69820,6 @@ scampo
 scamps
 scams
 scan
-scand
 scandal
 scandalisation
 scandalise
@@ -70133,7 +70121,6 @@ sciarid
 sciaridae
 sciatic
 sciatica
-scid
 science
 scienter
 scientific
@@ -70148,7 +70135,6 @@ scincella
 scincid
 scincidae
 scincus
-scind
 scindapsus
 scintigram
 scintigraph
@@ -72678,7 +72664,6 @@ sincerely
 sincerity
 sinciput
 sinclair
-sind
 sindhi
 sinds
 sine
@@ -74307,6 +74292,8 @@ sorghum
 sorgo
 sori
 soricidae
+sorn
+sorned
 sorns
 sororal
 sorority
@@ -86432,7 +86419,6 @@ venae
 venal
 venality
 venally
-venas
 venation
 vend
 vendable
@@ -86612,12 +86598,10 @@ vermouth
 vernacular
 vernal
 vernation
-verne
 verner
 vernier
 vernix
 vernonia
-verona
 veronal
 veronese
 veronica
