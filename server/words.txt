@@ -5493,7 +5493,6 @@ asleep
 aslope
 asmara
 asmera
-asmr
 asocial
 asp
 aspadana
@@ -9362,6 +9361,7 @@ bless
 blessed
 blessedly
 blessedness
+blesses
 blessing
 blest
 blet
@@ -9519,6 +9519,7 @@ blots
 blotter
 blotto
 blouse
+blouses
 bloviate
 blow
 blowback
@@ -9727,7 +9728,6 @@ boehm
 boehme
 boehmenism
 boehmeria
-boell
 boeotia
 boeotian
 boeps
@@ -10148,7 +10148,6 @@ borzoi
 bos
 bosc
 bosch
-bose
 boselaphus
 bosey
 bosh
@@ -10167,7 +10166,6 @@ boson
 bosphorus
 bosporus
 boss
-bossa
 bossed
 bosses
 bossism
@@ -10305,6 +10303,7 @@ bourne
 bourse
 bourtree
 bouse
+bouses
 boustrophedon
 boustrophedonic
 bousy
@@ -11249,7 +11248,6 @@ budgetary
 budgie
 budis
 budorcas
-budos
 bueno
 buff
 buffa
@@ -23603,7 +23601,6 @@ doberman
 dobes
 dobie
 dobla
-doble
 dobra
 dobrich
 dobro
@@ -23740,7 +23737,6 @@ dolci
 doldrums
 dole
 doled
-dolee
 doleful
 dolefully
 dolefulness
@@ -23985,6 +23981,7 @@ dory
 dorylinae
 doryopteris
 dos
+dosa
 dosage
 dosai
 dosas
@@ -24003,6 +24000,7 @@ doss
 dossal
 dossel
 dosser
+dosses
 dosshouse
 dossier
 dost
@@ -24033,6 +24031,8 @@ douar
 double
 doubled
 doubleheader
+doubleness
+doublenesses
 doubler
 doubles
 doublespeak
@@ -24075,6 +24075,7 @@ dourly
 douroucouli
 douse
 doused
+douses
 dousing
 dout
 douts
@@ -24627,6 +24628,7 @@ dueler
 duelist
 dueller
 duellist
+duello
 duels
 duenna
 dues
@@ -27225,9 +27227,7 @@ essayer
 essayist
 essays
 esse
-esselen
 essence
-essene
 essential
 essentiality
 essentially
@@ -27546,7 +27546,6 @@ eurypterida
 eurythmics
 eurythmy
 eusebius
-eusol
 eusporangiate
 eusporangium
 eustachio
@@ -44673,7 +44672,6 @@ leering
 leers
 leery
 lees
-leese
 leet
 leets
 leeuwenhoek
@@ -44982,9 +44980,11 @@ lespedeza
 lesquerella
 less
 lessee
+lessees
 lessen
 lessened
 lessening
+lessens
 lesseps
 lesser
 lessing
@@ -45036,6 +45036,7 @@ leucorrhea
 leucothoe
 leucotomy
 leuctra
+leud
 leuds
 leugh
 leukaemia
@@ -45917,7 +45918,6 @@ lobular
 lobularia
 lobularity
 lobule
-lobus
 lobworm
 loca
 local
@@ -46008,6 +46008,7 @@ lodine
 lodz
 loeb
 loess
+loesses
 loestrin
 loewe
 loewi
@@ -46101,7 +46102,6 @@ lolly
 lollygag
 lolog
 loloish
-lolos
 lomariopsidaceae
 lomatia
 lombard
@@ -46346,6 +46346,7 @@ lours
 loury
 louse
 loused
+louses
 lousiness
 lousy
 lout
@@ -47784,7 +47785,6 @@ mansi
 mansion
 manslaughter
 manslayer
-manso
 manson
 manta
 mantas
@@ -49049,6 +49049,7 @@ menorrhea
 menotyphla
 mensa
 mensal
+mensas
 mensch
 mense
 mensed
@@ -50469,7 +50470,6 @@ mizzle
 mizzy
 mmkay
 mmpi
-mna
 mneme
 mnemometer
 mnemonic
@@ -53008,7 +53008,6 @@ neoplatonist
 neopolitan
 neoprene
 neoromanticism
-neosa
 neosho
 neosporin
 neostigmine
@@ -54688,6 +54687,7 @@ oarlock
 oars
 oarsman
 oarsmanship
+oarsmen
 oarswoman
 oases
 oasis
@@ -65117,6 +65117,7 @@ rameau
 ramee
 ramekin
 ramen
+ramens
 ramequin
 rames
 rameses
@@ -70875,14 +70876,12 @@ selector
 selectwoman
 selenarctos
 selenator
-selene
 selenicereus
 selenipedium
 selenite
 selenium
 selenolatry
 selenology
-seles
 seleucus
 self
 selfish
@@ -70905,6 +70904,7 @@ sellable
 selle
 seller
 sellers
+selles
 selling
 selloff
 sellotape
@@ -74001,7 +74001,6 @@ soldiery
 soldo
 solds
 sole
-solea
 solebar
 solecism
 soled
@@ -74019,6 +74018,7 @@ solemnity
 solemnization
 solemnize
 solemnly
+soleness
 solenichthyes
 solenidae
 solenogaster
@@ -76835,6 +76835,8 @@ subjunction
 subjunctive
 subkingdom
 sublease
+subleases
+sublessee
 sublet
 sublieutenant
 sublimate
@@ -77094,6 +77096,7 @@ suede
 suent
 suer
 suers
+sues
 suet
 suete
 suets
@@ -83053,6 +83056,7 @@ udmurt
 udo
 udometer
 udons
+udos
 uds
 udyog
 uey
@@ -85832,6 +85836,7 @@ uselessness
 usens
 user
 users
+uses
 useta
 ushas
 usher
@@ -85845,7 +85850,6 @@ usneaceae
 usque
 ussher
 ussr
-usss
 ustad
 uster
 ustilaginaceae
