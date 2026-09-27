@@ -99,13 +99,13 @@ abducting
 abduction
 abductor
 abeam
-abeat
 abecedarian
 abecedarius
 abed
 abeer
 abelard
 abele
+abeles
 abelia
 abelmoschus
 abelmosk
@@ -181,7 +181,6 @@ ablepharia
 abler
 ables
 ablest
-ablet
 ablism
 abloom
 ablow
@@ -2149,9 +2148,9 @@ alas
 alaska
 alaskan
 alastrim
-alata
 alate
 alated
+alates
 alauda
 alaudidae
 alawism
@@ -2457,7 +2456,6 @@ alkyne
 all
 allah
 allamanda
-allan
 allantoic
 allantoid
 allantois
@@ -2696,6 +2694,7 @@ altaic
 altair
 altar
 altarpiece
+altars
 altazimuth
 altcoin
 alter
@@ -3346,6 +3345,7 @@ anastomotic
 anastomus
 anastrophe
 anastylosis
+anatase
 anathema
 anathematisation
 anathematise
@@ -3875,6 +3875,8 @@ antapex
 antarctic
 antarctica
 antas
+antbear
+antbears
 antbird
 ante
 anteater
@@ -5436,7 +5438,6 @@ ascription
 ascus
 asdic
 asea
-asean
 aseismic
 asepsis
 aseptic
@@ -5812,7 +5813,6 @@ atarax
 ataraxia
 ataraxic
 ataraxis
-atars
 ataturk
 atavism
 atavist
@@ -5825,7 +5825,6 @@ ate
 atelectasis
 ateleiosis
 ateleiotic
-ateles
 atelier
 ateliosis
 atenolol
@@ -6980,6 +6979,7 @@ balanus
 balarama
 balas
 balata
+balatas
 balaton
 balboa
 balbriggan
@@ -7598,8 +7598,6 @@ basuto
 basutoland
 basyonym
 bat
-bata
-bataan
 batch
 bate
 bated
@@ -7766,6 +7764,7 @@ beakless
 beaklike
 beaks
 beaky
+beal
 beals
 beam
 beamed
@@ -9321,6 +9320,7 @@ bleak
 bleakly
 bleakness
 blear
+blears
 bleary
 bleat
 bleb
@@ -25085,6 +25085,7 @@ easygoing
 easygoingness
 eat
 eatable
+eatables
 eatage
 eaten
 eater
@@ -28549,7 +28550,6 @@ falderol
 fales
 falkner
 fall
-falla
 fallacious
 fallaciousness
 fallacy
@@ -41551,8 +41551,6 @@ jadeite
 jades
 jadestone
 jaeger
-jafar
-jafas
 jaffar
 jag
 jagannath
@@ -41579,7 +41577,6 @@ jaguarondi
 jaguarundi
 jahvey
 jahweh
-jai
 jail
 jailbird
 jailbreak
@@ -44308,7 +44305,6 @@ laterally
 lateran
 latergram
 laterite
-lates
 latest
 latex
 lath
@@ -47326,6 +47322,7 @@ maist
 maitland
 maitreya
 maize
+maizes
 majagua
 majas
 majat
@@ -48501,6 +48498,7 @@ mazer
 mazes
 mazet
 mazey
+maziest
 mazopathy
 mazurka
 mazut
@@ -52386,7 +52384,6 @@ naiveness
 naivete
 naivety
 najadaceae
-najas
 najib
 naked
 nakedly
@@ -52399,7 +52396,6 @@ nalas
 nalchik
 naled
 nalfon
-nalla
 nalline
 nalorphine
 naloxone
@@ -65355,7 +65351,6 @@ ratchet
 rate
 rateability
 rateable
-rateables
 rated
 ratel
 ratepayer
@@ -69547,7 +69542,6 @@ sassing
 sassy
 sat
 satai
-satan
 satang
 satanic
 satanism
@@ -69759,7 +69753,6 @@ sayonara
 sayornis
 says
 sayst
-saz
 sazerac
 sazes
 scab
@@ -70544,6 +70537,7 @@ seagrass
 seagull
 seahorse
 seal
+sealable
 sealant
 sealed
 sealer
@@ -90079,7 +90073,6 @@ zayde
 zayin
 zazen
 zbit
-zea
 zeal
 zealand
 zealander
