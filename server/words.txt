@@ -1298,6 +1298,7 @@ adulterousness
 adultery
 adulthood
 adulting
+adultings
 adults
 adumbrate
 adumbration
@@ -2409,6 +2410,7 @@ alismatidae
 alist
 alit
 aliterate
+aliunde
 alive
 aliveness
 aliya
@@ -20211,7 +20213,6 @@ dalesman
 dalet
 daleth
 dalian
-dalis
 dalles
 dalliance
 dallier
@@ -20223,7 +20224,6 @@ dalmatian
 dals
 dalton
 daltonism
-dalts
 dam
 dama
 damage
@@ -20461,11 +20461,9 @@ daubing
 daubs
 dauby
 daucus
-dauds
 daugavpils
 daughter
 daughterly
-dault
 daumier
 daunt
 daunted
@@ -21433,7 +21431,6 @@ demythologised
 demythologize
 demythologized
 den
-denali
 denar
 denary
 denationalise
@@ -24649,6 +24646,7 @@ dug
 dugong
 dugongidae
 dugout
+dugs
 duh
 dui
 duing
@@ -32965,6 +32963,7 @@ gladsomeness
 gladstone
 glady
 glair
+glairs
 glam
 glamor
 glamorisation
@@ -32984,6 +32983,7 @@ glams
 glance
 gland
 glanders
+glandes
 glands
 glandular
 glans
@@ -33087,7 +33087,6 @@ glioma
 glipizide
 gliricidia
 gliridae
-glis
 glisk
 glissade
 glissando
@@ -34444,6 +34443,7 @@ gubernatorial
 guck
 gucks
 gucky
+gude
 gudes
 gudgeon
 gue
@@ -34491,6 +34491,8 @@ guids
 guild
 guilder
 guildhall
+guilds
+guildsmen
 guile
 guileful
 guileless
@@ -34571,7 +34573,6 @@ gun
 gunas
 gunboat
 guncotton
-gunda
 gundi
 gundy
 gunfight
@@ -35201,7 +35202,6 @@ hamster
 hamstring
 hamsun
 hamza
-han
 hanap
 hance
 hanch
@@ -39779,13 +39779,17 @@ inductionism
 inductive
 inductor
 indue
+indues
 indulge
 indulgence
 indulgent
 indulgently
 indulging
+indult
+indults
 indument
 indumentum
+induna
 indurate
 induration
 indus
@@ -40100,7 +40104,6 @@ ingroup
 ingrowing
 ingrown
 ingrowth
-inguen
 inguinal
 ingurgitate
 inhabit
@@ -41295,6 +41298,7 @@ islamize
 islamophobia
 island
 islander
+islands
 islay
 isle
 isled
@@ -41650,7 +41654,6 @@ jansenist
 janty
 january
 janus
-jap
 japan
 japanese
 japaneseness
@@ -41679,7 +41682,6 @@ jarul
 jasey
 jasmine
 jasminum
-jason
 jaspe
 jasper
 jaspers
@@ -43869,6 +43871,7 @@ lah
 lahal
 lahar
 lahore
+lahs
 lahu
 laic
 laich
@@ -44368,7 +44371,6 @@ laudably
 laudanum
 laudator
 laudatory
-laude
 lauder
 laudo
 lauds
@@ -44388,7 +44390,6 @@ launch
 launcher
 launching
 launchpad
-laund
 launder
 launderette
 laundering
@@ -45140,8 +45141,8 @@ liaison
 liakoura
 liana
 liane
+lianes
 liang
-liao
 liar
 liard
 liars
@@ -46501,8 +46502,8 @@ lucullan
 lucullus
 lucy
 lud
-luda
 luddite
+lude
 ludes
 ludian
 ludic
@@ -46511,6 +46512,7 @@ ludicrously
 ludo
 ludology
 ludos
+luds
 lues
 lufengpithecus
 luff
@@ -46607,8 +46609,6 @@ luncher
 lunching
 lunchroom
 lunchtime
-lund
-lunda
 lune
 lunes
 lunet
@@ -52576,7 +52576,6 @@ nascency
 nascent
 nasdaq
 naseby
-nash
 nashi
 nasho
 nashville
@@ -53471,7 +53470,6 @@ nightwork
 nighty
 nigre
 nigroporus
-nigua
 nihil
 nihilism
 nihilist
@@ -53640,7 +53638,6 @@ njorth
 nkosi
 nnrti
 noachian
-noahs
 nob
 nobble
 nobby
@@ -54440,7 +54437,6 @@ nucleoside
 nucleosynthesis
 nucleotide
 nucleus
-nuda
 nuddy
 nude
 nudeness
@@ -57951,6 +57947,7 @@ paschal
 pase
 paseo
 pases
+pash
 pasha
 pashm
 pashto
@@ -60578,7 +60575,6 @@ planless
 planned
 planner
 planning
-plano
 planococcus
 planoconcave
 planoconvex
@@ -71027,6 +71023,8 @@ senator
 senatorial
 senatorship
 send
+sendal
+sendals
 sendee
 sender
 sending
@@ -71631,7 +71629,6 @@ shampoo
 shamrock
 shams
 shamus
-shan
 shand
 shandy
 shandygaff
@@ -72496,6 +72493,7 @@ sikkim
 sikorsky
 silage
 silane
+silanes
 silas
 sild
 sildenafil
@@ -72550,6 +72548,7 @@ siloxane
 silphium
 silt
 silted
+silting
 silts
 siltstone
 silty
@@ -73101,7 +73100,6 @@ slanderer
 slanderous
 slanderously
 slanderousness
-slane
 slang
 slangily
 slanginess
@@ -80648,7 +80646,6 @@ tindal
 tindale
 tinder
 tinderbox
-tinds
 tine
 tinea
 tined
@@ -80673,6 +80670,7 @@ tinkle
 tinkling
 tinkly
 tinks
+tinmen
 tinned
 tinner
 tinning
@@ -83044,7 +83042,6 @@ ubiquitousness
 ubiquity
 ubity
 ubykh
-udals
 udder
 udmurt
 udo
@@ -83065,7 +83062,6 @@ uglier
 uglies
 uglify
 ugliness
-uglis
 ugly
 ugrian
 ugs
