@@ -391,6 +391,7 @@ abydos
 abye
 abyes
 abyla
+abys
 abysm
 abysmal
 abysmally
@@ -6861,7 +6862,6 @@ baffling
 baffs
 baffy
 bafta
-bafts
 bag
 bagascosis
 bagasse
@@ -22111,6 +22111,7 @@ dewey
 deweyan
 dewiness
 dewlap
+dewool
 dews
 dewy
 dex
@@ -22436,10 +22437,10 @@ diencephalon
 diene
 dieresis
 diervilla
+dies
 diesel
 diesinker
 diesis
-diest
 diestock
 diestrous
 diestrual
@@ -23724,6 +23725,7 @@ doit
 doits
 dojc
 dojigger
+dojo
 dojos
 dol
 dolabrate
@@ -24372,6 +24374,7 @@ drice
 dried
 drier
 dries
+driest
 drift
 driftage
 drifter
@@ -24409,6 +24412,7 @@ driven
 driver
 drives
 driveshaft
+driveshafts
 driveway
 driving
 drixoral
@@ -28477,6 +28481,7 @@ fagus
 fah
 fahd
 fahrenheit
+fahs
 faience
 fail
 failed
@@ -34942,6 +34947,7 @@ hafiz
 hafnium
 haft
 haftarah
+hafted
 haftorah
 hafts
 hag
@@ -41846,7 +41852,6 @@ jetty
 jeu
 jeune
 jevons
-jew
 jewbush
 jewed
 jewel
@@ -46393,6 +46398,7 @@ lowboy
 lowbred
 lowbrow
 lowbrowed
+lowe
 lowed
 lowell
 lowen
@@ -46432,7 +46438,6 @@ loxodrome
 loxoma
 loxomataceae
 loxostege
-loy
 loyal
 loyalist
 loyally
@@ -56780,6 +56785,7 @@ oware
 owari
 owche
 owe
+owed
 owen
 owens
 owensboro
@@ -67271,7 +67277,6 @@ revery
 revet
 revetement
 revetment
-revie
 review
 reviewer
 revile
@@ -70800,11 +70805,9 @@ segway
 sehri
 sei
 seiche
-seid
 seidel
 seidh
 seidhr
-seidr
 seifs
 seigneur
 seigneury
@@ -70813,7 +70816,6 @@ seigniorage
 seigniory
 seils
 seine
-seirs
 seis
 seise
 seism
@@ -71445,7 +71447,6 @@ severn
 severs
 sevilla
 seville
-sevir
 sevs
 sew
 sewage
@@ -71544,6 +71545,7 @@ shadowy
 shads
 shady
 shaft
+shafted
 shafts
 shag
 shagbark
@@ -80911,7 +80913,6 @@ toit
 toited
 toitoi
 toits
-tojo
 tokamak
 tokay
 toke
@@ -81423,6 +81424,7 @@ toyed
 toyer
 toying
 toynbee
+toyo
 toyohashi
 toyon
 toyonaka
@@ -86544,7 +86546,6 @@ verbs
 verdancy
 verdandi
 verdant
-verdi
 verdicchio
 verdict
 verdigris
@@ -86555,6 +86556,7 @@ verdure
 verge
 vergil
 veridical
+veriest
 verifiability
 verifiable
 verification
@@ -86825,8 +86827,10 @@ videodisc
 videodisk
 videos
 videotape
+vids
 vidua
 vie
+vied
 vienna
 vienne
 viennese
@@ -89928,6 +89932,7 @@ youthfully
 youthfulness
 youths
 yow
+yowe
 yowed
 yowes
 yowie
