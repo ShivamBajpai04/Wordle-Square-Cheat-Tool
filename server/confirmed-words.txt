@@ -22,7 +22,9 @@ acing
 acne
 acnes
 acold
+acre
 acro
+act
 add
 adds
 adman
@@ -36,6 +38,7 @@ advance
 advancer
 advancers
 advances
+aecia
 aerier
 aero
 afar
@@ -43,6 +46,7 @@ afars
 afore
 afro
 afros
+again
 age
 ageing
 agemate
@@ -56,6 +60,7 @@ aglare
 aglu
 agma
 agmas
+agnatic
 ags
 ahed
 ahem
@@ -158,6 +163,7 @@ ane
 anear
 anears
 anes
+anga
 ani
 anil
 anils
@@ -176,6 +182,8 @@ antbears
 ante
 antes
 anti
+antic
+anticly
 antifa
 antiquary
 antres
@@ -255,6 +263,8 @@ atoned
 atop
 ats
 attars
+attic
+atting
 augh
 auks
 auld
@@ -443,6 +453,7 @@ cadres
 cads
 cafs
 cage
+cager
 caging
 caid
 cain
@@ -468,6 +479,7 @@ caning
 canola
 canon
 cans
+cant
 cape
 caper
 caping
@@ -494,8 +506,13 @@ cashoo
 casing
 casings
 casini
+cat
+cate
+cates
 cath
 caths
+cattie
+catting
 cava
 cays
 cede
@@ -538,6 +555,7 @@ cire
 cis
 cist
 cisted
+civie
 clad
 clag
 clam
@@ -549,6 +567,8 @@ claypan
 clean
 clear
 clearly
+cleat
+cleating
 clod
 clon
 clone
@@ -600,6 +620,8 @@ cooly
 coon
 coos
 cots
+create
+creates
 cruets
 cubers
 cued
@@ -834,6 +856,7 @@ dupes
 duro
 dyne
 dynel
+eager
 ear
 eardrop
 earl
@@ -855,6 +878,7 @@ eat
 eatable
 eatables
 eath
+eating
 eats
 eau
 eave
@@ -969,6 +993,7 @@ evened
 eves
 evince
 evinces
+eviting
 evoke
 evoked
 ewes
@@ -1119,8 +1144,10 @@ gach
 gae
 gaed
 gaen
+gaes
 gain
 gainer
+gait
 gallnut
 gallnuts
 gam
@@ -1149,6 +1176,8 @@ gars
 garters
 gast
 gat
+gate
+gates
 gats
 gaun
 gaur
@@ -1222,6 +1251,7 @@ gnar
 gnarr
 gnarrs
 gnars
+gnat
 gnoses
 gnus
 godded
@@ -1426,6 +1456,7 @@ hyssops
 ice
 ices
 ich
+icing
 icon
 icones
 idea
@@ -1473,6 +1504,7 @@ inro
 integer
 intel
 inter
+inti
 into
 iodic
 ion
@@ -1738,7 +1770,9 @@ leucin
 leud
 leukotomy
 leva
+levin
 levo
+levy
 lewk
 ley
 liane
@@ -1791,8 +1825,12 @@ loathes
 lobo
 lobos
 loca
+locating
+locative
 locavore
 loci
+locie
+locing
 locular
 locule
 lode
@@ -2076,12 +2114,16 @@ nacho
 nada
 nae
 naes
+naevi
 nag
+naga
 nags
 nah
 naif
 nail
 nails
+naive
+naively
 nala
 nalas
 naled
@@ -2108,6 +2150,8 @@ nasal
 natal
 natant
 nates
+native
+natively
 nav
 navar
 navars
@@ -2145,6 +2189,7 @@ next
 nicad
 nicads
 nice
+nicely
 nicer
 nicol
 niftily
@@ -2255,6 +2300,8 @@ oke
 okeh
 oldy
 olea
+oleic
+olein
 oleo
 oleos
 oles
@@ -2726,6 +2773,7 @@ ravier
 ravioli
 raya
 rays
+react
 read
 real
 really
@@ -2742,6 +2790,8 @@ rebbes
 rebs
 rec
 recoin
+recs
+recta
 red
 redate
 redates
@@ -2761,6 +2811,7 @@ refereed
 reffed
 refs
 reft
+reg
 regave
 regent
 regnum
@@ -2822,6 +2873,8 @@ revote
 revotes
 revs
 revues
+rez
+rezes
 rho
 rhos
 rial
@@ -2986,6 +3039,7 @@ scar
 scaring
 scarring
 scars
+scat
 scaur
 sea
 seal
@@ -2999,6 +3053,7 @@ sears
 seas
 seat
 sec
+sect
 see
 seed
 seeing
@@ -3360,6 +3415,11 @@ tabes
 table
 tables
 tabs
+tacan
+tace
+taces
+tacit
+taco
 tad
 tads
 tae
@@ -3385,6 +3445,8 @@ tames
 tamest
 tams
 tan
+tang
+tanga
 tank
 tankas
 tanker
@@ -3436,6 +3498,8 @@ tease
 teasel
 teat
 teats
+tec
+tecs
 tectite
 ted
 teds
@@ -3510,6 +3574,7 @@ tian
 tibias
 tie
 tied
+tieing
 tier
 tigons
 tile
@@ -3527,7 +3592,12 @@ tinmen
 tins
 tint
 tirl
+titan
+titanic
+titi
+titian
 tits
+tivy
 tix
 tiyn
 tod
@@ -3738,8 +3808,11 @@ vets
 vex
 vext
 vial
+viatic
+viatica
 vice
 vices
+vicing
 vide
 video
 vids
@@ -3750,6 +3823,7 @@ vies
 viff
 vims
 vin
+vina
 vine
 vines
 vino
@@ -3759,11 +3833,18 @@ vires
 vis
 vise
 vita
+vitae
+vitta
+vittae
 vittle
 vlei
+vocative
+vocatively
 voe
 voes
 vogs
+voice
+voicing
 volar
 vole
 voles
@@ -3882,6 +3963,7 @@ zeda
 zeds
 zees
 zest
+zeta
 zona
 zone
 zoner

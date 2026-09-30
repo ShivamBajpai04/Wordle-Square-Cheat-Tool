@@ -780,7 +780,6 @@ acnes
 acnidosporidia
 acocanthera
 acock
-acoel
 acokanthera
 acold
 acolyte
@@ -1983,7 +1982,6 @@ aims
 ain
 ainas
 ainee
-ainga
 aioli
 air
 airbag
@@ -3504,6 +3502,7 @@ aneurysmatic
 anew
 anfo
 anfractuous
+anga
 angara
 angas
 angel
@@ -4018,6 +4017,7 @@ anticlimactical
 anticlimax
 anticlinal
 anticlockwise
+anticly
 anticoagulant
 anticoagulation
 anticoagulative
@@ -6007,7 +6007,6 @@ attested
 attester
 attestor
 attic
-attica
 attics
 atticus
 attila
@@ -11970,7 +11969,6 @@ caffre
 caffs
 cafs
 caftan
-cag
 cage
 caged
 cager
@@ -15594,6 +15592,7 @@ clearstory
 clearway
 clearweed
 cleat
+cleating
 cleats
 cleavable
 cleavage
@@ -16324,7 +16323,6 @@ coleslaw
 colette
 coleus
 colewort
-coley
 colic
 colicky
 colicroot
@@ -18856,6 +18854,7 @@ creaseless
 creaseproof
 creashak
 create
+creates
 creatin
 creatine
 creation
@@ -25095,7 +25094,6 @@ eaters
 eatery
 eath
 eathe
-eatin
 eating
 eats
 eau
@@ -27298,7 +27296,6 @@ estuary
 esurience
 esurient
 eta
-etage
 etagere
 etamin
 etamine
@@ -27665,6 +27662,7 @@ eviscerate
 evisceration
 evitable
 evite
+eviting
 evocation
 evocative
 evoke
@@ -31736,6 +31734,7 @@ gae
 gaed
 gaelic
 gaen
+gaes
 gaff
 gaffe
 gaffer
@@ -31776,7 +31775,6 @@ gaiseric
 gait
 gaiter
 gaits
-gaitt
 gaius
 gajos
 gal
@@ -32289,7 +32287,6 @@ gazoo
 gazpacho
 gazump
 gbit
-gcse
 gdansk
 geals
 gean
@@ -45074,7 +45071,6 @@ leverage
 leveraging
 leveret
 leves
-levi
 leviathan
 levin
 levirate
@@ -45951,6 +45947,7 @@ lochs
 lochy
 loci
 locie
+locing
 locis
 lock
 lockage
@@ -46752,7 +46749,6 @@ luxury
 luyia
 luz
 luzon
-lvii
 lviii
 lwei
 lweis
@@ -52361,9 +52357,7 @@ naiadales
 naiant
 naias
 naibs
-naice
 naids
-naieo
 naif
 naifs
 naiki
@@ -52626,6 +52620,7 @@ nationhood
 nationwide
 natis
 native
+natively
 nativeness
 nativism
 nativist
@@ -53331,7 +53326,6 @@ next
 nexts
 nexum
 nexus
-ngaio
 ngana
 nganasan
 ngapi
@@ -53368,7 +53362,6 @@ niceness
 nicer
 nicest
 nicety
-nicey
 niche
 niched
 nicholas
@@ -53620,14 +53613,12 @@ nitrostat
 nitrous
 nitry
 nits
-nitta
 nitty
 nitweed
 nitwit
 nitwitted
 nival
 nivas
-nivel
 nivose
 nix
 nixe
@@ -65871,6 +65862,7 @@ recrudescent
 recruit
 recruiter
 recruitment
+recs
 recta
 rectal
 rectangle
@@ -69919,7 +69911,6 @@ scaur
 scavenge
 scavenger
 scaws
-sceat
 sceliphron
 sceloglaux
 sceloporus
@@ -69945,7 +69936,6 @@ sceptically
 scepticism
 sceptre
 sceptred
-scet
 schadenfreude
 schaffneria
 schav
@@ -79154,6 +79144,7 @@ technophobic
 techs
 techy
 tecophilaeacea
+tecs
 tecta
 tectaria
 tectite
@@ -80508,6 +80499,7 @@ tieback
 tiebreaker
 tied
 tiefs
+tieing
 tientsin
 tiepin
 tiepolo
@@ -80772,7 +80764,6 @@ titillate
 titillated
 titillating
 titillation
-titin
 titir
 titis
 titivate
@@ -80800,6 +80791,7 @@ titular
 titulary
 titup
 tivoli
+tivy
 tix
 tiyin
 tiyn
@@ -86736,6 +86728,8 @@ vial
 vials
 viand
 viands
+viatic
+viatica
 viatical
 viatication
 viaticus
@@ -86783,8 +86777,8 @@ viceroyship
 vices
 vichy
 vichyssoise
-vicia
 vicinal
+vicing
 vicinity
 vicious
 viciously
@@ -86914,6 +86908,7 @@ vimen
 viminaria
 vims
 vin
+vina
 vinaceous
 vinaigrette
 vinal
@@ -86963,7 +86958,6 @@ vintner
 vinyl
 vinylbenzene
 vinylite
-viocin
 viol
 viola
 violable
@@ -87170,6 +87164,7 @@ vitriolic
 vitriolically
 vitro
 vitta
+vittae
 vittaria
 vittariaceae
 vittle
@@ -87247,6 +87242,7 @@ vocation
 vocational
 vocationally
 vocative
+vocatively
 voces
 vociferate
 vociferation
@@ -87274,7 +87270,6 @@ voicemail
 voiceprint
 voicer
 voices
-voici
 voicing
 void
 voidable
@@ -87362,7 +87357,6 @@ volva
 volvaria
 volvariaceae
 volvariella
-volve
 volvelle
 volvocaceae
 volvocales
