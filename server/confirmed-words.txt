@@ -22,6 +22,7 @@ acing
 acne
 acnes
 acold
+acorn
 acre
 acro
 act
@@ -61,6 +62,7 @@ aglu
 agma
 agmas
 agnatic
+agro
 ags
 ahed
 ahem
@@ -172,6 +174,7 @@ ankh
 anoa
 anoas
 anon
+anonym
 ansa
 ant
 anta
@@ -188,6 +191,9 @@ antifa
 antiquary
 antres
 ants
+anymore
+anyon
+anyone
 ape
 aper
 apers
@@ -207,6 +213,9 @@ apse
 apses
 arbs
 arbute
+arc
+arcing
+arco
 arcs
 are
 area
@@ -392,9 +401,13 @@ bolo
 bolos
 bolt
 bolts
+bonce
 bonder
+bone
+boner
 bonier
 bonitos
+bony
 boor
 boors
 boos
@@ -410,6 +423,8 @@ bots
 bott
 bouse
 bouses
+bower
+boxy
 boyars
 boys
 bras
@@ -443,6 +458,7 @@ byrling
 byte
 bytes
 cabs
+caconym
 cad
 caddis
 cade
@@ -466,6 +482,7 @@ cami
 camis
 camise
 camises
+camo
 cams
 can
 canal
@@ -480,6 +497,7 @@ canola
 canon
 cans
 cant
+canyon
 cape
 caper
 caping
@@ -523,6 +541,7 @@ cello
 celly
 cels
 celt
+cero
 cert
 cete
 chaffs
@@ -591,8 +610,11 @@ cols
 colt
 colure
 coly
+coma
 comm
 commos
+comp
+comparing
 con
 conceive
 conceives
@@ -619,9 +641,23 @@ cool
 cooly
 coon
 coos
+cor
+core
+corer
+coring
+corm
+corn
+corner
+corny
 cots
+cower
+crag
+cram
+cramp
+crap
 create
 creates
+crew
 cruets
 cubers
 cued
@@ -634,6 +670,9 @@ curs
 cust
 cutins
 cuts
+cyan
+cyano
+cyma
 dace
 daces
 dad
@@ -933,6 +972,7 @@ engs
 ennead
 enol
 enorm
+enow
 ens
 enuf
 envier
@@ -1156,6 +1196,7 @@ gamas
 game
 games
 gamest
+gamp
 gams
 gamuts
 gan
@@ -1267,6 +1308,8 @@ gosh
 gowd
 goys
 grab
+gram
+gramp
 gran
 grans
 graph
@@ -1897,6 +1940,10 @@ lyse
 maar
 mabe
 mac
+mace
+macer
+macon
+macro
 macs
 mad
 mads
@@ -1931,6 +1978,7 @@ mandala
 mandalas
 mane
 mani
+manic
 manis
 manito
 manitu
@@ -1949,6 +1997,7 @@ maple
 mar
 mara
 maranta
+marc
 marg
 mars
 mas
@@ -1973,6 +2022,7 @@ maxi
 may
 maya
 mayan
+mayo
 maze
 mazes
 maziest
@@ -2071,6 +2121,7 @@ mist
 misty
 mity
 mobs
+moc
 modded
 mode
 modem
@@ -2088,7 +2139,11 @@ mool
 moos
 mopoke
 mopy
+mor
 mora
+more
+morgan
+morn
 mort
 mosk
 mote
@@ -2111,6 +2166,7 @@ naan
 nab
 nabs
 nacho
+nacre
 nada
 nae
 naes
@@ -2139,10 +2195,13 @@ napa
 nape
 napes
 naps
+narc
+narco
 nard
 nards
 nare
 nares
+naric
 naris
 nark
 nary
@@ -2163,6 +2222,7 @@ near
 nears
 neat
 neck
+necromancy
 nee
 need
 needs
@@ -2185,6 +2245,7 @@ netter
 neuk
 neum
 neve
+newb
 next
 nicad
 nicads
@@ -2217,6 +2278,8 @@ nolo
 noms
 nona
 nonce
+noncom
+noncore
 none
 nonyl
 noo
@@ -2306,6 +2369,7 @@ oleo
 oleos
 oles
 olla
+oma
 omas
 omen
 omens
@@ -2342,15 +2406,22 @@ opus
 ora
 orad
 oral
+orang
 orate
 orators
 orbing
 orbs
 orby
+orc
+orca
+orcin
 orcins
 ordo
 ore
 ores
+org
+organ
+organic
 orle
 orles
 orpin
@@ -2396,6 +2467,7 @@ owed
 owes
 owls
 owly
+owner
 owse
 oxer
 oyer
@@ -2421,6 +2493,7 @@ pan
 panacea
 pane
 panes
+pang
 panic
 panne
 pannes
@@ -2440,6 +2513,7 @@ pareo
 parer
 pares
 pareses
+paring
 parol
 pars
 parse
@@ -2605,6 +2679,8 @@ pots
 pottos
 pout
 pouted
+pram
+prang
 prao
 praos
 prase
@@ -2631,6 +2707,7 @@ proas
 prog
 prolan
 proleg
+prom
 prone
 proning
 protyl
@@ -2721,6 +2798,7 @@ ramen
 ramens
 ramets
 rami
+ramp
 rams
 ramtil
 ran
@@ -2790,6 +2868,7 @@ rebbes
 rebs
 rec
 recoin
+recon
 recs
 recta
 red
@@ -2873,6 +2952,7 @@ revote
 revotes
 revs
 revues
+rewon
 rez
 rezes
 rho
@@ -2918,6 +2998,7 @@ roan
 roar
 robing
 robs
+roc
 rod
 rode
 rods
@@ -2930,6 +3011,10 @@ rolf
 rolfs
 roll
 rolled
+rom
+roman
+romano
+romp
 roms
 ronin
 roof
@@ -3920,6 +4005,7 @@ work
 wort
 wot
 wrap
+wren
 wrier
 wrying
 wyes

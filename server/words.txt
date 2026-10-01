@@ -1875,10 +1875,10 @@ agriculturist
 agrigento
 agrimonia
 agrimony
-agrin
 agriocharis
 agrippa
 agrippina
+agro
 agrobacterium
 agrobiologic
 agrobiological
@@ -4887,6 +4887,7 @@ archpriest
 archway
 arcidae
 arciform
+arcing
 arcminute
 arco
 arcos
@@ -10359,7 +10360,6 @@ bowline
 bowling
 bowls
 bowman
-bowne
 bowrs
 bowse
 bowsprit
@@ -10404,7 +10404,6 @@ boyla
 boyle
 boylike
 boyly
-boyne
 boyos
 boys
 boysenberry
@@ -11882,6 +11881,7 @@ cacogenics
 cacography
 cacomistle
 cacomixle
+caconym
 cacophonic
 cacophonous
 cacophony
@@ -18057,6 +18057,7 @@ coriaceous
 coriander
 coriandrum
 coricidin
+coring
 corinth
 corinthian
 corium
@@ -18105,13 +18106,11 @@ cornflower
 cornhusk
 cornhusker
 cornhusking
-corni
 cornice
 cornish
 cornishman
 cornishwoman
 cornmeal
-corno
 cornpone
 corns
 cornsilk
@@ -18142,7 +18141,6 @@ coronion
 coropuna
 corot
 corozo
-corp
 corporal
 corporality
 corporate
@@ -18747,7 +18745,6 @@ crampon
 crampoon
 cramps
 crams
-cran
 cranberry
 cranch
 crane
@@ -19980,7 +19977,6 @@ cynoscion
 cynosure
 cynthia
 cynwulf
-cyon
 cyperaceae
 cyperus
 cypher
@@ -26440,6 +26436,7 @@ enosis
 enough
 enounce
 enovid
+enow
 enows
 enplane
 enquire
@@ -34224,7 +34221,6 @@ grogs
 groin
 grok
 groks
-groma
 grommet
 groms
 gromwell
@@ -51185,7 +51181,6 @@ moralize
 moralizing
 morally
 morals
-moran
 morangoska
 moras
 morass
@@ -51227,7 +51222,6 @@ morgue
 morgy
 moria
 moribund
-morin
 morion
 morley
 mormo
@@ -51235,8 +51229,6 @@ mormon
 mormonism
 mormons
 morn
-morna
-morne
 mornight
 morning
 morns
@@ -53265,6 +53257,7 @@ nevvy
 new
 newari
 newark
+newb
 newbie
 newborn
 newbs
@@ -53332,7 +53325,6 @@ ngapi
 ngege
 ngoma
 ngoni
-ngram
 ngultrum
 nguni
 ngwee
@@ -53850,11 +53842,11 @@ noncontentious
 noncontinuous
 noncontroversial
 nonconvergent
+noncore
 noncritical
 noncrucial
 noncrystalline
 noncurrent
-noncy
 noncyclic
 noncyclical
 nondeductible
@@ -55347,8 +55339,8 @@ olympic
 olympics
 olympism
 olympus
+oma
 omaha
-omani
 omas
 omasa
 omasum
@@ -55420,7 +55412,6 @@ onagraceae
 onanism
 onanist
 once
-oncer
 oncet
 onchocerciasis
 oncidium
@@ -55860,6 +55851,7 @@ orestes
 orf
 orff
 orful
+org
 organ
 organdie
 organdy
@@ -55925,7 +55917,6 @@ originative
 originator
 orinasal
 orinase
-oring
 orinoco
 oriole
 oriolidae
@@ -56777,7 +56768,6 @@ owari
 owche
 owe
 owed
-owen
 owens
 owensboro
 owers
@@ -57054,7 +57044,6 @@ pagod
 pagoda
 pagophila
 pagophilus
-pagri
 pagrus
 paguridae
 pagurus
@@ -57398,7 +57387,6 @@ panier
 panim
 panini
 panipat
-panir
 panjabi
 panjandrum
 panko
@@ -57790,7 +57778,6 @@ parmelia
 parmeliaceae
 parmenides
 parmesan
-parmo
 parms
 parnahiba
 parnaiba
@@ -62716,7 +62703,6 @@ principe
 principen
 principle
 principled
-pring
 prinia
 prinivil
 prink
@@ -65501,7 +65487,6 @@ razz
 razzing
 razzle
 razzmatazz
-rcmp
 reabsorb
 reabsorption
 reach
@@ -67587,7 +67572,6 @@ rickrack
 ricks
 ricksha
 rickshaw
-rico
 ricochet
 ricotta
 ricrac
@@ -68073,14 +68057,13 @@ roman
 romanal
 romance
 romanesque
-romani
 romania
 romanian
-romanic
 romanise
 romanism
 romanist
 romanize
+romano
 romanoff
 romanov
 romans
@@ -68094,7 +68077,6 @@ romanticist
 romanticistic
 romanticization
 romanticize
-romany
 romas
 romberg
 romeo
