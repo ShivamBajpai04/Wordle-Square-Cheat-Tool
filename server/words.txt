@@ -19621,6 +19621,7 @@ curd
 curded
 curdle
 curdled
+curdles
 curdling
 curds
 curdy
@@ -19658,6 +19659,7 @@ curls
 curly
 curmudgeon
 curmudgeonly
+curn
 curns
 curny
 currajong
@@ -19679,8 +19681,8 @@ curs
 curse
 cursed
 cursedly
+cursedness
 curses
-cursi
 cursive
 cursively
 cursor
@@ -19748,6 +19750,9 @@ cuss
 cussed
 cussedly
 cussedness
+cusser
+cussers
+cusses
 cusso
 cust
 custard
@@ -21874,7 +21879,6 @@ despotical
 despotism
 desquamate
 desquamation
-desse
 dessert
 dessertspoon
 dessertspoonful
@@ -24521,7 +24525,7 @@ drupaceous
 drupe
 drupelet
 druse
-drusen
+druses
 drusy
 druthers
 druxy
@@ -25616,6 +25620,7 @@ eldership
 eldest
 eldin
 eldorado
+eldress
 eldritch
 elds
 eleaticism
@@ -37969,6 +37974,7 @@ hutchins
 hutchinson
 hutia
 hutment
+huts
 hutton
 hutu
 hutzpah
@@ -41419,7 +41425,6 @@ issued
 issuer
 issues
 issuing
-issus
 istanbul
 isthmian
 isthmus
@@ -45084,6 +45089,7 @@ levodopa
 levorotary
 levorotation
 levorotatory
+levs
 levulose
 levy
 lew
@@ -49144,7 +49150,7 @@ mercurous
 mercury
 mercy
 merde
-merds
+merdes
 mere
 mered
 meredith
@@ -49214,8 +49220,6 @@ merriness
 merry
 merrymaker
 merrymaking
-mers
-merse
 mersk
 mertensia
 merthiolate
@@ -49236,7 +49240,6 @@ mesencephalon
 mesenchyme
 mesenteric
 mesentery
-meses
 mesh
 meshed
 meshing
@@ -53095,7 +53098,6 @@ nesokia
 ness
 nesselrode
 nesses
-nessie
 nest
 nester
 nestle
@@ -65339,7 +65341,6 @@ rath
 rathe
 rather
 rathole
-raths
 rathskeller
 ratibida
 ratification
@@ -67051,7 +67052,6 @@ resurgent
 resurrect
 resurrection
 resurvey
-resus
 resuscitate
 resuscitated
 resuscitation
@@ -68665,7 +68665,6 @@ ruskin
 rusks
 rusky
 rusma
-russe
 russell
 russet
 russia
@@ -70790,6 +70789,8 @@ seils
 seine
 seis
 seise
+seiser
+seisers
 seism
 seismal
 seismic
@@ -70803,6 +70804,7 @@ seismologist
 seismology
 seismosaur
 seismosaurus
+seisure
 seith
 seithr
 seity
@@ -71080,7 +71082,6 @@ sensorimotor
 sensorineural
 sensorium
 sensory
-sensu
 sensual
 sensualise
 sensualism
@@ -72203,7 +72204,6 @@ shrug
 shrugs
 shrunk
 shrunken
-shtar
 shtetl
 shtick
 shtickl
@@ -72240,6 +72240,7 @@ shush
 shut
 shutdown
 shute
+shutes
 shuteye
 shutout
 shuts
@@ -72759,7 +72760,6 @@ sissification
 sissified
 sissiness
 sissoo
-sissu
 sissy
 sissyish
 sista
@@ -75849,7 +75849,6 @@ stenotaphrum
 stenotic
 stenotomus
 stenotus
-stens
 stent
 stentor
 stentorian
@@ -77128,7 +77127,6 @@ suids
 suillus
 suing
 suint
-suisse
 suit
 suitability
 suitable
@@ -77558,7 +77556,6 @@ surefooted
 surely
 sureness
 surer
-sures
 surety
 surf
 surface
@@ -80309,6 +80306,7 @@ thrower
 thrown
 throws
 throwster
+thru
 thrum
 thrush
 thrust
@@ -85655,6 +85653,7 @@ urarthritis
 urase
 urate
 uratemia
+urates
 uraturia
 urb
 urban
@@ -85675,8 +85674,8 @@ urceole
 urchin
 urd
 urdee
+urds
 urdu
-ure
 urea
 ureal
 ureas
@@ -85763,7 +85762,6 @@ ursinia
 urson
 ursulines
 ursus
-urth
 urtica
 urticaceae
 urticales
@@ -85799,7 +85797,6 @@ usefulness
 useless
 uselessly
 uselessness
-usens
 user
 users
 uses
@@ -85815,7 +85812,6 @@ usnea
 usneaceae
 usque
 ussher
-ussr
 ustad
 uster
 ustilaginaceae
