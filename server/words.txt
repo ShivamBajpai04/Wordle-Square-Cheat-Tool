@@ -1021,8 +1021,6 @@ adaption
 adaptive
 adaptor
 adapts
-adar
-adats
 adawn
 adaws
 adaxial
@@ -4912,7 +4910,6 @@ arctotis
 arcturus
 arcuate
 arcus
-arda
 ardea
 ardeb
 ardeidae
@@ -5026,6 +5023,7 @@ argyrotaenia
 argyroxiphium
 arhant
 arhat
+arhats
 arhus
 aria
 ariadne
@@ -5408,7 +5406,6 @@ ascetic
 ascetical
 ascetically
 asceticism
-asch
 aschelminthes
 asci
 ascidiaceae
@@ -6614,8 +6611,6 @@ azotemic
 azoth
 azotic
 azoturia
-aztec
-aztecan
 aztreonam
 azuki
 azure
@@ -11844,6 +11839,7 @@ cabre
 cabriolet
 cabs
 cabstand
+caca
 cacajao
 cacalia
 cacao
@@ -11924,7 +11920,6 @@ cadis
 cadiz
 cadmium
 cadmus
-cadra
 cadre
 cadres
 cads
@@ -12406,6 +12401,7 @@ cancellous
 cancer
 cancerous
 cancerweed
+cancha
 cancridae
 cancroid
 cancun
@@ -13414,6 +13410,7 @@ catoptrophorus
 catostomid
 catostomidae
 catostomus
+cats
 catskills
 catsup
 cattail
@@ -13950,12 +13947,10 @@ ceylonite
 cezanne
 cezve
 chaap
-chaat
 chabad
 chabasite
 chabazite
 chablis
-chace
 chachalaca
 chachka
 chack
@@ -14239,6 +14234,7 @@ charivari
 chark
 charlatan
 charlatanism
+charlatans
 charlemagne
 charleroi
 charles
@@ -20099,6 +20095,7 @@ dace
 dacelo
 daces
 dacha
+dachas
 dachau
 dachshund
 dachsie
@@ -20434,7 +20431,6 @@ dasyurus
 data
 database
 datable
-datal
 date
 dateable
 dated
@@ -31789,7 +31785,6 @@ galactosemia
 galactosis
 galago
 galah
-galahad
 galan
 galangal
 galantine
@@ -34790,10 +34785,10 @@ gyver
 gyves
 gywn
 haafs
+haar
 haars
 haart
 haastia
-haats
 habacuc
 habakkuk
 habanera
@@ -35553,7 +35548,6 @@ hassium
 hassle
 hassock
 hast
-hasta
 hastate
 haste
 hasted
@@ -35593,6 +35587,7 @@ hatmaker
 hatpin
 hatrack
 hatred
+hats
 hatted
 hatter
 hattiesburg
@@ -44285,7 +44280,6 @@ lastly
 lastreopsis
 lasts
 lat
-latah
 latakia
 latanier
 latch
@@ -49468,6 +49462,7 @@ meticulously
 meticulousness
 metier
 metif
+meting
 metis
 metol
 metonym
@@ -49511,7 +49506,6 @@ mettle
 mettlesome
 mettlesomeness
 metycaine
-meu
 meums
 meuse
 mevacor
@@ -51646,7 +51640,6 @@ muils
 muirs
 muiry
 muishond
-muist
 mujahadeen
 mujahadein
 mujahadin
@@ -52287,7 +52280,6 @@ myxovirus
 mzees
 naan
 naans
-naats
 nab
 nabalus
 nabam
@@ -52343,7 +52335,6 @@ nagor
 nagoya
 nags
 nah
-nahal
 nahuatl
 nahum
 naiad
@@ -52564,7 +52555,6 @@ nasality
 nasalization
 nasalize
 nasally
-nascar
 nascence
 nascency
 nascent
@@ -52580,7 +52570,6 @@ nasopharyngeal
 nasopharynx
 nassau
 nasser
-nast
 nastika
 nastily
 nastiness
@@ -65324,8 +65313,8 @@ ratafee
 ratafia
 ratal
 ratan
+ratans
 rataplan
-ratas
 ratatouille
 ratch
 ratchet
@@ -68844,7 +68833,6 @@ sacrosanct
 sacrum
 sacs
 sad
-sadat
 saddam
 sadden
 sadder
@@ -68878,7 +68866,6 @@ sadomasochism
 sadomasochist
 sadomasochistic
 sados
-sadza
 sae
 safaqis
 safari
@@ -69746,7 +69733,6 @@ scaffolding
 scag
 scags
 scail
-scala
 scalability
 scalable
 scalage
@@ -72382,6 +72368,7 @@ sift
 sifter
 sifting
 sifts
+sig
 sigeh
 sigh
 sighed
@@ -72797,7 +72784,6 @@ situation
 situp
 situs
 sitwell
-sium
 siva
 sivaism
 sivan
@@ -75492,6 +75478,7 @@ stakeholder
 stakeout
 stakes
 stalactite
+stalag
 stalagmite
 stalagmometer
 stale
@@ -75533,6 +75520,7 @@ stamp
 stampede
 stamper
 stamps
+stan
 stance
 stanch
 stanchion
@@ -78320,6 +78308,7 @@ tabun
 tabus
 tacamahac
 tacan
+tacans
 tacca
 taccaceae
 tace
@@ -78378,7 +78367,6 @@ tacts
 tactual
 tactually
 tad
-tadah
 tadalafil
 tadarida
 tadjik
@@ -78697,6 +78685,7 @@ tanning
 tannish
 tannoy
 tanoan
+tans
 tansu
 tansy
 tantalise
@@ -78860,7 +78849,6 @@ tarzan
 tarzy
 tas
 tasar
-tasca
 tase
 tased
 taser
@@ -80488,13 +80476,13 @@ tierce
 tiercel
 tiered
 tiers
+ties
 tiff
 tiffany
 tiffin
 tiffs
 tiflis
 tifos
-tig
 tiger
 tigerish
 tigers
@@ -82611,7 +82599,6 @@ tunica
 tunicata
 tunicate
 tuning
-tunis
 tunisia
 tunisian
 tunker
@@ -84415,6 +84402,7 @@ unique
 uniquely
 uniqueness
 unironed
+unis
 unisex
 unisexual
 unison
@@ -85327,6 +85315,7 @@ untidy
 untie
 untied
 untier
+unties
 until
 untilled
 untimbered
