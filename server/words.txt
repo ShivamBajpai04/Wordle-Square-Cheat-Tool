@@ -760,6 +760,7 @@ acinous
 acinus
 acipenser
 acipenseridae
+ack
 acked
 ackee
 acker
@@ -1239,6 +1240,7 @@ adoringly
 adorn
 adorned
 adornment
+ados
 adown
 adoxography
 adoze
@@ -6425,6 +6427,7 @@ avine
 avion
 avionic
 avionics
+avions
 avirulent
 avise
 aviso
@@ -6442,7 +6445,7 @@ avoidable
 avoidance
 avoids
 avoirdupois
-avon
+avos
 avouch
 avouchment
 avow
@@ -13535,7 +13538,6 @@ cayuse
 caz
 cazique
 ccrc
-cdna
 cease
 ceased
 ceaseless
@@ -13771,6 +13773,7 @@ centurion
 century
 ceorl
 cep
+cepe
 cepes
 cephalalgia
 cephalanthera
@@ -18274,7 +18277,6 @@ cos
 coscoroba
 cosec
 cosecant
-cosed
 coseismal
 coseismic
 coses
@@ -18748,6 +18750,7 @@ cranes
 cranesbill
 crangon
 crangonidae
+crania
 cranial
 craniata
 craniate
@@ -20316,7 +20319,6 @@ dankness
 danks
 danmark
 dans
-danse
 danseur
 danseuse
 dante
@@ -22036,6 +22038,7 @@ developmentally
 devest
 devi
 deviance
+deviances
 deviant
 deviate
 deviation
@@ -22078,6 +22081,7 @@ devolve
 devolvement
 devon
 devonian
+devons
 devonshire
 devote
 devoted
@@ -22237,7 +22241,6 @@ diametrically
 diamine
 diamond
 diamondback
-diana
 diane
 dianoetic
 dianthus
@@ -22641,7 +22644,6 @@ dingy
 dinic
 dining
 dink
-dinka
 dinkey
 dinks
 dinky
@@ -23617,6 +23619,7 @@ dockside
 dockworker
 dockyard
 docos
+docs
 doctor
 doctoral
 doctorate
@@ -24075,7 +24078,6 @@ dout
 douts
 dove
 dovecote
-doved
 dovekie
 doven
 dover
@@ -25227,6 +25229,7 @@ economist
 economize
 economizer
 economy
+ecos
 ecosoc
 ecosystem
 ecoterrorism
@@ -27581,7 +27584,6 @@ evangelism
 evangelist
 evangelistic
 evangelize
-evans
 evansville
 evaporable
 evaporate
@@ -29317,6 +29319,7 @@ fezzy
 fhlmc
 fiance
 fiancee
+fiances
 fiar
 fiars
 fiasco
@@ -39347,7 +39350,6 @@ inbuilt
 inbye
 incalculable
 incalescence
-incan
 incandesce
 incandescence
 incandescent
@@ -40191,7 +40193,6 @@ injuriousness
 injury
 injustice
 ink
-inka
 inkberry
 inkblot
 inked
@@ -42458,6 +42459,7 @@ kampala
 kampong
 kampuchea
 kampuchean
+kana
 kanae
 kanaf
 kanal
@@ -43254,6 +43256,7 @@ knap
 knaps
 knapsack
 knapweed
+knar
 knarl
 knars
 knaur
@@ -52358,7 +52361,6 @@ nails
 naily
 nains
 nainsook
-naios
 naira
 nairobi
 nairu
@@ -52492,7 +52494,6 @@ naqua
 naranjilla
 naras
 narc
-narcan
 narcism
 narcissism
 narcissist
@@ -52672,7 +52673,6 @@ navar
 navarino
 navars
 nave
-naved
 navel
 naves
 navew
@@ -54345,7 +54345,6 @@ novelty
 november
 novena
 novgorod
-novia
 novial
 novice
 noviciate
@@ -58341,7 +58340,6 @@ peckish
 pecks
 pecky
 pecopteris
-pecos
 pecs
 pectic
 pectin
@@ -58427,7 +58425,7 @@ pedwood
 pee
 peebeen
 peebeens
-peece
+peed
 peeing
 peek
 peekaboo
@@ -58465,7 +58463,6 @@ peeved
 peevish
 peevishly
 peevishness
-peevo
 peewee
 peewit
 peg
@@ -70134,7 +70131,6 @@ sclim
 sclk
 scobe
 scody
-scoed
 scoes
 scoff
 scoffer
@@ -74118,7 +74114,6 @@ sonant
 sonar
 sonata
 sonatina
-sonce
 sonchus
 sonde
 sondheim
@@ -85938,6 +85933,7 @@ vadas
 vaded
 vades
 vadge
+vadose
 vaduz
 vag
 vagabond
@@ -86298,6 +86294,7 @@ vedism
 vedist
 vee
 veena
+veep
 veeps
 veer
 veered

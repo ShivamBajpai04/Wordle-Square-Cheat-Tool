@@ -20,7 +20,9 @@ aceta
 acetal
 achoo
 acid
+acinar
 acing
+ack
 acne
 acnes
 acold
@@ -33,6 +35,7 @@ acts
 add
 adds
 adman
+ados
 ads
 adult
 adulting
@@ -80,6 +83,7 @@ aidmen
 ail
 ails
 aim
+aimed
 aims
 ain
 aioli
@@ -248,6 +252,7 @@ arming
 armings
 armlets
 arms
+arnica
 aro
 aros
 arowana
@@ -296,6 +301,9 @@ avaunt
 averter
 averters
 averts
+avion
+avions
+avos
 away
 awed
 awes
@@ -550,6 +558,7 @@ catting
 cava
 cays
 cede
+cedes
 cee
 cees
 cell
@@ -557,6 +566,7 @@ cello
 celly
 cels
 celt
+cepe
 cero
 cert
 cete
@@ -620,9 +630,12 @@ clot
 clout
 cloy
 clue
+coda
 coed
+coeds
 coft
 cogs
+coif
 coin
 cola
 cold
@@ -674,10 +687,14 @@ corn
 corner
 corny
 cots
+cove
+coved
 cower
 crag
 cram
 cramp
+crania
+crank
 crap
 create
 creates
@@ -735,6 +752,7 @@ damn
 damns
 dan
 dance
+danced
 dancer
 dancers
 dances
@@ -761,12 +779,14 @@ dean
 dear
 deck
 deco
+decos
 deductions
 deducts
 deed
 deeds
 deem
 deeming
+deep
 dees
 deet
 defers
@@ -803,6 +823,11 @@ desk
 dev
 deva
 devest
+devi
+deviance
+deviances
+devon
+devons
 devotes
 devs
 dew
@@ -812,6 +837,7 @@ dex
 dexters
 dice
 dicer
+dick
 diene
 dies
 diet
@@ -822,6 +848,7 @@ dine
 diner
 diners
 dines
+dink
 diol
 diplomas
 dire
@@ -838,6 +865,7 @@ diver
 divers
 dives
 doat
+docs
 dodge
 dodged
 dodges
@@ -867,6 +895,7 @@ domino
 dominos
 doms
 don
+dona
 done
 dons
 donsy
@@ -878,6 +907,7 @@ dos
 dosa
 dosas
 dose
+dosed
 doser
 dosers
 doses
@@ -895,6 +925,7 @@ doum
 douse
 douses
 dout
+dove
 dow
 dracena
 drafters
@@ -976,6 +1007,7 @@ eave
 ebbs
 eche
 eco
+ecos
 eddo
 eddoes
 edema
@@ -1155,6 +1187,9 @@ ferula
 feta
 fetors
 feus
+fiance
+fiancee
+fiances
 fiar
 fico
 fiftieths
@@ -1185,6 +1220,7 @@ fishless
 fist
 fitly
 fits
+five
 flagmen
 flam
 flamy
@@ -1580,6 +1616,7 @@ ice
 ices
 ich
 icing
+ick
 icon
 icones
 idea
@@ -1701,12 +1738,14 @@ kaiaks
 kaif
 kaka
 kame
+kana
 kane
 karn
 kats
 kea
 keas
 keel
+keep
 keet
 kefs
 kegs
@@ -1753,6 +1792,7 @@ kirn
 kist
 kits
 klatch
+knar
 knaur
 knead
 knew
@@ -2130,6 +2170,7 @@ medias
 meds
 meed
 meeds
+meek
 meeters
 meg
 mega
@@ -2285,6 +2326,7 @@ nalas
 naled
 nam
 name
+nan
 nana
 nano
 nans
@@ -2314,6 +2356,7 @@ natively
 nav
 navar
 navars
+nave
 navs
 nduja
 ndujas
@@ -2357,6 +2400,7 @@ nicads
 nice
 nicely
 nicer
+nick
 nicol
 niftily
 nifty
@@ -2411,6 +2455,7 @@ nota
 nother
 noun
 nouns
+nova
 noway
 nth
 nuclear
@@ -2657,12 +2702,17 @@ pearlier
 peart
 pearter
 peat
+pecs
+pedes
 peds
 peebeen
 peebeens
+peed
+peek
 pees
 pegs
 pein
+peke
 pele
 pelite
 pen
@@ -2883,6 +2933,7 @@ quite
 quits
 race
 races
+rack
 rad
 radio
 rads
@@ -2915,6 +2966,7 @@ ramtil
 ran
 rance
 rances
+rancid
 rand
 ranee
 rang
@@ -2922,6 +2974,7 @@ rangs
 rani
 ranid
 ranis
+rank
 rant
 rants
 rap
@@ -3259,6 +3312,7 @@ seas
 seat
 seats
 sec
+second
 sect
 see
 seed
@@ -3506,8 +3560,10 @@ soapiness
 soapinesses
 soar
 soars
+soave
 sobs
 sod
+soda
 sods
 soever
 sofa
@@ -4033,6 +4089,7 @@ utile
 uts
 uttering
 vac
+vadose
 vail
 vair
 valor
@@ -4053,6 +4110,7 @@ vaunts
 vaus
 vaxed
 vee
+veep
 vees
 vein
 veld
@@ -4078,6 +4136,7 @@ vets
 vex
 vext
 vial
+viand
 viatic
 viatica
 vice
@@ -4111,6 +4170,7 @@ vittle
 vlei
 vocative
 vocatively
+voces
 voe
 voes
 vogs
