@@ -978,6 +978,7 @@ acular
 aculea
 aculeate
 aculeated
+aculei
 aculeus
 acumen
 acuminate
@@ -5878,6 +5879,7 @@ athyrium
 atigi
 atilt
 atimy
+atingle
 ativan
 atlanta
 atlantic
@@ -7097,7 +7099,6 @@ balus
 baluster
 balusters
 balustrade
-balut
 balzac
 balzacian
 bam
@@ -7636,6 +7637,7 @@ bathyscaphe
 bathysphere
 batidaceae
 batik
+bating
 batis
 batiste
 batman
@@ -11069,6 +11071,7 @@ brucellosis
 bruch
 bruchidae
 bruchus
+brucin
 brucine
 bruck
 bruckenthalia
@@ -11135,6 +11138,7 @@ brutalization
 brutalize
 brutally
 brute
+bruting
 brutish
 brutishly
 bruts
@@ -11317,6 +11321,7 @@ bulbul
 bulgaria
 bulgarian
 bulge
+bulger
 bulghur
 bulginess
 bulging
@@ -15349,7 +15354,6 @@ cists
 cistus
 cit
 citadel
-cital
 citation
 cite
 cited
@@ -19661,6 +19665,7 @@ curmudgeonly
 curn
 curns
 curny
+curr
 currajong
 currant
 currawong
@@ -19670,6 +19675,7 @@ currently
 currentness
 curricular
 curriculum
+currie
 currier
 currish
 currishly
@@ -25361,6 +25367,7 @@ eel
 eelam
 eelblenny
 eelgrass
+eelier
 eellike
 eelpout
 eels
@@ -25806,11 +25813,11 @@ elude
 eluded
 eludes
 eluding
-elul
 elusion
 elusive
 elusiveness
 elute
+eluting
 elution
 elvan
 elven
@@ -33218,6 +33225,7 @@ glueyness
 glug
 glugg
 glugs
+gluier
 gluiness
 gluing
 glum
@@ -38554,7 +38562,6 @@ icons
 icosahedral
 icosahedron
 icsh
-ictal
 ictalurus
 icteria
 icteric
@@ -39560,6 +39567,7 @@ incrustation
 incubate
 incubation
 incubator
+incubi
 incubus
 inculcate
 inculcation
@@ -40211,6 +40219,7 @@ inland
 inlaw
 inlay
 inlet
+inlier
 inline
 inly
 inmarriage
@@ -41122,6 +41131,7 @@ ired
 ireful
 ireland
 irelander
+ireless
 irenaeus
 irenic
 irenidae
@@ -43744,6 +43754,7 @@ lachrymation
 lachrymator
 lachrymatory
 lachrymose
+lacier
 lacing
 laciniate
 lack
@@ -44325,7 +44336,6 @@ lati
 laticifer
 latimeria
 latimeridae
-latin
 latina
 latinae
 latinate
@@ -44960,7 +44970,6 @@ leptotyphlopidae
 leptotyphlops
 lepus
 lered
-leres
 leresis
 lermontov
 lerner
@@ -45253,6 +45262,7 @@ liens
 liepaja
 lier
 liers
+lies
 liest
 lieth
 lietuva
@@ -46459,9 +46469,12 @@ lubed
 lubes
 lubitsch
 lublin
+lubric
+lubrical
 lubricant
 lubricate
 lubricated
+lubricating
 lubrication
 lubricator
 lubricious
@@ -46542,7 +46555,6 @@ luik
 lukewarm
 lukewarmly
 lukewarmness
-lulab
 lull
 lullaby
 lulled
@@ -53551,7 +53563,6 @@ nissan
 nisse
 nisus
 nit
-nital
 nite
 nitella
 niter
@@ -66244,7 +66255,6 @@ registrar
 registration
 registry
 reglaecus
-regle
 regma
 regna
 regnant
@@ -66467,9 +66477,12 @@ relocate
 relocated
 relocation
 relos
+relubricating
+reluct
 reluctance
 reluctant
 reluctantly
+relucting
 reluctivity
 rely
 relyric
@@ -67540,6 +67553,7 @@ richmondena
 richness
 richweed
 ricin
+ricing
 ricinus
 rick
 rickenbacker
@@ -67561,6 +67575,7 @@ rickshaw
 ricochet
 ricotta
 ricrac
+rictal
 rictus
 rid
 riddance
@@ -68396,6 +68411,7 @@ ruandan
 rub
 rubai
 ruban
+rubati
 rubato
 rubbed
 rubber
@@ -68426,6 +68442,7 @@ rubicelle
 rubicon
 rubicund
 rubidium
+rubier
 rubies
 rubify
 rubin
@@ -68536,6 +68553,7 @@ ruler
 rulers
 rulership
 rules
+rulier
 ruling
 rully
 ruly
@@ -70723,6 +70741,7 @@ seeping
 seeps
 seepy
 seer
+seeress
 seers
 seersucker
 sees
@@ -70767,7 +70786,6 @@ seigneury
 seignior
 seigniorage
 seigniory
-seils
 seine
 seis
 seise
@@ -71325,7 +71343,6 @@ sesame
 sesamoid
 sesamum
 sesbania
-seseli
 sesey
 sesh
 sesotho
@@ -73154,7 +73171,6 @@ sleepwear
 sleepy
 sleepyhead
 sleepyheaded
-sleer
 sleet
 sleety
 sleeve
@@ -78299,6 +78315,7 @@ tabularize
 tabulate
 tabulation
 tabulator
+tabuli
 tabun
 tabus
 tacamahac
@@ -80595,6 +80612,7 @@ tinamiformes
 tinamou
 tinas
 tinbergen
+tincal
 tinct
 tincted
 tincts
@@ -80617,6 +80635,8 @@ ting
 tinge
 tingidae
 tingle
+tingler
+tinglier
 tingling
 tingly
 tings
@@ -82710,8 +82730,10 @@ turpin
 turpitude
 turps
 turquoise
+turr
 turreae
 turret
+turrical
 turritis
 turrs
 tursiops
@@ -85827,7 +85849,6 @@ uteri
 uterine
 uterus
 utes
-utica
 utile
 utilisation
 utilise
