@@ -1394,7 +1394,6 @@ aecium
 aedes
 aegates
 aegean
-aeger
 aegiceras
 aegilops
 aegina
@@ -5096,7 +5095,6 @@ ark
 arkansan
 arkansas
 arkansawyer
-arked
 arks
 arled
 arles
@@ -21164,6 +21162,7 @@ dekaliter
 dekalitre
 dekameter
 dekametre
+dekare
 deke
 deked
 dekes
@@ -25446,6 +25445,7 @@ efits
 eflops
 efs
 eft
+egad
 egads
 egalitarian
 egalitarianism
@@ -25504,7 +25504,6 @@ ehadhamen
 ehing
 ehrenberg
 ehrlich
-ehs
 eibit
 eichhornia
 eichmann
@@ -32302,6 +32301,7 @@ gear
 gearbox
 geare
 geared
+gearhead
 gearing
 gearmotor
 gears
@@ -32701,6 +32701,7 @@ ghee
 ghees
 gheg
 ghent
+gherao
 gherkin
 ghest
 ghetto
@@ -35444,6 +35445,7 @@ harijan
 harikari
 harim
 hark
+harked
 harken
 harks
 harl
@@ -36296,6 +36298,7 @@ hepatotoxin
 hepburn
 hephaestus
 hephaistos
+heps
 heptad
 heptagon
 heptane
@@ -36765,7 +36768,6 @@ hiois
 hip
 hipbone
 hiped
-hiper
 hipflask
 hiphop
 hiplength
@@ -42537,7 +42539,6 @@ karas
 karat
 karate
 karbala
-karee
 karelia
 karelian
 karenic
@@ -42658,6 +42659,7 @@ kedge
 kedgeree
 kedgy
 keech
+keef
 keefs
 keeks
 keel
@@ -43521,9 +43523,9 @@ kraurosis
 kraut
 krauthead
 krauts
+kray
 krays
 krebs
-kreef
 kreen
 kreep
 kreisler
@@ -43640,6 +43642,7 @@ kyack
 kyaks
 kyang
 kyanite
+kyar
 kyars
 kyat
 kyats
@@ -50680,9 +50683,7 @@ mojave
 mojo
 mojos
 moke
-moker
 mokes
-mokey
 mokky
 mokulu
 mokus
@@ -54656,11 +54657,11 @@ oafs
 oak
 oaked
 oaken
-oaker
 oakland
 oakley
 oaks
 oakum
+oaky
 oar
 oared
 oarfish
@@ -55228,7 +55229,6 @@ okeechobee
 okeh
 okehs
 okenfuss
-okey
 okies
 okinawa
 oking
@@ -58489,6 +58489,7 @@ pegos
 pegs
 peh
 pehlevi
+pehs
 peignoir
 pein
 peins
@@ -59447,7 +59448,6 @@ phasmidia
 phat
 phatter
 pheasant
-pheer
 phegopteris
 pheidias
 phellem
@@ -59496,6 +59496,7 @@ pheochromocytoma
 pheresis
 pheromone
 phese
+phew
 phi
 phial
 phidias
@@ -60334,6 +60335,7 @@ piscine
 piscivorous
 pisco
 pish
+pisher
 pisiform
 pisky
 pismire
@@ -66295,7 +66297,6 @@ regulus
 regur
 regurgitate
 regurgitation
-reh
 rehab
 rehabilitate
 rehabilitation
@@ -66312,6 +66313,7 @@ rehearse
 reheat
 reheel
 rehem
+rehire
 rehnquist
 rehouse
 rei
@@ -66381,7 +66383,6 @@ rejoinder
 rejuvenate
 rejuvenation
 rejuvenescence
-reked
 rekes
 rekey
 rekindle
@@ -67308,7 +67309,6 @@ revue
 revues
 revulsion
 revved
-rew
 rewan
 reward
 rewardful
@@ -71911,7 +71911,6 @@ shipwright
 shipyard
 shiraz
 shire
-shirer
 shirk
 shirker
 shirking
@@ -88092,7 +88091,6 @@ weedkiller
 weedless
 weeds
 weedy
-weeis
 week
 weekday
 weeke
@@ -88227,6 +88225,7 @@ wenge
 wenny
 wens
 wents
+were
 werent
 werewolf
 werfel
@@ -88343,6 +88342,7 @@ wheelwork
 wheelwright
 wheen
 wheep
+wheeps
 wheeze
 wheezer
 wheezily
@@ -89850,11 +89850,9 @@ yokai
 yokan
 yoke
 yoked
-yokeg
 yokel
 yokelish
 yokels
-yoker
 yokes
 yokohama
 yoks
