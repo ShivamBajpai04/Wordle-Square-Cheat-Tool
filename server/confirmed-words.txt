@@ -17,9 +17,13 @@ abut
 abys
 acai
 ace
+aced
 aces
 aceta
 acetal
+ache
+ached
+aches
 achoo
 acid
 acinar
@@ -84,6 +88,7 @@ ahead
 ahed
 ahem
 ahi
+ahis
 ahorse
 ahoy
 ahs
@@ -167,6 +172,7 @@ aments
 ami
 amid
 amie
+amies
 amis
 amp
 ample
@@ -514,6 +520,7 @@ caconym
 cad
 caddis
 cade
+cades
 cadi
 cadis
 cadre
@@ -530,6 +537,8 @@ calo
 cals
 cam
 came
+cameo
+cames
 cami
 camis
 camise
@@ -613,6 +622,9 @@ chain
 chaine
 chainer
 cham
+chamise
+chamois
+chamoised
 chao
 chap
 chape
@@ -627,11 +639,17 @@ chaste
 chat
 chats
 chay
+chem
+chemo
 chi
 chia
 chid
+chime
+chimed
+chimes
 chimp
 chip
+chis
 chon
 ciao
 cig
@@ -780,6 +798,7 @@ dacha
 dachas
 dad
 dads
+dah
 dahl
 dahs
 daimen
@@ -790,6 +809,8 @@ dale
 dalles
 dals
 dam
+dame
+dames
 damn
 damns
 dan
@@ -852,6 +873,7 @@ demo
 demode
 demoded
 demoed
+demoi
 demount
 denar
 dene
@@ -863,6 +885,8 @@ dense
 deny
 deps
 dere
+deshi
+desi
 desk
 dev
 deva
@@ -1021,6 +1045,7 @@ dupes
 duro
 dyne
 dynel
+each
 eager
 ear
 eardrop
@@ -1071,6 +1096,8 @@ egad
 eger
 egest
 egesta
+egis
+egises
 egos
 eke
 eked
@@ -1099,6 +1126,7 @@ eme
 emes
 emit
 emits
+emo
 emos
 ems
 emu
@@ -1110,6 +1138,7 @@ end
 endless
 ends
 engs
+enisle
 ennead
 enol
 enorm
@@ -1121,6 +1150,7 @@ enuf
 envier
 eonism
 eons
+eosin
 epic
 epistle
 epithet
@@ -1176,6 +1206,8 @@ etuis
 eurekas
 even
 evened
+event
+events
 eves
 evince
 evinces
@@ -1386,6 +1418,7 @@ geek
 geeked
 geeky
 gees
+gels
 gem
 gems
 gene
@@ -1400,6 +1433,7 @@ gent
 gentes
 gentil
 gentile
+gents
 genu
 genus
 geode
@@ -1518,11 +1552,15 @@ guys
 gyri
 haar
 habu
+had
 hadal
 hade
+hades
 hae
 haed
+haem
 haen
+haes
 haet
 haft
 hafted
@@ -1534,6 +1572,9 @@ hail
 hailer
 hails
 haj
+ham
+hame
+hames
 hams
 hanked
 hant
@@ -1609,6 +1650,7 @@ heron
 herons
 heros
 hers
+hes
 hest
 het
 hetero
@@ -1618,6 +1660,8 @@ hewn
 hexers
 hic
 hie
+hied
+hies
 hilt
 hilts
 him
@@ -1744,6 +1788,7 @@ inia
 ink
 inker
 inlier
+inmost
 inosite
 inro
 integer
@@ -1773,6 +1818,8 @@ issued
 issues
 istle
 item
+itemise
+items
 its
 ivorier
 jail
@@ -2007,6 +2054,11 @@ leer
 lees
 leet
 leger
+leges
+legit
+legits
+legmen
+legs
 lehr
 lei
 leis
@@ -2172,11 +2224,18 @@ maar
 mabe
 mac
 mace
+maced
 macer
+maces
+mach
+mache
+maches
+machs
 macon
 macro
 macs
 mad
+made
 mads
 mae
 maes
@@ -2266,6 +2325,8 @@ meant
 measle
 meat
 meats
+mech
+mechs
 med
 medal
 medias
@@ -2305,6 +2366,7 @@ merl
 merls
 mes
 mesa
+mesh
 mesne
 mesnes
 mess
@@ -2351,6 +2413,7 @@ mint
 mints
 minute
 minutes
+mioses
 mips
 mir
 mirk
@@ -2358,6 +2421,8 @@ mirs
 mis
 mise
 mises
+misevent
+miso
 mist
 misty
 mite
@@ -2373,6 +2438,9 @@ modes
 mods
 mofo
 mogs
+moi
+moist
+moisten
 moke
 mols
 mome
@@ -2390,10 +2458,14 @@ morgan
 morn
 mort
 mosk
+most
+moste
 mote
 motel
 motey
 mots
+move
+moves
 moxa
 muleta
 muletas
@@ -2496,6 +2568,7 @@ netter
 neuk
 neum
 neve
+neves
 newb
 next
 nicad
@@ -2505,6 +2578,8 @@ nicely
 nicer
 nick
 nicol
+nieve
+nieves
 niftily
 nifty
 nils
@@ -2515,6 +2590,8 @@ nine
 niner
 nipa
 nipas
+nisei
+niseis
 nit
 nite
 nites
@@ -3476,6 +3553,8 @@ seer
 seeress
 sees
 seg
+segment
+segments
 segni
 segno
 segnos
@@ -3504,6 +3583,7 @@ selles
 sels
 seme
 semi
+semis
 sen
 senary
 send
@@ -3521,6 +3601,7 @@ sensed
 senses
 sensor
 sent
+senti
 sents
 sept
 septs
@@ -3547,6 +3628,7 @@ setout
 sets
 setup
 sev
+seven
 severs
 sevs
 sews
@@ -3558,13 +3640,19 @@ sextuplet
 sextuplets
 sez
 sha
+shad
+shade
 shaft
 shafted
 shafts
 shahid
+sham
+shame
+shamed
 shat
 she
 shea
+shed
 sheep
 sheer
 sheered
@@ -3576,6 +3664,7 @@ shent
 shereef
 shes
 shew
+shied
 shier
 shim
 ship
@@ -3612,6 +3701,9 @@ sibs
 sic
 sice
 sics
+siege
+sieve
+sieves
 sift
 sig
 sigher
@@ -3642,6 +3734,7 @@ sims
 sin
 since
 sine
+sines
 sing
 sings
 sinh
@@ -3742,6 +3835,7 @@ soles
 soli
 solo
 sols
+some
 soms
 son
 sonar
@@ -3814,6 +3908,7 @@ stem
 step
 stet
 stey
+sties
 stile
 stilt
 stilts
@@ -4058,6 +4153,7 @@ tin
 tincal
 tincts
 tine
+tines
 ting
 tinge
 tingle
@@ -4291,6 +4387,7 @@ vaxed
 vee
 veep
 vees
+veges
 vein
 veld
 velds
@@ -4300,6 +4397,8 @@ vend
 vendee
 vendees
 vends
+vent
+vents
 vera
 veriest
 veritas
@@ -4307,6 +4406,9 @@ vermian
 verset
 verste
 vert
+vest
+vestige
+vestiges
 vet
 vetoer
 vetoers
@@ -4424,6 +4526,10 @@ wipe
 wiper
 wire
 wirer
+wise
+wisent
+wises
+wist
 wodge
 wodges
 woe

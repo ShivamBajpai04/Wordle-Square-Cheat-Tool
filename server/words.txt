@@ -615,6 +615,7 @@ accustom
 accustomed
 ace
 acebutolol
+aced
 acedia
 acedy
 acellular
@@ -668,7 +669,6 @@ acetylenic
 acetylic
 acetylise
 acetylize
-ach
 achaea
 achaean
 achaian
@@ -1922,6 +1922,7 @@ ahimsa
 ahind
 ahing
 ahint
+ahis
 ahistorical
 ahold
 ahorse
@@ -3000,7 +3001,6 @@ amiodarone
 amir
 amirs
 amis
-amish
 amiss
 amitosis
 amitotic
@@ -14080,8 +14080,10 @@ chambray
 chameleon
 chamfer
 chamfron
+chamise
 chammy
 chamois
+chamoised
 chamomile
 chamosite
 champ
@@ -14340,7 +14342,6 @@ chaws
 chay
 chaya
 chays
-che
 cheap
 cheapen
 cheapjack
@@ -14451,6 +14452,7 @@ chelp
 chelyabinsk
 chelydra
 chelydridae
+chem
 chemakuan
 chemakum
 chemic
@@ -14658,6 +14660,7 @@ chimariko
 chimb
 chimborazo
 chime
+chimed
 chimer
 chimera
 chimeral
@@ -14670,7 +14673,6 @@ chimneypot
 chimneystack
 chimneysweep
 chimneysweeper
-chimo
 chimonanthus
 chimp
 chimpanzee
@@ -14757,6 +14759,7 @@ chirr
 chirrup
 chirt
 chiru
+chis
 chisel
 chiseled
 chiseler
@@ -20105,7 +20108,6 @@ dacha
 dachas
 dachau
 dachshund
-dachsie
 dacite
 dacitic
 dacks
@@ -20168,7 +20170,6 @@ dagos
 daguerre
 daguerreotype
 dah
-dahis
 dahl
 dahlia
 dahls
@@ -21129,7 +21130,6 @@ dehydrated
 dehydration
 dehydrogenate
 dehydroretinol
-dei
 deice
 deicer
 deictic
@@ -21803,6 +21803,7 @@ desexualise
 desexualize
 deshabille
 deshi
+desi
 desiccant
 desiccate
 desiccated
@@ -25160,7 +25161,6 @@ ecdysiast
 ecdysis
 ecdysteroid
 ecesis
-ech
 eche
 eched
 echelon
@@ -25473,6 +25473,7 @@ eggshake
 eggshell
 eggwhisk
 egis
+egises
 eglantine
 eglevsky
 ego
@@ -25543,7 +25544,6 @@ einsteinium
 einthoven
 eiron
 eisegesis
-eisel
 eisenhower
 eisenstaedt
 eisenstein
@@ -25772,7 +25772,6 @@ ellsworth
 ellul
 ellwand
 elm
-elmen
 elmont
 elms
 elmwood
@@ -25801,7 +25800,6 @@ elsass
 else
 elsewhere
 elsholtzia
-elsin
 elspar
 eluate
 elucidate
@@ -26003,7 +26001,6 @@ emotionless
 emotionlessly
 emotionlessness
 emotive
-emove
 empale
 empanel
 empath
@@ -26383,6 +26380,7 @@ enigmatic
 enigmatical
 enigmatically
 enigmaticness
+enisle
 eniwetok
 enjambement
 enjambment
@@ -26619,7 +26617,6 @@ entrust
 entry
 entryphone
 entryway
-entsi
 entwine
 enucleate
 enucleation
@@ -27603,7 +27600,6 @@ evasive
 evasively
 evasiveness
 eve
-evegs
 even
 evened
 evenfall
@@ -27647,7 +27643,6 @@ everything
 everywhere
 everywoman
 eves
-evets
 evict
 eviction
 evidence
@@ -32337,10 +32332,8 @@ geglossaceae
 gehenna
 gehrig
 geiger
-geisel
 geisha
 geist
-geits
 gekkonidae
 gel
 gelatin
@@ -34946,6 +34939,7 @@ haems
 haemulidae
 haemulon
 haen
+haes
 haet
 haets
 hafiz
@@ -35181,7 +35175,6 @@ hamba
 hamburg
 hamburger
 hame
-hamed
 hamel
 hamelia
 hamelin
@@ -36609,6 +36602,7 @@ hiding
 hidrosis
 hidrotic
 hie
+hied
 hiemal
 hiera
 hieracium
@@ -36629,6 +36623,7 @@ hieroglyphical
 hieroglyphically
 hierolatry
 hieronymus
+hies
 hifalutin
 hifis
 higginson
@@ -44754,8 +44749,10 @@ legitimatise
 legitimatize
 legitimise
 legitimize
+legits
 legless
 leglike
+legmen
 legno
 legos
 legs
@@ -46986,8 +46983,8 @@ macguffin
 mach
 machaeranthera
 mache
+maches
 machete
-machi
 machiavelli
 machiavellian
 machiavellianism
@@ -47252,7 +47249,6 @@ mahem
 mahgrib
 mahican
 mahimahi
-mahis
 mahjong
 mahlstick
 mahoe
@@ -48629,7 +48625,7 @@ mebibyte
 mebos
 mecca
 meccano
-mecha
+mech
 mechanic
 mechanical
 mechanically
@@ -49528,7 +49524,6 @@ meums
 meuse
 mevacor
 meved
-meves
 mew
 mewed
 mewer
@@ -50135,6 +50130,7 @@ minx
 minxy
 minyan
 miocene
+mioses
 miosis
 miotic
 mips
@@ -50259,6 +50255,7 @@ misery
 mises
 misestimate
 misestimation
+misevent
 misfeasance
 misfire
 misfit
@@ -50623,7 +50620,6 @@ module
 modulo
 modulus
 modus
-moe
 moehringia
 moers
 mofo
@@ -51319,7 +51315,6 @@ moschus
 moscow
 mosed
 moselle
-moses
 mosey
 mosh
 moshav
@@ -53406,6 +53401,7 @@ niess
 nietzsche
 nietzscheanism
 nieve
+nieves
 nifedipine
 niff
 niffs
@@ -53558,6 +53554,7 @@ nirly
 nirvana
 nisan
 nisei
+niseis
 nisi
 nisin
 nissan
@@ -55351,9 +55348,7 @@ ombre
 ombudsman
 ombudsperson
 ombudswoman
-omdah
 omdda
-omdeh
 omdurman
 omega
 omelet
@@ -70665,7 +70660,6 @@ securely
 secureness
 securer
 security
-sed
 sedalia
 sedan
 sedate
@@ -70758,6 +70752,7 @@ segment
 segmental
 segmentation
 segmented
+segments
 segni
 segno
 segnos
@@ -71481,7 +71476,6 @@ sez
 sezes
 sezession
 sforzando
-sgml
 sgraffito
 sha
 shaaban
@@ -71783,8 +71777,6 @@ sheltered
 shelve
 shelver
 shelvy
-shem
-shema
 shemozzle
 shen
 shenanigan
@@ -72369,12 +72361,12 @@ sield
 siemens
 sienna
 siens
-sient
 sierra
 siesta
 sieth
 sieur
 sieve
+sieves
 sif
 sift
 sifter
@@ -80497,7 +80489,6 @@ tifos
 tiger
 tigerish
 tigers
-tiges
 tight
 tighten
 tightening
@@ -86660,6 +86651,7 @@ vestiary
 vestibular
 vestibule
 vestige
+vestiges
 vestigial
 vestiture
 vestment
@@ -88871,6 +88863,7 @@ wisp
 wisplike
 wisps
 wispy
+wist
 wistaria
 wister
 wisteria
