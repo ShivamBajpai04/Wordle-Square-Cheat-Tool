@@ -162,6 +162,7 @@ alto
 alts
 ama
 amah
+amahs
 amain
 amarna
 amas
@@ -196,6 +197,7 @@ anga
 ani
 anil
 anils
+animus
 anis
 ankh
 anoa
@@ -335,6 +337,7 @@ awns
 axe
 axed
 axite
+axman
 aye
 ayes
 bade
@@ -621,11 +624,13 @@ chai
 chain
 chaine
 chainer
+chais
 cham
 chamise
 chamois
 chamoised
 chao
+chaos
 chap
 chape
 chaperon
@@ -635,6 +640,7 @@ char
 chard
 charlatan
 charlatans
+chasm
 chaste
 chat
 chats
@@ -1268,11 +1274,15 @@ fehs
 feme
 fens
 feod
+fer
 fere
 ferula
+fes
 feta
 fetors
+feu
 feus
+few
 fiance
 fiancee
 fiances
@@ -1357,8 +1367,10 @@ fruiter
 fuds
 fugs
 fungos
+fur
 furanes
 furs
+fuse
 gab
 gabion
 gabs
@@ -1685,6 +1697,7 @@ hoagie
 hoar
 hoars
 hoarse
+hoax
 hobo
 hoe
 hoed
@@ -1702,6 +1715,8 @@ holo
 hols
 holt
 holts
+homa
+homas
 hone
 honer
 hong
@@ -1884,6 +1899,7 @@ keef
 keel
 keep
 keet
+kef
 kefs
 kegs
 keir
@@ -1897,6 +1913,9 @@ keno
 kenos
 kens
 kent
+kep
+kepi
+kepis
 keps
 kerf
 kerfed
@@ -1914,7 +1933,9 @@ khedas
 kidlit
 kidlits
 kids
+kief
 kier
+kiers
 kifs
 kilned
 kilted
@@ -1924,8 +1945,10 @@ kinas
 kinase
 kine
 kines
+kip
 kir
 kirn
+kis
 kist
 kits
 klatch
@@ -1958,6 +1981,8 @@ krai
 krauts
 kray
 kris
+kue
+kues
 kuna
 kune
 kyar
@@ -2245,6 +2270,8 @@ mage
 magentas
 mages
 mags
+maim
+maims
 main
 mair
 maize
@@ -2268,10 +2295,13 @@ mandala
 mandalas
 mane
 mani
+mania
+manias
 manic
 manis
 manito
 manitu
+mannish
 mano
 mans
 manta
@@ -2294,6 +2324,7 @@ mas
 masa
 masala
 mases
+mash
 mass
 mast
 mat
@@ -2381,6 +2412,10 @@ meth
 meting
 metis
 metol
+mhos
+miaou
+miaous
+miasm
 mic
 mica
 micas
@@ -2428,6 +2463,8 @@ misty
 mite
 mites
 mity
+moan
+moas
 mobs
 moc
 modded
@@ -2446,6 +2483,9 @@ mols
 mome
 momi
 moms
+monas
+monish
+monism
 mook
 mool
 moos
@@ -2457,6 +2497,7 @@ more
 morgan
 morn
 mort
+mosh
 mosk
 most
 moste
@@ -2467,11 +2508,16 @@ mots
 move
 moves
 moxa
+moxas
 muleta
 muletas
+mums
 muni
+munis
 muntin
+muon
 mure
+mush
 muso
 mutant
 muts
@@ -2503,6 +2549,7 @@ nam
 name
 nan
 nana
+nanism
 nano
 nans
 naoi
@@ -2523,6 +2570,7 @@ naris
 nark
 nary
 nasal
+nasion
 natal
 natant
 nates
@@ -2607,6 +2655,7 @@ noel
 nogs
 noise
 nolo
+nomism
 noms
 nona
 nonce
@@ -2635,6 +2684,7 @@ nota
 nother
 noun
 nouns
+nous
 nova
 noway
 nth
@@ -2695,6 +2745,7 @@ ogeed
 ogees
 ohed
 ohia
+ohms
 oiks
 okas
 okay
@@ -2712,6 +2763,8 @@ oles
 olla
 oma
 omas
+omasa
+omasum
 omega
 omen
 omens
@@ -2720,6 +2773,7 @@ once
 one
 ones
 onesie
+onium
 onlay
 only
 ono
@@ -2775,6 +2829,7 @@ orts
 osar
 ose
 oses
+osmium
 ossa
 ostraca
 otto
@@ -2942,6 +2997,7 @@ petitions
 pets
 pettier
 pew
+pews
 phat
 phatter
 phenom
@@ -2962,9 +3018,14 @@ pic
 pica
 pie
 pier
+piers
 pies
 pig
 pigboat
+pike
+piker
+pikers
+pikes
 pilar
 pile
 pina
@@ -3253,6 +3314,7 @@ reeky
 reel
 reels
 rees
+ref
 refeed
 refereed
 reffed
@@ -3503,8 +3565,10 @@ sate
 satem
 sati
 sau
+sauna
 savarins
 saws
+saxman
 sayest
 says
 scad
@@ -3631,6 +3695,7 @@ sev
 seven
 severs
 sevs
+sew
 sews
 sext
 sextile
@@ -3647,6 +3712,7 @@ shafted
 shafts
 shahid
 sham
+shaman
 shame
 shamed
 shat
@@ -3702,6 +3768,7 @@ sic
 sice
 sics
 siege
+sieur
 sieve
 sieves
 sift
@@ -3712,6 +3779,7 @@ signa
 signs
 sigs
 sike
+siker
 silane
 silanes
 sild
@@ -3727,6 +3795,7 @@ silty
 sim
 sima
 simas
+simcha
 simp
 simple
 simply
@@ -3835,6 +3904,8 @@ soles
 soli
 solo
 sols
+soma
+soman
 some
 soms
 son
@@ -3939,7 +4010,10 @@ sues
 suet
 suffari
 suint
+suk
 sukkot
+sumi
+sumo
 sums
 sumy
 sung
@@ -3956,6 +4030,8 @@ surras
 sused
 suses
 suss
+swipe
+swiper
 swum
 syce
 syn
@@ -4276,6 +4352,7 @@ tyes
 tyin
 tyring
 udos
+uke
 ukes
 ulan
 ulcer
@@ -4286,6 +4363,7 @@ ultra
 umps
 unai
 unais
+unanimous
 unarm
 unarms
 unary
@@ -4524,10 +4602,14 @@ whup
 whys
 wipe
 wiper
+wipers
+wipes
 wire
 wirer
+wis
 wise
 wisent
+wiser
 wises
 wist
 wodge

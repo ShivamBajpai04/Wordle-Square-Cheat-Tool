@@ -1981,7 +1981,6 @@ aimlessly
 aimlessness
 aims
 ain
-ainas
 ainee
 aioli
 air
@@ -3081,7 +3080,6 @@ amortisation
 amortise
 amortization
 amortize
-amos
 amount
 amour
 amowt
@@ -3761,7 +3759,6 @@ annulated
 annulet
 annulment
 annulus
-annum
 annunciate
 annunciation
 annunciator
@@ -3799,7 +3796,6 @@ anomalous
 anomalously
 anomalousness
 anomaly
-anomia
 anomic
 anomie
 anomiidae
@@ -5471,7 +5467,6 @@ ashtray
 ashur
 ashurbanipal
 ashy
-asian
 asiatic
 aside
 asilidae
@@ -14326,7 +14321,6 @@ chauffeur
 chauffeuse
 chaulmoogra
 chaulmugra
-chauna
 chauvinism
 chauvinist
 chauvinistic
@@ -25531,7 +25525,6 @@ eightvo
 eighty
 eigne
 eijkman
-eik
 eiked
 eikon
 eilds
@@ -27455,7 +27448,6 @@ euglenoid
 euglenophyceae
 euglenophyta
 euglenophyte
-euk
 eukaryote
 eukaryotic
 eulogise
@@ -35334,7 +35326,6 @@ hanukkah
 hanuman
 hao
 haole
-haoma
 haos
 hap
 hapas
@@ -37098,6 +37089,7 @@ holts
 holy
 holystone
 hom
+homa
 homage
 homaridae
 homarus
@@ -37695,7 +37687,6 @@ hoys
 hrolf
 hrvatska
 hryvnia
-hsian
 html
 huaca
 huainaputina
@@ -43135,7 +43126,6 @@ kiowa
 kip
 kipah
 kipas
-kipes
 kipling
 kiplingesque
 kippa
@@ -43562,6 +43552,7 @@ kudus
 kudzu
 kue
 kuenlun
+kues
 kufis
 kugel
 kuias
@@ -47262,7 +47253,6 @@ mahratti
 mahua
 mahuang
 mahwa
-maia
 maianthemum
 maid
 maiden
@@ -47709,6 +47699,7 @@ mania
 maniac
 maniacal
 maniacally
+manias
 manic
 manichaean
 manichaeanism
@@ -47755,7 +47746,6 @@ manky
 manlike
 manliness
 manly
-mann
 manna
 manned
 mannequin
@@ -47848,8 +47838,6 @@ manzanilla
 manzanita
 manzo
 manzoni
-maoi
-maoism
 maoist
 maori
 map
@@ -48129,7 +48117,6 @@ marylander
 marzipan
 mas
 masa
-masai
 masala
 masas
 mascara
@@ -48148,7 +48135,6 @@ maser
 maseru
 mases
 mash
-masha
 mashed
 masher
 mashhad
@@ -49554,8 +49540,10 @@ mflop
 mgals
 mho
 mhorr
+mhos
 miami
 miaou
+miaous
 miaow
 miasm
 miasma
@@ -49982,7 +49970,6 @@ mimosa
 mimosaceae
 mimosoideae
 mimsy
-mimus
 mina
 minacious
 minae
@@ -50093,7 +50080,6 @@ minnewit
 minniebush
 minnow
 minny
-minoan
 minocin
 minocycline
 minor
@@ -50214,7 +50200,6 @@ miscegenation
 miscellanea
 miscellaneous
 miscellany
-misch
 mischance
 mischief
 mischievous
@@ -50488,7 +50473,6 @@ mnemotechnical
 mniaceae
 mnium
 moa
-moais
 moaky
 moals
 moan
@@ -50497,6 +50481,7 @@ moaner
 moans
 moany
 moars
+moas
 moat
 moated
 moats
@@ -50796,7 +50781,6 @@ mompreneur
 moms
 momus
 mon
-mona
 monacan
 monaco
 monad
@@ -51309,7 +51293,6 @@ morus
 mos
 mosaic
 mosaicism
-mosan
 mosander
 moschus
 moscow
@@ -51777,6 +51760,7 @@ mump
 mumph
 mumps
 mumpsimus
+mums
 mumsy
 mumus
 mun
@@ -51800,7 +51784,6 @@ mungo
 mungs
 mungy
 muni
-munia
 munich
 municipal
 municipality
@@ -51920,7 +51903,6 @@ museum
 musgoi
 musgu
 mush
-musha
 musher
 mushiness
 mushroom
@@ -52352,7 +52334,6 @@ naiad
 naiadaceae
 naiadales
 naiant
-naias
 naibs
 naids
 naif
@@ -52443,7 +52424,6 @@ nanogram
 nanomachine
 nanometer
 nanometre
-nanomia
 nanophthalmos
 nanoplankton
 nanos
@@ -52460,10 +52440,8 @@ nanto
 nantua
 nantucket
 nanty
-nanua
 nanus
 naoi
-naomi
 naos
 nap
 napa
@@ -52570,7 +52548,6 @@ nascent
 nasdaq
 naseby
 nashi
-nasho
 nashville
 nasion
 nasis
@@ -53552,7 +53529,6 @@ niqab
 nirls
 nirly
 nirvana
-nisan
 nisei
 niseis
 nisi
@@ -53696,7 +53672,6 @@ nogs
 noguchi
 noh
 nohow
-noias
 noils
 noily
 noint
@@ -53746,6 +53721,7 @@ nomination
 nominative
 nominator
 nominee
+nomism
 nomogram
 nomograph
 nomoi
@@ -55180,6 +55156,7 @@ ohm
 ohmage
 ohmic
 ohmmeter
+ohms
 oho
 ohone
 ohs
@@ -56257,7 +56234,6 @@ ourie
 ours
 ous
 ousel
-ousia
 oust
 ousted
 ouster
@@ -56839,7 +56815,6 @@ oximeter
 oxims
 oxine
 oxlip
-oxman
 oxmen
 oxo
 oxonian
@@ -59180,7 +59155,6 @@ perturbing
 pertusaria
 pertusariaceae
 pertussis
-peru
 peruke
 peruked
 perusal
@@ -59333,6 +59307,7 @@ pew
 pewed
 pewee
 pewit
+pews
 pewter
 peyote
 peyse
@@ -60035,6 +60010,7 @@ pikeblenny
 piked
 pikel
 piker
+pikers
 pikes
 pikestaff
 pikey
@@ -69191,7 +69167,6 @@ samite
 samizdat
 sammy
 samnite
-samoa
 samoan
 samolus
 samosa
@@ -69701,6 +69676,7 @@ saxifragaceae
 saxifrage
 saxist
 saxitoxin
+saxman
 saxon
 saxony
 saxophone
@@ -72447,7 +72423,6 @@ sigyn
 sihasapa
 sihhe
 sijos
-sik
 sika
 sikas
 sike
@@ -72562,6 +72537,7 @@ simarre
 simas
 simazine
 simba
+simcha
 simian
 similar
 similarity
@@ -77204,6 +77180,7 @@ sumatran
 sumer
 sumerian
 sumerology
+sumi
 sumis
 summa
 summarily
@@ -77321,8 +77298,6 @@ suntanned
 suntrap
 sunts
 sunup
-suomi
-suona
 sup
 supe
 suped
@@ -77528,7 +77503,6 @@ supremely
 supremo
 sups
 suq
-sur
 sura
 surah
 sural
@@ -77889,6 +77863,7 @@ swinishness
 swink
 swipe
 swiped
+swiper
 swire
 swirl
 swirly
@@ -85803,7 +85778,6 @@ usherette
 ushers
 using
 uskub
-usmc
 usnea
 usneaceae
 usque
@@ -89476,7 +89450,6 @@ xliv
 xlvi
 xlvii
 xlviii
-xmas
 xoana
 xolos
 xored
