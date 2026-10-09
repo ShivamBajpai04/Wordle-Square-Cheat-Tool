@@ -2307,7 +2307,6 @@ alexia
 alexic
 aleyrodes
 aleyrodidae
-alf
 alfalfa
 alfas
 alfilaria
@@ -29123,7 +29122,6 @@ fencing
 fend
 fender
 fends
-fendy
 fenestella
 fenestra
 fenestral
@@ -29194,6 +29192,7 @@ ferrocyanide
 ferromagnet
 ferromagnetic
 ferromagnetism
+ferrotype
 ferrous
 ferrule
 ferry
@@ -30014,6 +30013,7 @@ fleck
 flecked
 flecks
 flection
+fled
 fledge
 fledged
 fledgeless
@@ -31142,7 +31142,6 @@ fretted
 fretwork
 freud
 freudian
-frey
 freya
 freyja
 freyr
@@ -31368,7 +31367,6 @@ frustum
 fruticose
 fruticulose
 fry
-frye
 fryer
 frying
 fryolator
@@ -35787,7 +35785,6 @@ headwoman
 headword
 heady
 heal
-heald
 healed
 healer
 healing
@@ -36004,7 +36001,6 @@ hejab
 hejaz
 hejira
 hejra
-hela
 held
 heled
 helena
@@ -36337,7 +36333,6 @@ hereinbefore
 herem
 hereness
 hereof
-herero
 heres
 heresy
 heretic
@@ -49539,7 +49534,6 @@ mezzotint
 mflop
 mgals
 mho
-mhorr
 mhos
 miami
 miaou
@@ -52792,7 +52786,6 @@ nectarine
 nectarous
 nectary
 necturus
-ned
 neddy
 nederland
 nee
@@ -52827,7 +52820,6 @@ neencephalon
 neep
 neeps
 neeze
-nef
 nefarious
 nefariously
 nefariousness
@@ -54591,7 +54583,6 @@ nyctimene
 nyctophobia
 nycturia
 nydrazid
-nye
 nying
 nyiragongo
 nylghai
@@ -59022,7 +59013,6 @@ permutable
 permutableness
 permutation
 permute
-permy
 pernambuco
 perne
 pernicious
@@ -66075,7 +66065,6 @@ referential
 referral
 refers
 reffed
-reffo
 refill
 refilling
 refinance
@@ -68709,7 +68698,6 @@ rynds
 ryot
 ryoti
 ryots
-ryper
 rypin
 rypticus
 rythe
@@ -79531,6 +79519,7 @@ terminology
 terminus
 termite
 termitidae
+termly
 terms
 tern
 ternary
@@ -81143,6 +81132,7 @@ torpor
 torque
 torquemada
 torr
+torrefy
 torrent
 torrential
 torreon
@@ -82196,6 +82186,7 @@ trock
 trod
 trode
 trods
+troffer
 trogium
 troglodyte
 troglodytes
@@ -82964,7 +82955,6 @@ tyros
 tyrosine
 tyrosinemia
 tyrothricin
-tyrr
 tyson
 tythe
 tyto
@@ -89662,6 +89652,7 @@ yeesh
 yeggs
 yeh
 yekaterinoslav
+yeld
 yelks
 yell
 yella
@@ -89733,7 +89724,6 @@ yews
 yexed
 yexes
 yezo
-yfere
 yflops
 ygdrasil
 yggdrasil

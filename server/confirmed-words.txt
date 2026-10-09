@@ -859,6 +859,7 @@ deep
 deer
 dees
 deet
+def
 defers
 deffer
 deform
@@ -868,6 +869,7 @@ deigns
 dekare
 deke
 del
+delf
 dell
 dels
 delt
@@ -881,6 +883,7 @@ demoded
 demoed
 demoi
 demount
+den
 denar
 dene
 denes
@@ -909,6 +912,7 @@ dewool
 dews
 dex
 dexters
+dey
 dice
 dicer
 dick
@@ -1049,6 +1053,7 @@ duper
 dupers
 dupes
 duro
+dye
 dyne
 dynel
 each
@@ -1098,6 +1103,7 @@ eelier
 eels
 eerie
 eew
+effort
 egad
 eger
 egest
@@ -1114,6 +1120,7 @@ eland
 eld
 eldress
 elds
+elf
 elfish
 elhi
 elicit
@@ -1264,25 +1271,35 @@ fava
 feal
 fear
 fears
+fed
 feds
 feeb
 feebler
 feeders
 fees
 feet
+feh
 fehs
+fem
 feme
+fen
+fend
 fens
 feod
 fer
 fere
+ferly
+ferrotype
+ferry
 ferula
 fes
 feta
+fetor
 fetors
 feu
 feus
 few
+fey
 fiance
 fiancee
 fiances
@@ -1321,6 +1338,8 @@ flagmen
 flam
 flamy
 flan
+flea
+fled
 flesh
 fleury
 fley
@@ -1349,6 +1368,9 @@ foregut
 forehead
 form
 forme
+fort
+forte
+forty
 fousty
 fowl
 foys
@@ -1356,6 +1378,8 @@ frae
 frag
 frat
 freers
+frere
+fret
 frig
 frisks
 frit
@@ -1364,6 +1388,7 @@ frother
 frow
 fruited
 fruiter
+fryer
 fuds
 fugs
 fungos
@@ -1625,6 +1650,8 @@ hauter
 havarti
 head
 headgear
+heady
+heal
 hear
 hears
 heders
@@ -1635,6 +1662,7 @@ heel
 hehs
 heil
 heir
+held
 helm
 helms
 helo
@@ -1643,6 +1671,7 @@ help
 hem
 hemins
 hems
+hen
 hens
 hent
 henting
@@ -1651,6 +1680,8 @@ hep
 heps
 her
 here
+hereof
+hereto
 herl
 herls
 herm
@@ -1661,6 +1692,7 @@ hero
 heron
 herons
 heros
+herry
 hers
 hes
 hest
@@ -1670,6 +1702,7 @@ hets
 hew
 hewn
 hexers
+hey
 hic
 hie
 hied
@@ -1999,6 +2032,7 @@ lade
 laden
 ladron
 lads
+lady
 lags
 lah
 lahs
@@ -2054,6 +2088,8 @@ lay
 layman
 laze
 lea
+lead
+leady
 leaf
 leafs
 leaguer
@@ -2244,6 +2280,7 @@ lure
 lurex
 luting
 lye
+lyre
 lyse
 maar
 mabe
@@ -2371,6 +2408,7 @@ mega
 megs
 meh
 mel
+meld
 mell
 mels
 melt
@@ -2524,6 +2562,7 @@ muts
 mutule
 myna
 mynah
+myrrh
 naan
 nab
 nabs
@@ -2739,6 +2778,8 @@ ods
 odyl
 oes
 offa
+offer
+offerer
 offs
 ogee
 ogeed
@@ -2823,6 +2864,7 @@ orles
 orpin
 orpine
 orra
+orrery
 ors
 ort
 orts
@@ -2982,7 +3024,9 @@ peres
 peri
 peril
 perlite
+perm
 perp
+perry
 perse
 perses
 pert
@@ -3115,11 +3159,15 @@ prese
 press
 presses
 prester
+pretor
 prex
+prey
 prier
 pro
 proa
 proas
+prof
+proffer
 prog
 prolan
 proleg
@@ -3159,6 +3207,8 @@ pyas
 pye
 pyes
 pylon
+pyre
+pyro
 qibla
 qintar
 quag
@@ -3318,6 +3368,7 @@ ref
 refeed
 refereed
 reffed
+refry
 refs
 reft
 reg
@@ -3384,6 +3435,8 @@ retine
 retint
 retore
 retorn
+retro
+retry
 rets
 retting
 retype
@@ -3474,6 +3527,7 @@ roos
 roost
 rope
 rostra
+rote
 roti
 roto
 rotors
@@ -4150,6 +4204,7 @@ teeters
 teethed
 teether
 teethers
+teff
 teg
 tegs
 tein
@@ -4172,11 +4227,13 @@ tentier
 tents
 tenuti
 term
+termly
 terms
 terra
 terrae
 terret
 terroir
+terry
 tes
 test
 tests
@@ -4256,6 +4313,8 @@ toea
 toed
 toerag
 toes
+toff
+toffy
 toft
 toit
 toited
@@ -4281,10 +4340,15 @@ topi
 topo
 tora
 torc
+tore
+torero
 tori
 toro
 toroth
+torr
+torrefy
 tors
+tory
 tosa
 tospot
 tost
@@ -4304,10 +4368,13 @@ toyo
 toys
 tracts
 tree
+tref
 trek
 tres
 tress
 tret
+trey
+treyf
 triacs
 trio
 triode
@@ -4316,6 +4383,7 @@ triter
 trocar
 trod
 trode
+troffer
 troke
 troked
 troland
@@ -4350,7 +4418,10 @@ twos
 tyer
 tyes
 tyin
+type
+tyre
 tyring
+tyro
 udos
 uke
 ukes
@@ -4648,7 +4719,10 @@ yawp
 yea
 yean
 yeas
+yeh
+yeld
 yelp
+yen
 yeoman
 yep
 yeuk
