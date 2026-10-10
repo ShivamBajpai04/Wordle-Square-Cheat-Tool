@@ -9024,6 +9024,7 @@ bishkek
 bishop
 bishopric
 bishopry
+bisk
 biskek
 bisks
 bismarck
@@ -9450,7 +9451,6 @@ bloemfontein
 blog
 blogger
 blogs
-blok
 bloke
 blokes
 blolly
@@ -10110,6 +10110,7 @@ boric
 boring
 boringly
 boringness
+bork
 borks
 born
 borna
@@ -11286,7 +11287,6 @@ bugology
 buhl
 buhls
 buhrs
-buiks
 build
 builder
 building
@@ -11737,10 +11737,10 @@ buy
 buyback
 buyer
 buyers
-buyi
 buyin
 buying
 buyout
+buys
 buzz
 buzzard
 buzzed
@@ -15714,11 +15714,9 @@ clinquant
 clint
 clinton
 clintonia
-clio
 clioquinol
 clip
 clipboard
-clipe
 clipped
 clipper
 clipping
@@ -15843,7 +15841,6 @@ cloudlike
 clouds
 cloudy
 clour
-clous
 clout
 clove
 cloven
@@ -18931,7 +18928,6 @@ creosol
 creosote
 crepe
 crepes
-crepis
 crepitate
 crepitation
 creps
@@ -25112,7 +25108,6 @@ ebenales
 ebike
 ebionite
 ebitda
-eblis
 ebola
 ebon
 ebonics
@@ -26723,6 +26718,7 @@ ephippidae
 ephippiorhynchus
 ephod
 ephor
+epibolic
 epic
 epical
 epicalyx
@@ -32856,6 +32852,7 @@ gip
 gipon
 gippo
 gippy
+gips
 gipsy
 gipsywort
 giraffa
@@ -33489,7 +33486,6 @@ gomphotheriidae
 gomphotherium
 gomphrena
 gomuti
-gon
 gonad
 gonadal
 gonadotrophic
@@ -41083,7 +41079,6 @@ ions
 iontophoresis
 iontotherapy
 ioras
-ios
 iota
 iotas
 iowa
@@ -41099,7 +41094,6 @@ ippon
 iproclozide
 ipsedixitism
 ipsilateral
-ipsus
 irade
 iranian
 iraq
@@ -43108,6 +43102,7 @@ kino
 kinos
 kinosternidae
 kinosternon
+kins
 kinsey
 kinsfolk
 kinshasa
@@ -43126,6 +43121,7 @@ kiplingesque
 kippa
 kipper
 kipps
+kips
 kipsy
 kir
 kirby
@@ -43367,7 +43363,6 @@ koban
 kobenhavn
 kobo
 kobos
-kobus
 koch
 kochia
 kodiak
@@ -45680,7 +45675,6 @@ lis
 lisboa
 lisbon
 lisinopril
-lisks
 lisle
 lisp
 lisper
@@ -45705,7 +45699,6 @@ listlessly
 listlessness
 liston
 lists
-lisu
 liszt
 lit
 litai
@@ -46074,7 +46067,6 @@ loids
 loin
 loincloth
 loins
-loipe
 loirs
 loiseleuria
 loiter
@@ -46669,7 +46661,6 @@ lushun
 lushy
 lusitania
 lusitanian
-lusks
 lust
 luster
 lusterless
@@ -54297,7 +54288,6 @@ noumenon
 noun
 nouns
 nouny
-noups
 nourish
 nourished
 nourishing
@@ -56212,7 +56202,6 @@ oumas
 ounce
 ounces
 oundy
-oup
 ouped
 ouph
 ouphe
@@ -56223,7 +56212,6 @@ ouranos
 ourey
 ourie
 ours
-ous
 ousel
 oust
 ousted
@@ -58748,6 +58736,7 @@ perambulating
 perambulation
 perambulator
 peramelidae
+perc
 perca
 percale
 perce
@@ -58976,9 +58965,7 @@ perks
 perky
 perle
 perleche
-perlis
 perlite
-perls
 perm
 permafrost
 permalloy
@@ -59982,6 +59969,7 @@ pigment
 pigmentation
 pigmy
 pignolia
+pignus
 pignut
 pigpen
 pigskin
@@ -60030,6 +60018,7 @@ pilferage
 pilferer
 pilgrim
 pilgrimage
+pili
 pilin
 piling
 pilis
@@ -60128,6 +60117,7 @@ ping
 pinga
 pinger
 pingo
+pingos
 pings
 pinguecula
 pinguicula
@@ -60178,6 +60168,7 @@ pinopsida
 pinot
 pinpoint
 pinprick
+pins
 pinscher
 pinsk
 pinstripe
@@ -60191,7 +60182,6 @@ pintle
 pinto
 pints
 pinup
-pinus
 pinwheel
 pinworm
 pinyin
@@ -62120,6 +62110,10 @@ prearrangement
 preassemble
 prebend
 prebendary
+preboil
+preboils
+prebuy
+prebuys
 precalc
 precalculus
 precambrian
@@ -63667,6 +63661,7 @@ ptype
 pub
 pubby
 pubco
+pube
 pubertal
 puberty
 puberulent
@@ -63885,8 +63880,6 @@ pungapung
 pungency
 pungent
 pungently
-pungi
-pungo
 pungs
 pungy
 punic
@@ -63919,6 +63912,7 @@ punky
 punnet
 punning
 punny
+puns
 punster
 punt
 punter
@@ -65605,6 +65599,8 @@ rebid
 rebind
 rebirth
 rebit
+reboil
+reboils
 reboot
 rebop
 reborn
@@ -65630,6 +65626,7 @@ rebut
 rebuttal
 rebutter
 rebuy
+rebuys
 rec
 recalcitrance
 recalcitrancy
@@ -68274,7 +68271,6 @@ roulade
 roule
 rouleau
 roulette
-rouls
 roumania
 roumanian
 roums
@@ -68303,7 +68299,6 @@ roundworm
 roup
 roups
 roupy
-rous
 rouse
 roused
 rouser
@@ -72916,7 +72911,6 @@ skinny
 skins
 skint
 skintight
-skios
 skip
 skipjack
 skipper
@@ -72946,10 +72940,10 @@ skivvy
 skivy
 sklim
 skoal
-skobe
 skody
 skoff
 skogs
+skol
 skols
 skopje
 skoplje
@@ -73855,7 +73849,6 @@ softs
 software
 softwood
 softy
-sog
 soger
 sogginess
 soggy
@@ -74296,6 +74289,7 @@ soupcon
 soupfin
 soupiness
 soupinesses
+souping
 soups
 soupspoon
 soupspoons
@@ -74818,7 +74812,6 @@ spiffing
 spiffy
 spifs
 spigot
-spik
 spike
 spiked
 spikelet
@@ -74862,7 +74855,6 @@ spinelessness
 spines
 spinet
 spininess
-spink
 spinmeister
 spinnability
 spinnable
@@ -74878,7 +74870,6 @@ spinoza
 spins
 spinster
 spinsterhood
-spinus
 spiny
 spiracle
 spiraea
@@ -75212,6 +75203,7 @@ spugs
 spule
 spume
 spumy
+spun
 spunk
 spunky
 spur
@@ -77272,6 +77264,7 @@ sunrise
 sunroof
 sunroom
 sunrose
+suns
 sunscreen
 sunset
 sunshade
@@ -84365,7 +84358,6 @@ unionization
 unionize
 unionized
 unions
-unios
 uniovular
 uniovulate
 uniparous
@@ -85465,6 +85457,8 @@ upanishads
 upas
 upases
 upbeat
+upboil
+upboils
 upbound
 upbow
 upbraid
@@ -89746,6 +89740,7 @@ yin
 yince
 yins
 yip
+yipe
 yipee
 yipes
 yippee
