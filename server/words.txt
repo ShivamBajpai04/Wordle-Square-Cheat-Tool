@@ -14854,7 +14854,6 @@ choco
 chocolate
 chocs
 choctaw
-chode
 choeronycteris
 chogs
 choice
@@ -16131,6 +16130,7 @@ code
 codec
 coded
 codefendant
+codein
 codeine
 coden
 coder
@@ -18897,7 +18897,6 @@ creeps
 creepy
 crees
 creese
-crein
 crema
 cremains
 cremate
@@ -19064,6 +19063,7 @@ croaky
 croat
 croatia
 croatian
+croc
 crocethia
 crochet
 crocheting
@@ -19116,6 +19116,7 @@ crookneck
 crooks
 crool
 croon
+crooned
 crooner
 crooning
 crop
@@ -20781,6 +20782,7 @@ deck
 decked
 decker
 deckhand
+decking
 deckle
 deckled
 decko
@@ -21130,7 +21132,6 @@ deign
 deigns
 deils
 deimos
-deink
 deinocheirus
 deinonychus
 deionize
@@ -21155,6 +21156,7 @@ dekare
 deke
 deked
 dekes
+deking
 dekker
 dekko
 del
@@ -23895,7 +23897,6 @@ doorknocker
 doorlock
 doorman
 doormat
-doorn
 doornail
 doorplate
 doorpost
@@ -23934,7 +23935,6 @@ dore
 doree
 dores
 dorian
-doric
 doriden
 doris
 dorje
@@ -24330,6 +24330,7 @@ dreer
 drees
 dreg
 dregs
+dreigh
 dreiser
 dreissena
 drek
@@ -35901,6 +35902,7 @@ hebrides
 hecate
 hecatomb
 hecht
+heck
 heckelphone
 heckle
 heckler
@@ -36915,20 +36917,21 @@ hoboes
 hobos
 hoc
 hock
+hocked
+hocker
 hockey
+hocking
 hocks
 hocus
 hod
 hodad
 hodeida
-hoder
 hodgepodge
 hodgkin
 hodja
 hodman
 hodometer
 hodoscope
-hodr
 hodur
 hoe
 hoecake
@@ -38490,6 +38493,7 @@ icebox
 icebreaker
 icecap
 icecream
+iced
 icefall
 icehouse
 iceland
@@ -42783,6 +42787,7 @@ kern
 kerne
 kernel
 kernicterus
+kerning
 kernite
 kerns
 keros
@@ -53605,6 +53610,8 @@ nobody
 nocent
 nociceptive
 nock
+nocked
+nocking
 nocks
 noctambulation
 noctambulism
@@ -54881,6 +54888,7 @@ ocellated
 ocellus
 ocelot
 och
+oche
 ocher
 oches
 ochlocracy
@@ -55487,7 +55495,6 @@ ooped
 oophorectomy
 oophoritis
 oops
-oor
 oorie
 ooses
 oosphere
@@ -55875,7 +55882,6 @@ orinoco
 oriole
 oriolidae
 oriolus
-orion
 orison
 orissa
 orites
@@ -61008,7 +61014,6 @@ pocahontas
 pocan
 pocatello
 pochard
-poche
 pocho
 pock
 pocked
@@ -61018,6 +61023,8 @@ pocketbook
 pocketcomb
 pocketful
 pocketknife
+pockier
+pocking
 pockmark
 pockmarked
 pocks
@@ -65702,6 +65709,8 @@ recitation
 recitative
 recite
 reciter
+reck
+recking
 reckless
 recklessly
 recklessness
@@ -65941,6 +65950,8 @@ redmaids
 redneck
 redness
 redo
+redock
+redocking
 redoes
 redolence
 redolent
@@ -66300,7 +66311,6 @@ reinforce
 reinforced
 reinforcement
 reinforcer
-reing
 reink
 reins
 reinstall
@@ -67709,7 +67719,6 @@ rinser
 rinses
 rinsing
 rioja
-rione
 riot
 rioter
 rioting

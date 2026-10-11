@@ -672,6 +672,7 @@ chimp
 chip
 chis
 chon
+chop
 ciao
 cig
 cigar
@@ -707,13 +708,20 @@ clout
 cloy
 club
 clue
+cod
 coda
+code
+codec
+codein
+coden
+coder
 coed
 coeds
 coft
 cogs
 coif
 coin
+coir
 cola
 cold
 cole
@@ -751,6 +759,7 @@ conn
 conned
 cons
 cony
+coo
 cool
 cooly
 coon
@@ -761,6 +770,7 @@ corer
 coring
 corm
 corn
+corned
 corner
 corny
 cots
@@ -775,7 +785,14 @@ crank
 crap
 create
 creates
+creche
+cred
+credo
 crew
+croc
+crone
+croon
+crooned
 cruets
 cubers
 cued
@@ -865,7 +882,9 @@ deal
 dean
 dear
 deck
+decking
 deco
+decor
 decos
 deductions
 deducts
@@ -886,6 +905,7 @@ deign
 deigns
 dekare
 deke
+deking
 del
 delf
 dell
@@ -961,6 +981,10 @@ diver
 divers
 dives
 doat
+doc
+dock
+docker
+docking
 docs
 dodge
 dodged
@@ -993,8 +1017,10 @@ doms
 don
 dona
 done
+donor
 dons
 donsy
+door
 dor
 dore
 dorp
@@ -1029,6 +1055,8 @@ drain
 drat
 drats
 drear
+dreck
+dreigh
 drek
 dress
 dries
@@ -1104,6 +1132,7 @@ eau
 eave
 ebbs
 eche
+echo
 eco
 ecos
 eddo
@@ -1132,6 +1161,7 @@ egos
 eke
 eked
 ekes
+eking
 ekka
 elan
 eland
@@ -1179,6 +1209,7 @@ ensue
 ensued
 enuf
 envier
+eon
 eonism
 eons
 eosin
@@ -1675,6 +1706,7 @@ heady
 heal
 hear
 hears
+heck
 heders
 hedge
 hedger
@@ -1753,6 +1785,10 @@ hoars
 hoarse
 hoax
 hobo
+hock
+hocked
+hocker
+hocking
 hoe
 hoed
 hoer
@@ -1772,6 +1808,7 @@ holts
 homa
 homas
 hone
+honed
 honer
 hong
 honing
@@ -1806,6 +1843,7 @@ hyoid
 hyssop
 hyssops
 ice
+iced
 ices
 ich
 icier
@@ -1855,6 +1893,7 @@ infers
 ingle
 inia
 ink
+inked
 inker
 inlier
 inmost
@@ -1877,6 +1916,9 @@ ired
 ireless
 ires
 irid
+iron
+irone
+ironed
 island
 islands
 isle
@@ -1962,6 +2004,7 @@ kemp
 ken
 kenaf
 kenafs
+kendo
 kenned
 kennel
 keno
@@ -1974,6 +2017,8 @@ kepis
 keps
 kerf
 kerfed
+kern
+kerning
 keta
 ketas
 keto
@@ -2662,6 +2707,7 @@ neat
 neath
 neats
 neck
+necking
 necromancy
 nee
 need
@@ -2670,6 +2716,7 @@ neep
 negs
 negus
 neif
+neigh
 nema
 nemas
 nene
@@ -2698,10 +2745,12 @@ nicely
 nicer
 nick
 nicol
+niece
 nieve
 nieves
 niftily
 nifty
+nigh
 nils
 nim
 nimmed
@@ -2721,13 +2770,17 @@ nitres
 nits
 nixe
 nock
+nocked
+nocking
 nod
 nodder
+node
 nodose
 nods
 noel
 nog
 nogs
+noir
 noise
 nolo
 nomism
@@ -2746,6 +2799,8 @@ noose
 nooser
 noosers
 nope
+nor
+nori
 norm
 nos
 nose
@@ -2801,6 +2856,8 @@ oboles
 oboli
 obols
 ocean
+oche
+ocker
 octaves
 ocular
 ocularly
@@ -3165,6 +3222,10 @@ plisse
 plot
 plunks
 ply
+pock
+pocked
+pockier
+pocking
 pods
 poem
 poet
@@ -3175,6 +3236,8 @@ pois
 pokier
 pole
 poms
+pond
+ponder
 pone
 pong
 pongs
@@ -3413,6 +3476,8 @@ rebus
 rebuy
 rebuys
 rec
+reck
+recking
 recoin
 recon
 recs
@@ -3422,7 +3487,10 @@ redate
 redates
 redd
 redo
+redock
+redocking
 redoes
+redon
 redout
 reds
 ree
@@ -3449,6 +3517,7 @@ regnum
 regs
 rehire
 rei
+reign
 rein
 reink
 reis
@@ -3529,6 +3598,8 @@ rial
 rials
 rias
 ribs
+rice
+riced
 richen
 ricin
 ricing
@@ -3594,7 +3665,11 @@ roman
 romano
 romp
 roms
+ronde
+rondo
 ronin
+roo
+rood
 roof
 roofless
 roofs
