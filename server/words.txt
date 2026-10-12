@@ -9943,7 +9943,6 @@ bonitos
 bonk
 bonkers
 bonks
-bonn
 bonne
 bonnet
 bonnethead
@@ -24009,6 +24008,7 @@ dote
 doted
 doter
 dotes
+doth
 doting
 dotrel
 dots
@@ -24646,7 +24646,6 @@ dugout
 dugs
 duh
 dui
-duing
 duit
 duits
 dukas
@@ -24791,6 +24790,7 @@ durative
 durazzo
 durban
 durbar
+dure
 dured
 durer
 dures
@@ -25338,6 +25338,7 @@ educationist
 educative
 educator
 educe
+educing
 educt
 eduction
 eductions
@@ -25491,7 +25492,6 @@ egyptian
 egyptologist
 egyptology
 ehadhamen
-ehing
 ehrenberg
 ehrlich
 eibit
@@ -32893,7 +32893,6 @@ girted
 girth
 girts
 gis
-gish
 gismo
 gisms
 gist
@@ -33495,8 +33494,6 @@ gonadotropic
 gonadotropin
 gonch
 goncourt
-gond
-gondi
 gondola
 gondolier
 gondoliere
@@ -34473,10 +34470,10 @@ guidebook
 guided
 guideline
 guidepost
+guider
 guides
 guideword
 guiding
-guido
 guids
 guild
 guilder
@@ -34563,7 +34560,6 @@ gun
 gunas
 gunboat
 guncotton
-gundi
 gundy
 gunfight
 gunfire
@@ -36172,7 +36168,6 @@ hemimetamorphic
 hemimetamorphous
 hemimorphite
 hemin
-heming
 hemingway
 hemingwayesque
 hemins
@@ -36507,7 +36502,7 @@ hevesy
 hew
 hewed
 hewer
-hewgh
+hewing
 hewn
 hex
 hexachlorophene
@@ -36536,6 +36531,7 @@ hexers
 hexes
 hexestrol
 hexine
+hexing
 hexose
 hexyl
 hey
@@ -36728,14 +36724,12 @@ hindrance
 hinds
 hindshank
 hindsight
-hindu
 hinduism
 hindustan
 hindustani
 hinge
 hinged
 hinges
-hings
 hinky
 hinny
 hins
@@ -36802,9 +36796,7 @@ hirsutism
 hirudinea
 hirudinean
 hirudinidae
-hirudo
 hirundinidae
-hirundo
 his
 hisn
 hispanic
@@ -36932,7 +36924,6 @@ hodja
 hodman
 hodometer
 hodoscope
-hodur
 hoe
 hoecake
 hoed
@@ -38655,7 +38646,6 @@ idolized
 idolizer
 idols
 ids
-idun
 idyl
 idyll
 idyllic
@@ -49504,6 +49494,7 @@ meved
 mew
 mewed
 mewer
+mewing
 mewl
 mewls
 mews
@@ -53288,9 +53279,7 @@ nganasan
 ngapi
 ngege
 ngoma
-ngoni
 ngultrum
-nguni
 ngwee
 niacin
 niagara
@@ -53579,7 +53568,6 @@ nivose
 nix
 nixe
 nixed
-nixer
 nixes
 nixie
 nixon
@@ -54476,7 +54464,6 @@ numskull
 nun
 nunavut
 nuncio
-nung
 nunks
 nunky
 nunnery
@@ -54975,7 +54962,6 @@ odessa
 odeum
 odeums
 odic
-odin
 odious
 odiously
 odiousness
@@ -56158,6 +56144,7 @@ otariidae
 otary
 othello
 other
+othering
 otherness
 others
 otherwise
@@ -65928,13 +65915,13 @@ redhead
 redheaded
 redheader
 redhorse
-redhot
 redia
 redial
 redid
 redif
 rediffusion
 redig
+reding
 redip
 redirect
 rediscover
@@ -65991,7 +65978,6 @@ reductionism
 reductionist
 reductive
 reductivism
-redug
 redundance
 redundancy
 redundant
@@ -66287,7 +66273,6 @@ rehouse
 rei
 reich
 reichstein
-reid
 reification
 reifs
 reify
@@ -68450,7 +68435,6 @@ rudeness
 ruder
 rudes
 rudest
-rudie
 rudiment
 rudimentary
 rudiments
@@ -71395,7 +71379,6 @@ sewen
 sewer
 sewerage
 sewers
-sewin
 sewing
 sewn
 sews
@@ -71776,6 +71759,7 @@ sheva
 shevat
 shevchenko
 shew
+shewing
 shewn
 shews
 shh
@@ -79818,7 +79802,6 @@ theft
 thefts
 thegn
 theia
-theic
 thein
 theine
 theins
@@ -80074,6 +80057,7 @@ thiosulfil
 thiotepa
 thiothixene
 thiouracil
+thir
 third
 thirdhand
 thirdly
@@ -84411,7 +84395,6 @@ universally
 universe
 university
 univocal
-unix
 unjam
 unjams
 unjointed
@@ -84617,7 +84600,6 @@ unnerve
 unnerved
 unnerving
 unneurotic
-unnie
 unnilquadium
 unnotched
 unnoted
@@ -85647,7 +85629,6 @@ urease
 uredinales
 uredo
 ureic
-ureid
 ureide
 uremia
 uremic
@@ -88173,7 +88154,6 @@ weltschmerz
 welty
 welwitschia
 welwitschiaceae
-wem
 wembley
 wen
 wench
@@ -88334,7 +88314,6 @@ which
 whicker
 whidah
 whids
-whies
 whiff
 whiffer
 whiffletree
@@ -88588,6 +88567,7 @@ wight
 wigless
 wigmaker
 wigner
+wigs
 wigwag
 wigwam
 wikis
@@ -88758,6 +88738,7 @@ winnowing
 winns
 wino
 winos
+wins
 winslow
 winsome
 winsomely
