@@ -15878,6 +15878,7 @@ cluck
 clucking
 clue
 clued
+clueing
 clueless
 clues
 cluey
@@ -15906,6 +15907,7 @@ clutch
 clutches
 clutter
 cluttered
+cluttering
 clxv
 clxx
 clxxv
@@ -19447,6 +19449,7 @@ cudweed
 cue
 cueca
 cued
+cueing
 cues
 cuff
 cuffed
@@ -22422,9 +22425,9 @@ diebs
 dieffenbachia
 diegueno
 diehard
+diel
 dielectric
 dielectrolysis
-diels
 diemaker
 diems
 diencephalon
@@ -23484,7 +23487,6 @@ diuresis
 diuretic
 diuril
 diurnal
-div
 diva
 divagate
 divagation
@@ -23536,7 +23538,6 @@ divinely
 diviner
 diving
 divinity
-divis
 divisibility
 divisible
 division
@@ -26667,7 +26668,6 @@ eonism
 eonni
 eons
 eoraptor
-eorls
 eosin
 eosinopenia
 eosinophil
@@ -27101,7 +27101,6 @@ eruv
 eruvs
 erven
 ervil
-erving
 erwinia
 eryngium
 eryngo
@@ -30292,11 +30291,13 @@ flushed
 fluster
 flustered
 flute
+fluter
 flutes
 fluting
 flutist
 flutter
 fluttering
+flutterings
 fluty
 fluvastatin
 fluvial
@@ -31404,7 +31405,6 @@ fuelled
 fuelling
 fuels
 fuentes
-fuero
 fuffs
 fuffy
 fug
@@ -31557,6 +31557,7 @@ funnily
 funniness
 funny
 funrun
+funs
 funsy
 fuqra
 fur
@@ -38468,6 +38469,7 @@ ibert
 ibex
 ibidem
 ibis
+ibises
 ibrahim
 ibrik
 ibsen
@@ -46487,7 +46489,6 @@ lucubration
 luculent
 lucullan
 lucullus
-lucy
 lud
 luddite
 lude
@@ -46609,10 +46610,12 @@ lungfish
 lungi
 lungs
 lungyi
+lunier
 lunisolar
 lunk
 lunkhead
 lunks
+luns
 lunt
 lunts
 lunula
@@ -46683,6 +46686,7 @@ lutecium
 luted
 lutefisk
 lutein
+luteins
 lutenist
 luteotropin
 lutes
@@ -53503,8 +53507,6 @@ nippy
 nips
 niqaabi
 niqab
-nirls
-nirly
 nirvana
 nisei
 niseis
@@ -68446,6 +68448,7 @@ rueda
 rueful
 ruefully
 ruefulness
+rueing
 ruer
 ruers
 rues
@@ -68569,6 +68572,7 @@ runny
 runoff
 runos
 runproof
+runs
 runt
 runtiness
 runts
@@ -72305,11 +72309,11 @@ sidha
 sidhe
 siding
 sidle
+sidles
 sidney
 sidon
 siege
 siegfried
-sield
 siemens
 sienna
 siens
@@ -72424,7 +72428,6 @@ silent
 silently
 silents
 silenus
-siles
 silesia
 silesianness
 silex
@@ -73594,7 +73597,6 @@ snipping
 snippy
 snips
 snipy
-snirt
 snit
 snitch
 snitcher
@@ -82070,7 +82072,6 @@ trinitrotoluene
 trinity
 trinket
 trinketry
-trins
 trinuclear
 trinucleate
 trinucleated
@@ -82302,6 +82303,7 @@ trudger
 true
 trued
 truehearted
+trueing
 truelove
 trueness
 truer
@@ -82464,6 +82466,7 @@ tuffet
 tuffs
 tuft
 tufted
+tufter
 tufts
 tufty
 tug
@@ -82619,8 +82622,6 @@ turgidly
 turgidness
 turgor
 turgot
-turin
-turing
 turk
 turkestan
 turkey
@@ -86875,6 +86876,7 @@ vino
 vinogradoff
 vinos
 vinous
+vins
 vinson
 vintage
 vintager
@@ -86945,6 +86947,7 @@ virilization
 virilize
 virino
 virion
+virl
 virls
 viroid
 virological
@@ -87010,8 +87013,8 @@ vishnuism
 visibility
 visible
 visibleness
+visibles
 visibly
-visie
 visigoth
 vision
 visionariness
