@@ -44,6 +44,7 @@ aculei
 add
 adds
 adman
+ado
 ados
 ads
 adult
@@ -171,10 +172,14 @@ amen
 amens
 aments
 ami
+amici
 amid
 amie
 amies
+amin
+amir
 amis
+amnic
 amp
 ample
 amply
@@ -556,6 +561,7 @@ cads
 cafs
 cage
 cager
+cagier
 caging
 caid
 cain
@@ -638,6 +644,9 @@ celly
 cels
 celt
 cepe
+cerci
+ceria
+ceric
 cero
 cert
 cete
@@ -690,10 +699,12 @@ cinder
 cine
 cines
 cion
+circa
 cire
 cis
 cist
 cisted
+citing
 civie
 clad
 clag
@@ -727,6 +738,7 @@ cod
 coda
 code
 codec
+coded
 codein
 coden
 coder
@@ -780,6 +792,8 @@ cooly
 coon
 coos
 cor
+cord
+corded
 core
 corer
 coring
@@ -804,7 +818,9 @@ creche
 cred
 credo
 crew
+cria
 cried
+crit
 croc
 crone
 croon
@@ -910,6 +926,7 @@ daws
 dawt
 daze
 dazes
+dead
 deaf
 deal
 dean
@@ -1036,6 +1053,7 @@ doge
 doges
 dogie
 dogs
+doh
 doit
 dojo
 dol
@@ -1185,6 +1203,7 @@ eddoes
 edema
 edge
 edger
+edh
 educing
 eduction
 eductions
@@ -1343,13 +1362,19 @@ extent
 eye
 eyer
 fabs
+facia
+fad
 fade
+faded
 fado
 fads
+fagin
 fagots
 fags
 fahs
 fain
+faint
+fair
 fall
 familism
 familist
@@ -1459,6 +1484,7 @@ flutterings
 flyman
 foal
 foetors
+foh
 fohn
 fohns
 foison
@@ -1468,8 +1494,13 @@ foolish
 foolishness
 fools
 foos
+for
 fora
 forb
+force
+forced
+ford
+forded
 fore
 foregut
 forehead
@@ -1527,6 +1558,8 @@ gamas
 game
 games
 gamest
+gamic
+gamin
 gamp
 gams
 gamuts
@@ -1864,6 +1897,7 @@ hock
 hocked
 hocker
 hocking
+hod
 hoe
 hoed
 hoer
@@ -1893,6 +1927,8 @@ hoofless
 hoofs
 hora
 horas
+horde
+horded
 hork
 horse
 horses
@@ -1954,6 +1990,7 @@ imps
 inarm
 inarms
 incel
+inciting
 incubi
 incult
 incur
@@ -2478,6 +2515,8 @@ mag
 mage
 magentas
 mages
+magi
+magic
 mags
 maim
 maims
@@ -2653,6 +2692,7 @@ mimeo
 mimeoed
 mina
 minas
+mincier
 mine
 mined
 mini
@@ -2664,6 +2704,8 @@ minutes
 mioses
 mips
 mir
+mire
+miri
 mirk
 mirs
 mis
@@ -2835,6 +2877,7 @@ neve
 neves
 newb
 next
+niacin
 nicad
 nicads
 nice
@@ -2964,8 +3007,10 @@ ocker
 octaves
 ocular
 ocularly
+oda
 odah
 odas
+odd
 odds
 ode
 odea
@@ -3115,6 +3160,8 @@ owse
 oxer
 oyer
 oyes
+paca
+pacier
 pacing
 pads
 paean
@@ -3124,6 +3171,9 @@ pah
 pail
 pails
 pain
+paint
+paintier
+pair
 pal
 pale
 pali
@@ -3310,6 +3360,7 @@ piste
 pistes
 pith
 piths
+pitier
 pits
 plan
 plans
@@ -3582,12 +3633,15 @@ rebus
 rebuy
 rebuys
 rec
+recit
+reciting
 reck
 recking
 recoin
 recon
 recs
 recta
+recti
 red
 redate
 redates
@@ -4614,6 +4668,7 @@ tings
 tinmen
 tins
 tint
+tire
 tirl
 tis
 titan

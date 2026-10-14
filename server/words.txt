@@ -1110,7 +1110,6 @@ adherent
 adhesion
 adhesive
 adhesiveness
-adhoc
 adhocracy
 adiabatic
 adiabaticity
@@ -2982,6 +2981,7 @@ amiga
 amigo
 amigos
 amiidae
+amin
 amine
 aminic
 amino
@@ -4297,7 +4297,6 @@ aphyllanthaceae
 aphyllanthes
 aphyllophorales
 aphyllous
-apia
 apiaceae
 apian
 apiarian
@@ -11968,6 +11967,7 @@ caged
 cager
 cages
 cagey
+cagier
 cagily
 caging
 cagliostro
@@ -15171,7 +15171,6 @@ cicatrice
 cicatrise
 cicatrix
 cicatrize
-cicer
 cicero
 cicerone
 ciceronianism
@@ -15256,7 +15255,6 @@ circadian
 circaea
 circaetus
 circassian
-circe
 circinate
 circinus
 circle
@@ -17996,7 +17994,6 @@ corbina
 corby
 corchorus
 cord
-corda
 cordage
 cordaitaceae
 cordaitales
@@ -18961,6 +18958,7 @@ crewet
 crewman
 crews
 crewwoman
+cria
 crias
 crib
 cribbage
@@ -23666,7 +23664,6 @@ doeskin
 doesnt
 doest
 doeth
-dof
 doff
 doffs
 dog
@@ -28386,7 +28383,6 @@ facey
 facia
 facial
 facially
-facie
 facile
 facilitate
 facilitation
@@ -28438,7 +28434,6 @@ fading
 fado
 fados
 fads
-fae
 faecal
 faecalith
 faeces
@@ -30573,6 +30568,7 @@ forcibly
 forcipate
 ford
 fordable
+forded
 fordhooks
 fording
 fordo
@@ -31673,7 +31669,6 @@ fykes
 fyles
 fyrds
 fytte
-gaap
 gab
 gaba
 gabapentin
@@ -36908,7 +36903,6 @@ hobnob
 hobo
 hoboes
 hobos
-hoc
 hock
 hocked
 hocker
@@ -37384,6 +37378,7 @@ horas
 horatianism
 horchata
 horde
+horded
 hordeolum
 hordes
 hordeum
@@ -39404,6 +39399,7 @@ incitation
 incite
 incitement
 inciter
+inciting
 incitive
 incivility
 inclemency
@@ -47108,7 +47104,6 @@ maerl
 maes
 maestro
 maeterlinck
-mafa
 maffia
 mafia
 mafic
@@ -48510,7 +48505,6 @@ mccullers
 mcgraw
 mcguffey
 mcguffin
-mcia
 mcintosh
 mckim
 mckinley
@@ -49966,6 +49960,7 @@ mince
 minced
 mincemeat
 mincer
+mincier
 mincing
 mincingly
 mincy
@@ -53280,7 +53275,6 @@ nexum
 nexus
 ngana
 nganasan
-ngapi
 ngege
 ngoma
 ngultrum
@@ -56855,7 +56849,6 @@ pablum
 pabulum
 pac
 paca
-pacai
 pacas
 pacay
 pace
@@ -56882,6 +56875,7 @@ pachydermous
 pachyrhizus
 pachysandra
 pachytene
+pacier
 pacific
 pacifically
 pacification
@@ -57029,13 +57023,13 @@ paintbrush
 painted
 painter
 painterly
+paintier
 painting
 paints
 paipai
 paipe
 paips
 pair
-paire
 paired
 pairing
 pairs
@@ -60109,7 +60103,6 @@ piney
 pinfish
 pinfold
 ping
-pinga
 pinger
 pingo
 pingos
@@ -60340,6 +60333,7 @@ pithy
 pitiable
 pitiably
 pitied
+pitier
 pitiful
 pitifully
 pitiless
@@ -65698,6 +65692,7 @@ recitation
 recitative
 recite
 reciter
+reciting
 reck
 recking
 reckless
@@ -67922,7 +67917,6 @@ rococo
 rocroi
 rod
 rode
-roded
 rodent
 rodentia
 rodeo
