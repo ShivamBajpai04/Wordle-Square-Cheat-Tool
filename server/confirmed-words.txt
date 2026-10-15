@@ -78,11 +78,14 @@ agha
 agin
 aging
 agio
+agita
 aglare
 aglu
 agma
 agmas
 agnatic
+agnation
+agnations
 agro
 ags
 ahead
@@ -101,6 +104,7 @@ aim
 aimed
 aims
 ain
+ains
 aioli
 airn
 airs
@@ -202,6 +206,7 @@ anga
 ani
 anil
 anils
+anima
 animus
 anis
 ankh
@@ -222,6 +227,8 @@ anti
 antic
 anticly
 antifa
+antigay
+anting
 antiquary
 antres
 ants
@@ -305,6 +312,7 @@ asses
 assess
 ate
 ates
+atigi
 atingle
 atma
 atman
@@ -345,6 +353,8 @@ axite
 axman
 aye
 ayes
+ayin
+ayins
 bade
 bads
 baes
@@ -421,6 +431,9 @@ bile
 biles
 bilge
 bing
+binit
+bins
+bint
 bio
 biog
 biomes
@@ -435,6 +448,7 @@ bise
 bises
 bisk
 bisks
+biting
 bits
 blade
 blae
@@ -462,6 +476,7 @@ boat
 bogs
 boil
 boils
+boing
 bole
 boles
 boll
@@ -478,6 +493,8 @@ bone
 boner
 bong
 bonier
+boning
+bonita
 bonitos
 bony
 boor
@@ -502,6 +519,8 @@ bouses
 bower
 boxy
 boyars
+boyo
+boyos
 boys
 bras
 bravas
@@ -1588,6 +1607,7 @@ gaun
 gaur
 gaurs
 gave
+gays
 gaze
 gear
 gearhead
@@ -1734,6 +1754,8 @@ gurnet
 gush
 gushy
 guys
+gyno
+gynos
 gyri
 haar
 habu
@@ -1977,10 +1999,14 @@ idyl
 idyll
 iftars
 iglu
+ignition
+ignitions
 ikat
 ilea
 ilex
 iliads
+imagination
+imaginations
 immense
 imp
 impel
@@ -2088,6 +2114,8 @@ jouk
 jow
 jowed
 joy
+joying
+joys
 juba
 jube
 juco
@@ -2516,11 +2544,14 @@ mage
 magentas
 mages
 magi
+magian
 magic
 mags
 maim
 maims
 main
+maintain
+maintains
 mair
 maize
 maizes
@@ -2591,7 +2622,10 @@ maxi
 may
 maya
 mayan
+maying
 mayo
+mayos
+mays
 maze
 mazes
 maziest
@@ -2695,9 +2729,12 @@ minas
 mincier
 mine
 mined
+mingy
 mini
+mining
 minis
 mint
+minting
 mints
 minute
 minutes
@@ -2744,14 +2781,22 @@ monism
 mook
 mool
 moos
+mop
+mope
+moper
+mopish
 mopoke
+mops
 mopy
 mor
 mora
 more
 morgan
 morn
+morph
+morphs
 mort
+mos
 mosh
 mosk
 most
@@ -2830,6 +2875,8 @@ nasion
 natal
 natant
 nates
+nation
+nations
 native
 natively
 nav
@@ -2996,6 +3043,7 @@ oba
 obi
 obia
 obis
+obit
 obol
 obole
 oboles
@@ -3057,6 +3105,7 @@ omega
 omen
 omens
 omer
+oms
 once
 one
 ones
@@ -3085,6 +3134,7 @@ opens
 opera
 oppo
 oppos
+ops
 opts
 opus
 ora
@@ -3108,6 +3158,7 @@ organ
 organic
 orle
 orles
+orphism
 orpin
 orpine
 orra
@@ -3392,6 +3443,7 @@ pointe
 pois
 pokier
 pole
+pom
 poms
 pond
 ponder
@@ -3406,6 +3458,7 @@ poos
 pore
 port
 ported
+pos
 posh
 pot
 potman
@@ -3450,8 +3503,10 @@ prog
 prolan
 proleg
 prom
+proms
 prone
 proning
+pros
 protyl
 protyle
 prove
@@ -3716,6 +3771,7 @@ repin
 repine
 replot
 repo
+repos
 repp
 repro
 reproval
@@ -3828,6 +3884,8 @@ rom
 roman
 romano
 romp
+rompish
+romps
 roms
 ronde
 rondo
@@ -3840,6 +3898,7 @@ roofs
 roos
 roost
 rope
+roshi
 rostra
 rosy
 rote
@@ -4258,8 +4317,11 @@ sneap
 sned
 snedded
 snell
+snib
 snip
 snips
+snit
+snob
 snog
 snogs
 snood
@@ -4302,6 +4364,7 @@ soli
 solo
 sols
 solus
+som
 soma
 soman
 some
@@ -4318,6 +4381,7 @@ sook
 soon
 sooner
 sooners
+sop
 soph
 sophs
 sophy
@@ -4348,6 +4412,7 @@ souser
 souslik
 sows
 soy
+soya
 spa
 spanked
 spar
@@ -4357,6 +4422,7 @@ spars
 sparse
 sped
 speer
+sperm
 spew
 sphere
 spier
@@ -4367,6 +4433,7 @@ spire
 sponge
 spoon
 spoons
+spore
 spun
 spunk
 sri
@@ -4478,8 +4545,10 @@ tael
 tag
 tags
 tahr
+taiga
 tailer
 tain
+tains
 taj
 tajes
 tala
@@ -4499,6 +4568,7 @@ tams
 tan
 tang
 tanga
+tangy
 tank
 tankas
 tanker
@@ -4665,9 +4735,11 @@ tingle
 tingler
 tinglier
 tings
+tining
 tinmen
 tins
 tint
+tiny
 tire
 tirl
 tis
@@ -4679,6 +4751,7 @@ tits
 tivy
 tix
 tiyn
+tiyns
 tod
 tods
 toe
@@ -5126,6 +5199,7 @@ xenia
 xenic
 xerarch
 xeric
+yagi
 yald
 yam
 yap
@@ -5157,6 +5231,7 @@ yoks
 yolk
 yon
 yond
+yoni
 yous
 yow
 yowe

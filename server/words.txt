@@ -1814,6 +1814,7 @@ agnatha
 agnathan
 agnatic
 agnation
+agnations
 agnise
 agnize
 agnomen
@@ -1950,7 +1951,6 @@ aids
 aiery
 aigas
 aight
-aigina
 aiglet
 aigret
 aigrette
@@ -1981,6 +1981,7 @@ aimlessness
 aims
 ain
 ainee
+ains
 aioli
 air
 airbag
@@ -4041,6 +4042,7 @@ antifertilizin
 antiflatulent
 antifreeze
 antifungal
+antigay
 antigen
 antigenic
 antigone
@@ -4083,6 +4085,7 @@ antimycotic
 antineoplastic
 antineutrino
 antineutron
+anting
 antinode
 antinomasia
 antinomian
@@ -6562,7 +6565,6 @@ aygre
 ayin
 ayins
 aymag
-ayont
 ayres
 ayrie
 ayrshire
@@ -8837,6 +8839,8 @@ binocular
 binoculars
 binomial
 binominal
+bins
+bint
 bints
 binturong
 binuclear
@@ -8904,7 +8908,6 @@ bionics
 bionomic
 bionomical
 bionomics
-bions
 biont
 biophysicist
 biophysics
@@ -9937,6 +9940,7 @@ bonier
 boniface
 boniness
 boning
+bonita
 bonito
 bonitos
 bonk
@@ -10149,8 +10153,6 @@ bosk
 boskopoid
 bosks
 bosky
-bosnia
-bosnian
 bosom
 bosomed
 bosoms
@@ -10395,6 +10397,7 @@ boyla
 boyle
 boylike
 boyly
+boyo
 boyos
 boys
 boysenberry
@@ -26867,7 +26870,6 @@ epoxy
 eppie
 epris
 epsilon
-epsom
 epstein
 eptatretus
 eptesicus
@@ -31761,7 +31763,6 @@ gait
 gaiter
 gaits
 gaius
-gajos
 gal
 gala
 galactagogue
@@ -32250,6 +32251,7 @@ gayfeather
 gaylussacia
 gayly
 gayness
+gays
 gaywings
 gaza
 gazal
@@ -32894,7 +32896,6 @@ gisms
 gist
 gists
 git
-gita
 gitana
 gitano
 gitch
@@ -34722,6 +34723,7 @@ gyneolatry
 gynie
 gynne
 gynny
+gyno
 gynobase
 gynoecium
 gynogenesis
@@ -38670,6 +38672,7 @@ ignited
 igniter
 ignitible
 ignition
+ignitions
 ignitor
 ignobility
 ignoble
@@ -38795,6 +38798,7 @@ images
 imaginable
 imaginary
 imagination
+imaginations
 imaginative
 imaginatively
 imaginativeness
@@ -38802,7 +38806,6 @@ imagine
 imaging
 imagism
 imago
-imagy
 imam
 imams
 imaret
@@ -41055,8 +41058,6 @@ iodotyrosine
 ion
 ionate
 ionesco
-ionia
-ionian
 ionic
 ionisation
 ionise
@@ -41290,7 +41291,6 @@ ismaili
 ismailian
 ismailism
 isnae
-iso
 isoagglutination
 isoagglutinin
 isoagglutinogen
@@ -41568,7 +41568,6 @@ jailer
 jailhouse
 jailor
 jails
-jain
 jainism
 jainist
 jak
@@ -42105,6 +42104,7 @@ joyed
 joyful
 joyfully
 joyfulness
+joying
 joyless
 joylessly
 joylessness
@@ -42112,6 +42112,7 @@ joyous
 joyously
 joyousness
 joyride
+joys
 joystick
 juarez
 juba
@@ -47127,6 +47128,7 @@ magh
 magha
 maghreb
 magi
+magian
 magic
 magical
 magically
@@ -47141,7 +47143,6 @@ magistrate
 magistrature
 maglev
 magma
-magna
 magnanimity
 magnanimous
 magnanimously
@@ -47292,6 +47293,7 @@ maintain
 maintainable
 maintained
 maintainer
+maintains
 maintenance
 maintenon
 maiolica
@@ -47319,7 +47321,6 @@ majorca
 majorette
 majority
 majors
-majos
 majuscular
 majuscule
 mak
@@ -48448,6 +48449,7 @@ mayhap
 mayhaw
 mayhem
 mayidism
+maying
 mayo
 mayonnaise
 mayor
@@ -50076,6 +50078,7 @@ mintage
 minted
 minter
 mintiness
+minting
 mintmark
 mints
 minty
@@ -51123,12 +51126,14 @@ moper
 mopes
 mopey
 moping
+mopish
 mopoke
 mopped
 mopper
 moppet
 mopping
 moppy
+mops
 mopsy
 mopus
 mopy
@@ -51233,6 +51238,7 @@ morphophoneme
 morphophonemic
 morphophonemics
 morphophysiology
+morphs
 morrigan
 morrigu
 morris
@@ -52328,7 +52334,6 @@ nailhead
 nailrod
 nails
 naily
-nains
 nainsook
 naira
 nairobi
@@ -52567,6 +52572,7 @@ nationalization
 nationalize
 nationally
 nationhood
+nations
 nationwide
 natis
 native
@@ -53467,7 +53473,6 @@ ningal
 ningirsu
 ningishzida
 ninhursag
-ninib
 ninigi
 ninja
 ninjitsu
@@ -53476,7 +53481,6 @@ ninkharsag
 ninkhursag
 ninny
 ninon
-ninta
 ninth
 nintinugga
 nintoo
@@ -54563,7 +54567,6 @@ nyctimene
 nyctophobia
 nycturia
 nydrazid
-nying
 nyiragongo
 nylghai
 nylghau
@@ -54665,7 +54668,6 @@ obia
 obias
 obied
 obiism
-obiit
 obis
 obit
 obits
@@ -55931,6 +55933,7 @@ orphanhood
 orphenadrine
 orpheus
 orphic
+orphism
 orphrey
 orpiment
 orpin
@@ -60278,7 +60281,6 @@ pisher
 pisiform
 pisky
 pismire
-pismo
 piso
 pisonia
 pisos
@@ -63144,6 +63146,7 @@ prorate
 proration
 prorogation
 prorogue
+pros
 prosaic
 prosaically
 prosaicness
@@ -68034,6 +68037,7 @@ rommel
 romneya
 romp
 romper
+rompish
 romps
 rompu
 rompy
@@ -73566,6 +73570,7 @@ sneezing
 sneezy
 snell
 snellen
+snib
 snibs
 snick
 snicker
@@ -74083,7 +74088,6 @@ songs
 songster
 songstress
 songwriter
-songy
 sonic
 sonics
 sonly
@@ -78591,7 +78595,6 @@ tangent
 tangential
 tangentially
 tangerine
-tangi
 tangibility
 tangible
 tangibleness
@@ -78610,7 +78613,6 @@ tangshan
 tanguy
 tangy
 tanhs
-tania
 tank
 tanka
 tankage
@@ -80577,6 +80579,7 @@ tingling
 tingly
 tings
 tininess
+tining
 tinker
 tinkerer
 tinkle
@@ -89487,7 +89490,6 @@ yager
 yages
 yagi
 yagis
-yagna
 yah
 yahi
 yahoo
