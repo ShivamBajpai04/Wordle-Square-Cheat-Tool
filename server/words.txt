@@ -2582,10 +2582,10 @@ alloy
 alloyed
 allspice
 allude
+alludes
 allure
 allurement
 alluring
-allus
 allusion
 allusive
 allusiveness
@@ -2615,6 +2615,8 @@ alms
 almsgiver
 almsgiving
 almud
+almude
+almudes
 almug
 alnico
 alocasia
@@ -6081,7 +6083,6 @@ auditor
 auditorium
 auditory
 audubon
-aue
 auf
 augean
 augeas
@@ -6117,7 +6118,6 @@ auloi
 aulos
 aulostomidae
 aulostomus
-aumil
 aunt
 auntie
 aunts
@@ -21133,6 +21133,7 @@ deification
 deify
 deign
 deigns
+deil
 deils
 deimos
 deinocheirus
@@ -23577,7 +23578,6 @@ djinn
 djinni
 djinny
 djins
-dmus
 dneprodzerzhinsk
 dnieper
 dniprodzerzhynsk
@@ -23593,6 +23593,7 @@ dobe
 doberman
 dobes
 dobie
+dobies
 dobla
 dobra
 dobrich
@@ -24675,6 +24676,7 @@ dully
 dulse
 duluth
 duly
+dum
 duma
 dumas
 dumb
@@ -27130,7 +27132,6 @@ erythroxylaceae
 erythroxylon
 erythroxylum
 esaki
-esau
 escadrille
 escalade
 escalader
@@ -32272,9 +32273,7 @@ gazon
 gazoo
 gazpacho
 gazump
-gbit
 gdansk
-geals
 gean
 geans
 gear
@@ -33022,6 +33021,7 @@ gleba
 glebe
 gleby
 glechoma
+gled
 glede
 gleditsia
 gleds
@@ -33043,6 +33043,7 @@ glengarry
 glenn
 glens
 glent
+gley
 gleys
 glia
 glial
@@ -38764,7 +38765,11 @@ illogicality
 illogically
 illogicalness
 illth
+illude
+illudes
 illume
+illumed
+illumes
 illuminance
 illuminant
 illuminate
@@ -40242,7 +40247,6 @@ inoculating
 inoculation
 inoculator
 inoculum
-inode
 inodorous
 inoffensive
 inoffensively
@@ -43619,7 +43623,7 @@ kyats
 kybos
 kydst
 kye
-kyles
+kyes
 kylie
 kylin
 kylix
@@ -44951,7 +44955,6 @@ lerner
 lerps
 lesbian
 lesbianism
-lesbo
 lesbos
 lescol
 lesion
@@ -45140,6 +45143,7 @@ libel
 libeler
 libellous
 libelous
+libels
 liber
 liberal
 liberalisation
@@ -45326,7 +45330,6 @@ ligularia
 ligule
 liguria
 ligustrum
-liii
 likable
 like
 likeable
@@ -45468,14 +45471,12 @@ lincolnesque
 lincolnian
 lincolnshire
 lincomycin
-lind
 lindane
 lindbergh
 linden
 lindera
 lindesnes
 lindheimera
-linds
 lindsay
 lindy
 line
@@ -45826,7 +45827,6 @@ lizardfish
 ljubljana
 llama
 llano
-llud
 llullaillaco
 llyr
 loach
@@ -46800,6 +46800,7 @@ lycra
 lydia
 lydian
 lye
+lyes
 lygaeid
 lygaeidae
 lyginopteridales
@@ -48695,8 +48696,10 @@ medoc
 meds
 medulla
 medullary
+medullas
 medullated
 medusa
+medusal
 medusan
 medusoid
 mee
@@ -49289,7 +49292,6 @@ mestiza
 mestizo
 mesto
 mestranol
-mesua
 mesyl
 met
 meta
@@ -51655,6 +51657,7 @@ mulishness
 mull
 mulla
 mullah
+mullas
 mulled
 mullein
 muller
@@ -53296,6 +53299,7 @@ nibby
 nibelung
 nibelungenlied
 niblick
+nibs
 nicad
 nicads
 nicaea
@@ -53581,10 +53585,10 @@ noachian
 nob
 nobble
 nobby
-nobel
 nobelist
 nobelit
 nobelium
+nobilities
 nobility
 noble
 nobleman
@@ -53595,6 +53599,7 @@ noblesse
 noblewoman
 nobly
 nobody
+nobs
 nocent
 nociceptive
 nock
@@ -54656,6 +54661,7 @@ obelia
 obelion
 obelisk
 oberson
+obes
 obese
 obesity
 obey
@@ -54666,7 +54672,6 @@ obfuscation
 obi
 obia
 obias
-obied
 obiism
 obis
 obit
@@ -55372,7 +55377,6 @@ oncovin
 oncus
 ondaatje
 ondatra
-ondes
 ondol
 one
 onega
@@ -69075,9 +69079,9 @@ salty
 salubrious
 salubriousness
 salubrity
-salud
-salue
 saluki
+salume
+salumi
 salut
 salutary
 salutation
@@ -70437,7 +70441,6 @@ scythe
 scythia
 scythian
 sdayn
-sdein
 sea
 seabag
 seabed
@@ -70756,7 +70759,6 @@ seismosaurus
 seisure
 seith
 seithr
-seity
 seiurus
 seiza
 seize
@@ -76975,7 +76977,6 @@ sucre
 sucrose
 suction
 suctorial
-sud
 sudafed
 sudan
 sudanese
@@ -77058,7 +77059,6 @@ sughs
 sugos
 suharto
 suhur
-sui
 suicidal
 suicide
 suidae
@@ -77122,7 +77122,6 @@ sulkily
 sulkiness
 sulks
 sulky
-sulla
 sullen
 sullenly
 sullenness
@@ -89628,7 +89627,6 @@ yechs
 yechy
 yeddo
 yedes
-yedo
 yeeds
 yeeek
 yeesh
