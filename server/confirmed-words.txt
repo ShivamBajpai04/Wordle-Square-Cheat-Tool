@@ -1063,6 +1063,7 @@ diner
 diners
 dines
 ding
+dinge
 dingo
 dink
 dino
@@ -1078,6 +1079,8 @@ discard
 discards
 diss
 distils
+dita
+dite
 dive
 diver
 divers
@@ -1258,6 +1261,7 @@ edema
 edge
 edger
 edh
+edit
 educing
 eduction
 eductions
@@ -1277,6 +1281,7 @@ egesta
 egis
 egises
 egos
+eide
 eke
 eked
 ekes
@@ -1315,6 +1320,8 @@ enable
 enabled
 encyst
 end
+ending
+endite
 endless
 ends
 engs
@@ -1412,7 +1419,11 @@ exing
 exit
 exited
 expats
+extend
+extending
 extent
+exult
+exultant
 eye
 eyer
 fabs
@@ -1445,7 +1456,10 @@ faro
 faros
 fatal
 fate
+fated
 fates
+fating
+faun
 fava
 feal
 fear
@@ -1459,6 +1473,7 @@ fees
 feet
 feh
 fehs
+feign
 fem
 feme
 fen
@@ -1473,6 +1488,10 @@ ferry
 ferula
 fes
 feta
+fete
+feted
+fetid
+feting
 fetor
 fetors
 feu
@@ -1582,7 +1601,11 @@ fruited
 fruiter
 fryer
 fuds
+fuel
 fugs
+fund
+fundi
+funding
 fungos
 funs
 fur
@@ -1653,6 +1676,7 @@ geek
 geeked
 geeky
 gees
+geld
 gels
 gem
 gems
@@ -1670,6 +1694,7 @@ gentil
 gentile
 gents
 genu
+genua
 genus
 geode
 geodes
@@ -2143,6 +2168,7 @@ jato
 jaunt
 jaunts
 jays
+jedi
 jess
 jest
 jet
@@ -2402,6 +2428,7 @@ leke
 leku
 leman
 lend
+lending
 lenes
 leno
 lens
@@ -2419,6 +2446,7 @@ lesser
 let
 lets
 letup
+leu
 leucin
 leud
 leukotomy
@@ -2428,6 +2456,7 @@ levo
 levs
 levy
 lewk
+lex
 ley
 liane
 lianes
@@ -2559,6 +2588,7 @@ luds
 lues
 lugs
 lum
+lumen
 luna
 lune
 lunes
@@ -2574,9 +2604,12 @@ lure
 lurex
 luring
 lute
+lutea
 lutein
 luteins
 luting
+lux
+luxe
 lye
 lyes
 lyre
@@ -2736,6 +2769,7 @@ mensas
 mense
 mensed
 menses
+menta
 mentos
 menu
 meou
@@ -2878,6 +2912,7 @@ moves
 moxa
 moxas
 mud
+mule
 muleta
 muletas
 mull
@@ -2894,9 +2929,12 @@ muse
 mused
 mush
 muso
+mut
 mutant
+mute
 muts
 mutule
+mux
 myna
 mynah
 myrrh
@@ -3009,6 +3047,7 @@ nicer
 nick
 nicol
 nide
+nidget
 niece
 nieve
 nieves
@@ -4742,6 +4781,8 @@ tels
 ten
 tenant
 tenants
+tend
+tending
 tens
 tenser
 tent
@@ -4762,6 +4803,7 @@ terry
 tes
 test
 tests
+tet
 tethering
 tethers
 tets
@@ -4797,6 +4839,7 @@ thru
 tian
 tibias
 tical
+tide
 tie
 tied
 tieing
@@ -4819,6 +4862,7 @@ tine
 tines
 ting
 tinge
+tinged
 tingle
 tingler
 tinglier
@@ -4935,16 +4979,19 @@ truly
 tsks
 tuba
 tubal
+tufa
 tuft
 tufter
 tui
 tuile
 tuis
 tule
+tum
 tump
 tun
 tuna
 tune
+tuned
 tung
 tungs
 tuns
@@ -4954,6 +5001,7 @@ turr
 turrical
 tuts
 tutting
+tux
 twae
 twas
 twos
@@ -5003,6 +5051,7 @@ unjam
 unjams
 unknit
 unlead
+unled
 unlet
 unlit
 unman
@@ -5178,6 +5227,9 @@ wadmal
 wadmel
 wadset
 waes
+waft
+wafted
+wafting
 wake
 waked
 waken
@@ -5209,6 +5261,7 @@ ween
 weer
 wees
 weet
+weft
 weigh
 weka
 wend
@@ -5217,6 +5270,7 @@ wens
 were
 wert
 wet
+weta
 wets
 what
 whee

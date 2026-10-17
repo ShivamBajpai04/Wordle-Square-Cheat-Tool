@@ -25500,12 +25500,12 @@ ehrlich
 eibit
 eichhornia
 eichmann
+eide
 eider
 eiderdown
 eidetic
 eidos
 eiffel
-eigen
 eigenvalue
 eight
 eighteen
@@ -25614,7 +25614,6 @@ elderly
 elders
 eldership
 eldest
-eldin
 eldorado
 eldress
 eldritch
@@ -26202,6 +26201,7 @@ endermic
 endgame
 endicott
 ending
+endite
 endive
 endless
 endlessly
@@ -27907,7 +27907,6 @@ existentialist
 existing
 exists
 exit
-exite
 exited
 exits
 exmoor
@@ -28146,6 +28145,7 @@ extend
 extendable
 extended
 extendible
+extending
 extensible
 extensile
 extension
@@ -28860,7 +28860,6 @@ faunus
 faurd
 faustian
 faustus
-faute
 fauteuil
 fauve
 fauvism
@@ -29248,6 +29247,7 @@ fetichism
 feticide
 fetid
 fetidness
+feting
 fetish
 fetishism
 fetishist
@@ -41671,7 +41671,6 @@ jasps
 jassid
 jassidae
 jatha
-jati
 jatis
 jato
 jatos
@@ -41721,6 +41720,7 @@ jean
 jeans
 jebel
 jeddah
+jedi
 jedis
 jee
 jeels
@@ -53280,7 +53280,6 @@ newtonian
 newts
 next
 nexts
-nexum
 nexus
 ngana
 nganasan
@@ -53346,6 +53345,7 @@ niddm
 nide
 nided
 nides
+nidget
 nidicolous
 nidifugous
 nidor
@@ -78649,7 +78649,6 @@ tantalizingly
 tantalum
 tantalus
 tantamount
-tante
 tantilla
 tanto
 tantra
@@ -79139,7 +79138,6 @@ teils
 tein
 teind
 teins
-teju
 tekke
 tektite
 tel
@@ -79689,7 +79687,6 @@ tewel
 tewit
 tewkesbury
 tews
-tex
 texan
 texarkana
 texas
@@ -80570,6 +80567,7 @@ tines
 tinfoil
 ting
 tinge
+tinged
 tingidae
 tingle
 tingler
@@ -83010,7 +83008,6 @@ ulceration
 ulcerative
 ulcerous
 ulcers
-ule
 ulema
 ulemorrhagia
 ulfila
@@ -87441,6 +87438,8 @@ waffle
 waffler
 waffs
 waft
+wafted
+wafting
 wafts
 wafture
 wag
@@ -88063,7 +88062,6 @@ weets
 weevil
 weewee
 weft
-wefte
 wefts
 wegener
 weids
@@ -88197,6 +88195,7 @@ westside
 westward
 westwards
 wet
+weta
 wetas
 wetback
 wether
