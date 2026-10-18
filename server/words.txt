@@ -15185,7 +15185,6 @@ ciconia
 ciconiidae
 ciconiiformes
 cicuta
-cided
 cider
 ciderpress
 cides
@@ -15604,7 +15603,6 @@ cleft
 cleg
 clegg
 clegs
-cleik
 cleistes
 cleistocarp
 cleistogamic
@@ -15689,6 +15687,7 @@ clinched
 clincher
 cline
 cling
+clinged
 clingfilm
 clingfish
 clings
@@ -16202,9 +16201,9 @@ coft
 cog
 cogency
 cogent
+cogently
 cogged
 coggle
-cogie
 cogitable
 cogitate
 cogitation
@@ -16266,6 +16265,7 @@ coils
 coin
 coinage
 coincide
+coincided
 coincidence
 coincident
 coincidental
@@ -16616,6 +16616,8 @@ comicality
 comically
 comics
 coming
+comingle
+comingled
 comint
 comity
 comix
@@ -21304,6 +21306,7 @@ demeaning
 demeaningly
 demeanor
 demeanour
+dement
 demented
 dementedly
 dementedness
@@ -22424,6 +22427,7 @@ didst
 die
 dieback
 diebs
+died
 dieffenbachia
 diegueno
 diehard
@@ -26283,7 +26287,6 @@ enduringly
 enduringness
 endways
 endwise
-ene
 enema
 enemy
 energetic
@@ -26659,7 +26662,6 @@ enzymology
 eocene
 eohippus
 eolian
-eolic
 eolid
 eolith
 eolithic
@@ -32439,6 +32441,7 @@ genitor
 genitourinary
 genius
 genlisea
+genlock
 genny
 genoa
 genocide
@@ -33042,7 +33045,6 @@ glendower
 glengarry
 glenn
 glens
-glent
 gley
 gleys
 glia
@@ -33060,6 +33062,7 @@ gliding
 gliff
 glift
 glike
+glim
 glime
 glimmer
 glimmering
@@ -33248,6 +33251,7 @@ glycerole
 glycerolise
 glycerolize
 glyceryl
+glycin
 glycine
 glycogen
 glycogenesis
@@ -42944,13 +42948,10 @@ kicksorter
 kickstand
 kicky
 kid
-kidd
 kidder
 kiddie
 kiddo
 kiddy
-kideo
-kidge
 kidlit
 kidlits
 kidnap
@@ -44732,7 +44733,6 @@ legits
 legless
 leglike
 legmen
-legno
 legos
 legs
 legume
@@ -46028,7 +46028,6 @@ logically
 logicalness
 logician
 logicism
-logie
 login
 loginess
 logion
@@ -48702,7 +48701,6 @@ medusa
 medusal
 medusan
 medusoid
-mee
 meech
 meed
 meeds
@@ -49922,6 +49920,7 @@ milpa
 milquetoast
 mils
 milt
+milted
 miltiades
 miltomate
 milton
@@ -50004,6 +50003,7 @@ minesweeping
 mineworker
 minginess
 mingle
+mingled
 mingling
 mingy
 mini
@@ -50447,7 +50447,6 @@ mizzle
 mizzy
 mmkay
 mmpi
-mneme
 mnemometer
 mnemonic
 mnemonics
@@ -50626,7 +50625,7 @@ mohur
 moi
 moiety
 moil
-moile
+moiled
 moils
 moira
 moirae
@@ -50678,7 +50677,6 @@ mole
 molech
 molecular
 molecule
-moled
 molehill
 moles
 moleskin
@@ -50721,6 +50719,7 @@ molothrus
 molotov
 mols
 molt
+molted
 molten
 molter
 molting
@@ -50731,6 +50730,7 @@ molucella
 molue
 molva
 molvi
+moly
 molybdenite
 molybdenum
 molys
@@ -50803,7 +50803,6 @@ moneran
 moneron
 moneses
 monestrous
-monet
 monetarism
 monetarist
 monetary
@@ -52946,6 +52945,7 @@ neon
 neonatal
 neonate
 neonatology
+neonic
 neons
 neopallium
 neophobia
@@ -53655,6 +53655,7 @@ nogs
 noguchi
 noh
 nohow
+noil
 noils
 noily
 noint
@@ -53692,7 +53693,6 @@ nomen
 nomenclature
 nomenklatura
 nomes
-nomic
 nominal
 nominalism
 nominalist
@@ -55106,7 +55106,6 @@ ofuro
 ogalala
 ogams
 ogcocephalidae
-ogden
 ogdoad
 ogee
 ogeed
@@ -55309,6 +55308,7 @@ omega
 omelet
 omelette
 omen
+omened
 omens
 omentum
 omeprazole
@@ -79088,7 +79088,7 @@ teen
 teenage
 teenaged
 teenager
-teend
+teendom
 teens
 teensy
 teentsy
@@ -79242,6 +79242,7 @@ telocentric
 teloi
 telomerase
 telomere
+telomic
 telopea
 telophase
 telos
@@ -79253,7 +79254,6 @@ telsontail
 telugu
 temazepam
 temblor
-temed
 temerarious
 temerity
 temnospondyli
@@ -89594,7 +89594,6 @@ yayas
 yazoo
 ybit
 yclad
-ycled
 ydrad
 ydred
 yea
