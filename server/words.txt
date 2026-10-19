@@ -15821,6 +15821,7 @@ clothespin
 clothespress
 clothier
 clothing
+clothlike
 clotho
 cloths
 clots
@@ -15838,6 +15839,7 @@ cloudlessness
 cloudlike
 clouds
 cloudy
+clough
 clour
 clout
 clove
@@ -19481,6 +19483,7 @@ culicidae
 culinary
 cull
 cullender
+cullied
 cullis
 culls
 cully
@@ -22574,7 +22577,6 @@ dill
 dillenia
 dilleniaceae
 dilleniidae
-dilli
 dills
 dilly
 dillydallier
@@ -32797,6 +32799,7 @@ gilled
 gillespie
 gillette
 gillie
+gillied
 gills
 gilly
 gillyflower
@@ -33061,7 +33064,6 @@ glides
 gliding
 gliff
 glift
-glike
 glim
 glime
 glimmer
@@ -34526,10 +34528,10 @@ gull
 gullet
 gullibility
 gullible
+gullied
 gulliver
 gulls
 gully
-gulo
 gulp
 gulper
 gulph
@@ -36680,7 +36682,6 @@ hills
 hillside
 hilltop
 hilly
-hilo
 hilsa
 hilt
 hilted
@@ -37014,6 +37015,7 @@ holing
 holism
 holistic
 holk
+holked
 holks
 holla
 holland
@@ -37570,7 +37572,6 @@ houdah
 houdini
 houff
 houfs
-hough
 houghton
 houhere
 hoummos
@@ -37712,6 +37713,7 @@ hue
 hued
 hueless
 huers
+hues
 huff
 huffed
 huffily
@@ -37958,7 +37960,6 @@ hutia
 hutment
 huts
 hutton
-hutu
 hutzpah
 huxleian
 huxley
@@ -38768,7 +38769,6 @@ illogical
 illogicality
 illogically
 illogicalness
-illth
 illude
 illudes
 illume
@@ -43226,6 +43226,7 @@ klorvess
 klotho
 kludge
 kluge
+kluged
 klugy
 klunk
 klutz
@@ -46512,7 +46513,6 @@ luger
 luges
 luggage
 lugger
-lugh
 luging
 lugosi
 lugs
@@ -46699,6 +46699,7 @@ lutjanus
 lutra
 lutrinae
 lutyens
+lutz
 lutzen
 luv
 luvaridae
@@ -55278,6 +55279,7 @@ ollari
 ollas
 ollav
 ollie
+ollied
 olm
 olmec
 olmsted
@@ -80007,7 +80009,6 @@ thigh
 thighbone
 thighs
 thigs
-thilk
 thill
 thimble
 thimbleberry
@@ -80077,7 +80078,6 @@ thlaspi
 tho
 thole
 tholepin
-tholi
 thomas
 thomism
 thomomys
@@ -80880,6 +80880,7 @@ tolt
 tolts
 tolu
 toluene
+toluic
 tolus
 tolyl
 tolypeutes
@@ -81231,6 +81232,7 @@ touchstone
 touchwood
 touchy
 tough
+toughed
 toughen
 toughened
 toughie
@@ -83609,6 +83611,7 @@ uncurved
 uncurving
 uncus
 uncut
+uncute
 undam
 undamaged
 undatable
@@ -85815,7 +85818,6 @@ uttering
 utterly
 uttermost
 utterness
-utu
 utug
 uva
 uvea

@@ -762,6 +762,7 @@ cleg
 cling
 clinged
 clip
+clit
 clock
 clod
 clog
@@ -769,6 +770,9 @@ clon
 clone
 clop
 clot
+cloth
+clothlike
+clough
 clout
 cloy
 club
@@ -891,12 +895,15 @@ crude
 crudo
 cruets
 cubers
+cue
 cued
 cueing
 cues
 cuing
 cuisse
+cuke
 cull
+cullied
 cully
 cult
 curb
@@ -934,8 +941,10 @@ cusser
 cussers
 cusses
 cust
+cut
 cute
 cuter
+cutes
 cutin
 cutins
 cuts
@@ -1083,6 +1092,8 @@ diene
 dies
 diet
 diets
+dike
+dill
 din
 dinar
 dine
@@ -1758,6 +1769,9 @@ gied
 gien
 gies
 gifs
+gill
+gillie
+gillied
 gimlets
 gimme
 gimp
@@ -1791,8 +1805,10 @@ glen
 gley
 glia
 glib
+glide
 glim
 glom
+glout
 glue
 glued
 glues
@@ -1851,6 +1867,8 @@ guildsmen
 guilt
 guilts
 gulden
+gull
+gullied
 guls
 gunk
 guns
@@ -1990,6 +2008,10 @@ hie
 hied
 hies
 high
+hike
+hiked
+hill
+hillo
 hilt
 hilts
 him
@@ -2037,6 +2059,7 @@ hokier
 hole
 holes
 holk
+holked
 holo
 hols
 holt
@@ -2066,15 +2089,21 @@ hove
 hover
 hovers
 hoys
+huck
+hucks
+hue
 hued
+hues
 huge
 hugs
+hun
 hung
 hunk
 huns
 hurt
 hurter
 hurts
+husk
 hut
 huts
 hyoid
@@ -2302,9 +2331,11 @@ kief
 kier
 kiers
 kifs
+kill
 kilned
 kilo
 kilos
+kilt
 kilted
 kin
 kina
@@ -2324,6 +2355,10 @@ kis
 kist
 kits
 klatch
+klieg
+kluge
+kluged
+klutz
 knar
 knaur
 knead
@@ -2523,6 +2558,9 @@ lieutenant
 lieutenants
 lift
 lifts
+light
+like
+liked
 lilo
 lilt
 lilts
@@ -2614,10 +2652,12 @@ lost
 lostness
 lot
 lotahs
+loth
 loti
 loto
 lots
 loud
+lough
 loup
 louse
 louses
@@ -2638,6 +2678,8 @@ lude
 ludes
 luds
 lues
+luge
+luged
 lugs
 lum
 lumen
@@ -2660,6 +2702,7 @@ lutea
 lutein
 luteins
 luting
+lutz
 lux
 luxe
 lye
@@ -3301,6 +3344,8 @@ oleo
 oleos
 oles
 olla
+ollie
+ollied
 oma
 omas
 omasa
@@ -3381,6 +3426,7 @@ other
 othering
 otto
 ouds
+ought
 ouph
 ouphs
 ours
@@ -4234,6 +4280,8 @@ scarring
 scars
 scat
 scaur
+scut
+scute
 sea
 seal
 sealable
@@ -4403,6 +4451,7 @@ shri
 shrimp
 shtetl
 shtup
+shuck
 shun
 shuns
 shura
@@ -4689,6 +4738,7 @@ sublease
 subleases
 sublessee
 subs
+suck
 sucre
 sue
 sued
@@ -4917,6 +4967,7 @@ thermal
 thermals
 therms
 thew
+thill
 thin
 thing
 thio
@@ -4924,6 +4975,9 @@ thir
 this
 thistle
 thoron
+thou
+though
+thought
 thro
 thru
 tian
@@ -4938,6 +4992,7 @@ ties
 tigons
 tile
 tiler
+till
 tils
 tilt
 tilth
@@ -4990,7 +5045,10 @@ tola
 tolan
 tolane
 tole
+toll
 tolt
+tolu
+toluic
 tolys
 toman
 tome
@@ -5025,6 +5083,8 @@ totem
 totems
 tother
 tots
+tough
+toughed
 toused
 tout
 touted
@@ -5069,6 +5129,8 @@ truly
 tsks
 tuba
 tubal
+tuck
+tucks
 tufa
 tuft
 tufter
@@ -5089,6 +5151,8 @@ turn
 turns
 turr
 turrical
+tush
+tusk
 tuts
 tutting
 tux
@@ -5125,6 +5189,9 @@ unclearly
 unco
 uncoy
 uncured
+uncus
+uncut
+uncute
 unde
 undee
 under
