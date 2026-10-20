@@ -1404,7 +1404,6 @@ aegospotamos
 aegypiidae
 aegypius
 aegyptopithecus
-aeneas
 aeneid
 aengus
 aeolia
@@ -3788,6 +3787,7 @@ anointer
 anointing
 anointment
 anole
+anoles
 anolis
 anomala
 anomalist
@@ -4946,6 +4946,7 @@ arenaviridae
 arenavirus
 arendt
 arene
+arenes
 arenga
 arenicolous
 areola
@@ -22749,6 +22750,7 @@ dipsomania
 dipsomaniac
 dipsosaurus
 dipstick
+dipt
 diptera
 dipteran
 dipterocarp
@@ -26400,6 +26402,7 @@ enlarge
 enlarged
 enlargement
 enlarger
+enlarges
 enlighten
 enlightened
 enlightening
@@ -32372,7 +32375,6 @@ gemsbuck
 gemstone
 gen
 genae
-genal
 genas
 gendarme
 gendarmerie
@@ -32384,6 +32386,7 @@ genealogical
 genealogically
 genealogist
 genealogy
+genera
 general
 generalcy
 generalisability
@@ -32446,8 +32449,8 @@ genlisea
 genlock
 genny
 genoa
+genoas
 genocide
-genoese
 genoise
 genom
 genome
@@ -32458,6 +32461,7 @@ genotypical
 genova
 genovese
 genre
+genres
 genro
 gens
 genseric
@@ -32584,9 +32588,7 @@ gerbil
 gerbille
 gerbillinae
 gerbillus
-gerea
 gerenuk
-geres
 gerfalcon
 geriatric
 geriatrician
@@ -32611,7 +32613,6 @@ germinate
 germination
 germs
 germy
-gerne
 geronimo
 gerontocracy
 gerontological
@@ -33852,7 +33853,6 @@ graniteware
 granitic
 grannie
 granny
-grano
 granola
 grans
 grant
@@ -41588,7 +41588,6 @@ jakobson
 jalalabad
 jalap
 jalapeno
-jaleo
 jalop
 jalopy
 jalousie
@@ -41732,7 +41731,6 @@ jeely
 jeep
 jeeps
 jeer
-jeera
 jeerer
 jeering
 jeeringly
@@ -41770,7 +41768,6 @@ jellylike
 jellyroll
 jembe
 jemmy
-jena
 jenner
 jennet
 jenny
@@ -44172,6 +44169,7 @@ lards
 lardy
 laredo
 laree
+larees
 lares
 larfs
 larga
@@ -44180,6 +44178,7 @@ largely
 largemouth
 largeness
 larger
+larges
 largess
 largesse
 larghetto
@@ -44575,6 +44574,7 @@ lease
 leased
 leasehold
 leaseholder
+leaser
 leases
 leash
 leashes
@@ -44865,6 +44865,7 @@ leonardo
 leonberg
 leoncita
 leone
+leones
 leonidas
 leonine
 leonotis
@@ -53014,7 +53015,6 @@ nepotist
 neptune
 neptunism
 neptunium
-neral
 neram
 nerd
 nerds
@@ -53499,7 +53499,6 @@ nioza
 nip
 nipa
 nipas
-nipet
 nipped
 nipper
 nipping
@@ -53522,6 +53521,7 @@ nit
 nite
 nitella
 niter
+nitery
 nites
 nitid
 niton
@@ -53561,7 +53561,6 @@ nitrosomonas
 nitrospan
 nitrostat
 nitrous
-nitry
 nits
 nitty
 nitweed
@@ -53642,6 +53641,7 @@ noel
 noels
 noema
 noeme
+noes
 noesis
 noether
 noetic
@@ -53675,7 +53675,6 @@ noisome
 noisomeness
 noisy
 nokes
-noles
 nolina
 nolle
 nolls
@@ -58694,7 +58693,6 @@ peoria
 pep
 pepcid
 peperomia
-pepin
 pepla
 peplos
 peplum
@@ -58717,6 +58715,7 @@ pepsi
 pepsin
 pepsinogen
 peptic
+peptid
 peptidase
 peptide
 peptisation
@@ -60174,13 +60173,13 @@ pint
 pinta
 pintado
 pintail
-pinter
 pintle
 pinto
 pints
 pinup
 pinwheel
 pinworm
+piny
 pinyin
 pinyon
 piolet
@@ -65119,6 +65118,7 @@ randomness
 rands
 randy
 ranee
+ranees
 rang
 ranga
 range
@@ -66545,6 +66545,7 @@ rendition
 rends
 renegade
 renege
+reneges
 renegociate
 renegotiate
 renew
@@ -67075,7 +67076,6 @@ retinol
 retinopathy
 retint
 retinue
-retip
 retire
 retired
 retiree
@@ -69303,7 +69303,6 @@ santos
 sants
 sanvitalia
 sanyasi
-saola
 sap
 sapan
 saphar
@@ -70781,7 +70780,6 @@ selaginellaceae
 selaginellales
 selah
 selangor
-selar
 selcraig
 seldom
 select
@@ -71160,7 +71158,6 @@ serapes
 seraph
 seraphic
 seraphical
-serax
 serbia
 serbian
 serbianness
@@ -71175,7 +71172,6 @@ serenely
 sereness
 serengeti
 serenity
-serenoa
 serer
 seres
 serf
@@ -80390,7 +80386,6 @@ tickweed
 ticky
 ticonderoga
 tictac
-tid
 tidal
 tidbit
 tiddler
@@ -89671,6 +89666,7 @@ yente
 yeoman
 yeomanry
 yep
+yer
 yerba
 yerds
 yerevan
@@ -89712,7 +89708,6 @@ ygo
 yhvh
 yhwh
 yibit
-yid
 yiddish
 yiddishism
 yield
