@@ -9755,7 +9755,6 @@ bogs
 bogue
 bogus
 bogy
-boh
 bohea
 bohemia
 bohemian
@@ -9764,7 +9763,6 @@ bohme
 bohos
 bohr
 bohrium
-boi
 boidae
 boil
 boiled
@@ -10339,7 +10337,6 @@ bowet
 bowfin
 bowfront
 bowhead
-bowie
 bowiea
 bowing
 bowknot
@@ -18625,6 +18622,7 @@ cowhand
 cowherb
 cowherd
 cowhide
+cowhided
 cowhouse
 cowks
 cowl
@@ -19295,6 +19293,8 @@ crustacean
 crustaceous
 crustal
 crusted
+crustily
+crusting
 crustlike
 crustose
 crusts
@@ -19451,6 +19451,7 @@ cuddling
 cuddly
 cuddy
 cudgel
+cuds
 cudweed
 cue
 cueca
@@ -19556,6 +19557,7 @@ cuneiform
 cuneus
 cuniculus
 cunit
+cunits
 cunner
 cunnilinctus
 cunnilingus
@@ -19564,7 +19566,6 @@ cunningham
 cunningly
 cunny
 cunoniaceae
-cunts
 cup
 cupal
 cupbearer
@@ -23594,7 +23595,6 @@ doable
 doabs
 doat
 doats
-dob
 dobbin
 dobby
 dobe
@@ -23645,7 +23645,6 @@ documentary
 documentation
 documented
 docus
-dod
 dodder
 dodderer
 doddering
@@ -24753,6 +24752,7 @@ dunny
 duns
 dunsh
 dunt
+dunting
 dunts
 duo
 duodecimal
@@ -24843,7 +24843,9 @@ dustcart
 dustcloth
 dusted
 duster
+dustily
 dustiness
+dusting
 dustlike
 dustman
 dustmop
@@ -36965,7 +36967,6 @@ hohenlinden
 hohenzollern
 hoheria
 hohhot
-hoi
 hoick
 hoiden
 hoiks
@@ -40931,7 +40932,6 @@ inundation
 inure
 inured
 inurn
-inust
 inutile
 inutility
 invade
@@ -56722,6 +56722,7 @@ owers
 owes
 owest
 oweth
+owie
 owies
 owing
 owl
@@ -59840,7 +59841,6 @@ picayune
 piccalilli
 piccaninny
 piccolo
-piccy
 picea
 picey
 pichi
@@ -59885,6 +59885,7 @@ picovolt
 picra
 picrasma
 picris
+pics
 pictograph
 pictographic
 pictor
@@ -59900,7 +59901,6 @@ picturing
 picul
 piculet
 picumnus
-picus
 piddle
 piddling
 piddock
@@ -60386,7 +60386,6 @@ pixie
 pixies
 pixilated
 pixy
-piyut
 pizarro
 pized
 pizer
@@ -60818,10 +60817,8 @@ plight
 pligs
 plims
 plimsoll
-pling
 plink
 plinth
-pliny
 pliocene
 plips
 plisse
@@ -68640,6 +68637,7 @@ rusticate
 rustication
 rusticism
 rusticity
+rustily
 rustiness
 rusting
 rustle
@@ -76934,11 +76932,11 @@ successive
 successively
 successiveness
 successor
-succi
 succinct
 succinctly
 succinctness
 succinic
+succinyl
 succinylcholine
 succor
 succorer
@@ -80385,6 +80383,7 @@ ticktock
 tickweed
 ticky
 ticonderoga
+tics
 tictac
 tidal
 tidbit
@@ -82549,6 +82548,7 @@ tunic
 tunica
 tunicata
 tunicate
+tunics
 tuning
 tunisia
 tunisian
@@ -84715,7 +84715,6 @@ unploughed
 unplowed
 unplug
 unplumbed
-unply
 unpointed
 unpointedness
 unpolished
@@ -88307,6 +88306,7 @@ whey
 wheys
 which
 whicker
+whid
 whidah
 whids
 whiff
@@ -89445,7 +89445,6 @@ xylaria
 xylariaceae
 xylem
 xylene
-xylic
 xylocaine
 xylocopa
 xylol

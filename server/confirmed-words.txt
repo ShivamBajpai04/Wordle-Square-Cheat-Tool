@@ -498,8 +498,11 @@ blur
 boa
 boas
 boat
+bod
 bode
+boded
 bodes
+bodied
 bods
 bogs
 boil
@@ -545,6 +548,7 @@ bots
 bott
 bouse
 bouses
+bow
 bower
 boxy
 boyars
@@ -684,6 +688,7 @@ cava
 cays
 cede
 cedes
+cedi
 cee
 cees
 cell
@@ -790,6 +795,7 @@ clueing
 clung
 clutter
 cluttering
+cob
 cock
 cod
 coda
@@ -879,7 +885,10 @@ corny
 cots
 cove
 coved
+cow
 cower
+cowhide
+cowhided
 crag
 cram
 cramp
@@ -903,7 +912,12 @@ crud
 crude
 crudo
 cruets
+crus
+crust
+crustily
+crusting
 cubers
+cuds
 cue
 cued
 cueing
@@ -915,6 +929,8 @@ cull
 cullied
 cully
 cult
+cunit
+cunits
 curb
 curd
 curded
@@ -961,6 +977,8 @@ cutter
 cyan
 cyano
 cyma
+cynic
+cynics
 dace
 daces
 dacha
@@ -1115,6 +1133,7 @@ dingo
 dink
 dino
 dint
+diode
 diol
 dip
 diplomas
@@ -1213,6 +1232,7 @@ douses
 dout
 dove
 dow
+dowie
 dracena
 drafters
 drain
@@ -1252,6 +1272,7 @@ dues
 dugs
 dui
 duit
+duits
 duke
 dulia
 dull
@@ -1260,9 +1281,12 @@ dune
 dunes
 dung
 dunite
+dunlin
 dunno
 duns
 dunt
+dunting
+dunts
 duos
 dupe
 duper
@@ -1271,6 +1295,9 @@ dupes
 dure
 during
 duro
+dust
+dustily
+dusting
 dye
 dyne
 dynel
@@ -2027,7 +2054,9 @@ hexers
 hexing
 hey
 hic
+hid
 hide
+hided
 hider
 hie
 hied
@@ -2066,6 +2095,7 @@ hoar
 hoars
 hoarse
 hoax
+hob
 hobo
 hock
 hocked
@@ -2113,6 +2143,7 @@ hots
 hove
 hover
 hovers
+how
 hoys
 huck
 hucks
@@ -2614,8 +2645,10 @@ limy
 line
 ling
 lingo
+lingy
 lino
 lint
+lints
 liny
 lion
 lip
@@ -2745,6 +2778,8 @@ lux
 luxe
 lye
 lyes
+lying
+lynx
 lyre
 lyse
 maar
@@ -3498,6 +3533,7 @@ overset
 owe
 owed
 owes
+owie
 owls
 owly
 owner
@@ -3661,6 +3697,7 @@ pians
 pias
 pic
 pica
+pics
 pie
 pier
 piers
@@ -3677,6 +3714,7 @@ pile
 pili
 pilous
 pilus
+pily
 pin
 pina
 pine
@@ -3689,6 +3727,7 @@ pingos
 pink
 pins
 pint
+pints
 piny
 pion
 pions
@@ -3728,6 +3767,7 @@ plisse
 plot
 plunks
 ply
+plying
 pock
 pocked
 pockier
@@ -4247,6 +4287,10 @@ runs
 runt
 ruse
 ruses
+rust
+rustic
+rustily
+rusting
 rut
 ruth
 ruths
@@ -4335,6 +4379,7 @@ scarring
 scars
 scat
 scaur
+scud
 scut
 scute
 sea
@@ -4777,12 +4822,14 @@ stilts
 stim
 stime
 sting
+stingy
 stipe
 stipes
 stiver
 stoa
 stot
 streps
+stud
 stuiver
 stum
 stun
@@ -4795,6 +4842,7 @@ sublease
 subleases
 sublessee
 subs
+succinyl
 suck
 sucre
 sue
@@ -4803,7 +4851,9 @@ suer
 sues
 suet
 suffari
+suing
 suint
+suit
 suk
 sukkot
 sulci
@@ -4815,6 +4865,7 @@ sumy
 sun
 sung
 sunk
+sunlit
 suns
 sup
 supe
@@ -5041,6 +5092,7 @@ thru
 tian
 tibias
 tical
+tics
 tide
 tie
 tied
@@ -5208,6 +5260,9 @@ tune
 tuned
 tung
 tungs
+tunic
+tunics
+tuning
 tuns
 turn
 turns
@@ -5279,6 +5334,7 @@ unmet
 unpair
 unpeg
 unpegs
+unpin
 uns
 unsee
 unseen
@@ -5286,6 +5342,7 @@ untether
 untethering
 untie
 unties
+until
 unto
 unwakened
 unwed
@@ -5504,6 +5561,7 @@ whelk
 when
 where
 whew
+whid
 whig
 whigs
 whim
@@ -5515,8 +5573,10 @@ whir
 whish
 whisper
 whisperer
+who
 whup
 whys
+wide
 wig
 wigs
 win
