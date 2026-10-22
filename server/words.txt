@@ -21738,7 +21738,6 @@ derogate
 derogation
 derogative
 derogatory
-deros
 derpy
 derrick
 derrida
@@ -22136,6 +22135,7 @@ dexters
 dextral
 dextrality
 dextrin
+dextro
 dextrocardia
 dextroglucose
 dextrorotary
@@ -22146,8 +22146,9 @@ dextrorse
 dextrose
 dextrous
 dextrously
-dexys
+dexy
 dey
+deys
 dflp
 dhaba
 dhahran
@@ -24554,6 +24555,7 @@ dryopteridaceae
 dryopteris
 drypis
 drypoint
+drys
 drywall
 dscdna
 dso
@@ -25374,6 +25376,7 @@ eellike
 eelpout
 eels
 eelworm
+eely
 eensy
 eerie
 eerily
@@ -25813,6 +25816,7 @@ eluding
 elusion
 elusive
 elusiveness
+elusory
 elute
 eluting
 elution
@@ -38479,7 +38483,6 @@ ibrik
 ibsen
 ibsenian
 ibuprofen
-icaco
 icarus
 icbm
 ice
@@ -43776,6 +43779,7 @@ lactogen
 lactogenic
 lactoglobulin
 lactone
+lactonic
 lactophrys
 lactose
 lactosuria
@@ -45112,6 +45116,7 @@ ley
 leycesteria
 leyden
 leymus
+leys
 leyte
 lez
 lezes
@@ -46649,7 +46654,6 @@ luscinia
 luscious
 lusciously
 lusciousness
-luser
 lush
 lushness
 lushun
@@ -55437,7 +55441,6 @@ onshore
 onside
 onslaught
 onstage
-ontal
 ontario
 ontic
 onto
@@ -55873,7 +55876,6 @@ oriolidae
 oriolus
 orison
 orissa
-orites
 orixa
 oriya
 orizaba
@@ -56038,7 +56040,6 @@ osculation
 osculator
 ose
 oses
-osetr
 oseys
 osier
 oskin
@@ -68265,7 +68266,6 @@ roughrider
 roughshod
 rouky
 roulade
-roule
 rouleau
 roulette
 roumania
@@ -68697,6 +68697,7 @@ rypticus
 rythe
 ryugi
 ryukyuan
+ryus
 saags
 saame
 saami
@@ -71066,7 +71067,6 @@ sentinel
 sentry
 sents
 senza
-seoul
 sepad
 sepal
 sepaline
@@ -74257,7 +74257,6 @@ soulfulness
 soulless
 soullessly
 souls
-souly
 soums
 sound
 soundable
@@ -82245,6 +82244,7 @@ trotskyist
 trotskyite
 trotter
 trotyl
+trou
 troubadour
 trouble
 troubled
@@ -83007,6 +83007,8 @@ ulcerous
 ulcers
 ulema
 ulemorrhagia
+ulexite
+ulexites
 ulfila
 ulfilas
 ulitis
@@ -88035,7 +88037,6 @@ weekly
 weeknight
 weeks
 weel
-weels
 weems
 ween
 weeness
@@ -88204,7 +88205,6 @@ wetted
 wetter
 wetting
 wex
-wexed
 wexes
 wey
 wha
@@ -88824,6 +88824,7 @@ witchgrass
 witching
 witchlike
 witchy
+wite
 wited
 wites
 withal
@@ -89697,7 +89698,6 @@ yevtushenko
 yew
 yewen
 yews
-yexed
 yexes
 yezo
 yflops
