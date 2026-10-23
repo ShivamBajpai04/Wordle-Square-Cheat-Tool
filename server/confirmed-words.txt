@@ -63,6 +63,7 @@ aerier
 aero
 afar
 afars
+aflame
 afore
 afro
 afros
@@ -137,6 +138,7 @@ alef
 alert
 alertly
 ales
+alfa
 alga
 algin
 alif
@@ -704,6 +706,8 @@ ceria
 ceric
 cero
 cert
+certs
+cesti
 cete
 chad
 chadar
@@ -928,6 +932,7 @@ cuds
 cue
 cued
 cueing
+cueist
 cues
 cuing
 cuisse
@@ -963,6 +968,8 @@ curse
 cursed
 cursedness
 curses
+cursive
+curst
 curt
 curving
 cusk
@@ -1354,6 +1361,7 @@ eche
 echo
 eco
 ecos
+ecus
 eddo
 eddoes
 edema
@@ -1467,6 +1475,7 @@ err
 errs
 ers
 erses
+erst
 eruct
 erugo
 erugos
@@ -1550,6 +1559,9 @@ fain
 faint
 fair
 fall
+fallal
+fam
+fame
 familism
 familist
 family
@@ -1643,6 +1655,7 @@ fits
 five
 flagmen
 flam
+flame
 flamy
 flan
 flea
@@ -2505,8 +2518,10 @@ lairs
 lall
 lalled
 lam
+lama
 lame
 lameds
+lamella
 lamellas
 laments
 lamp
@@ -2698,6 +2713,8 @@ litest
 lithe
 lits
 litu
+llama
+loaf
 loam
 loamy
 loan
@@ -2723,6 +2740,8 @@ loge
 logic
 loid
 loin
+lol
+loll
 lone
 loner
 long
@@ -2851,6 +2870,7 @@ maizes
 maki
 male
 males
+mall
 malled
 malm
 maloti
@@ -3054,6 +3074,7 @@ mirk
 mirs
 mis
 mise
+miser
 mises
 misevent
 miso
@@ -3061,6 +3082,9 @@ mist
 misty
 mite
 mites
+mitis
+mitre
+mitres
 mity
 moan
 moas
@@ -3378,6 +3402,7 @@ nutter
 nutting
 nyah
 nylon
+oaf
 oafs
 oaked
 oaks
@@ -3449,6 +3474,7 @@ oke
 okeh
 okra
 oldy
+ole
 olea
 oleic
 olein
@@ -4115,6 +4141,7 @@ rein
 reink
 reins
 reis
+reive
 rekey
 reknit
 relax
@@ -4164,9 +4191,13 @@ reseen
 resend
 reses
 resh
+resit
+resize
 resod
 resods
 rest
+restive
+restrive
 rests
 ret
 retard
@@ -4235,8 +4266,11 @@ ripes
 ripper
 rips
 rise
+riser
 rite
 rites
+ritz
+ritzes
 rive
 rives
 roach
@@ -4441,6 +4475,7 @@ seats
 sec
 second
 sect
+securitize
 sedum
 see
 seed
@@ -4476,6 +4511,7 @@ seismic
 seismical
 seisure
 seiza
+seize
 sel
 self
 selfish
@@ -4674,6 +4710,8 @@ sites
 sith
 sits
 situp
+size
+sizer
 skas
 skat
 sked
@@ -4874,10 +4912,13 @@ sting
 stingy
 stipe
 stipes
+stir
 stiver
 stoa
 stot
 streps
+strew
+strive
 stud
 stuiver
 stum
@@ -5148,6 +5189,7 @@ tie
 tied
 tieing
 tier
+tiers
 ties
 tigons
 tile
@@ -5190,11 +5232,15 @@ titan
 titanic
 titi
 titian
+titis
+titre
+titres
 tits
 tivy
 tix
 tiyn
 tiyns
+tizes
 tod
 tods
 toe
@@ -5273,6 +5319,10 @@ tret
 trey
 treyf
 triacs
+trier
+triers
+tries
+trim
 trio
 triode
 triol
@@ -5295,8 +5345,11 @@ trow
 trowel
 troy
 troys
+truce
+truces
 true
 trueing
+trues
 truly
 try
 tsks
@@ -5521,7 +5574,9 @@ vids
 vie
 vied
 vier
+viers
 vies
+view
 viff
 vile
 vims
@@ -5544,6 +5599,7 @@ vise
 vises
 visible
 visibles
+visit
 vita
 vitae
 vitta
@@ -5613,6 +5669,7 @@ wends
 wens
 were
 wert
+west
 wet
 weta
 wets
@@ -5686,6 +5743,7 @@ wrap
 wren
 wrier
 wrying
+wurst
 wyes
 wyle
 wyte
