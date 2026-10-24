@@ -32813,7 +32813,6 @@ gilly
 gillyflower
 gilman
 gilmer
-gilpy
 gilt
 gilts
 gimbal
@@ -33527,6 +33526,7 @@ goniometer
 gonion
 goniopteris
 gonioscopy
+gonium
 gonks
 gonna
 gonne
@@ -42371,7 +42371,6 @@ kahikatea
 kahlua
 kahn
 kahoolawe
-kai
 kaiak
 kaiaks
 kaies
@@ -42410,7 +42409,6 @@ kaleidoscopic
 kaleidoscopical
 kalemia
 kales
-kali
 kalian
 kalif
 kalimantan
@@ -42429,7 +42427,6 @@ kalua
 kaluga
 kalumpang
 kaluresis
-kam
 kamarupan
 kamasutra
 kamba
@@ -42597,7 +42594,6 @@ kavakava
 kaval
 kavas
 kavrin
-kaw
 kawaka
 kawas
 kawau
@@ -43601,7 +43597,6 @@ kvell
 kvetch
 kwaai
 kwacha
-kwai
 kwajalein
 kwakiutl
 kwangchow
@@ -46078,9 +46073,7 @@ lokum
 lol
 lolas
 loled
-loligo
 lolita
-lolium
 loll
 lollipop
 lollo
@@ -46569,6 +46562,7 @@ luminism
 luminol
 luminosity
 luminous
+luminously
 luminousness
 lumma
 lumme
@@ -47330,7 +47324,6 @@ majority
 majors
 majuscular
 majuscule
-mak
 makagigi
 makaira
 makalu
@@ -49930,7 +49923,6 @@ milt
 milted
 miltiades
 miltomate
-milton
 miltonia
 miltown
 milts
@@ -51502,7 +51494,6 @@ moxas
 moxie
 moy
 moyle
-moyls
 moynihan
 moz
 mozambican
@@ -51608,7 +51599,6 @@ muggle
 muggs
 muggy
 mugho
-mugil
 mugilidae
 mugiloidea
 mugos
@@ -51624,7 +51614,6 @@ muharrum
 muhlenbergia
 muhly
 muids
-muils
 muirs
 muiry
 muishond
@@ -54288,7 +54277,6 @@ nought
 nougs
 nould
 noule
-nouls
 noumenon
 noun
 nouns
@@ -54298,7 +54286,6 @@ nourished
 nourishing
 nourishment
 nous
-noust
 nova
 novae
 novas
@@ -55250,7 +55237,6 @@ oligarch
 oligarchic
 oligarchical
 oligarchy
-oligo
 oligocene
 oligochaeta
 oligochaete
@@ -55269,6 +55255,7 @@ oligosaccharide
 oligospermia
 oliguria
 olimbos
+olio
 olios
 oliva
 olive
@@ -55363,7 +55350,6 @@ omphalus
 omrah
 oms
 omsk
-omuls
 onager
 onagraceae
 onanism
@@ -57008,6 +56994,7 @@ pahos
 pahus
 paid
 paigle
+paik
 paiks
 pail
 pailful
@@ -57050,6 +57037,7 @@ paisley
 paiute
 paiwanic
 pajama
+pak
 pakay
 pakchoi
 pakistan
@@ -57165,7 +57153,6 @@ palis
 palisade
 palish
 paliurus
-palki
 pall
 palla
 palladian
@@ -60934,6 +60921,7 @@ plunk
 plunker
 plunks
 pluot
+pluots
 pluperfect
 plups
 plural
@@ -60952,7 +60940,6 @@ plushy
 plutarch
 pluteaceae
 pluteus
-pluto
 plutocracy
 plutocrat
 plutocratic
@@ -76203,7 +76190,6 @@ stot
 stotinka
 stots
 stott
-stoun
 stoup
 stour
 stout
@@ -76547,7 +76533,6 @@ stuffs
 stuffy
 stuiver
 stull
-stulm
 stultification
 stultify
 stum
@@ -77912,6 +77897,7 @@ syeds
 syens
 syker
 sykes
+syli
 sylis
 syllabary
 syllabic
@@ -82490,7 +82476,6 @@ tully
 tulostoma
 tulostomaceae
 tulostomataceae
-tulps
 tulsa
 tulsi
 tulu
@@ -82518,6 +82503,7 @@ tump
 tumps
 tumpy
 tums
+tumuli
 tumult
 tumultuous
 tumultuously
@@ -83016,9 +83002,7 @@ ulfilas
 ulitis
 ullage
 ulmaceae
-ulmin
 ulmos
-ulmus
 ulna
 ulnad
 ulnae
@@ -87475,7 +87459,6 @@ wahhabism
 wahoo
 wahunsonacock
 wahvey
-wai
 waide
 waif
 waifs
@@ -87526,7 +87509,6 @@ waker
 wakes
 wakeup
 wakfs
-wakil
 waking
 walapai
 walbiri
@@ -87540,6 +87522,7 @@ waled
 waler
 wales
 walhalla
+wali
 walie
 walis
 walk
@@ -89741,7 +89724,6 @@ ylids
 ylike
 ylkes
 ymir
-ymolt
 ympes
 yob
 yobbo
@@ -89792,7 +89774,6 @@ yokuts
 yolk
 yolks
 yolky
-yolps
 yom
 yomim
 yomps

@@ -363,6 +363,7 @@ away
 awed
 awes
 awful
+awl
 awls
 awned
 awns
@@ -1860,6 +1861,8 @@ gifs
 gill
 gillie
 gillied
+gilt
+gilts
 gimlets
 gimme
 gimp
@@ -1918,11 +1921,14 @@ godets
 gods
 goes
 gone
+gonium
 gorges
 gorier
 gorp
 gos
 gosh
+gout
+gouts
 gowd
 goys
 grab
@@ -2372,8 +2378,10 @@ kaes
 kafs
 kaiaks
 kaif
+kail
 kaka
 kame
+kami
 kana
 kane
 karn
@@ -2566,6 +2574,7 @@ laud
 lauds
 laveer
 lavs
+law
 lax
 lay
 layman
@@ -2692,6 +2701,7 @@ lingy
 lino
 lint
 lints
+linum
 liny
 lion
 lip
@@ -2801,6 +2811,8 @@ luged
 lugs
 lum
 lumen
+luminous
+luminously
 luna
 lune
 lunes
@@ -2809,12 +2821,15 @@ lungs
 lunier
 lunk
 luns
+lunt
+lunts
 luny
 lupin
 lupine
 lure
 lurex
 luring
+lust
 lute
 lutea
 lutein
@@ -2859,6 +2874,8 @@ magi
 magian
 magic
 mags
+mail
+maill
 maim
 maims
 main
@@ -2929,6 +2946,7 @@ matin
 mats
 maun
 maut
+maw
 max
 maxed
 maxi
@@ -3040,6 +3058,7 @@ milf
 milk
 mill
 milo
+milpa
 mils
 milt
 milted
@@ -3063,6 +3082,7 @@ minis
 mint
 minting
 mints
+minus
 minute
 minutes
 mioses
@@ -3111,7 +3131,10 @@ mols
 molt
 molted
 molten
+molto
+molts
 moly
+molys
 mome
 momi
 moms
@@ -3170,10 +3193,13 @@ mus
 muse
 mused
 mush
+muslin
 muso
+must
 mut
 mutant
 mute
+muton
 muts
 mutule
 mux
@@ -3339,6 +3365,7 @@ noes
 nog
 nogs
 noil
+noils
 noily
 noir
 noise
@@ -3375,6 +3402,7 @@ not
 nota
 notal
 nother
+notum
 noun
 nouns
 nous
@@ -3398,12 +3426,14 @@ nut
 nutlet
 nutlets
 nuts
+nutsy
 nutter
 nutting
 nyah
 nylon
 oaf
 oafs
+oak
 oaked
 oaks
 oaky
@@ -3463,6 +3493,7 @@ ohing
 ohms
 oik
 oiks
+oil
 oiled
 oils
 oily
@@ -3481,6 +3512,7 @@ olein
 oleo
 oleos
 oles
+olio
 olla
 ollie
 ollied
@@ -3493,6 +3525,8 @@ omen
 omened
 omens
 omer
+ominous
+ominously
 oms
 once
 one
@@ -3570,6 +3604,7 @@ ouph
 ouphs
 ours
 ousel
+oust
 outa
 outate
 outearn
@@ -3610,15 +3645,18 @@ paean
 page
 paging
 pah
+paik
 pail
 pails
 pain
 paint
 paintier
 pair
+pak
 pal
 pale
 pali
+pall
 palm
 palp
 pals
@@ -3669,6 +3707,8 @@ passes
 pat
 patens
 pats
+paw
+pawl
 pax
 pay
 pea
@@ -3826,7 +3866,16 @@ plie
 plier
 plisse
 plot
+ploy
+ploys
+plum
+plumy
 plunks
+pluot
+pluots
+plus
+pluton
+plutonium
 ply
 plying
 pock
@@ -4733,6 +4782,7 @@ slid
 slier
 slily
 slim
+slimy
 slip
 slipe
 slit
@@ -4742,6 +4792,7 @@ slue
 slued
 slues
 slug
+slum
 slung
 slur
 slut
@@ -4878,6 +4929,7 @@ spin
 spinous
 spins
 spire
+splint
 sponge
 spoon
 spoons
@@ -4915,6 +4967,7 @@ stipes
 stir
 stiver
 stoa
+stonily
 stot
 streps
 strew
@@ -4978,6 +5031,7 @@ swipe
 swiper
 swum
 syce
+syli
 syn
 syne
 synod
@@ -5270,6 +5324,7 @@ tong
 tonic
 tonier
 tonlet
+tonus
 too
 took
 tool
@@ -5366,6 +5421,7 @@ tuis
 tule
 tum
 tump
+tumuli
 tun
 tuna
 tune
@@ -5617,6 +5673,10 @@ voicing
 volar
 vole
 voles
+volt
+volts
+voluminous
+voluminously
 vuln
 wadmal
 wadmel
@@ -5625,11 +5685,15 @@ waes
 waft
 wafted
 wafting
+wail
 wake
 waked
 waken
 wakened
 wale
+wali
+walk
+wall
 wallas
 walnuts
 waly
@@ -5639,6 +5703,7 @@ waney
 wanly
 want
 wany
+wap
 wars
 wast
 wauk
