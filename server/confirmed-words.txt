@@ -150,7 +150,10 @@ aliyot
 all
 allium
 allod
+allot
+allots
 alloy
+alls
 allude
 alludes
 ally
@@ -351,6 +354,8 @@ aurei
 aures
 auric
 auricle
+auto
+autologous
 ava
 avaunt
 averter
@@ -423,7 +428,10 @@ beat
 bedew
 beds
 bedu
+bee
 been
+beep
+beer
 bees
 beet
 beezer
@@ -432,6 +440,7 @@ begin
 begs
 behoof
 beigy
+bel
 belie
 bels
 bend
@@ -490,6 +499,7 @@ blear
 blears
 bleat
 bled
+bleep
 blend
 blende
 bless
@@ -701,8 +711,10 @@ cello
 celly
 cels
 celt
+cep
 cepe
 cerci
+cere
 ceria
 ceric
 cero
@@ -779,7 +791,9 @@ clear
 clearly
 cleat
 cleating
+cleek
 cleg
+clepe
 cling
 clinged
 clip
@@ -1493,6 +1507,7 @@ est
 estate
 estray
 estrin
+estrual
 ests
 eta
 etas
@@ -1539,6 +1554,7 @@ extending
 extent
 exult
 exultant
+exults
 eye
 eyed
 eyer
@@ -1899,6 +1915,7 @@ glib
 glide
 glim
 glom
+glost
 glout
 glue
 glued
@@ -1922,6 +1939,8 @@ gods
 goes
 gone
 gonium
+goos
+goose
 gorges
 gorier
 gorp
@@ -2219,6 +2238,7 @@ ich
 icier
 icing
 ick
+icker
 icon
 icones
 iconic
@@ -2632,6 +2652,7 @@ lensman
 lent
 leone
 leones
+leper
 lept
 less
 lessee
@@ -2663,7 +2684,10 @@ libel
 libels
 liber
 libs
+lice
 licit
+lick
+licker
 lid
 lids
 lie
@@ -2748,6 +2772,8 @@ loess
 loesses
 loge
 logic
+logo
+logos
 loid
 loin
 lol
@@ -2765,8 +2791,10 @@ loon
 looney
 loony
 loos
+loose
 loot
 looted
+loots
 lor
 lord
 lorded
@@ -2838,6 +2866,8 @@ luting
 lutz
 lux
 luxe
+luxes
+luxest
 lye
 lyes
 lying
@@ -3721,6 +3751,8 @@ pearlier
 peart
 pearter
 peat
+pec
+peck
 pecs
 pedes
 peds
@@ -3729,6 +3761,7 @@ peebeen
 peebeens
 peed
 peek
+peel
 peer
 pees
 pegs
@@ -3798,6 +3831,11 @@ pians
 pias
 pic
 pica
+pice
+pick
+pickeer
+picker
+pickerel
 pics
 pie
 pier
@@ -4127,6 +4165,7 @@ reaper
 reapproval
 rear
 rearrest
+reb
 rebase
 rebater
 rebates
@@ -4138,6 +4177,7 @@ rebus
 rebuy
 rebuys
 rec
+recipe
 recit
 reciting
 reck
@@ -4222,6 +4262,7 @@ rep
 repass
 repasses
 repeg
+repel
 repetitions
 repin
 repine
@@ -4346,6 +4387,7 @@ rolf
 rolfs
 roll
 rolled
+rolls
 rom
 roman
 romano
@@ -4363,6 +4405,8 @@ roofless
 roofs
 roos
 roost
+root
+roots
 rope
 rose
 rosed
@@ -4372,6 +4416,8 @@ rostra
 rosy
 rote
 roti
+rotl
+rotls
 roto
 rotors
 rots
@@ -4787,6 +4833,7 @@ slip
 slipe
 slit
 slob
+slog
 slot
 slue
 slued
@@ -4875,6 +4922,7 @@ sook
 soon
 sooner
 sooners
+soot
 sop
 soph
 sophs
@@ -4936,6 +4984,7 @@ spoons
 spore
 spun
 spunk
+squall
 sri
 stag
 stalag
@@ -4968,12 +5017,15 @@ stir
 stiver
 stoa
 stonily
+stool
 stot
 streps
 strew
 strive
+stroll
 stud
 stuiver
+stull
 stum
 stun
 stung
@@ -5312,9 +5364,11 @@ tolan
 tolane
 tole
 toll
+tolls
 tolt
 tolu
 toluic
+tolus
 tolys
 toman
 tome
@@ -5328,6 +5382,7 @@ tonus
 too
 took
 tool
+tools
 toom
 top
 toph
@@ -5343,6 +5398,7 @@ toroth
 torr
 torrefy
 tors
+torula
 tory
 tosa
 tospot
@@ -5391,6 +5447,7 @@ troked
 troland
 troll
 trolled
+trolls
 tronas
 trop
 trope
@@ -5405,6 +5462,8 @@ truces
 true
 trueing
 trues
+trull
+trulls
 truly
 try
 tsks

@@ -2571,6 +2571,7 @@ allotropic
 allotropical
 allotropism
 allotropy
+allots
 allotted
 allover
 allow
@@ -2580,6 +2581,7 @@ allowance
 allows
 alloy
 alloyed
+alls
 allspice
 allude
 alludes
@@ -15594,7 +15596,6 @@ cleaver
 cleavers
 cleck
 cleek
-cleep
 clef
 clefs
 cleft
@@ -27288,12 +27289,12 @@ estray
 estrilda
 estrin
 estriol
-estro
 estrogen
 estrogenic
 estrone
 estronol
 estrous
+estrual
 estrus
 ests
 estuarial
@@ -28292,13 +28293,13 @@ exuberate
 exudate
 exudation
 exude
-exuls
 exult
 exultant
 exultantly
 exultation
 exulting
 exultingly
+exults
 exurb
 exurbia
 exuviae
@@ -33574,7 +33575,6 @@ gook
 gooks
 gooky
 goold
-gools
 gooly
 goomy
 goon
@@ -33587,6 +33587,7 @@ goops
 goopy
 goors
 goory
+goos
 goosander
 goose
 gooseberry
@@ -42733,7 +42734,6 @@ keokuk
 kep
 kepi
 kepis
-kepler
 keps
 kept
 keratalgia
@@ -42767,7 +42767,6 @@ kerbela
 kerbs
 kerbstone
 kerchief
-kerel
 kerensky
 kerf
 kerfed
@@ -45190,6 +45189,7 @@ libs
 libtard
 libya
 libyan
+lice
 licence
 licenced
 license
@@ -46720,6 +46720,7 @@ luxemburg
 luxemburger
 luxer
 luxes
+luxest
 luxor
 luxuria
 luxuriance
@@ -56031,7 +56032,6 @@ oseys
 osier
 oskin
 oslin
-oslo
 osmanli
 osmanthus
 osmeridae
@@ -59830,6 +59830,7 @@ picayune
 piccalilli
 piccaninny
 piccolo
+pice
 picea
 picey
 pichi
@@ -59843,6 +59844,7 @@ pickaninny
 pickax
 pickaxe
 picked
+pickeer
 pickelhaube
 picker
 pickerel
@@ -64390,7 +64392,6 @@ qualitatively
 quality
 qualm
 qualms
-quals
 qualy
 quamash
 quamassia
@@ -73209,7 +73210,6 @@ sloka
 sloke
 slomo
 sloop
-sloot
 slop
 slope
 sloped
@@ -81135,6 +81135,7 @@ torturesome
 torturing
 torturous
 torturously
+torula
 torulose
 torus
 tory
@@ -82293,6 +82294,7 @@ trugo
 trugs
 truism
 trull
+trulls
 truly
 truman
 trumbo
