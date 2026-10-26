@@ -16619,7 +16619,6 @@ comics
 coming
 comingle
 comingled
-comint
 comity
 comix
 comm
@@ -16673,6 +16672,7 @@ comminatory
 commingle
 comminute
 commiphora
+commis
 commiserate
 commiseration
 commiserative
@@ -16687,6 +16687,8 @@ commissioning
 commissure
 commit
 commitment
+commitments
+commits
 committal
 committed
 committedness
@@ -18256,6 +18258,7 @@ corvette
 corvidae
 corvine
 corvus
+cory
 coryanthes
 corydalidae
 corydalis
@@ -18388,7 +18391,6 @@ cottonweed
 cottonwick
 cottonwood
 cottony
-cotts
 cottus
 cotula
 coturnix
@@ -32374,6 +32376,7 @@ gemmule
 gemmy
 gemonil
 gemot
+gemote
 gempylid
 gempylidae
 gempylus
@@ -33923,6 +33926,7 @@ grassless
 grasslike
 grassroots
 grassy
+grat
 grata
 grate
 grated
@@ -49309,6 +49313,7 @@ metacentre
 metacentric
 metacyesis
 metadata
+metage
 metagenesis
 metagrabolised
 metagrabolized
@@ -49374,7 +49379,6 @@ metchnikoff
 metchnikov
 mete
 meted
-meteg
 metel
 metempsychosis
 metencephalon
@@ -49435,7 +49439,6 @@ methylbenzene
 methyldopa
 methylene
 methylphenidate
-metic
 metical
 meticorten
 meticulosity
@@ -50641,8 +50644,6 @@ moisture
 moisturise
 moisturize
 moisty
-moits
-moity
 mojarra
 mojave
 mojo
@@ -51315,7 +51316,6 @@ mote
 moted
 motel
 motels
-moten
 motes
 motet
 motey
@@ -51344,7 +51344,6 @@ motional
 motionless
 motionlessly
 motionlessness
-motis
 motivate
 motivated
 motivating
@@ -53654,7 +53653,6 @@ nohow
 noil
 noils
 noily
-noint
 noir
 noire
 noirs
@@ -72721,6 +72719,7 @@ sitotroga
 sits
 sitsang
 sitta
+sitten
 sitter
 sittidae
 sitting
@@ -80509,7 +80508,6 @@ timidness
 timimoun
 timing
 timolol
-timon
 timorese
 timorous
 timorously
@@ -80584,11 +80582,9 @@ tinter
 tinting
 tintinnabulate
 tintinnabulation
-tinto
 tintometer
 tintoretto
 tints
-tinty
 tinware
 tiny
 tip
@@ -80670,6 +80666,7 @@ titlark
 title
 titled
 titles
+titmen
 titmouse
 titrate
 titration
@@ -80892,7 +80889,6 @@ tomes
 tomfool
 tomfoolery
 tomia
-tomin
 tomistoma
 tomme
 tommy
@@ -80904,6 +80900,7 @@ tomorrow
 tomos
 tomoz
 tompion
+toms
 tomtate
 tomtit
 tomtom
@@ -82371,7 +82368,6 @@ tshatshke
 tshiluba
 tshirt
 tsimshian
-tsine
 tsk
 tsked
 tsks
