@@ -1667,7 +1667,6 @@ agals
 agama
 agamemnon
 agamete
-agami
 agamic
 agamid
 agamidae
@@ -1677,6 +1676,7 @@ agamous
 agamy
 agapanthus
 agape
+agapeic
 agapornis
 agar
 agaric
@@ -1969,7 +1969,6 @@ ailuropoda
 ailuropodidae
 ailurus
 aim
-aimag
 aimak
 aimed
 aimer
@@ -2935,7 +2934,6 @@ aments
 amerce
 amercement
 amerciable
-america
 american
 americana
 americanisation
@@ -25949,6 +25947,7 @@ emergence
 emergency
 emergent
 emerging
+emerita
 emeritus
 emersion
 emerson
@@ -25959,13 +25958,13 @@ emesis
 emetic
 emetrol
 emeus
+emic
 emics
 emigrant
 emigrate
 emigration
 emigre
 emigree
-emile
 emilia
 eminence
 eminent
@@ -31937,6 +31936,7 @@ gametophore
 gametophyte
 gamey
 gamic
+gamier
 gamification
 gamin
 gamine
@@ -32816,7 +32816,6 @@ gills
 gilly
 gillyflower
 gilman
-gilmer
 gilt
 gilts
 gimbal
@@ -38742,6 +38741,7 @@ iliamna
 ilion
 ilium
 ilk
+ilka
 ill
 illampu
 illation
@@ -38812,6 +38812,7 @@ ilosone
 ilxx
 ilxxx
 image
+imager
 imagery
 images
 imaginable
@@ -43206,7 +43207,6 @@ klavern
 klavier
 klaxon
 klebsiella
-klee
 kleenex
 klein
 kleist
@@ -48860,7 +48860,6 @@ melic
 melicocca
 melicoccus
 melicytus
-melik
 melilot
 melilotus
 melinae
@@ -49151,7 +49150,6 @@ merger
 merginae
 merging
 mergus
-merica
 mericarp
 merida
 meridian
@@ -49379,7 +49377,6 @@ metchnikoff
 metchnikov
 mete
 meted
-metel
 metempsychosis
 metencephalon
 meteor
@@ -55317,7 +55314,6 @@ omission
 omissive
 omit
 omits
-omiya
 omlah
 ommastrephes
 ommatidium
@@ -58275,7 +58271,6 @@ peccadillo
 peccant
 peccary
 pechs
-pecia
 peck
 pecke
 pecked
@@ -58417,7 +58412,6 @@ pegged
 peggy
 peghs
 pegleg
-pegma
 pegmatite
 pegos
 pegs
@@ -58969,7 +58963,6 @@ permeation
 permeative
 permed
 permian
-permic
 permissibility
 permissible
 permissibly
@@ -67642,7 +67635,6 @@ rills
 rilly
 rim
 rimactane
-rimae
 rimbaud
 rime
 rimed
@@ -79221,6 +79213,7 @@ telly
 telnet
 telocentric
 teloi
+telome
 telomerase
 telomere
 telomic
@@ -81780,6 +81773,7 @@ trek
 trekker
 treks
 trellis
+trem
 trema
 trematoda
 trematode
@@ -87475,6 +87469,7 @@ wainscoted
 wainscoting
 wainscotting
 wainwright
+wair
 wairs
 waist
 waistband
@@ -87482,7 +87477,6 @@ waistcloth
 waistcoat
 waistline
 wait
-waite
 waited
 waiter
 waiting
@@ -89178,7 +89172,6 @@ wrapping
 wraps
 wrapt
 wrasse
-wrate
 wrath
 wrathful
 wrathfully
@@ -89466,7 +89459,6 @@ yages
 yagi
 yagis
 yah
-yahi
 yahoo
 yahve
 yahveh
@@ -89557,6 +89549,7 @@ yawed
 yawey
 yawl
 yawls
+yawmeter
 yawn
 yawned
 yawner

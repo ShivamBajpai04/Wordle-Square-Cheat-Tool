@@ -67,7 +67,11 @@ aflame
 afore
 afro
 afros
+aga
 again
+agamic
+agape
+agapeic
 age
 aged
 agee
@@ -104,12 +108,15 @@ ail
 ails
 aim
 aimed
+aimer
 aims
 ain
 ains
 aioli
+air
 airn
 airs
+airt
 ais
 aisle
 aisled
@@ -193,6 +200,8 @@ amen
 amens
 aments
 ami
+amia
+amice
 amici
 amid
 amie
@@ -290,11 +299,13 @@ areola
 areolar
 arepa
 ares
+arete
 aretes
 arfs
 argh
 arhat
 arhats
+aria
 arie
 aril
 arks
@@ -319,6 +330,7 @@ arse
 arses
 arson
 art
+artel
 arts
 arty
 arvo
@@ -342,6 +354,7 @@ atom
 atoned
 atonic
 atop
+atria
 ats
 attars
 attic
@@ -663,6 +676,7 @@ canst
 cant
 canto
 canyon
+cap
 cape
 caper
 caping
@@ -1448,7 +1462,10 @@ elusory
 eluting
 eme
 emend
+emerita
 emes
+emic
+emir
 emit
 emits
 emo
@@ -1792,9 +1809,11 @@ gam
 gama
 gamas
 game
+gamer
 games
 gamest
 gamic
+gamier
 gamin
 gamp
 gams
@@ -1872,6 +1891,7 @@ genus
 geode
 geodes
 gerah
+germ
 gesso
 gest
 gestate
@@ -1903,6 +1923,8 @@ gillie
 gillied
 gilt
 gilts
+gimel
+gimlet
 gimlets
 gimme
 gimp
@@ -2044,7 +2066,9 @@ hahs
 hail
 hailer
 hails
+hair
 haj
+hakim
 ham
 hame
 hames
@@ -2084,6 +2108,8 @@ haunt
 haut
 hauter
 havarti
+hawk
+haywire
 head
 headgear
 heady
@@ -2289,12 +2315,15 @@ ikat
 ilea
 ilex
 iliads
+ilka
 ill
 illude
 illudes
 illume
 illumed
 illumes
+image
+imager
 imagination
 imaginations
 immense
@@ -2347,6 +2376,7 @@ ion
 ionomer
 ions
 iota
+irate
 irater
 ire
 ired
@@ -2491,6 +2521,8 @@ kifs
 kill
 kilned
 kilo
+kilometer
+kilometre
 kilos
 kilt
 kilted
@@ -3079,6 +3111,7 @@ meou
 meow
 merde
 merdes
+merit
 merl
 merls
 mes
@@ -3096,10 +3129,12 @@ metal
 metals
 mete
 meted
+meter
 meth
 meting
 metis
 metol
+metre
 metro
 mew
 mewing
@@ -3124,6 +3159,7 @@ mil
 mile
 milf
 milk
+milky
 mill
 milo
 milpa
@@ -3608,6 +3644,7 @@ omen
 omened
 omens
 omer
+omerta
 ominous
 ominously
 omit
@@ -3723,12 +3760,16 @@ owse
 oxer
 oyer
 oyes
+pac
 paca
+pace
+pacer
 pacier
 pacing
 pads
 paean
 page
+pager
 paging
 pah
 paik
@@ -3798,6 +3839,7 @@ pawl
 pax
 pay
 pea
+peag
 peal
 pean
 peans
@@ -3820,6 +3862,7 @@ peek
 peel
 peer
 pees
+peg
 pegs
 peh
 pehs
@@ -4218,6 +4261,7 @@ read
 real
 really
 realty
+ream
 reap
 reaper
 reapproval
@@ -4235,6 +4279,7 @@ rebus
 rebuy
 rebuys
 rec
+recap
 recipe
 recit
 reciting
@@ -4279,6 +4324,7 @@ reg
 regave
 regent
 reges
+regma
 regnum
 regs
 rehire
@@ -4304,6 +4350,7 @@ relubricating
 reluct
 relucting
 rem
+remet
 rems
 renal
 rend
@@ -4349,7 +4396,10 @@ restrive
 rests
 ret
 retard
+rete
+retem
 retene
+retia
 retie
 retine
 retint
@@ -4373,6 +4423,7 @@ rezes
 rhea
 rho
 rhos
+ria
 rial
 rials
 rias
@@ -4395,6 +4446,7 @@ rigs
 rile
 riles
 rim
+rime
 rimple
 rimples
 rims
@@ -5288,6 +5340,7 @@ telex
 telic
 telnet
 teloi
+telome
 telomic
 tels
 ten
@@ -5496,6 +5549,7 @@ tracts
 tree
 tref
 trek
+trem
 trepid
 tres
 tress
@@ -5818,6 +5872,9 @@ waft
 wafted
 wafting
 wail
+wair
+wait
+waiter
 wake
 waked
 waken
@@ -5893,6 +5950,9 @@ whir
 whish
 whisper
 whisperer
+whit
+white
+whiter
 who
 whup
 whys
@@ -5939,6 +5999,8 @@ wot
 wrap
 wren
 wrier
+writ
+write
 wrote
 wrying
 wurst
@@ -5958,6 +6020,7 @@ yare
 yarn
 yautia
 yawl
+yawmeter
 yawp
 yea
 yean
