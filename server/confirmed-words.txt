@@ -67,6 +67,7 @@ aflame
 afore
 afro
 afros
+aft
 aga
 again
 agamic
@@ -260,6 +261,7 @@ anting
 antiquary
 antres
 ants
+anuric
 anymore
 anyon
 anyone
@@ -355,6 +357,7 @@ atoned
 atonic
 atop
 atria
+atrip
 ats
 attars
 attic
@@ -639,6 +642,8 @@ cadis
 cadre
 cadres
 cads
+caf
+cafe
 cafs
 cage
 cager
@@ -716,6 +721,7 @@ catting
 caul
 cauri
 cava
+caw
 cays
 cede
 cedes
@@ -740,6 +746,8 @@ cesti
 cete
 chad
 chadar
+chafe
+chafed
 chaffs
 chai
 chain
@@ -765,7 +773,10 @@ chasm
 chaste
 chat
 chats
+chaw
 chay
+cheat
+chef
 chem
 chemo
 chi
@@ -797,6 +808,7 @@ citing
 city
 civie
 clad
+clade
 clag
 clam
 clan
@@ -956,6 +968,8 @@ credo
 crew
 cria
 cried
+crip
+cripe
 crit
 croc
 crone
@@ -1013,6 +1027,7 @@ curses
 cursive
 curst
 curt
+curtly
 curving
 cusk
 cusks
@@ -1024,8 +1039,10 @@ cusses
 cust
 cut
 cute
+cutely
 cuter
 cutes
+cutey
 cutin
 cutins
 cuts
@@ -1043,6 +1060,7 @@ dacha
 dachas
 dad
 dads
+daft
 dah
 dahl
 dahs
@@ -1077,6 +1095,7 @@ das
 data
 date
 dato
+daw
 daws
 dawt
 daze
@@ -1085,13 +1104,17 @@ dead
 deaf
 deal
 deals
+dealt
 dean
 dear
 debility
 debit
 debs
+decaf
+decal
 deck
 decking
+declaw
 deco
 decor
 decos
@@ -1107,9 +1130,11 @@ deer
 dees
 deet
 def
+defat
 defers
 deffer
 deform
+deft
 defuser
 deign
 deigns
@@ -1403,6 +1428,7 @@ ebbs
 ebon
 eche
 echo
+eclat
 eco
 ecos
 ecus
@@ -1426,6 +1452,7 @@ eely
 eerie
 eew
 effort
+eft
 egad
 eger
 egest
@@ -1593,11 +1620,15 @@ exults
 eye
 eyed
 eyer
+eyne
 eyre
 eyres
 eyrie
 fabs
+face
+faced
 facia
+fact
 fad
 fade
 faded
@@ -1606,6 +1637,7 @@ fads
 fagin
 fagots
 fags
+fah
 fahs
 fain
 faint
@@ -1627,6 +1659,7 @@ fare
 farm
 faro
 faros
+fat
 fatal
 fate
 fated
@@ -1637,6 +1670,8 @@ fava
 feal
 fear
 fears
+feat
+fecal
 fed
 feds
 feeb
@@ -2069,6 +2104,7 @@ hails
 hair
 haj
 hakim
+halt
 ham
 hame
 hames
@@ -2108,6 +2144,7 @@ haunt
 haut
 hauter
 havarti
+haw
 hawk
 haywire
 head
@@ -2116,12 +2153,14 @@ heady
 heal
 hear
 hears
+heat
 heck
 heders
 hedge
 hedger
 heed
 heel
+heft
 hehs
 heigh
 heil
@@ -2137,6 +2176,7 @@ hemin
 hemins
 hems
 hen
+henley
 hens
 hent
 henting
@@ -2199,6 +2239,7 @@ hire
 hired
 hiree
 hirer
+hirple
 hirsel
 hirsle
 his
@@ -2480,6 +2521,9 @@ kef
 kefs
 kegs
 keir
+kelp
+kelpy
+kelt
 kemp
 ken
 kenaf
@@ -2502,6 +2546,7 @@ kerning
 keta
 ketas
 keto
+ketol
 ketotic
 khadi
 khaf
@@ -2588,6 +2633,8 @@ kytes
 label
 labile
 lac
+lace
+laced
 lacier
 lacing
 lacs
@@ -2643,6 +2690,8 @@ lased
 lases
 lash
 lat
+latch
+latched
 late
 later
 lath
@@ -2870,6 +2919,7 @@ losses
 lost
 lostness
 lot
+lota
 lotahs
 loth
 loti
@@ -3405,6 +3455,7 @@ nene
 nenes
 neon
 neonic
+nephric
 nerd
 nerds
 nerts
@@ -3916,6 +3967,8 @@ phat
 phatter
 phenom
 phenoms
+phenyl
+phenylketonuric
 pheo
 phew
 phi
@@ -3974,6 +4027,7 @@ pipe
 pipes
 pipet
 pipets
+pirn
 pis
 pish
 pisher
@@ -3998,6 +4052,7 @@ plea
 pleated
 pleb
 pleiad
+pleon
 plex
 plie
 plier
@@ -4096,6 +4151,7 @@ protyl
 protyle
 prove
 proves
+pruta
 psi
 psst
 ptui
@@ -4461,6 +4517,7 @@ rinses
 rip
 ripe
 ripely
+ripen
 riper
 ripes
 ripper
@@ -5220,6 +5277,7 @@ tacans
 tace
 taces
 tach
+tache
 tacit
 taco
 tad
@@ -5238,6 +5296,7 @@ tajes
 tala
 talar
 talc
+talced
 tale
 taler
 talers
@@ -5285,6 +5344,7 @@ taurines
 taus
 taut
 tavs
+taw
 tawers
 taws
 tawsed
@@ -5564,6 +5624,10 @@ trim
 trio
 triode
 triol
+trip
+tripe
+triple
+triply
 triter
 trocar
 trod
@@ -5627,6 +5691,7 @@ tusk
 tuts
 tutting
 tux
+twa
 twae
 twas
 twos
@@ -5691,6 +5756,8 @@ unpair
 unpeg
 unpegs
 unpin
+unrip
+unripe
 uns
 unsee
 unseen
@@ -5864,9 +5931,12 @@ volts
 voluminous
 voluminously
 vuln
+wad
+wade
 wadmal
 wadmel
 wadset
+wae
 waes
 waft
 wafted
@@ -5895,6 +5965,9 @@ wany
 wap
 wars
 wast
+wat
+watch
+watched
 wauk
 wauked
 waul
@@ -6027,6 +6100,7 @@ yean
 yeas
 yeh
 yeld
+yelk
 yelp
 yen
 yeoman

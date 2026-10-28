@@ -11950,6 +11950,7 @@ caesium
 caespitose
 caesura
 caesural
+caf
 cafe
 cafes
 cafeteria
@@ -19020,6 +19021,7 @@ crinoline
 crins
 criollo
 crios
+crip
 cripe
 cripple
 crippled
@@ -28346,6 +28348,7 @@ eyetooth
 eyewash
 eyewitness
 eying
+eyne
 eyra
 eyras
 eyre
@@ -28904,7 +28907,6 @@ favoured
 favourite
 favouritism
 favus
-faw
 fawkes
 fawn
 fawner
@@ -36259,6 +36261,7 @@ hendiadys
 hendrix
 henge
 henhouse
+henley
 henna
 henny
 henpecked
@@ -36801,6 +36804,7 @@ hires
 hiring
 hirohito
 hiroshima
+hirple
 hirschfeld
 hirschsprung
 hirsel
@@ -43628,7 +43632,6 @@ kyes
 kylie
 kylin
 kylix
-kyloe
 kymograph
 kynds
 kyoto
@@ -44278,6 +44281,7 @@ lat
 latakia
 latanier
 latch
+latched
 latchet
 latchkey
 latchstring
@@ -52855,7 +52859,6 @@ negroid
 negs
 negus
 nehemiah
-nehru
 neif
 neifs
 neigh
@@ -52977,6 +52980,7 @@ nephology
 nephoscope
 nephralgia
 nephrectomy
+nephric
 nephrite
 nephritic
 nephritis
@@ -59407,6 +59411,7 @@ phenotypic
 phenotypical
 phensuximide
 phentolamine
+phenyl
 phenylacetamide
 phenylalanine
 phenylamine
@@ -59414,6 +59419,7 @@ phenylbutazone
 phenylephrine
 phenylethylene
 phenylketonuria
+phenylketonuric
 phenyltoloxamine
 phenytoin
 pheo
@@ -60240,6 +60246,7 @@ piratical
 piratically
 pirks
 pirls
+pirn
 pirns
 pirog
 pirogi
@@ -60804,7 +60811,6 @@ plinth
 pliocene
 plips
 plisse
-ploat
 ploceidae
 ploceus
 plock
@@ -63400,8 +63406,6 @@ prunellidae
 pruner
 prunes
 pruning
-pruno
-prunt
 prunus
 pruny
 prurience
@@ -78419,6 +78423,7 @@ talaria
 talas
 talbot
 talc
+talced
 talcs
 talcum
 talcy
@@ -78935,7 +78940,6 @@ tazza
 tazze
 tbilisi
 tbit
-tchad
 tchaikovsky
 tchotchke
 tchotchkeleh
@@ -82074,6 +82078,7 @@ triplicity
 tripling
 triplochiton
 triploid
+triply
 tripod
 tripoli
 tripos
@@ -82125,7 +82130,6 @@ triviality
 trivialize
 trivially
 trivium
-trna
 trnc
 troad
 troak
@@ -82638,7 +82642,6 @@ turnt
 turntable
 turnup
 turnverein
-turp
 turpentine
 turpin
 turpitude
@@ -83228,7 +83231,6 @@ unassumingly
 unassumingness
 unassured
 unasterisked
-unate
 unattached
 unattackable
 unattainability
@@ -87767,6 +87769,7 @@ watap
 watch
 watchband
 watchdog
+watched
 watcher
 watchful
 watchfully
@@ -89602,6 +89605,7 @@ yeggs
 yeh
 yekaterinoslav
 yeld
+yelk
 yelks
 yell
 yella
