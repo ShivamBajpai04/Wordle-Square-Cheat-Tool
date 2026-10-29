@@ -997,7 +997,6 @@ adactylia
 adactylism
 adactylous
 adactyly
-adad
 adage
 adagio
 adalia
@@ -1246,7 +1245,6 @@ adoxography
 adoze
 adpressed
 adps
-adrad
 adraw
 adrenal
 adrenalectomy
@@ -1623,7 +1621,6 @@ afrikaans
 afrikander
 afrikaner
 afrit
-afrl
 afro
 afroasiatic
 afrocarpus
@@ -4231,10 +4228,8 @@ apace
 apache
 apadana
 apage
-apaid
 apalachicola
 apanage
-apar
 apart
 apartheid
 apartment
@@ -4694,7 +4689,6 @@ arachnidian
 arachnoid
 arachnophobia
 arafat
-aragon
 aragonite
 araguaia
 araguaya
@@ -5097,7 +5091,6 @@ arkansan
 arkansas
 arkansawyer
 arks
-arled
 arles
 arlington
 arm
@@ -7861,7 +7854,6 @@ becomingly
 becomingness
 becquerel
 bed
-beda
 bedad
 bedamn
 bedaub
@@ -8071,9 +8063,7 @@ bekah
 bel
 belabor
 belabour
-belah
 belamcanda
-belar
 belarus
 belarusian
 belated
@@ -9630,6 +9620,7 @@ boabs
 boann
 boar
 board
+boarded
 boarder
 boarding
 boardinghouse
@@ -20138,11 +20129,10 @@ dactylorhiza
 dactyloscopidae
 dad
 dada
-dadah
 dadaism
 dadas
+daddle
 daddy
-dadla
 dado
 dados
 dads
@@ -20167,8 +20157,6 @@ dagga
 dagger
 daggerboard
 daggy
-dago
-dagon
 dagos
 daguerre
 daguerreotype
@@ -20214,7 +20202,6 @@ dal
 dalasi
 dalbergia
 dale
-daled
 dalek
 dales
 dalesman
@@ -20349,7 +20336,6 @@ dappy
 daps
 dapsang
 dapsone
-daraf
 darbs
 darcy
 dardan
@@ -20396,7 +20382,6 @@ darnel
 darner
 darning
 darns
-darpa
 darre
 darrow
 darsana
@@ -20648,6 +20633,7 @@ debilitative
 debility
 debit
 debitor
+deboard
 debonair
 debonaire
 debone
@@ -21071,6 +21057,7 @@ deformation
 deformational
 deformed
 deformity
+defrag
 defraud
 defrauder
 defray
@@ -25297,6 +25284,7 @@ eddy
 edecrin
 edelweiss
 edema
+edemas
 edematous
 edental
 edentata
@@ -28697,6 +28685,7 @@ farcicality
 farcically
 farcy
 fard
+farded
 fardel
 fards
 fare
@@ -28710,6 +28699,7 @@ fargo
 farina
 farinaceous
 farkleberry
+farl
 farle
 farls
 farm
@@ -31724,6 +31714,7 @@ gadget
 gadgeteer
 gadgetry
 gadgy
+gadi
 gadid
 gadidae
 gadiformes
@@ -32043,7 +32034,6 @@ garbs
 garcinia
 garda
 gardant
-garde
 garden
 gardener
 gardenia
@@ -32759,7 +32749,6 @@ gibs
 gibson
 gibus
 gid
-gidar
 giddily
 giddiness
 giddy
@@ -44167,6 +44156,7 @@ larcenous
 larceny
 larch
 lard
+larded
 larder
 lardizabala
 lardizabalaceae
@@ -47507,6 +47497,7 @@ malraux
 malt
 malta
 malted
+malteds
 maltese
 maltha
 malthus
@@ -56917,6 +56908,7 @@ padded
 padder
 padding
 paddle
+paddleboard
 paddlefish
 paddler
 paddlewheel
@@ -56926,6 +56918,7 @@ paddy
 paddymelon
 pademelon
 paderewski
+padi
 padis
 padle
 padlock
@@ -57470,6 +57463,7 @@ parachutist
 paraclete
 paracosm
 parade
+paraded
 parader
 paradiddle
 paradigm
@@ -57610,6 +57604,7 @@ parchisi
 parchment
 parcs
 pard
+pardah
 pardi
 pardner
 pardon
@@ -57698,6 +57693,7 @@ parky
 parlance
 parlay
 parle
+parled
 parley
 parliament
 parliamentarian
@@ -78954,9 +78950,6 @@ teachership
 teaching
 teacup
 teacupful
-teade
-teads
-teaed
 teahouse
 teak
 teakettle

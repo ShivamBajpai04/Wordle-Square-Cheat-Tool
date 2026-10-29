@@ -42,7 +42,9 @@ acting
 acts
 aculei
 add
+addle
 adds
+adeem
 adman
 ado
 ados
@@ -93,6 +95,7 @@ agmas
 agnatic
 agnation
 agnations
+agon
 agro
 ags
 ahead
@@ -289,6 +292,7 @@ arc
 arcing
 arco
 arcs
+ardeb
 are
 area
 areae
@@ -443,6 +447,7 @@ bean
 bear
 bears
 beat
+bedad
 bedew
 beds
 bedu
@@ -453,6 +458,7 @@ beer
 bees
 beet
 beezer
+befog
 beget
 begin
 begs
@@ -528,6 +534,9 @@ blouse
 blouses
 blur
 boa
+boar
+board
+boarded
 boas
 boat
 bod
@@ -1059,6 +1068,8 @@ daces
 dacha
 dachas
 dad
+dada
+daddle
 dads
 daft
 dah
@@ -1109,6 +1120,7 @@ dean
 dear
 debility
 debit
+deboard
 debs
 decaf
 decal
@@ -1118,6 +1130,7 @@ declaw
 deco
 decor
 decos
+dedal
 deductions
 deducts
 dee
@@ -1133,7 +1146,9 @@ def
 defat
 defers
 deffer
+defog
 deform
+defrag
 deft
 defuser
 deign
@@ -1329,6 +1344,8 @@ dow
 dowie
 dracena
 drafters
+drag
+dragon
 drain
 drat
 drats
@@ -1435,10 +1452,12 @@ ecus
 eddo
 eddoes
 edema
+edemas
 edge
 edger
 edh
 edit
+eds
 educing
 eduction
 eductions
@@ -1654,8 +1673,13 @@ fane
 fano
 fanos
 fanums
+farad
 fard
+farded
+fardel
 fare
+farl
+farle
 farm
 faro
 faros
@@ -1796,6 +1820,7 @@ fowl
 foys
 frae
 frag
+frap
 frat
 freers
 frere
@@ -1827,6 +1852,7 @@ gab
 gabion
 gabs
 gach
+gadi
 gae
 gaed
 gaen
@@ -1863,6 +1889,7 @@ gaper
 gaping
 gaps
 gar
+garda
 garni
 garote
 garrets
@@ -2013,6 +2040,8 @@ gnomic
 gnoses
 gnu
 gnus
+goad
+goaded
 godded
 goddess
 godets
@@ -2085,6 +2114,7 @@ habu
 had
 hadal
 hade
+haded
 hades
 hae
 haed
@@ -2104,6 +2134,8 @@ hails
 hair
 haj
 hakim
+hale
+haled
 halt
 ham
 hame
@@ -2641,6 +2673,7 @@ lacs
 lactonic
 lad
 lade
+laded
 laden
 ladron
 lads
@@ -2658,6 +2691,7 @@ lalled
 lam
 lama
 lame
+lamed
 lameds
 lamella
 lamellas
@@ -2674,6 +2708,7 @@ lank
 lanky
 lap
 lard
+larded
 laree
 larees
 lares
@@ -2693,6 +2728,7 @@ lat
 latch
 latched
 late
+lated
 later
 lath
 lathe
@@ -3035,6 +3071,8 @@ malled
 malm
 maloti
 malt
+malted
+malteds
 maltol
 maltols
 malts
@@ -3104,7 +3142,9 @@ maze
 mazes
 maziest
 mead
+meads
 meal
+meals
 mean
 meanness
 means
@@ -3116,6 +3156,7 @@ mech
 mechs
 med
 medal
+medals
 medias
 meds
 medulla
@@ -3817,12 +3858,17 @@ pace
 pacer
 pacier
 pacing
+paddle
+paddleboard
+padi
+padle
 pads
 paean
 page
 pager
 paging
 pah
+paid
 paik
 pail
 pails
@@ -3833,6 +3879,7 @@ pair
 pak
 pal
 pale
+paled
 pali
 pall
 palm
@@ -3855,8 +3902,13 @@ pap
 paper
 par
 para
+parade
+paraded
 parae
+paragon
 pard
+pardah
+pardi
 pare
 pareira
 paren
@@ -3865,6 +3917,8 @@ parer
 pares
 pareses
 paring
+parle
+parled
 parol
 pars
 parse
@@ -4223,6 +4277,7 @@ race
 races
 rack
 rad
+raddle
 radio
 rads
 raff
@@ -4667,6 +4722,8 @@ sall
 salmi
 salp
 sals
+salt
+salted
 salume
 salumi
 same
@@ -4695,6 +4752,7 @@ sasin
 sass
 sat
 sate
+sated
 satem
 sati
 sau
@@ -4702,6 +4760,7 @@ saul
 sauna
 savarins
 saws
+sax
 saxman
 sayest
 says
@@ -4993,6 +5052,7 @@ slap
 slat
 slatch
 slate
+slated
 slater
 slather
 sled
@@ -5355,6 +5415,7 @@ taxied
 tayra
 tea
 teal
+teals
 team
 teams
 teapoy
