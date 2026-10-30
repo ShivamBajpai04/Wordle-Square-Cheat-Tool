@@ -242,6 +242,8 @@ anis
 ankh
 anoa
 anoas
+anode
+anodes
 anole
 anoles
 anon
@@ -265,6 +267,7 @@ antiquary
 antres
 ants
 anuric
+anus
 anymore
 anyon
 anyone
@@ -353,6 +356,7 @@ assess
 ate
 ates
 atigi
+atilt
 atingle
 atma
 atman
@@ -363,6 +367,7 @@ atop
 atria
 atrip
 ats
+att
 attars
 attic
 atting
@@ -870,6 +875,8 @@ coded
 codein
 coden
 coder
+codes
+cods
 coed
 coeds
 coft
@@ -925,6 +932,9 @@ cone
 coned
 cones
 coney
+confuse
+confused
+confusedness
 conge
 coni
 conic
@@ -937,8 +947,10 @@ conky
 conn
 conned
 cons
+conus
 cony
 coo
+cooed
 cool
 cooly
 coon
@@ -955,6 +967,7 @@ corned
 corner
 corny
 cory
+coss
 cote
 cots
 cove
@@ -1150,6 +1163,7 @@ defog
 deform
 defrag
 deft
+defund
 defuser
 deign
 deigns
@@ -1308,6 +1322,7 @@ don
 dona
 done
 donee
+donne
 donor
 dons
 donsy
@@ -1670,6 +1685,8 @@ familist
 family
 fams
 fane
+fanes
+fanned
 fano
 fanos
 fanums
@@ -1696,6 +1713,7 @@ fear
 fears
 feat
 fecal
+fecund
 fed
 feds
 feeb
@@ -1710,8 +1728,10 @@ fem
 feme
 fen
 fend
+fends
 fens
 feod
+feods
 fer
 fere
 ferly
@@ -1834,13 +1854,16 @@ frow
 fruited
 fruiter
 fryer
+fucose
 fuds
 fuel
 fugs
 fund
 fundi
 funding
+funds
 fungos
+funned
 funs
 fur
 furanes
@@ -1848,6 +1871,7 @@ furl
 furls
 furs
 fuse
+fused
 gab
 gabion
 gabs
@@ -2469,6 +2493,7 @@ issue
 issued
 issues
 istle
+italic
 item
 itemise
 items
@@ -2737,6 +2762,7 @@ lathers
 lathes
 lati
 lats
+latte
 latu
 laud
 lauds
@@ -2889,6 +2915,7 @@ lis
 list
 listing
 lists
+lit
 lite
 lites
 litest
@@ -3249,6 +3276,7 @@ mihrab
 mil
 mile
 milf
+militate
 milk
 milky
 mill
@@ -3495,6 +3523,7 @@ nemas
 nene
 nenes
 neon
+neoned
 neonic
 nephric
 nerd
@@ -3595,6 +3624,7 @@ noob
 noon
 noonday
 noose
+noosed
 nooser
 noosers
 nope
@@ -3680,6 +3710,7 @@ oda
 odah
 odas
 odd
+oddness
 odds
 ode
 odea
@@ -4781,6 +4812,10 @@ scarring
 scars
 scat
 scaur
+scena
+scend
+scends
+scone
 scud
 scut
 scute
@@ -4798,7 +4833,11 @@ seat
 seats
 sec
 second
+seconde
+secondes
+seconds
 sect
+secund
 securitize
 sedum
 see
@@ -5118,6 +5157,7 @@ soars
 soave
 sober
 sobs
+soces
 sod
 soda
 sods
@@ -5147,7 +5187,10 @@ some
 soms
 son
 sonar
+sonde
+sondes
 sone
+sones
 song
 songs
 sonly
@@ -5278,6 +5321,8 @@ suck
 sucre
 sue
 sued
+suede
+suedes
 suer
 sues
 suet
@@ -5297,6 +5342,8 @@ sun
 sung
 sunk
 sunlit
+sunn
+sunned
 suns
 sup
 supe
@@ -5529,6 +5576,7 @@ thro
 thru
 tian
 tibias
+tic
 tical
 tics
 tide
@@ -5539,6 +5587,7 @@ tier
 tiers
 ties
 tigons
+til
 tile
 tiler
 till
@@ -5796,6 +5845,9 @@ unde
 undee
 under
 undo
+undoes
+undos
+unfed
 unhasp
 uni
 unis
@@ -6198,6 +6250,8 @@ zas
 zeda
 zeds
 zees
+zendo
+zendos
 zest
 zeta
 zetas

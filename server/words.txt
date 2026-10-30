@@ -3770,6 +3770,7 @@ anoas
 anobiidae
 anodal
 anode
+anodes
 anodic
 anodise
 anodize
@@ -15334,7 +15335,6 @@ cistothorus
 cistron
 cists
 cistus
-cit
 citadel
 citation
 cite
@@ -16140,6 +16140,7 @@ coding
 codling
 codon
 codpiece
+cods
 codswallop
 coed
 coeds
@@ -21070,9 +21071,9 @@ deft
 defter
 deftly
 deftness
-defun
 defunct
 defunctness
+defund
 defuse
 defuser
 defusing
@@ -23616,7 +23617,6 @@ docks
 dockside
 dockworker
 dockyard
-docos
 docs
 doctor
 doctoral
@@ -23635,7 +23635,6 @@ documental
 documentary
 documentation
 documented
-docus
 dodder
 dodderer
 doddering
@@ -23864,7 +23863,6 @@ donuts
 doob
 doobie
 doobs
-dooce
 doodad
 doodia
 doodle
@@ -31395,6 +31393,7 @@ fucking
 fucks
 fuckup
 fucoid
+fucose
 fucus
 fud
 fuddle
@@ -31509,7 +31508,6 @@ functionally
 functionary
 functioning
 fund
-funda
 fundament
 fundamental
 fundamentalism
@@ -31522,7 +31520,6 @@ funday
 funded
 fundi
 funding
-fundo
 fundraise
 fundraiser
 funds
@@ -31558,6 +31555,7 @@ funkaceae
 funkiness
 funks
 funky
+funned
 funnel
 funnies
 funnily
@@ -41420,7 +41418,6 @@ istle
 isuprel
 isuridae
 isurus
-ita
 italia
 italian
 italianness
@@ -49477,7 +49474,6 @@ metroptosis
 metrorrhagia
 metrosexual
 metroxylon
-metta
 metternich
 mettle
 mettlesome
@@ -50407,7 +50403,6 @@ mitrewort
 mitry
 mitsvah
 mitt
-mitta
 mittelschmerz
 mitten
 mitterrand
@@ -52932,6 +52927,7 @@ neon
 neonatal
 neonate
 neonatology
+neoned
 neonic
 neons
 neopallium
@@ -54082,6 +54078,7 @@ noonday
 noons
 noontide
 noose
+noosed
 nooser
 noosers
 nootka
@@ -54492,7 +54489,6 @@ nurturant
 nurture
 nurtz
 nus
-nused
 nuses
 nusku
 nut
@@ -54982,7 +54978,6 @@ odourless
 odovacar
 odovakar
 ods
-odsos
 odums
 odyl
 odyle
@@ -69833,6 +69828,7 @@ scena
 scenario
 scenarist
 scend
+scends
 scene
 scenery
 scenes
@@ -70082,7 +70078,6 @@ sclim
 sclk
 scobe
 scody
-scoes
 scoff
 scoffer
 scoffing
@@ -70541,11 +70536,14 @@ seconal
 second
 secondarily
 secondary
+seconde
 seconder
+secondes
 secondhand
 secondly
 secondment
 secondo
+seconds
 secotiaceae
 secpar
 secrecy
@@ -70591,6 +70589,7 @@ secularism
 secularist
 secularization
 secularize
+secund
 secundigravida
 secure
 securely
@@ -70607,7 +70606,6 @@ sedation
 sedative
 sedentary
 seder
-sedes
 sedge
 sedgelike
 sedgy
@@ -74053,6 +74051,7 @@ sonata
 sonatina
 sonchus
 sonde
+sondes
 sondheim
 sone
 sones
@@ -74070,7 +74069,6 @@ songwriter
 sonic
 sonics
 sonly
-sonne
 sonnet
 sonneteer
 sonny
@@ -76971,6 +76969,7 @@ sudsy
 sue
 sued
 suede
+suedes
 suent
 suer
 suers
@@ -77214,8 +77213,10 @@ sunlamp
 sunless
 sunlight
 sunlit
+sunn
 sunna
 sunnah
+sunned
 sunni
 sunnily
 sunniness
@@ -78817,7 +78818,6 @@ tate
 tater
 tates
 taths
-tati
 tatie
 tatin
 tatouay
@@ -83831,6 +83831,7 @@ undoable
 undock
 undocumented
 undoer
+undoes
 undogmatic
 undogmatical
 undoing
@@ -83926,7 +83927,6 @@ unerasable
 unerect
 unerring
 unerringly
-unesco
 unessential
 unestablished
 unethical
@@ -89984,8 +89984,8 @@ zeitgeist
 zek
 zel
 zenaidura
-zend
 zendo
+zendos
 zenerdiode
 zenith
 zenithal
