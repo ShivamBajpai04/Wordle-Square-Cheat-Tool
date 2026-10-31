@@ -354,6 +354,7 @@ ass
 asses
 assess
 ate
+atechnic
 ates
 atigi
 atilt
@@ -666,6 +667,7 @@ caging
 caid
 cain
 cal
+caleche
 calo
 cals
 cam
@@ -725,7 +727,9 @@ casini
 cast
 caste
 cat
+catch
 cate
+cater
 cates
 cath
 caths
@@ -737,6 +741,8 @@ cauri
 cava
 caw
 cays
+ceca
+cecal
 cede
 cedes
 cedi
@@ -904,6 +910,7 @@ colly
 colon
 cols
 colt
+colter
 colure
 coly
 coma
@@ -987,6 +994,7 @@ creates
 creche
 cred
 credo
+creole
 crew
 cria
 cried
@@ -1205,6 +1213,7 @@ dere
 deshi
 desi
 desk
+deter
 dev
 deva
 devest
@@ -1292,6 +1301,7 @@ dodge
 dodged
 dodges
 doe
+doer
 does
 doest
 doge
@@ -1344,7 +1354,9 @@ doss
 dossel
 dosses
 dot
+dotal
 dote
+doter
 doth
 double
 doubleness
@@ -1451,6 +1463,7 @@ east
 eat
 eatable
 eatables
+eater
 eath
 eating
 eats
@@ -1500,8 +1513,11 @@ eked
 ekes
 eking
 ekka
+elain
 elan
 eland
+elate
+elater
 eld
 eldress
 elds
@@ -1557,6 +1573,7 @@ ensued
 entity
 enuf
 envier
+eocene
 eon
 eonism
 eons
@@ -1606,6 +1623,7 @@ estrual
 ests
 eta
 etas
+etch
 etcs
 eth
 ethanols
@@ -1712,7 +1730,9 @@ feal
 fear
 fears
 feat
+feater
 fecal
+fecial
 fecund
 fed
 feds
@@ -1724,6 +1744,7 @@ feet
 feh
 fehs
 feign
+felt
 fem
 feme
 fen
@@ -1740,6 +1761,8 @@ ferry
 ferula
 fes
 feta
+fetal
+fetch
 fete
 feted
 fetid
@@ -1754,7 +1777,10 @@ fiance
 fiancee
 fiances
 fiar
+fiat
+fice
 fico
+field
 fiftieths
 figs
 fila
@@ -1772,6 +1798,7 @@ finalis
 finalism
 finalist
 finality
+fine
 finial
 finis
 finito
@@ -1976,6 +2003,7 @@ genua
 genus
 geode
 geodes
+geotechnical
 gerah
 germ
 gesso
@@ -2217,6 +2245,7 @@ hedger
 heed
 heel
 heft
+hefter
 hehs
 heigh
 heil
@@ -2447,6 +2476,8 @@ induna
 infamy
 infare
 infares
+infect
+infecter
 inferred
 inferrer
 infers
@@ -2468,6 +2499,8 @@ inti
 into
 inure
 inured
+invert
+inverted
 iodic
 ion
 ionomer
@@ -2754,6 +2787,7 @@ latch
 latched
 late
 lated
+laten
 later
 lath
 lathe
@@ -2794,6 +2828,7 @@ lease
 leaser
 leases
 leashes
+lech
 led
 lede
 lee
@@ -2801,6 +2836,8 @@ leek
 leer
 lees
 leet
+left
+lefter
 leger
 leges
 legibility
@@ -2835,6 +2872,7 @@ lessen
 lessens
 lesser
 let
+letch
 lets
 letup
 leu
@@ -2935,6 +2973,8 @@ loca
 locating
 locative
 locavore
+loch
+loche
 loci
 locie
 locing
@@ -3504,6 +3544,7 @@ neap
 near
 nears
 neat
+neater
 neath
 neats
 neck
@@ -3749,8 +3790,12 @@ okra
 oldy
 ole
 olea
+oleate
+olefin
+olefine
 oleic
 olein
+oleine
 oleo
 oleos
 oles
@@ -4431,11 +4476,14 @@ recoin
 recon
 recs
 recta
+rectal
 recti
+recto
 red
 redate
 redates
 redd
+rede
 reding
 redo
 redock
@@ -4447,6 +4495,7 @@ reds
 reducing
 ree
 reed
+reedit
 reef
 reefed
 reefers
@@ -4537,7 +4586,9 @@ restive
 restrive
 rests
 ret
+retain
 retard
+retch
 rete
 retem
 retene
@@ -4545,6 +4596,7 @@ retia
 retie
 retine
 retint
+retold
 retore
 retorn
 retro
@@ -5476,6 +5528,9 @@ teasel
 teat
 teats
 tec
+tech
+technic
+technical
 tecs
 tectite
 ted
@@ -5516,6 +5571,7 @@ tenant
 tenants
 tend
 tending
+tenia
 tens
 tenser
 tent
@@ -5524,6 +5580,8 @@ tentier
 tents
 tenuti
 tepid
+terce
+tercel
 term
 termly
 terms
@@ -5601,6 +5659,7 @@ times
 tin
 tincal
 tincts
+tinder
 tine
 tines
 ting
@@ -5655,6 +5714,7 @@ toits
 tola
 tolan
 tolane
+told
 tole
 toll
 tolls
@@ -5717,6 +5777,7 @@ toyo
 toys
 tracts
 tree
+treed
 tref
 trek
 trem

@@ -619,7 +619,6 @@ aced
 acedia
 acedy
 acellular
-acene
 acentric
 acephalia
 acephalism
@@ -2262,7 +2261,6 @@ alec
 alecost
 alecs
 alectis
-alecto
 alectoria
 alectoris
 alectura
@@ -2270,7 +2268,6 @@ alee
 aleem
 alef
 alefs
-aleft
 alehoof
 alehouse
 alembic
@@ -5818,6 +5815,7 @@ ataxic
 ataxy
 atayalic
 ate
+atechnic
 atelectasis
 ateleiosis
 ateleiotic
@@ -13544,6 +13542,7 @@ cebuan
 cebuano
 cebuella
 cebus
+ceca
 cecal
 cecidomyidae
 cecity
@@ -18944,7 +18943,6 @@ crested
 crestfallen
 cretaceous
 cretan
-crete
 cretin
 cretinism
 cretinous
@@ -21737,7 +21735,6 @@ derringer
 derris
 derro
 derry
-derv
 dervish
 dervs
 desacralize
@@ -25206,7 +25203,6 @@ eclogue
 eco
 ecobabble
 ecofriendly
-ecole
 ecologic
 ecological
 ecologically
@@ -28939,6 +28935,7 @@ feasibly
 feast
 feasting
 feat
+feater
 feather
 featherbed
 featherbedding
@@ -28970,6 +28967,7 @@ fecalith
 feces
 fechner
 fecht
+fecial
 fecit
 feckless
 fecklessly
@@ -29356,7 +29354,6 @@ fibrosity
 fibrous
 fibrousness
 fibula
-fica
 fice
 fices
 fiche
@@ -32571,6 +32568,7 @@ geostationary
 geostrategic
 geostrategy
 geosynchronous
+geotechnical
 geothermal
 geothermally
 geothermic
@@ -34008,10 +34006,8 @@ greaves
 grebe
 grebes
 grebo
-grece
 grecian
 grecism
-greco
 gree
 greece
 greed
@@ -35959,7 +35955,7 @@ heeltip
 heerd
 heeze
 heft
-hefte
+hefter
 heftiness
 hefts
 hefty
@@ -39932,6 +39928,7 @@ infeasibility
 infeasible
 infect
 infected
+infecter
 infection
 infectious
 infectiously
@@ -40972,7 +40969,6 @@ inventiveness
 inventor
 inventory
 inventorying
-inver
 inverse
 inversely
 inversion
@@ -43708,7 +43704,6 @@ lacertidae
 lacertilia
 lacertilian
 laces
-lacet
 lacewing
 lacewood
 lacework
@@ -44612,7 +44607,6 @@ leccy
 lech
 lechanorales
 lechatelierite
-leche
 lecher
 lecherous
 lecherousness
@@ -44660,7 +44654,7 @@ leeway
 lefebvrism
 leflunomide
 left
-lefte
+lefter
 leftfield
 lefthander
 leftish
@@ -52689,10 +52683,10 @@ nearsighted
 nearsightedness
 neat
 neaten
+neater
 neath
 neatly
 neatness
-neato
 neats
 neb
 nebbech
@@ -52802,7 +52796,6 @@ nefariously
 nefariousness
 nefazodone
 nefertiti
-nefie
 nefud
 neg
 negaprion
@@ -55168,7 +55161,6 @@ okra
 okras
 okrug
 oktoberfest
-olate
 old
 olden
 oldenburg
@@ -55198,11 +55190,13 @@ oleandra
 oleandraceae
 olearia
 oleaster
+oleate
 olecranon
 olefin
 olefine
 oleic
 olein
+oleine
 oleo
 oleography
 oleomargarine
@@ -65975,6 +65969,7 @@ reecho
 reechoing
 reed
 reedbird
+reedit
 reedlike
 reedmace
 reeds
@@ -67054,6 +67049,7 @@ retired
 retiree
 retirement
 retiring
+retold
 retool
 retore
 retorn
@@ -78335,7 +78331,6 @@ tahrs
 taichi
 taichichuan
 taichung
-taif
 taiga
 taigs
 taiko
@@ -79006,6 +79001,7 @@ tec
 tech
 techie
 technetium
+technic
 technical
 technicality
 technically
@@ -80814,6 +80810,7 @@ tolazoline
 tolbooth
 tolbukhin
 tolbutamide
+told
 tole
 tolectin
 toled
@@ -82836,7 +82833,6 @@ tympanum
 tymps
 tyndale
 tyndall
-tynde
 tyne
 tyned
 tynes
