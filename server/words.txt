@@ -219,10 +219,8 @@ abominate
 abomination
 abominator
 aboon
-abor
 aborad
 aboral
-abord
 abore
 aboriginal
 aborigine
@@ -7294,7 +7292,6 @@ barde
 bardeen
 bardes
 bardic
-bardo
 bardolatry
 bards
 bardy
@@ -10064,7 +10061,6 @@ bop
 bopeep
 boppy
 bops
-bor
 bora
 boracic
 borage
@@ -10086,7 +10082,6 @@ bordered
 borderer
 borderland
 borderline
-bords
 bore
 boreal
 boreas
@@ -10929,7 +10924,6 @@ brock
 brocket
 brockhouse
 brodiaea
-brods
 brogan
 brogh
 broglie
@@ -11233,6 +11227,7 @@ budgetary
 budgie
 budis
 budorcas
+buds
 bueno
 buff
 buffa
@@ -23593,6 +23588,7 @@ dobie
 dobies
 dobla
 dobra
+dobras
 dobrich
 dobro
 dobson
@@ -23923,7 +23919,6 @@ dopy
 dor
 dorad
 dorado
-dorba
 dorbeetle
 dore
 doree
@@ -24572,6 +24567,7 @@ dubliner
 dubnium
 dubonnet
 dubrovnik
+dubs
 dubstep
 dubuque
 dubya
@@ -25779,7 +25775,6 @@ elope
 eloped
 elopement
 elopidae
-elops
 eloquence
 eloquent
 eloquently
@@ -31690,7 +31685,6 @@ gable
 gabled
 gabon
 gabonese
-gabor
 gaboriau
 gaborone
 gabriel
@@ -32021,7 +32015,6 @@ garbe
 garbed
 garble
 garbled
-garbo
 garboard
 garboil
 garbology
@@ -33930,7 +33923,6 @@ grating
 gratingly
 gratis
 gratitude
-grats
 gratuitous
 gratuitously
 gratuity
@@ -37033,6 +37025,7 @@ holly
 hollygrape
 hollyhock
 hollywood
+holm
 holme
 holmes
 holmium
@@ -37067,6 +37060,7 @@ holothuridae
 holothuroidea
 holotype
 holozoic
+holp
 hols
 holstein
 holster
@@ -37093,7 +37087,6 @@ homed
 homefolk
 homegirl
 homegrown
-homel
 homeland
 homeless
 homelessness
@@ -37130,6 +37123,7 @@ homeward
 homewards
 homework
 homey
+homeys
 homicidal
 homicide
 homie
@@ -37147,7 +37141,6 @@ hominine
 hominoid
 hominoidea
 hominy
-homme
 hommos
 homo
 homocentric
@@ -37218,6 +37211,7 @@ homotoxicology
 homozygosity
 homozygote
 homozygous
+homs
 homunculus
 homy
 homyel
@@ -38428,6 +38422,7 @@ hypoxidaceae
 hypoxis
 hypozeugma
 hypozeuxis
+hyps
 hypsiglena
 hypsiprymnodon
 hypsography
@@ -44640,7 +44635,6 @@ leechlike
 leeds
 leek
 leeks
-leeps
 leer
 leering
 leers
@@ -44769,8 +44763,6 @@ lemaireocereus
 lemaitre
 leman
 lemanderin
-lemel
-lemes
 lemma
 lemme
 lemming
@@ -46078,7 +46070,6 @@ lombard
 lombardia
 lombardy
 loment
-lomes
 lomogramma
 lomotil
 lomustine
@@ -46202,6 +46193,7 @@ lopped
 lopper
 loppy
 lopressor
+lops
 lopsided
 lopsidedly
 lopsidedness
@@ -46885,7 +46877,6 @@ lysogenisation
 lysogenization
 lysogenize
 lysogeny
-lysol
 lysosome
 lysozyme
 lyssa
@@ -48699,7 +48690,6 @@ meeja
 meek
 meekly
 meekness
-meeps
 meerestone
 meerkat
 meers
@@ -48892,7 +48882,6 @@ melon
 melons
 melophagus
 melopsittacus
-melos
 melosa
 melospiza
 melphalan
@@ -49247,6 +49236,10 @@ mesomorphic
 mesomorphy
 meson
 mesonic
+mesophyl
+mesophyll
+mesophylls
+mesophyls
 mesophyron
 mesophyte
 mesophytic
@@ -49279,7 +49272,6 @@ mestiza
 mestizo
 mesto
 mestranol
-mesyl
 met
 meta
 metabola
@@ -50665,7 +50657,6 @@ moleskin
 molest
 molestation
 molester
-moley
 molidae
 molie
 moliere
@@ -50743,7 +50734,6 @@ momordica
 momot
 momotidae
 momotus
-mompe
 mompreneur
 moms
 momus
@@ -51117,7 +51107,6 @@ moppet
 mopping
 moppy
 mops
-mopsy
 mopus
 mopy
 moquelumnan
@@ -51272,7 +51261,6 @@ mosh
 moshav
 mosk
 mosks
-moslem
 mosque
 mosquito
 mosquitofish
@@ -52109,7 +52097,6 @@ myopathy
 myope
 myopia
 myopic
-myops
 myopus
 myopy
 myosarcoma
@@ -54615,6 +54602,7 @@ oba
 obadiah
 obama
 obang
+obas
 obbligato
 obbos
 obduracy
@@ -54711,7 +54699,6 @@ obols
 obolus
 obovate
 obruk
-obs
 obscene
 obscenely
 obscenity
@@ -55301,7 +55288,6 @@ omits
 omlah
 ommastrephes
 ommatidium
-ommel
 ommiad
 omnes
 omnibus
@@ -55685,7 +55671,6 @@ oratorio
 orators
 oratory
 orb
-orbat
 orbed
 orbic
 orbicular
@@ -58366,7 +58351,6 @@ peeled
 peeler
 peeling
 peels
-peely
 peen
 peens
 peent
@@ -59567,6 +59551,7 @@ phoradendron
 phoronid
 phoronida
 phoronidea
+phos
 phosgene
 phosphatase
 phosphate
@@ -60703,7 +60688,6 @@ pledge
 pledged
 pledgee
 pledger
-pleep
 pleiad
 pleiades
 pleione
@@ -61232,11 +61216,13 @@ polonaise
 polonium
 polony
 polos
+pols
 polska
 poltergeist
 poltroon
 poltroonery
 polts
+poly
 polyamide
 polyandrist
 polyandrous
@@ -61409,8 +61395,9 @@ pomelo
 pomeranian
 pomes
 pomfret
-pomme
+pommee
 pommel
+pommels
 pommy
 pomo
 pomolobus
@@ -67854,6 +67841,7 @@ robots
 robs
 robur
 robust
+robusta
 robustious
 robustly
 robustness
@@ -70916,6 +70904,7 @@ semolina
 sempach
 sempiternal
 sempiternity
+semple
 sempstress
 sen
 senary
@@ -71069,6 +71058,7 @@ sepiolite
 sepoy
 seppo
 seppuku
+seps
 sepsis
 sept
 septa
@@ -73208,7 +73198,6 @@ sloppy
 slops
 slopseller
 slopshop
-slopy
 slorm
 slosh
 sloshed
@@ -73347,7 +73336,6 @@ smaze
 smear
 smears
 smeek
-smees
 smegma
 smeik
 smeke
@@ -73409,7 +73397,6 @@ smokestack
 smokey
 smoking
 smoky
-smol
 smolder
 smoldering
 smolderingly
@@ -74024,7 +74011,6 @@ someways
 somewhat
 somewhere
 somite
-somme
 sommelier
 somnambulate
 somnambulation
@@ -74628,6 +74614,7 @@ speedway
 speedwell
 speedy
 speel
+speels
 speer
 speil
 speir
@@ -75193,7 +75180,6 @@ spy
 spyal
 spyeria
 spyglass
-spyhole
 spying
 spymaster
 spyre
@@ -76629,6 +76615,7 @@ suavely
 suaveness
 suavity
 sub
+suba
 subacid
 subacute
 subah
@@ -76959,7 +76946,6 @@ sudds
 sudoku
 sudor
 sudorific
-sudra
 suds
 sudsy
 sue
@@ -77912,6 +77898,7 @@ syllogizer
 sylph
 sylphic
 sylphlike
+sylphy
 sylva
 sylvan
 sylvanite
@@ -82931,7 +82918,6 @@ udo
 udometer
 udons
 udos
-uds
 udyog
 uey
 ufo
@@ -89708,7 +89694,6 @@ ylids
 ylike
 ylkes
 ymir
-ympes
 yob
 yobbo
 yobby
@@ -89760,6 +89745,7 @@ yolks
 yolky
 yom
 yomim
+yomp
 yomps
 yon
 yond
