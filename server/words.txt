@@ -6472,6 +6472,7 @@ awdls
 awe
 aweary
 awed
+awee
 aweel
 aweigh
 aweless
@@ -8176,7 +8177,6 @@ beluga
 belve
 belvedere
 bema
-bemad
 bemas
 bemidji
 bemire
@@ -9747,9 +9747,7 @@ bohea
 bohemia
 bohemian
 bohemianism
-bohme
 bohos
-bohr
 bohrium
 boidae
 boil
@@ -20167,7 +20165,6 @@ daily
 daimen
 daimler
 daimon
-daine
 daint
 daintily
 daintiness
@@ -20517,6 +20514,7 @@ dazed
 dazedly
 dazer
 dazes
+dazing
 dazzle
 dazzled
 dazzling
@@ -22283,7 +22281,6 @@ diatomite
 diatomophyceae
 diatonic
 diatribe
-diaz
 diazepam
 diazo
 diazonium
@@ -25873,7 +25870,6 @@ emblematical
 embodied
 embodiment
 embody
-embog
 embolden
 emboldened
 embolectomy
@@ -26027,6 +26023,7 @@ employed
 employee
 employer
 employment
+emporia
 emporium
 empower
 empowered
@@ -37399,7 +37396,6 @@ hornbeam
 hornbill
 hornblende
 hornbook
-horne
 horned
 horneophyton
 hornet
@@ -47257,7 +47253,6 @@ maimer
 maimonides
 maims
 main
-maine
 mainer
 mainframe
 mainland
@@ -47802,7 +47797,6 @@ manzanita
 manzo
 manzoni
 maoist
-maori
 map
 mapau
 mapes
@@ -48460,6 +48454,7 @@ mazes
 mazet
 mazey
 maziest
+mazing
 mazopathy
 mazurka
 mazut
@@ -48656,7 +48651,6 @@ mediety
 medieval
 medievality
 medii
-medin
 medina
 medinilla
 mediocre
@@ -53457,7 +53451,6 @@ niobite
 niobium
 niobrara
 niopo
-nioza
 nip
 nipa
 nipas
@@ -61560,7 +61553,6 @@ populist
 populous
 populus
 popup
-porae
 poral
 porbeagle
 porc
@@ -65128,7 +65120,6 @@ rapacity
 rapateaceae
 rape
 raped
-rapee
 raper
 rapes
 rapeseed
@@ -67302,11 +67293,9 @@ rheumy
 rhexia
 rhibhus
 rhies
-rhime
 rhinal
 rhincodon
 rhincodontidae
-rhine
 rhineland
 rhinencephalon
 rhinestone
@@ -67379,7 +67368,6 @@ rhomboid
 rhomboidal
 rhombus
 rhonchus
-rhone
 rhos
 rhubarb
 rhumb
@@ -87546,7 +87534,6 @@ wame
 wamed
 wames
 wampanoag
-wampee
 wampum
 wampumpeag
 wamus
@@ -89868,7 +89855,6 @@ zaglossus
 zagreb
 zaharias
 zaida
-zaide
 zaidy
 zaire
 zairean
@@ -89884,8 +89870,6 @@ zamang
 zambezi
 zambia
 zambian
-zambo
-zamboni
 zamboorak
 zamburak
 zamburek
@@ -90046,10 +90030,10 @@ zinc
 zinco
 zincs
 zincy
+zine
 zineb
 zines
 zinfandel
-zing
 zinger
 zingiber
 zingiberaceae

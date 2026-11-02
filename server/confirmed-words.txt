@@ -47,6 +47,8 @@ addle
 adds
 adeem
 adman
+admen
+admin
 ado
 ados
 ads
@@ -103,11 +105,13 @@ ahead
 ahed
 ahem
 ahi
+ahing
 ahis
 ahorse
 ahoy
 ahs
 aid
+aide
 aidmen
 ail
 ails
@@ -201,6 +205,7 @@ amain
 amarna
 amas
 amauti
+ambo
 amen
 amens
 aments
@@ -209,12 +214,16 @@ amia
 amice
 amici
 amid
+amide
 amie
 amies
 amin
+amine
+amino
 amir
 amis
 amnic
+amnio
 amp
 ample
 amply
@@ -395,7 +404,9 @@ avion
 avions
 avos
 away
+awe
 awed
+awee
 awes
 awful
 awl
@@ -412,6 +423,8 @@ aye
 ayes
 ayin
 ayins
+azide
+azine
 bade
 bads
 baes
@@ -461,7 +474,9 @@ bear
 bears
 beat
 bedad
+bedamn
 bedew
+bedim
 beds
 bedu
 bee
@@ -480,6 +495,7 @@ beigy
 bel
 belie
 bels
+bema
 bend
 bends
 bene
@@ -576,6 +592,7 @@ bonder
 bonds
 bonduc
 bone
+boned
 boner
 bong
 bonier
@@ -592,6 +609,8 @@ bora
 boras
 bork
 borks
+born
+borne
 bort
 bosk
 bosks
@@ -764,6 +783,7 @@ cecal
 cede
 cedes
 cedi
+ceding
 cee
 cees
 cell
@@ -1150,6 +1170,7 @@ daws
 dawt
 daze
 dazes
+dazing
 dead
 deaf
 deal
@@ -1258,6 +1279,7 @@ dextrously
 dexy
 dey
 deys
+diazo
 dib
 dice
 dicer
@@ -1271,6 +1293,7 @@ diet
 diets
 dike
 dill
+dime
 din
 dinar
 dine
@@ -1573,6 +1596,7 @@ emmy
 emo
 emos
 emote
+emporia
 ems
 emu
 emus
@@ -1676,6 +1700,7 @@ evinces
 eviting
 evoke
 evoked
+ewe
 ewes
 exam
 example
@@ -2129,6 +2154,7 @@ godets
 gods
 goes
 gone
+gonia
 gonium
 goos
 goose
@@ -2341,6 +2367,7 @@ hillo
 hilt
 hilts
 him
+himbo
 hims
 hin
 hind
@@ -2421,6 +2448,8 @@ horas
 horde
 horded
 hork
+horn
+horned
 horse
 horses
 horst
@@ -2457,6 +2486,7 @@ hypos
 hyps
 hyssop
 hyssops
+iamb
 ibis
 ibises
 ice
@@ -2501,6 +2531,7 @@ image
 imager
 imagination
 imaginations
+imbed
 immense
 imp
 impel
@@ -3172,6 +3203,9 @@ magi
 magian
 magic
 mags
+maid
+maiden
+maidenhair
 mail
 maill
 maim
@@ -3260,6 +3294,7 @@ mays
 maze
 mazes
 maziest
+mazing
 mead
 meads
 meal
@@ -3276,7 +3311,9 @@ mechs
 med
 medal
 medals
+media
 medias
+medii
 meds
 medulla
 medullas
@@ -3304,6 +3341,7 @@ menad
 mend
 mendable
 mends
+menhir
 meno
 menorah
 mensa
@@ -3398,6 +3436,7 @@ mingy
 mini
 mining
 minis
+minor
 mint
 minting
 mints
@@ -3689,6 +3728,7 @@ nits
 nitty
 nixe
 nixed
+nizam
 nobilities
 nobility
 nobs
@@ -3732,6 +3772,7 @@ noosers
 nope
 nor
 nori
+noria
 norm
 nos
 nose
@@ -4464,6 +4505,7 @@ rale
 rales
 rally
 ram
+ramee
 ramen
 ramens
 ramets
@@ -4523,6 +4565,7 @@ rats
 ravers
 ravier
 ravioli
+raw
 raya
 rayed
 rays
@@ -4698,6 +4741,8 @@ rewon
 rez
 rezes
 rhea
+rhino
+rhizoid
 rho
 rhos
 ria
@@ -4755,10 +4800,12 @@ roach
 road
 roadeo
 roadie
+roam
 roan
 roar
 rob
 robe
+robed
 robing
 robs
 robust
@@ -6251,6 +6298,8 @@ wanly
 want
 wany
 wap
+war
+warp
 wars
 wast
 wat
@@ -6270,6 +6319,7 @@ weedy
 week
 weel
 ween
+weep
 weer
 wees
 weet
@@ -6435,6 +6485,8 @@ zendos
 zest
 zeta
 zetas
+zine
+zineb
 zona
 zone
 zoner
