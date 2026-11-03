@@ -247,6 +247,8 @@ ani
 anil
 anils
 anima
+anime
+animi
 animus
 anis
 ankh
@@ -356,6 +358,8 @@ arty
 arvo
 aryl
 asci
+ascot
+asdic
 asea
 aseismic
 ash
@@ -756,11 +760,13 @@ cars
 carse
 casa
 case
+cased
 cases
 cashoo
 casing
 casings
 casini
+cassis
 cast
 caste
 cat
@@ -800,6 +806,7 @@ ceric
 cero
 cert
 certs
+cess
 cesti
 cete
 chad
@@ -1017,6 +1024,8 @@ cote
 cots
 cove
 coved
+covid
+covids
 cow
 cower
 cowhide
@@ -1031,8 +1040,11 @@ create
 creates
 creche
 cred
+credit
 credo
+creds
 creole
+cress
 crew
 cria
 cried
@@ -1251,6 +1263,7 @@ deps
 dere
 deshi
 desi
+desis
 desk
 deter
 dev
@@ -1283,6 +1296,7 @@ diazo
 dib
 dice
 dicer
+dices
 dick
 die
 died
@@ -1328,6 +1342,7 @@ dive
 diver
 divers
 dives
+divot
 doat
 dobe
 dobes
@@ -1602,6 +1617,7 @@ emu
 emus
 enable
 enabled
+enamel
 encyst
 end
 ending
@@ -2532,6 +2548,7 @@ imager
 imagination
 imaginations
 imbed
+imine
 immense
 imp
 impel
@@ -2860,8 +2877,14 @@ lars
 las
 lase
 lased
+laser
 lases
 lash
+lass
+lasses
+lassi
+lassis
+lasso
 lat
 latch
 latched
@@ -2932,6 +2955,7 @@ lek
 leke
 leku
 leman
+lemma
 lend
 lending
 lenes
@@ -3300,6 +3324,7 @@ meads
 meal
 meals
 mean
+meanie
 meanness
 means
 meant
@@ -3329,6 +3354,7 @@ mega
 megs
 meh
 mel
+melamine
 meld
 mell
 mels
@@ -3342,6 +3368,7 @@ mend
 mendable
 mends
 menhir
+menial
 meno
 menorah
 mensa
@@ -3426,6 +3453,7 @@ mimed
 mimeo
 mimeoed
 mina
+minae
 minas
 mincier
 mine
@@ -3842,6 +3870,7 @@ oboles
 oboli
 obols
 oca
+ocas
 ocean
 oche
 ocker
@@ -4969,6 +4998,7 @@ sarod
 sarsen
 sasin
 sass
+sassed
 sat
 sate
 sated
@@ -5004,6 +5034,7 @@ scena
 scend
 scends
 scone
+scot
 scud
 scut
 scute
@@ -5260,6 +5291,7 @@ sirra
 sirras
 sis
 sisal
+sisals
 sises
 sit
 sitcom
@@ -5355,7 +5387,15 @@ soars
 soave
 sober
 sobs
+soca
+socas
 soces
+social
+socialise
+socialised
+socialiser
+socialises
+socials
 sod
 soda
 sods
@@ -5795,6 +5835,7 @@ tic
 tical
 tics
 tide
+tides
 tie
 tied
 tieing
@@ -5914,7 +5955,12 @@ tors
 torula
 tory
 tosa
+tosas
 tospot
+toss
+tossed
+tosser
+tosses
 tost
 tote
 totem
@@ -6209,6 +6255,7 @@ viand
 viatic
 viatica
 vice
+viced
 vices
 vicing
 vid
@@ -6250,6 +6297,11 @@ vitta
 vittae
 vittle
 vlei
+vocal
+vocalise
+vocalised
+vocalises
+vocals
 vocative
 vocatively
 voces
@@ -6257,7 +6309,13 @@ voe
 voes
 vogs
 voice
+voiced
+voicer
+voices
 voicing
+void
+voider
+voids
 volar
 vole
 voles

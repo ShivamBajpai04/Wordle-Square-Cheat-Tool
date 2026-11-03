@@ -1972,7 +1972,6 @@ aimlessly
 aimlessness
 aims
 ain
-ainee
 ains
 aioli
 air
@@ -2263,7 +2262,6 @@ alectoria
 alectoris
 alectura
 alee
-aleem
 alef
 alefs
 alehoof
@@ -5560,7 +5558,6 @@ assaulter
 assaultive
 assay
 assayer
-assed
 assegai
 assemblage
 assemble
@@ -5641,7 +5638,6 @@ assonate
 assort
 assorted
 assortment
-assot
 assouan
 assuage
 assuagement
@@ -13157,6 +13153,7 @@ cassiope
 cassiopeia
 cassirer
 cassiri
+cassis
 cassite
 cassiterite
 cassius
@@ -13899,6 +13896,7 @@ cesarean
 cesarian
 cesium
 cespitose
+cess
 cessation
 cesse
 cession
@@ -15143,7 +15141,6 @@ chynd
 chytridiaceae
 chytridiales
 chytridiomycetes
-cialis
 ciao
 ciaos
 ciardi
@@ -15170,7 +15167,6 @@ ciconiiformes
 cicuta
 cider
 ciderpress
-cides
 ciels
 cig
 cigar
@@ -18585,6 +18581,8 @@ covetous
 covetously
 covetousness
 covey
+covid
+covids
 coville
 covin
 cow
@@ -23542,7 +23540,6 @@ divorce
 divorced
 divorcee
 divorcement
-divos
 divot
 divulge
 divulgement
@@ -25347,7 +25344,6 @@ eeew
 eejit
 eek
 eel
-eelam
 eelblenny
 eelgrass
 eelier
@@ -44233,8 +44229,10 @@ lasiurus
 lasix
 lass
 lassa
+lasses
 lassi
 lassie
+lassis
 lassitude
 lasso
 lassu
@@ -44760,7 +44758,6 @@ lemaitre
 leman
 lemanderin
 lemma
-lemme
 lemming
 lemmon
 lemmus
@@ -47669,7 +47666,6 @@ manicotti
 manicure
 manicurist
 manidae
-manie
 manifest
 manifestation
 manifestly
@@ -48519,7 +48515,6 @@ mean
 meander
 meandering
 meanderingly
-meane
 meaner
 meanie
 meaning
@@ -48779,7 +48774,6 @@ mekong
 mel
 melaena
 melagra
-melam
 melamine
 melampodium
 melampsora
@@ -48903,7 +48897,6 @@ membrane
 membranophone
 membranous
 meme
-memel
 memento
 memes
 memetics
@@ -52849,7 +52842,6 @@ nematocera
 nematoda
 nematode
 nembutal
-nemea
 nemertea
 nemertean
 nemertina
@@ -54780,6 +54772,7 @@ obviously
 obviousness
 oca
 ocarina
+ocas
 occam
 occasion
 occasional
@@ -56102,7 +56095,6 @@ otherworldly
 othonna
 othyl
 otic
-otides
 otididae
 otiose
 otitis
@@ -56628,7 +56620,6 @@ overzeal
 overzealous
 overzealousness
 ovibos
-ovid
 oviduct
 oviedo
 oviform
@@ -68950,7 +68941,6 @@ saline
 salinger
 salinity
 salinometer
-salis
 salisbury
 salish
 salishan
@@ -69412,6 +69402,7 @@ sasquatch
 sass
 sassaby
 sassafras
+sassed
 sassenach
 sassing
 sassy
@@ -72159,7 +72150,6 @@ sial
 sialadenitis
 sialia
 sialidae
-sialis
 sialolith
 sials
 siamang
@@ -72364,7 +72354,6 @@ sikorsky
 silage
 silane
 silanes
-silas
 sild
 sildenafil
 silds
@@ -72647,6 +72636,7 @@ sirras
 sirup
 sis
 sisal
+sisals
 sises
 sisham
 siskin
@@ -73690,11 +73680,11 @@ sobriety
 sobriquet
 sobs
 soc
+soca
 socage
 socas
 soccer
 soces
-socia
 sociability
 sociable
 sociableness
@@ -73704,6 +73694,7 @@ socialisation
 socialise
 socialised
 socialiser
+socialises
 socialising
 socialism
 socialist
@@ -73716,6 +73707,7 @@ socialized
 socializer
 socializing
 socially
+socials
 societal
 society
 socinian
@@ -80305,8 +80297,6 @@ tibur
 tic
 tical
 ticca
-ticed
-tices
 tichodroma
 tichodrome
 tichy
@@ -87088,7 +87078,8 @@ vocal
 vocalic
 vocalisation
 vocalise
-vocaliser
+vocalised
+vocalises
 vocalism
 vocalist
 vocalization
