@@ -1500,6 +1500,7 @@ dust
 dustily
 dusting
 dye
+dyer
 dyne
 dynel
 each
@@ -1517,6 +1518,7 @@ earthly
 earths
 earthy
 ease
+eased
 easel
 easer
 easers
@@ -1530,6 +1532,7 @@ eath
 eating
 eats
 eau
+eaux
 eave
 ebbs
 ebon
@@ -1559,6 +1562,7 @@ eelier
 eels
 eely
 eerie
+eery
 eew
 effort
 eft
@@ -1649,6 +1653,7 @@ epistle
 epithet
 epithets
 epos
+eques
 era
 eras
 erase
@@ -1763,8 +1768,11 @@ faint
 fair
 fall
 fallal
+false
 fam
 fame
+fameless
+fames
 familism
 familist
 family
@@ -1827,6 +1835,8 @@ ferrotype
 ferry
 ferula
 fes
+fess
+fesse
 feta
 fetal
 fetch
@@ -1840,6 +1850,7 @@ feu
 feus
 few
 fey
+fez
 fiance
 fiancee
 fiances
@@ -1881,6 +1892,8 @@ five
 flagmen
 flam
 flame
+flames
+flams
 flamy
 flan
 flea
@@ -2851,6 +2864,7 @@ lameds
 lamella
 lamellas
 laments
+lames
 lamp
 lams
 lance
@@ -4476,6 +4490,7 @@ pyre
 pyro
 qibla
 qintar
+quad
 quag
 quags
 quant
@@ -4485,6 +4500,10 @@ quarry
 quarryman
 quasi
 quay
+queer
+queers
+query
+quey
 quiet
 quilt
 quilts
@@ -4600,6 +4619,7 @@ rayed
 rays
 react
 read
+ready
 real
 really
 realty
@@ -4648,9 +4668,12 @@ redon
 redout
 reds
 reducing
+redux
+redye
 ree
 reed
 reedit
+reedy
 reef
 reefed
 reefers
@@ -4727,6 +4750,8 @@ reps
 republic
 res
 resat
+reseau
+reseaux
 resee
 reseen
 resend
@@ -4759,6 +4784,9 @@ retry
 rets
 retting
 retype
+reuse
+reused
+reuses
 rev
 revoke
 revoked
@@ -4950,6 +4978,7 @@ sac
 sacs
 sad
 sade
+sades
 sadi
 sadis
 sae
@@ -5061,6 +5090,7 @@ securitize
 sedum
 see
 seed
+seedy
 seeing
 seeings
 seel
@@ -5075,6 +5105,7 @@ seep
 seeps
 seer
 seeress
+seers
 sees
 seg
 segment
@@ -5502,6 +5533,7 @@ spoons
 spore
 spun
 spunk
+squad
 squall
 sri
 stab
@@ -6112,9 +6144,14 @@ uncute
 unde
 undee
 under
+undersea
+underseas
+underuse
+underuses
 undo
 undoes
 undos
+undy
 unfed
 unhasp
 uni
@@ -6171,6 +6208,8 @@ urates
 urds
 urea
 ureas
+urease
+ureases
 uredo
 ureic
 uric
@@ -6180,6 +6219,7 @@ urine
 urines
 urns
 ursa
+ursae
 use
 used
 useless

@@ -21647,7 +21647,6 @@ depute
 deputise
 deputize
 deputy
-deque
 deracinate
 deracination
 derail
@@ -25081,6 +25080,7 @@ eathe
 eating
 eats
 eau
+eaux
 eave
 eaved
 eaver
@@ -28522,7 +28522,6 @@ falconiformes
 falconine
 falconry
 falderol
-fales
 falkner
 fall
 fallacious
@@ -28564,6 +28563,7 @@ falteringly
 fam
 fame
 famed
+fameless
 fames
 familial
 familiar
@@ -45087,7 +45087,6 @@ leyden
 leymus
 leys
 leyte
-lez
 lezes
 lezza
 lezzo
@@ -48817,7 +48816,6 @@ meleagrididae
 meleagris
 melee
 melena
-meles
 melia
 meliaceae
 melic
@@ -64490,6 +64488,7 @@ quete
 quetzal
 quetzalcoatl
 queue
+quey
 queyn
 queys
 queyu
@@ -66751,6 +66750,7 @@ research
 researcher
 reseat
 reseau
+reseaux
 resect
 resection
 reseda
@@ -67095,6 +67095,8 @@ reups
 reuptake
 reusable
 reuse
+reused
+reuses
 rev
 revaluation
 revalue
@@ -68383,7 +68385,6 @@ rudis
 rudra
 rue
 rued
-rueda
 rueful
 ruefully
 ruefulness
@@ -70768,7 +70769,6 @@ selloff
 sellotape
 sellout
 sells
-selma
 sels
 selsyn
 seltzer
@@ -77423,7 +77423,6 @@ surcoat
 surd
 surds
 sure
-sured
 surefooted
 surely
 sureness
@@ -83682,6 +83681,7 @@ underscore
 undersea
 underseal
 undersealed
+underseas
 undersecretary
 undersell
 underseller
@@ -83719,6 +83719,8 @@ undertaking
 undertide
 undertone
 undertow
+underuse
+underuses
 undervaluation
 undervalue
 underwater
@@ -83822,6 +83824,7 @@ undulatory
 unduly
 undutiful
 undutifulness
+undy
 undyed
 undying
 undynamic
@@ -85552,6 +85555,7 @@ urea
 ureal
 ureas
 urease
+ureases
 uredinales
 uredo
 ureic
@@ -89939,7 +89943,6 @@ zeidae
 zeins
 zeitgeist
 zek
-zel
 zenaidura
 zendo
 zendos
