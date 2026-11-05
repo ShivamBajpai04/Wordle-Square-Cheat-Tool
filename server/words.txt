@@ -8801,6 +8801,7 @@ binder
 bindery
 bindi
 binding
+bindis
 binds
 bindweed
 bine
@@ -8814,8 +8815,8 @@ binger
 binghamton
 bingle
 bingo
-bings
 binit
+binits
 binks
 binky
 binnacle
@@ -9006,6 +9007,7 @@ biserrate
 bises
 bisexual
 bisexuality
+bish
 bishkek
 bishop
 bishopric
@@ -11099,7 +11101,6 @@ brusque
 brusquely
 brusqueness
 brussels
-brust
 brut
 brutal
 brutalisation
@@ -11263,6 +11264,7 @@ bugleweed
 bugloss
 bugologist
 bugology
+bugs
 buhl
 buhls
 buhrs
@@ -11273,7 +11275,6 @@ builds
 buildup
 built
 buirdly
-buist
 bujumbura
 bukes
 bukharin
@@ -11588,6 +11589,7 @@ bushel
 bushes
 bushido
 bushing
+bushings
 bushman
 bushnell
 bushperson
@@ -11606,6 +11608,8 @@ businessmen
 businesspeople
 businessperson
 businesswoman
+busing
+busings
 busk
 busker
 buskin
@@ -13846,7 +13850,6 @@ ceremony
 ceres
 ceresin
 cereus
-cerge
 ceria
 ceric
 ceriman
@@ -14197,11 +14200,14 @@ charcuterie
 chard
 chardonnay
 chare
+chares
 charge
 chargeable
 charged
 chargeman
 charger
+chargers
+charges
 chargewoman
 chari
 charily
@@ -14241,6 +14247,7 @@ charon
 charophyceae
 charr
 charronia
+charrs
 chars
 chart
 chartaceous
@@ -14471,7 +14478,6 @@ chequer
 chequerboard
 chequered
 cherbourg
-chere
 cheremis
 cheremiss
 cherepovets
@@ -31315,6 +31321,7 @@ fructification
 fructify
 fructose
 fructosuria
+frug
 frugal
 frugality
 frugally
@@ -32729,7 +32736,6 @@ gibraltarian
 gibran
 gibs
 gibson
-gibus
 gid
 giddily
 giddiness
@@ -34300,6 +34306,7 @@ growth
 groyne
 grozny
 groznyy
+grr
 grrls
 grrrl
 grub
@@ -34347,7 +34354,6 @@ grunt
 grunter
 gruntle
 grunts
-grus
 gruyere
 gryce
 gryke
@@ -36386,7 +36392,6 @@ herringbone
 herry
 hers
 herschel
-herse
 hershey
 hertfordshire
 hertha
@@ -36697,7 +36702,6 @@ hinderingly
 hindermost
 hindfoot
 hindgut
-hindi
 hindlimb
 hindmost
 hindoo
@@ -36800,6 +36804,7 @@ hist
 histaminase
 histamine
 histidine
+histing
 histiocyte
 histiocytosis
 histogram
@@ -39770,7 +39775,6 @@ indumentum
 induna
 indurate
 induration
-indus
 indusial
 indusium
 industrial
@@ -41025,7 +41029,6 @@ inwardly
 inwardness
 inwards
 inweave
-inwit
 inwrought
 ioctl
 iodic
@@ -41441,6 +41444,7 @@ ivory
 ivorybill
 ivy
 iwi
+iwis
 ixia
 ixias
 ixnay
@@ -65611,6 +65615,7 @@ recessionary
 recessive
 recharge
 rechargeable
+recharges
 rechauffe
 recherche
 recidivate
@@ -68381,7 +68386,7 @@ rudest
 rudiment
 rudimentary
 rudiments
-rudis
+rudist
 rudra
 rue
 rued
@@ -72517,7 +72522,6 @@ sincerity
 sinciput
 sinclair
 sindhi
-sinds
 sine
 sinecure
 sined
@@ -76999,6 +77003,7 @@ suids
 suillus
 suing
 suint
+suints
 suit
 suitability
 suitable
@@ -77786,7 +77791,6 @@ switching
 switchman
 swith
 swither
-swits
 switzerland
 swive
 swivel
@@ -82915,7 +82919,6 @@ uhlan
 uhland
 uhuru
 uighur
-uigur
 uintathere
 uintatheriidae
 uintatherium
@@ -88648,6 +88651,7 @@ wingstem
 wingwoman
 wingy
 wining
+winish
 wink
 winked
 winker
@@ -88747,6 +88751,7 @@ wisteria
 wistful
 wistfully
 wistfulness
+wisting
 wists
 wit
 witan
