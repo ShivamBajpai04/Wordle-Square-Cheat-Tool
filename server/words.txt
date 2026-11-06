@@ -2780,7 +2780,6 @@ amaranthine
 amaranthus
 amarelle
 amaretto
-amari
 amarillo
 amarna
 amaro
@@ -2997,7 +2996,6 @@ amitosis
 amitotic
 amitriptyline
 amity
-amlas
 amman
 ammas
 ammeter
@@ -3184,7 +3182,6 @@ amylum
 amyotonia
 amyotrophia
 amyotrophy
-amytal
 amyxia
 ana
 anabantidae
@@ -5111,7 +5108,6 @@ armguard
 armhole
 armies
 armiger
-armil
 armilla
 armillaria
 armillariella
@@ -8443,6 +8439,7 @@ betoken
 beton
 betray
 betrayal
+betrayals
 betrayer
 betroth
 betrothal
@@ -8494,7 +8491,6 @@ bewitching
 bewitchingly
 bewitchment
 bewray
-bextra
 bey
 beyond
 beys
@@ -38702,7 +38698,6 @@ ikats
 ikhanaton
 ikon
 ikons
-ilama
 ilea
 ileac
 ileal
@@ -43948,7 +43943,6 @@ lammastide
 lammergeier
 lammergeyer
 lammy
-lamna
 lamnidae
 lamp
 lampblack
@@ -44464,6 +44458,7 @@ layoff
 layout
 layover
 layperson
+lays
 layup
 laywoman
 lazar
@@ -45808,7 +45803,6 @@ ljubljana
 llama
 llano
 llullaillaco
-llyr
 loach
 load
 loaded
@@ -46851,6 +46845,7 @@ lyrics
 lyrist
 lyrurus
 lysander
+lysate
 lyse
 lysed
 lysenko
@@ -47407,7 +47402,6 @@ malformation
 malformed
 malfunction
 malfunctioning
-malian
 malic
 malice
 malicious
@@ -48266,7 +48260,6 @@ matins
 matisse
 matman
 matoaka
-matra
 matriarch
 matriarchal
 matriarchate
@@ -50072,7 +50065,6 @@ miosis
 miotic
 mips
 mir
-miraa
 mirabeau
 mirabilis
 miracle
@@ -52000,8 +51992,6 @@ myacidae
 myadestes
 myalgia
 myalgic
-myall
-myals
 myanmar
 myasthenia
 myc
@@ -52336,7 +52326,6 @@ naming
 namma
 nammad
 nammu
-namoi
 nampa
 namtaru
 namus
@@ -55226,7 +55215,6 @@ ollas
 ollav
 ollie
 ollied
-olm
 olmec
 olmsted
 ology
@@ -64883,6 +64871,7 @@ railer
 railhead
 railing
 raillery
+railman
 railroad
 railroader
 railroading
@@ -68619,7 +68608,7 @@ ruvid
 rwanda
 rwandan
 rya
-ryals
+ryas
 rybat
 rydberg
 rye
@@ -75161,7 +75150,6 @@ sputter
 sputtering
 sputum
 spy
-spyal
 spyeria
 spyglass
 spying
@@ -78441,7 +78429,6 @@ talls
 tally
 tallyman
 tallywoman
-talma
 talmbout
 talmud
 talon
@@ -82798,7 +82785,6 @@ tympanitis
 tympanoplasty
 tympanuchus
 tympanum
-tymps
 tyndale
 tyndall
 tyne
@@ -89495,7 +89481,6 @@ yarn
 yarns
 yarrow
 yarrs
-yarta
 yashmac
 yashmak
 yastrzemski
@@ -89526,6 +89511,7 @@ yawps
 yaws
 yay
 yayas
+yays
 yazoo
 ybit
 yclad

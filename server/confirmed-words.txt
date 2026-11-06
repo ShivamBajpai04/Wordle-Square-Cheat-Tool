@@ -123,6 +123,7 @@ ain
 ains
 aioli
 air
+airman
 airn
 airs
 airt
@@ -339,6 +340,7 @@ arming
 armings
 armlets
 arms
+army
 arnica
 aro
 aros
@@ -353,6 +355,7 @@ arse
 arses
 arson
 art
+artal
 artel
 arts
 arty
@@ -512,6 +515,9 @@ berseem
 beset
 beta
 betas
+betray
+betrayal
+betrayals
 bets
 beys
 bid
@@ -1737,6 +1743,7 @@ etnas
 etudes
 etui
 etuis
+etyma
 eurekas
 euro
 even
@@ -1766,9 +1773,11 @@ exsert
 extend
 extending
 extent
+extra
 exult
 exultant
 exults
+eyas
 eye
 eyed
 eyer
@@ -2869,6 +2878,7 @@ kyar
 kyes
 kyte
 kytes
+laari
 label
 labile
 lac
@@ -2904,8 +2914,10 @@ lamella
 lamellas
 laments
 lames
+lamia
 lamp
 lams
+lanai
 lance
 land
 lands
@@ -2915,6 +2927,7 @@ lang
 lank
 lanky
 lap
+lar
 lard
 larded
 laree
@@ -2945,6 +2958,7 @@ late
 lated
 laten
 later
+latex
 lath
 lathe
 lather
@@ -2962,6 +2976,7 @@ law
 lax
 lay
 layman
+lays
 laze
 lea
 lead
@@ -3045,8 +3060,10 @@ lewk
 lex
 ley
 leys
+liana
 liane
 lianes
+liar
 lias
 lib
 libel
@@ -3244,12 +3261,14 @@ lux
 luxe
 luxes
 luxest
+lyart
 lye
 lyes
 lying
 lynx
 lyre
 lyres
+lysate
 lyse
 lysed
 maar
@@ -3298,6 +3317,7 @@ male
 males
 mall
 malled
+malls
 malm
 maloti
 malt
@@ -3339,7 +3359,9 @@ mara
 maranta
 marc
 marg
+marl
 mars
+mart
 mas
 masa
 masala
@@ -3352,6 +3374,8 @@ mate
 mated
 mater
 maters
+matey
+mateys
 math
 matin
 mats
@@ -3364,6 +3388,7 @@ maxi
 may
 maya
 mayan
+mayas
 maying
 mayo
 mayos
@@ -3566,9 +3591,13 @@ mogs
 moi
 moil
 moiled
+moira
 moist
 moisten
 moke
+mol
+mola
+molar
 mole
 moles
 moll
@@ -3964,6 +3993,7 @@ oik
 oiks
 oil
 oiled
+oilman
 oils
 oily
 oink
@@ -4489,8 +4519,10 @@ protyle
 prove
 proves
 pruta
+psalm
 psi
 psst
+psylla
 ptui
 pube
 pubis
@@ -4581,6 +4613,8 @@ rah
 rai
 raia
 raid
+rail
+railman
 rain
 rais
 raja
@@ -4593,6 +4627,8 @@ rale
 rales
 rally
 ram
+ramal
+ramate
 ramee
 ramen
 ramens
@@ -4656,6 +4692,7 @@ ravier
 ravioli
 raw
 raya
+rayas
 rayed
 rays
 react
@@ -5011,6 +5048,7 @@ ruths
 rutin
 rutins
 ruts
+ryas
 rye
 ryot
 ryus
@@ -5039,6 +5077,7 @@ salad
 sale
 sales
 sall
+sally
 salmi
 salp
 sals
@@ -5077,6 +5116,7 @@ sate
 sated
 satem
 sati
+satyr
 sau
 saul
 sauna
@@ -5395,7 +5435,10 @@ slatch
 slate
 slated
 slater
+slatey
 slather
+slaty
+slay
 sled
 sleep
 sleeps
@@ -5741,6 +5784,8 @@ taler
 talers
 tali
 tall
+talls
+tally
 tam
 tamarau
 tame
@@ -5847,6 +5892,8 @@ teloi
 telome
 telomic
 tels
+temp
+temps
 ten
 tenant
 tenants
@@ -6063,6 +6110,8 @@ toy
 toyo
 toys
 tracts
+tram
+tray
 tree
 treed
 tref
@@ -6115,6 +6164,7 @@ trull
 trulls
 truly
 try
+tryma
 tsar
 tsks
 tsuba
@@ -6595,6 +6645,7 @@ yautia
 yawl
 yawmeter
 yawp
+yays
 yea
 yean
 yeas
