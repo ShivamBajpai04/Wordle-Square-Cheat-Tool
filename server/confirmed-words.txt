@@ -144,6 +144,8 @@ aland
 alans
 alant
 alar
+alarm
+alary
 alas
 alate
 alates
@@ -427,6 +429,7 @@ axite
 axle
 axles
 axman
+axon
 aye
 ayes
 ayin
@@ -676,9 +679,19 @@ buds
 bugs
 bulge
 bulger
+bull
+bulls
+bully
 bums
 bunted
+bura
 burier
+burk
+burka
+burl
+burls
+burly
+burn
 burnet
 burr
 burs
@@ -727,7 +740,10 @@ cagier
 caging
 caid
 cain
+caky
 cal
+calamar
+calamary
 caleche
 calo
 cals
@@ -772,8 +788,13 @@ caring
 carings
 cark
 carl
+carls
 carn
 carns
+carol
+carols
+carom
+caroms
 carr
 carrs
 cars
@@ -800,9 +821,11 @@ cats
 cattie
 catting
 caul
+cauls
 cauri
 cava
 caw
+cay
 cays
 ceca
 cecal
@@ -908,6 +931,7 @@ clag
 clam
 clan
 clap
+clary
 claw
 clay
 claypan
@@ -1060,6 +1084,7 @@ cow
 cower
 cowhide
 cowhided
+craal
 crag
 cram
 cramp
@@ -1093,6 +1118,7 @@ crus
 crust
 crustily
 crusting
+cry
 cubers
 cuds
 cue
@@ -1958,6 +1984,7 @@ foh
 fohn
 fohns
 foison
+folly
 fons
 fool
 foolish
@@ -1974,11 +2001,17 @@ forded
 fore
 foregut
 forehead
+fork
+forky
 form
 forme
 fort
 forte
 forty
+foul
+foully
+fouls
+four
 fousty
 fowl
 foys
@@ -2004,6 +2037,9 @@ fucose
 fuds
 fuel
 fugs
+full
+fulls
+fully
 fund
 fundi
 funding
@@ -2888,6 +2924,7 @@ lacier
 lacing
 lacs
 lactonic
+lacy
 lad
 lade
 laded
@@ -3208,6 +3245,7 @@ lots
 loud
 lough
 loup
+lour
 louse
 louses
 lout
@@ -3230,10 +3268,12 @@ lues
 luge
 luged
 lugs
+lulu
 lum
 lumen
 luminous
 luminously
+lums
 luna
 lune
 lunes
@@ -3250,6 +3290,7 @@ lupine
 lure
 lurex
 luring
+lurk
 lust
 lute
 lutea
@@ -3313,6 +3354,7 @@ mair
 maize
 maizes
 maki
+malar
 male
 males
 mall
@@ -3356,6 +3398,7 @@ map
 maple
 mar
 mara
+maraca
 maranta
 marc
 marg
@@ -3602,6 +3645,7 @@ mole
 moles
 moll
 molls
+molly
 mols
 molt
 molted
@@ -3655,6 +3699,9 @@ motey
 mots
 mott
 motts
+mourn
+mournful
+mournfully
 move
 moves
 moxa
@@ -3666,6 +3713,7 @@ muletas
 mull
 mulla
 mullas
+mulls
 mums
 muni
 munis
@@ -3913,6 +3961,7 @@ nugs
 nuke
 nuked
 null
+nulls
 nuns
 nurl
 nurls
@@ -4596,6 +4645,7 @@ quits
 race
 races
 rack
+racy
 rad
 raddle
 radio
@@ -4691,6 +4741,7 @@ ravers
 ravier
 ravioli
 raw
+ray
 raya
 rayas
 rayed
@@ -5009,6 +5060,7 @@ rowan
 rowel
 rubati
 rubier
+ruby
 ructions
 rude
 rudist
@@ -5048,6 +5100,7 @@ ruths
 rutin
 rutins
 ruts
+rya
 ryas
 rye
 ryot
@@ -5455,6 +5508,7 @@ slog
 slop
 slops
 slot
+slub
 slue
 slued
 slues
@@ -6282,6 +6336,9 @@ unpegs
 unpin
 unrip
 unripe
+unroll
+unrolls
+unruly
 uns
 unsee
 unseen
@@ -6639,6 +6696,7 @@ yagi
 yald
 yam
 yap
+yar
 yare
 yarn
 yautia

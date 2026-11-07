@@ -442,7 +442,6 @@ acapnial
 acapnic
 acapnotic
 acapulco
-acara
 acaracide
 acardia
 acari
@@ -861,7 +860,6 @@ acromikria
 acromion
 acromphalus
 acromyotonia
-acron
 acronym
 acronymic
 acronymous
@@ -2097,7 +2095,6 @@ akmola
 akoia
 akoja
 akoya
-akron
 aksed
 akses
 akvavit
@@ -5332,7 +5329,6 @@ artworld
 arty
 arugula
 aruhe
-arulo
 arum
 arums
 arundinaceous
@@ -5344,7 +5340,6 @@ arvee
 arvicola
 arvo
 arvos
-ary
 aryl
 aryls
 arytaenoid
@@ -11994,6 +11989,7 @@ cakewalk
 cakey
 cakile
 cakra
+caky
 cal
 calabash
 calabazilla
@@ -12003,6 +11999,7 @@ caladenia
 caladium
 calais
 calamagrostis
+calamar
 calamari
 calamary
 calamine
@@ -12952,7 +12949,7 @@ caroller
 carols
 carolus
 carom
-caron
+caroms
 carotene
 carotenemia
 carotenoid
@@ -13506,7 +13503,6 @@ cavy
 caw
 cawed
 cawks
-caxon
 caxton
 cay
 cayenne
@@ -43528,7 +43524,6 @@ kulan
 kulanapan
 kulas
 kulfi
-kulun
 kumasi
 kumis
 kummel
@@ -46551,6 +46546,7 @@ lumpish
 lumps
 lumpsucker
 lumpy
+lums
 luna
 lunacy
 lunar
@@ -47815,11 +47811,9 @@ marabou
 marabout
 maraca
 maracaibo
-maracay
 maraco
 marae
 marah
-maral
 marang
 maranta
 marantaceae
@@ -47839,7 +47833,6 @@ maraud
 marauder
 marauding
 maravilla
-maray
 marble
 marbled
 marbleisation
@@ -51226,7 +51219,6 @@ mortmain
 morton
 morts
 mortuary
-moruk
 morula
 morus
 mos
@@ -51362,11 +51354,9 @@ mouldy
 moule
 moulin
 moulmein
-mouls
 moult
 moulter
 moulting
-mouly
 mound
 mounds
 mount
@@ -51733,7 +51723,6 @@ munja
 munjeet
 munjs
 munjuk
-munro
 muntiacus
 muntin
 muntingia
@@ -53614,7 +53603,6 @@ noisy
 nokes
 nolina
 nolle
-nolls
 nolo
 nolos
 nom
@@ -67935,7 +67923,6 @@ rollmops
 rollo
 rollover
 rolls
-rolly
 rolodex
 rolypoliness
 rom
@@ -68198,13 +68185,11 @@ roughneck
 roughness
 roughrider
 roughshod
-rouky
 roulade
 rouleau
 roulette
 roumania
 roumanian
-roums
 round
 roundabout
 rounded
@@ -68440,7 +68425,6 @@ rulership
 rules
 rulier
 ruling
-rully
 ruly
 rum
 rumaki
@@ -84860,6 +84844,7 @@ unripened
 unrivaled
 unrivalled
 unroll
+unrolls
 unromantic
 unromantically
 unroofed
