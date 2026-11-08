@@ -210,6 +210,8 @@ amas
 amauti
 ambo
 amen
+amend
+amender
 amens
 aments
 ami
@@ -231,6 +233,8 @@ amp
 ample
 amply
 amus
+amuse
+amuses
 amyl
 ana
 anaconda
@@ -240,6 +244,7 @@ anatase
 ancon
 anconal
 and
+andro
 ands
 ane
 anear
@@ -410,6 +415,7 @@ avaunt
 averter
 averters
 averts
+aves
 avion
 avions
 avos
@@ -844,6 +850,7 @@ cep
 cepe
 cerci
 cere
+cered
 ceres
 ceria
 ceric
@@ -1091,6 +1098,7 @@ cramp
 crania
 crank
 crap
+cream
 create
 creates
 creche
@@ -1110,6 +1118,7 @@ croc
 crone
 croon
 crooned
+cru
 crud
 crude
 crudo
@@ -1213,6 +1222,7 @@ dam
 dame
 dames
 damn
+damner
 damns
 dan
 dance
@@ -1222,6 +1232,7 @@ dancers
 dances
 dancey
 dandy
+dang
 dank
 dans
 daphnes
@@ -1233,6 +1244,7 @@ das
 data
 date
 dato
+davy
 daw
 daws
 dawt
@@ -1482,6 +1494,7 @@ douse
 douses
 dout
 dove
+doves
 dow
 dowie
 drab
@@ -1509,6 +1522,8 @@ droll
 dromon
 dromons
 drop
+drove
+droves
 druse
 druses
 drys
@@ -1559,6 +1574,7 @@ dustily
 dusting
 dye
 dyer
+dyes
 dyne
 dynel
 each
@@ -1599,6 +1615,7 @@ echo
 eclat
 eco
 ecos
+ecru
 ecus
 eddo
 eddoes
@@ -1682,10 +1699,12 @@ enabled
 enamel
 encyst
 end
+ender
 ending
 endite
 endless
 ends
+enema
 engs
 enisle
 enlarge
@@ -1699,6 +1718,8 @@ ensue
 ensued
 entity
 enuf
+enure
+enured
 envier
 eocene
 eon
@@ -2111,6 +2132,7 @@ gate
 gates
 gator
 gats
+gaum
 gaun
 gaur
 gaurs
@@ -2246,6 +2268,8 @@ gnarr
 gnarrs
 gnars
 gnat
+gnaw
+gnaws
 gnomic
 gnoses
 gnu
@@ -2295,7 +2319,11 @@ grim
 grin
 grins
 griz
+grody
 grot
+grove
+groves
+grovy
 grr
 guan
 gude
@@ -3376,6 +3404,10 @@ manat
 mandala
 mandalas
 mane
+maned
+mango
+mangrove
+mangroves
 mani
 mania
 manias
@@ -3393,6 +3425,8 @@ mantle
 mantlet
 mantua
 manuary
+manure
+manured
 many
 map
 maple
@@ -3425,6 +3459,7 @@ mats
 maun
 maut
 maw
+maws
 max
 maxed
 maxi
@@ -3445,6 +3480,8 @@ meads
 meal
 meals
 mean
+meander
+meaner
 meanie
 meanness
 means
@@ -3487,6 +3524,7 @@ men
 menad
 mend
 mendable
+mender
 mends
 menhir
 menial
@@ -3505,8 +3543,10 @@ mentos
 menu
 meou
 meow
+merc
 merde
 merdes
+mere
 merit
 merl
 merls
@@ -3723,6 +3763,7 @@ mure
 mus
 muse
 mused
+muses
 mush
 muslin
 muso
@@ -3760,6 +3801,7 @@ nalas
 naled
 nam
 name
+namer
 nan
 nana
 nanism
@@ -3795,7 +3837,9 @@ nav
 navar
 navars
 nave
+naves
 navs
+navy
 nduja
 ndujas
 neap
@@ -4029,6 +4073,7 @@ offa
 offer
 offerer
 offs
+ogam
 ogee
 ogeed
 ogees
@@ -4133,6 +4178,7 @@ ore
 ores
 org
 organ
+organdy
 organic
 orle
 orles
@@ -4786,6 +4832,7 @@ rectal
 recti
 recto
 red
+redan
 redate
 redates
 redd
@@ -4850,9 +4897,13 @@ relubricating
 reluct
 relucting
 rem
+remade
+reman
+remand
 remet
 rems
 renal
+rename
 rend
 rends
 renege
@@ -5082,6 +5133,8 @@ rulier
 ruly
 rumaki
 rums
+run
+rune
 rung
 rungs
 runic
@@ -5202,6 +5255,7 @@ scends
 scone
 scot
 scud
+scum
 scut
 scute
 sea
@@ -5329,6 +5383,7 @@ seven
 severs
 sevs
 sew
+sewan
 sewing
 sews
 sext
@@ -5727,6 +5782,7 @@ stung
 stupe
 stupes
 styli
+suave
 sub
 suba
 suber
@@ -5783,6 +5839,10 @@ sus
 sused
 suses
 suss
+swag
+swam
+swan
+swang
 swig
 swigs
 swing
@@ -6328,12 +6388,14 @@ unlead
 unled
 unlet
 unlit
+unmade
 unman
 unmet
 unpair
 unpeg
 unpegs
 unpin
+unread
 unrip
 unripe
 unroll
@@ -6380,6 +6442,7 @@ urinate
 urinates
 urine
 urines
+urn
 urns
 ursa
 ursae
@@ -6409,6 +6472,7 @@ valor
 van
 vane
 vanes
+vang
 vans
 var
 vara
@@ -6421,6 +6485,7 @@ vats
 vatu
 vaunts
 vaus
+vaws
 vaxed
 vee
 veep
@@ -6534,6 +6599,7 @@ wade
 wadmal
 wadmel
 wadset
+wady
 wae
 waes
 waft
@@ -6555,6 +6621,9 @@ wallas
 walnuts
 waly
 wame
+wamus
+wamuses
+wand
 wane
 waney
 wanly
@@ -6571,6 +6640,11 @@ watched
 wauk
 wauked
 waul
+wave
+waves
+wavey
+waveys
+wavy
 wear
 wears
 webs
@@ -6730,6 +6804,7 @@ ylems
 yobs
 yod
 yods
+yoga
 yoke
 yoked
 yoks

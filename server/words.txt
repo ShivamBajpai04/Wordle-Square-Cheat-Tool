@@ -1351,7 +1351,6 @@ advertizement
 advertizer
 advertizing
 advertorial
-advew
 advice
 advil
 advisability
@@ -2898,9 +2897,9 @@ amend
 amendable
 amendatory
 amended
+amender
 amendment
 amends
-amene
 amenia
 amenities
 amenity
@@ -13848,7 +13847,6 @@ ceriman
 cerise
 cerium
 cerivastatin
-cerne
 cernuous
 cero
 ceroc
@@ -18883,7 +18881,6 @@ creeps
 creepy
 crees
 creese
-crema
 cremains
 cremate
 cremation
@@ -18892,7 +18889,6 @@ crematory
 creme
 cremona
 crems
-crena
 crenate
 crenated
 crenation
@@ -20235,6 +20231,7 @@ damnably
 damnation
 damnatory
 damned
+damner
 damning
 damns
 damocles
@@ -20283,6 +20280,7 @@ dandy
 dandyish
 dandyism
 danewort
+dang
 dangaleat
 danger
 dangerous
@@ -20462,7 +20460,6 @@ daviesia
 davis
 davit
 davy
-davys
 daw
 dawah
 dawdle
@@ -23653,7 +23650,6 @@ doff
 doffs
 dog
 dogal
-dogan
 dogbane
 dogcart
 doge
@@ -24059,7 +24055,6 @@ doven
 dover
 doves
 dovetail
-dovey
 dovie
 dovish
 dovishness
@@ -24850,13 +24845,11 @@ dwale
 dwalm
 dwams
 dwamy
-dwang
 dwarf
 dwarfish
 dwarfishness
 dwarfism
 dwarfs
-dwaum
 dweeb
 dwell
 dweller
@@ -24879,6 +24872,7 @@ dyed
 dyeing
 dyer
 dyers
+dyes
 dyestuff
 dyeweed
 dyewood
@@ -24973,7 +24967,6 @@ eagles
 eaglet
 eagly
 eagre
-eaned
 ear
 earache
 earcuff
@@ -31932,11 +31925,9 @@ gamy
 gan
 ganapati
 ganch
-gand
 gander
 gandhi
 gandhian
-gandy
 gane
 ganef
 ganesa
@@ -32194,6 +32185,7 @@ gauguinesque
 gauje
 gault
 gaultheria
+gaum
 gaumless
 gaums
 gaumy
@@ -33689,7 +33681,6 @@ governmental
 governmentally
 governor
 governorship
-goves
 gowan
 gowd
 gowds
@@ -47571,7 +47562,6 @@ mandate
 mandator
 mandatorily
 mandatory
-mande
 mandean
 mandeanism
 mandela
@@ -47600,7 +47590,6 @@ mands
 manduca
 manducate
 manduction
-mandy
 mane
 maneb
 maned
@@ -47635,6 +47624,7 @@ mangonel
 mangos
 mangosteen
 mangrove
+mangroves
 mangs
 mangy
 manhandle
@@ -47777,6 +47767,7 @@ manumission
 manumit
 manumitter
 manure
+manured
 manus
 manuscript
 manx
@@ -48360,6 +48351,7 @@ mawlamyine
 mawns
 mawps
 mawrs
+maws
 max
 maxed
 maxes
@@ -49042,6 +49034,7 @@ meprin
 meprobamate
 meralgia
 merbromine
+merc
 mercantile
 mercantilism
 mercaptopurine
@@ -49082,7 +49075,6 @@ mercy
 merde
 merdes
 mere
-mered
 meredith
 merel
 merely
@@ -52244,7 +52236,6 @@ nagged
 nagger
 nagging
 naggy
-nagor
 nagoya
 nags
 nah
@@ -52317,7 +52308,6 @@ nammad
 nammu
 nampa
 namtaru
-namus
 nan
 nana
 nanaimo
@@ -52579,7 +52569,6 @@ navars
 nave
 navel
 naves
-navew
 navicular
 navigability
 navigable
@@ -54405,7 +54394,6 @@ nuptial
 nuptials
 nuptse
 nuque
-nur
 nurbs
 nurds
 nurdy
@@ -55027,6 +55015,7 @@ ofter
 ofttimes
 ofuro
 ogalala
+ogam
 ogams
 ogcocephalidae
 ogdoad
@@ -65430,7 +65419,6 @@ reals
 realtor
 realty
 ream
-reame
 reamed
 reamer
 reams
@@ -67871,7 +67859,6 @@ roers
 roes
 rofecoxib
 rogaine
-rogan
 rogation
 roger
 rogers
@@ -68476,7 +68463,6 @@ rundown
 runds
 rundstedt
 rune
-runed
 runes
 rung
 rungs
@@ -77592,6 +77578,7 @@ swallow
 swallowtail
 swallowwort
 swaly
+swam
 swami
 swammerdam
 swamp
@@ -77707,7 +77694,6 @@ sweptwing
 swertia
 swerve
 swerving
-sweys
 swies
 swietinia
 swift
@@ -83514,7 +83500,6 @@ uncurving
 uncus
 uncut
 uncute
-undam
 undamaged
 undatable
 undated
@@ -84393,7 +84378,6 @@ unloving
 unlubricated
 unluckily
 unlucky
-unmad
 unmade
 unmake
 unmalicious
@@ -85573,7 +85557,6 @@ urman
 urmia
 urn
 urnal
-urned
 urns
 urobilin
 urobilinogen
@@ -85943,6 +85926,7 @@ vanellus
 vanern
 vanes
 vanessa
+vang
 vanga
 vangs
 vanguard
@@ -86136,6 +86120,7 @@ vaute
 vaux
 vav
 vaw
+vaws
 vawte
 vaxed
 vaxes
@@ -87339,6 +87324,7 @@ wadmel
 wads
 wadset
 wadts
+wady
 wae
 waes
 wafer
@@ -87506,6 +87492,7 @@ wampanoag
 wampum
 wampumpeag
 wamus
+wamuses
 wan
 wanamaker
 wand
@@ -87806,6 +87793,7 @@ waverer
 wavering
 waves
 wavey
+waveys
 waviness
 waving
 wavy
@@ -89209,7 +89197,6 @@ wurst
 wurtzite
 wurzburg
 wus
-wuses
 wushu
 wuss
 wussy
@@ -89719,7 +89706,6 @@ yopos
 yoppo
 yore
 yores
-yorga
 yorks
 yorkshire
 yorktown
