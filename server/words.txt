@@ -3714,7 +3714,6 @@ annihilation
 annihilative
 annihilator
 anniversary
-annon
 annona
 annonaceae
 annotate
@@ -6857,6 +6856,7 @@ bagman
 bagnio
 bagpipe
 bagpiper
+bags
 bagsy
 bagua
 baguet
@@ -20512,7 +20512,6 @@ dazzle
 dazzled
 dazzling
 dazzlingly
-dbags
 dbms
 dccp
 deaccession
@@ -23812,7 +23811,6 @@ donation
 donatism
 donatist
 donatus
-donbas
 donbass
 done
 donee
@@ -23829,9 +23827,11 @@ donkeywork
 donkin
 donko
 donna
+donnas
 donne
 donnean
 donnian
+donning
 donnish
 donny
 donor
@@ -31864,6 +31864,7 @@ gam
 gama
 gamas
 gamay
+gamb
 gamba
 gambe
 gambelia
@@ -32331,7 +32332,6 @@ gemel
 gemfibrozil
 geminate
 gemination
-gemini
 gemma
 gemmation
 gemmed
@@ -40210,6 +40210,7 @@ innovative
 innovativeness
 innovator
 innoxious
+inns
 innsbruck
 innuendo
 innumerable
@@ -47610,7 +47611,6 @@ manganite
 mange
 manger
 mangey
-mangi
 mangifera
 mangily
 manginess
@@ -48947,6 +48947,7 @@ menil
 meningeal
 meninges
 meningioma
+meningiomas
 meningism
 meningitis
 meningocele
@@ -49478,6 +49479,7 @@ miasmic
 miaul
 mib
 mibit
+mibs
 mic
 mica
 micaceous
@@ -49968,6 +49970,7 @@ minicomputer
 miniconju
 minify
 minim
+minima
 minimal
 minimalism
 minimalist
@@ -52886,7 +52889,6 @@ neoteny
 neotoma
 neotony
 neoza
-nep
 nepal
 nepalese
 nepali
@@ -53366,7 +53368,6 @@ nimble
 nimbleness
 nimblewill
 nimbly
-nimbs
 nimbus
 nimby
 nimiety
@@ -53403,6 +53404,7 @@ ninkharsag
 ninkhursag
 ninny
 ninon
+ninons
 ninth
 nintinugga
 nintoo
@@ -53781,6 +53783,7 @@ nonheritable
 nonhierarchic
 nonhierarchical
 nonhuman
+noni
 nonic
 nonidentity
 nonimitative
@@ -53834,11 +53837,9 @@ nonmonotonic
 nonmotile
 nonmoving
 nonmusical
-nonna
 nonnative
 nonnatural
 nonnegative
-nonno
 nonnomadic
 nonnormative
 nonny
@@ -55427,7 +55428,6 @@ opaqueness
 opas
 opcw
 ope
-opec
 oped
 open
 openbill
@@ -58409,7 +58409,6 @@ peloponnesian
 peloponnesus
 pelota
 pelt
-pelta
 peltandra
 peltate
 pelter
@@ -78570,7 +78569,6 @@ tapdance
 tape
 taped
 tapeline
-tapen
 tapenade
 taper
 tapered
@@ -79325,6 +79323,8 @@ tenuously
 tenure
 tenured
 tenuti
+teopan
+tepa
 tepal
 tepas
 tepee

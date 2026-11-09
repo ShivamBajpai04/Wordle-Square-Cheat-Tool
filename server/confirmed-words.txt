@@ -229,6 +229,7 @@ amir
 amis
 amnic
 amnio
+among
 amp
 ample
 amply
@@ -446,6 +447,7 @@ bade
 bads
 baes
 bag
+bags
 bah
 balata
 balatas
@@ -458,11 +460,13 @@ band
 bandy
 bane
 baned
+bang
 bani
 bank
 banked
 banned
 bannock
+banns
 bans
 bap
 baps
@@ -544,7 +548,9 @@ bind
 bindi
 bindis
 binds
+bine
 bing
+binge
 binit
 binits
 bins
@@ -841,11 +847,13 @@ cedi
 ceding
 cee
 cees
+cel
 cell
 cello
 celly
 cels
 celt
+cent
 cep
 cepe
 cerci
@@ -1459,7 +1467,10 @@ don
 dona
 done
 donee
+donna
+donnas
 donne
+donning
 donor
 dons
 donsy
@@ -2096,6 +2107,8 @@ gallnuts
 gam
 gama
 gamas
+gamb
+gambs
 game
 gamer
 games
@@ -2103,6 +2116,7 @@ gamest
 gamic
 gamier
 gamin
+gaming
 gamp
 gams
 gamuts
@@ -2164,6 +2178,7 @@ genes
 genevas
 genic
 genie
+genii
 genip
 genlock
 genoa
@@ -2709,6 +2724,8 @@ inker
 inlier
 inly
 inmost
+innie
+inns
 inosite
 inro
 ins
@@ -3250,6 +3267,8 @@ loose
 loot
 looted
 loots
+lop
+lope
 lops
 lor
 lord
@@ -3405,6 +3424,7 @@ mandala
 mandalas
 mane
 maned
+mange
 mango
 mangrove
 mangroves
@@ -3528,6 +3548,8 @@ mender
 mends
 menhir
 menial
+meningioma
+meningiomas
 meno
 menorah
 mensa
@@ -3582,6 +3604,7 @@ mhos
 miaou
 miaous
 miasm
+mibs
 mic
 mica
 micas
@@ -3617,12 +3640,16 @@ mina
 minae
 minas
 mincier
+mind
+minds
 mine
 mined
 mingle
 mingled
 mingy
 mini
+minim
+minima
 mining
 minis
 minor
@@ -3702,6 +3729,7 @@ mon
 monas
 monde
 monic
+monie
 monish
 monism
 monte
@@ -3907,10 +3935,13 @@ nifty
 nigh
 nils
 nim
+nimbi
 nimmed
 nims
 nine
 niner
+ninon
+ninons
 nip
 nipa
 nipas
@@ -3955,6 +3986,8 @@ noir
 noise
 nolo
 nom
+noma
+nomas
 nome
 nomism
 noms
@@ -3963,6 +3996,7 @@ nonce
 noncom
 noncore
 none
+noni
 nonyl
 noo
 noob
@@ -4030,6 +4064,7 @@ oars
 oarsmen
 oases
 oat
+oaten
 oats
 oaty
 oba
@@ -4278,6 +4313,7 @@ pam
 pan
 panacea
 pane
+panel
 panes
 pang
 panic
@@ -4325,6 +4361,8 @@ passer
 passers
 passes
 pat
+pate
+paten
 patens
 pats
 paw
@@ -4364,6 +4402,7 @@ pein
 peke
 pele
 pelite
+pelt
 pen
 pend
 penes
@@ -4373,6 +4412,7 @@ penne
 pennes
 pens
 pensee
+pent
 peon
 peonism
 peons
@@ -4527,9 +4567,12 @@ poi
 pointe
 pois
 pokier
+pol
 pole
+polenta
 poles
 poll
+pollen
 polls
 pols
 poly
@@ -5160,6 +5203,8 @@ ryot
 ryus
 sab
 sabe
+sabin
+sabine
 sabler
 sabs
 sac
@@ -5917,6 +5962,7 @@ tanker
 tans
 tao
 tap
+tape
 tar
 tarama
 tardo
@@ -6001,6 +6047,7 @@ teles
 telework
 telex
 telic
+tell
 telnet
 teloi
 telome
@@ -6021,6 +6068,8 @@ tentie
 tentier
 tents
 tenuti
+teopan
+tepa
 tepid
 terce
 tercel
