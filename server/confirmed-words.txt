@@ -29,15 +29,18 @@ achoo
 acid
 acinar
 acing
+acini
 ack
 acne
 acnes
 acold
 acorn
 acre
+acred
 acro
 act
 acta
+acted
 actin
 acting
 acts
@@ -314,8 +317,10 @@ arb
 arbs
 arbute
 arc
+arced
 arch
 arcing
+arcking
 arco
 arcs
 ardeb
@@ -323,7 +328,10 @@ are
 area
 areae
 areas
+areca
+arecas
 areg
+areic
 arena
 arene
 arenes
@@ -733,6 +741,7 @@ byte
 bytes
 cabs
 caca
+cacas
 caconym
 cad
 caddis
@@ -743,6 +752,7 @@ cadis
 cadre
 cadres
 cads
+caeca
 caf
 cafe
 cafs
@@ -795,11 +805,15 @@ carb
 card
 cards
 care
+cared
 cares
+caret
+carex
 caring
 carings
 cark
 carl
+carle
 carls
 carn
 carns
@@ -807,6 +821,10 @@ carol
 carols
 carom
 caroms
+carp
+carped
+carpel
+carpet
 carr
 carrs
 cars
@@ -1100,6 +1118,9 @@ cower
 cowhide
 cowhided
 craal
+crack
+crackie
+cracking
 crag
 cram
 cramp
@@ -1335,6 +1356,7 @@ dens
 dense
 dent
 deny
+dep
 deps
 dere
 deshi
@@ -1846,7 +1868,9 @@ eyrie
 fabs
 face
 faced
+facer
 facia
+facing
 fact
 fad
 fade
@@ -1879,6 +1903,10 @@ fano
 fanos
 fanums
 farad
+farce
+farci
+farcie
+farcing
 fard
 farded
 fardel
@@ -1895,6 +1923,7 @@ fated
 fates
 fating
 faun
+faux
 fava
 feal
 fear
@@ -1903,6 +1932,7 @@ feat
 feater
 fecal
 fecial
+feck
 fecund
 fed
 feds
@@ -2340,7 +2370,10 @@ grove
 groves
 grovy
 grr
+guac
+guacs
 guan
+guck
 gude
 gudes
 guid
@@ -2721,6 +2754,7 @@ inia
 ink
 inked
 inker
+inkier
 inlier
 inly
 inmost
@@ -2889,6 +2923,7 @@ kidlit
 kidlits
 kids
 kief
+kiefs
 kier
 kiers
 kifs
@@ -3924,6 +3959,7 @@ nice
 nicely
 nicer
 nick
+nicker
 nicol
 nide
 nidget
@@ -4383,6 +4419,7 @@ peat
 pec
 peck
 pecs
+ped
 pedes
 peds
 pee
@@ -4536,6 +4573,7 @@ playa
 plea
 pleated
 pleb
+pled
 pleiad
 pleon
 plex
@@ -4620,6 +4658,7 @@ prases
 prat
 prate
 prater
+preact
 preapproval
 preboil
 preboils
@@ -4732,8 +4771,11 @@ quit
 quite
 quits
 race
+raced
 races
+racing
 rack
+racking
 racy
 rad
 raddle
@@ -4904,6 +4946,7 @@ reel
 reels
 rees
 ref
+refacing
 refeed
 refereed
 reffed
@@ -4920,6 +4963,7 @@ regs
 rehire
 rei
 reign
+reiki
 rein
 reink
 reins
@@ -5208,6 +5252,9 @@ sabine
 sabler
 sabs
 sac
+sack
+sacker
+sacking
 sacs
 sad
 sade
@@ -5216,6 +5263,8 @@ sadi
 sadis
 sae
 safe
+safecracking
+safer
 sag
 sags
 said
@@ -5269,6 +5318,8 @@ satem
 sati
 satyr
 sau
+sauce
+saucer
 saul
 sauna
 savarins
@@ -5289,6 +5340,8 @@ scams
 scan
 scans
 scar
+scarce
+scare
 scaring
 scarring
 scars

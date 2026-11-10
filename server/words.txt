@@ -759,7 +759,6 @@ acipenseridae
 ack
 acked
 ackee
-acker
 acknowledge
 acknowledgeable
 acknowledged
@@ -4868,6 +4867,7 @@ archway
 arcidae
 arciform
 arcing
+arcking
 arcminute
 arco
 arcos
@@ -4914,6 +4914,7 @@ areas
 areaway
 areca
 arecaceae
+arecas
 arecidae
 arede
 areflexia
@@ -12963,7 +12964,7 @@ carousing
 carp
 carpal
 carpathians
-carpe
+carped
 carpel
 carpellary
 carpellate
@@ -18676,6 +18677,7 @@ cracker
 crackerberry
 crackerjack
 crackers
+crackie
 cracking
 crackle
 crackleware
@@ -21535,6 +21537,7 @@ deoxyguanosine
 deoxynucleotide
 deoxyribose
 deoxythymidine
+dep
 depardieu
 deparia
 depart
@@ -28650,12 +28653,13 @@ faraday
 farandole
 faraway
 farawayness
-farc
 farce
 farci
 farcical
 farcicality
 farcically
+farcie
+farcing
 farcy
 fard
 farded
@@ -28878,7 +28882,6 @@ fawns
 fawny
 fax
 faxed
-faxer
 faxes
 faxing
 fay
@@ -28948,6 +28951,7 @@ fechner
 fecht
 fecial
 fecit
+feck
 feckless
 fecklessly
 fecklessness
@@ -34345,9 +34349,11 @@ grype
 gryphon
 grypt
 gspc
+guac
 guacamole
 guacharo
 guaco
+guacs
 guadalajara
 guadalcanal
 guadeloupe
@@ -40160,6 +40166,7 @@ inkberry
 inkblot
 inked
 inker
+inkier
 inkiness
 inkle
 inkling
@@ -44878,7 +44885,6 @@ leporid
 leporidae
 leporide
 leppy
-lepra
 leprechaun
 leprose
 leprosy
@@ -53276,7 +53282,6 @@ nidus
 niebuhr
 niece
 nieces
-niefs
 nielsen
 nierembergia
 niess
@@ -58639,7 +58644,6 @@ perambulation
 perambulator
 peramelidae
 perc
-perca
 percale
 perce
 perceivable
@@ -60634,6 +60638,7 @@ plectranthus
 plectron
 plectrophenax
 plectrum
+pled
 pledge
 pledged
 pledgee
@@ -62002,6 +62007,7 @@ preachify
 preaching
 preachment
 preachy
+preact
 preadolescent
 preak
 preakness
@@ -65950,6 +65956,7 @@ reeze
 ref
 refabrication
 reface
+refacing
 refan
 refashion
 refection
@@ -68743,6 +68750,7 @@ safari
 safe
 safebreaker
 safecracker
+safecracking
 safeguard
 safehold
 safekeeping
