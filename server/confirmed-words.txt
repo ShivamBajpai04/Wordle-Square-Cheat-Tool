@@ -5,6 +5,7 @@ aas
 abas
 abaser
 abasers
+abed
 abele
 abeles
 abet
@@ -152,6 +153,7 @@ alary
 alas
 alate
 alates
+albs
 alcid
 ale
 alec
@@ -440,6 +442,8 @@ awned
 awns
 axe
 axed
+axis
+axised
 axite
 axle
 axles
@@ -462,9 +466,11 @@ balatas
 bald
 bale
 baled
+balk
 ball
 ban
 band
+bands
 bandy
 bane
 baned
@@ -484,6 +490,8 @@ bardes
 bards
 barters
 bas
+base
+based
 bashes
 basser
 bast
@@ -496,6 +504,7 @@ baton
 bats
 batt
 bawk
+bawl
 beal
 beals
 bean
@@ -541,6 +550,8 @@ betrayal
 betrayals
 bets
 beys
+bias
+biased
 bid
 bidi
 bids
@@ -587,7 +598,9 @@ blam
 bland
 blank
 blanked
+blase
 blat
+blaw
 blear
 blears
 bleat
@@ -601,6 +614,7 @@ blet
 blip
 blouse
 blouses
+blunt
 blur
 boa
 boar
@@ -1359,6 +1373,7 @@ deny
 dep
 deps
 dere
+desalt
 deshi
 desi
 desis
@@ -1962,6 +1977,7 @@ ferula
 fes
 fess
 fesse
+fet
 feta
 fetal
 fetch
@@ -1981,10 +1997,13 @@ fiancee
 fiances
 fiar
 fiat
+fibs
 fice
 fico
+fie
 field
 fiftieths
+fig
 figs
 fila
 filets
@@ -2011,9 +2030,14 @@ fish
 fishes
 fishless
 fist
+fit
 fitly
 fits
 five
+fix
+fixt
+flab
+flabs
 flagmen
 flam
 flame
@@ -2021,6 +2045,8 @@ flames
 flams
 flamy
 flan
+flaw
+flax
 flea
 fled
 flesh
@@ -2173,6 +2199,7 @@ gas
 gast
 gat
 gate
+gater
 gates
 gator
 gats
@@ -2256,7 +2283,10 @@ gie
 gied
 gien
 gies
+gif
 gifs
+gift
+giftware
 gill
 gillie
 gillied
@@ -2699,6 +2729,7 @@ idly
 idol
 idyl
 idyll
+iftar
 iftars
 iglu
 ignition
@@ -2788,6 +2819,7 @@ irid
 iron
 irone
 ironed
+isba
 island
 islands
 isle
@@ -2997,6 +3029,7 @@ kytes
 laari
 label
 labile
+labs
 lac
 lace
 laced
@@ -3357,6 +3390,7 @@ luminous
 luminously
 lums
 luna
+lunas
 lune
 lunes
 lung
@@ -3843,6 +3877,9 @@ mynah
 myrrh
 naan
 nab
+nabe
+nabes
+nabis
 nabs
 nacho
 nacre
@@ -4950,6 +4987,8 @@ refacing
 refeed
 refereed
 reffed
+refit
+refix
 refry
 refs
 reft
@@ -4962,6 +5001,7 @@ regnum
 regs
 rehire
 rei
+reif
 reign
 reiki
 rein
@@ -5035,6 +5075,7 @@ restive
 restrive
 rests
 ret
+retag
 retain
 retard
 retch
@@ -5247,6 +5288,7 @@ ryot
 ryus
 sab
 sabe
+sabed
 sabin
 sabine
 sabler
@@ -6326,6 +6368,7 @@ toy
 toyo
 toys
 tracts
+tragi
 tram
 tray
 tree
@@ -6453,6 +6496,9 @@ unanimous
 unarm
 unarms
 unary
+unbased
+unbe
+unbiased
 unci
 uncle
 unclear
@@ -6696,6 +6742,7 @@ volts
 voluminous
 voluminously
 vuln
+wabs
 wad
 wade
 wadmal
@@ -6707,6 +6754,8 @@ waes
 waft
 wafted
 wafting
+wag
+waif
 wail
 wair
 wait
@@ -6721,11 +6770,13 @@ walk
 wall
 wallas
 walnuts
+waltz
 waly
 wame
 wamus
 wamuses
 wand
+wands
 wane
 waney
 wanly
@@ -6733,12 +6784,15 @@ want
 wany
 wap
 war
+ware
 warp
 wars
+wart
 wast
 wat
 watch
 watched
+water
 wauk
 wauked
 waul
