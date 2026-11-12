@@ -1218,6 +1218,7 @@ adoptee
 adopter
 adoption
 adoptive
+adopts
 adorability
 adorable
 adorableness
@@ -4370,7 +4371,6 @@ apologist
 apologize
 apologue
 apology
-apols
 apolune
 apomict
 apomictic
@@ -4586,6 +4586,7 @@ approximate
 approximately
 approximation
 approximative
+apps
 appts
 appui
 appurtenance
@@ -5784,6 +5785,7 @@ atabrine
 atactic
 atakapa
 atakapan
+atap
 ataps
 ataractic
 atarax
@@ -6987,7 +6989,6 @@ balenciaga
 baler
 bales
 balfour
-bali
 balibago
 balinese
 balistes
@@ -8693,7 +8694,6 @@ bikini
 bikky
 bilabial
 bilabiate
-bilal
 bilat
 bilateral
 bilateralism
@@ -9172,7 +9172,6 @@ blags
 blah
 blahs
 blain
-blair
 blake
 blam
 blamable
@@ -23752,6 +23751,7 @@ dolour
 dolourous
 dolphin
 dolphinfish
+dols
 dolt
 doltish
 doltishly
@@ -23857,7 +23857,6 @@ doohickey
 dooky
 doole
 doolittle
-dools
 dooly
 doom
 doomed
@@ -24082,7 +24081,6 @@ dowie
 dowitcher
 dowland
 dowle
-dowls
 dowly
 down
 downa
@@ -24133,6 +24131,7 @@ downwards
 downwind
 downy
 dowry
+dows
 dowse
 dowser
 dowsing
@@ -28528,6 +28527,7 @@ fallen
 faller
 fallibility
 fallible
+fallibly
 falling
 falloff
 fallopio
@@ -36866,7 +36866,6 @@ hoarse
 hoarsely
 hoarseness
 hoary
-hoast
 hoatzin
 hoax
 hoaxer
@@ -36907,6 +36906,7 @@ hodja
 hodman
 hodometer
 hodoscope
+hods
 hoe
 hoecake
 hoed
@@ -37639,8 +37639,8 @@ howler
 howling
 howls
 howre
+hows
 howso
-howto
 hox
 hoxed
 hoxes
@@ -45822,7 +45822,6 @@ loaning
 loans
 loanword
 loasaceae
-loast
 loath
 loathe
 loather
@@ -46367,8 +46366,8 @@ lownd
 lowne
 lowness
 lowns
-lowps
 lowry
+lows
 lowse
 lowset
 lowts
@@ -56642,7 +56641,6 @@ owlet
 owlish
 owlishly
 owls
-owlt
 owly
 own
 owned
@@ -56833,7 +56831,6 @@ pacts
 paczki
 pad
 padam
-padas
 padauk
 padda
 padded
@@ -57897,7 +57894,6 @@ pat
 pataca
 patagonia
 pataphysics
-patas
 patavium
 patch
 patchboard
@@ -60748,7 +60744,6 @@ plods
 ploit
 plong
 plonk
-ploot
 plop
 plops
 plosion
@@ -60779,7 +60774,6 @@ plowland
 plowman
 plows
 plowshare
-plowt
 plowwoman
 plowwright
 ploy
@@ -61897,11 +61891,11 @@ powhatan
 powie
 powin
 powis
-powlt
 pownd
 powns
 powny
 powre
+pows
 powsy
 powwow
 powys
@@ -61915,7 +61909,6 @@ poyou
 poz
 pozsony
 pozzy
-pplo
 praam
 practicability
 practicable
@@ -63559,7 +63552,6 @@ ptolemaic
 ptomain
 ptomaine
 ptosis
-ptsd
 ptui
 ptyalin
 ptyalise
@@ -64635,6 +64627,7 @@ rabbitwood
 rabble
 rabelais
 rabelaisian
+rabi
 rabic
 rabid
 rabidity
@@ -64934,7 +64927,6 @@ ralegh
 raleigh
 rales
 rallentando
-ralli
 rallidae
 rally
 rallying
@@ -77781,7 +77773,6 @@ swoops
 swoosh
 swop
 swops
-swopt
 sword
 swordfish
 swordlike
@@ -81179,6 +81170,7 @@ towage
 towai
 toward
 towboat
+towboats
 towed
 towel
 toweling
