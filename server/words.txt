@@ -3148,7 +3148,6 @@ amuck
 amulet
 amundsen
 amus
-amusd
 amuse
 amused
 amusement
@@ -13563,6 +13562,8 @@ cegep
 ceiba
 ceibo
 ceil
+ceiler
+ceilers
 ceili
 ceilidh
 ceiling
@@ -24390,7 +24391,6 @@ drixoral
 drizzle
 drizzling
 drizzly
-drms
 drock
 drogheda
 drogue
@@ -24406,7 +24406,6 @@ drollery
 dromaeosaur
 dromaeosauridae
 dromaius
-drome
 dromedary
 dromon
 dromons
@@ -24526,7 +24525,6 @@ drypoint
 drys
 drywall
 dscdna
-dso
 dsobo
 duad
 duads
@@ -25502,7 +25500,6 @@ eights
 eightsome
 eightvo
 eighty
-eigne
 eijkman
 eiked
 eikon
@@ -27083,6 +27080,7 @@ eruv
 eruvs
 erven
 ervil
+ervils
 erwinia
 eryngium
 eryngo
@@ -27622,6 +27620,7 @@ evidently
 evil
 evildoer
 evildoing
+eviler
 evilly
 evilness
 evils
@@ -42659,6 +42658,7 @@ kelpie
 kelps
 kelpwort
 kelpy
+kelson
 kelt
 kelter
 kelts
@@ -42758,13 +42758,11 @@ kernicterus
 kerning
 kernite
 kerns
-keros
 kerosene
 kerosine
 kerouac
 kerry
 kerugma
-kerve
 kerygma
 kesey
 kestrel
@@ -42805,6 +42803,7 @@ ketuvim
 keurboom
 kevel
 kevil
+kevils
 kevlar
 kex
 kexes
@@ -43475,7 +43474,6 @@ kreen
 kreep
 kreisler
 kremlin
-kreng
 krennerite
 krewe
 krigia
@@ -43489,6 +43487,7 @@ kroeber
 krona
 krone
 kronecker
+kronen
 kroon
 kropotkin
 kroto
@@ -51229,7 +51228,6 @@ mosaicism
 mosander
 moschus
 moscow
-mosed
 moselle
 mosey
 mosh
@@ -51339,7 +51337,6 @@ motto
 motts
 motty
 motza
-mou
 mouch
 moue
 moues
@@ -51383,6 +51380,7 @@ mournfulness
 mourning
 mourns
 mouse
+moused
 mouselike
 mousepad
 mouser
@@ -51816,7 +51814,6 @@ muscularity
 musculature
 musculoskeletal
 musculus
-musd
 muse
 mused
 musee
@@ -52972,12 +52969,12 @@ nerveroot
 nerves
 nervier
 nervily
+nerving
 nervism
 nervous
 nervously
 nervousness
 nervure
-nervus
 nervy
 nescience
 nescient
@@ -54068,7 +54065,6 @@ normothermia
 norms
 norris
 norrish
-norse
 norseman
 norsewoman
 north
@@ -55387,7 +55383,6 @@ oohs
 oojah
 oology
 oolong
-oom
 oomiak
 oomiaks
 oomph
@@ -55953,7 +55948,6 @@ oses
 oseys
 osier
 oskin
-oslin
 osmanli
 osmanthus
 osmeridae
@@ -67745,6 +67739,7 @@ roady
 roake
 roaky
 roam
+roamed
 roamer
 roams
 roan
@@ -68003,6 +67998,7 @@ roopy
 roos
 roosa
 roose
+roosed
 roosevelt
 rooseveltian
 roost
@@ -73105,7 +73101,6 @@ slither
 slithering
 slithery
 slits
-slive
 sliver
 slivery
 slivovitz
@@ -74144,7 +74139,6 @@ souari
 soubise
 soubrette
 soubriquet
-souce
 souchong
 soudan
 souffle
@@ -83006,6 +83000,7 @@ umptieth
 umpty
 umrah
 umras
+ums
 umteen
 umteenth
 umu
@@ -86176,12 +86171,16 @@ vehicular
 vehme
 veil
 veiled
+veiler
+veilers
 veiling
 veils
 veily
 vein
 veinal
 veined
+veiner
+veiners
 veinlike
 veins
 veiny
@@ -86674,6 +86673,8 @@ vigilante
 vigilantism
 vigilantly
 vigna
+vigneron
+vignerons
 vignette
 vigor
 vigorish
@@ -86747,7 +86748,6 @@ vinegarishness
 vinegarroon
 vinegarweed
 vinegary
-viner
 vinery
 vines
 vinew
@@ -87237,7 +87237,6 @@ voznesenski
 vraic
 vrils
 vroom
-vrous
 vrouw
 vrows
 vug

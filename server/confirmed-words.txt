@@ -244,8 +244,10 @@ among
 amp
 ample
 amply
+amu
 amus
 amuse
+amused
 amuses
 amyl
 ana
@@ -894,6 +896,10 @@ cedi
 ceding
 cee
 cees
+ceil
+ceiler
+ceilers
+ceils
 cel
 cell
 cello
@@ -1374,6 +1380,7 @@ demode
 demoded
 demoed
 demoi
+demos
 demount
 den
 denar
@@ -1512,6 +1519,7 @@ dolt
 dom
 dome
 domed
+domes
 domine
 doming
 domino
@@ -1528,10 +1536,15 @@ donning
 donor
 dons
 donsy
+doom
+dooms
 door
 dopa
 dor
 dore
+dorm
+dormouse
+dorms
 dorp
 dors
 dos
@@ -1815,6 +1828,7 @@ erne
 ernes
 erns
 eros
+erose
 err
 errs
 ers
@@ -1826,6 +1840,8 @@ erugos
 erupt
 eruv
 eruvs
+ervil
+ervils
 eschar
 eses
 esne
@@ -1865,6 +1881,9 @@ evened
 event
 events
 eves
+evil
+eviler
+evils
 evince
 evinces
 eviting
@@ -2340,6 +2359,7 @@ git
 gite
 gites
 gits
+give
 glad
 glair
 glairs
@@ -2352,6 +2372,7 @@ gled
 gleds
 glee
 glen
+glens
 gley
 glia
 glib
@@ -2829,6 +2850,7 @@ innie
 inns
 inosite
 inro
+inros
 ins
 insist
 integer
@@ -2954,7 +2976,9 @@ kegs
 keir
 kelp
 kelpy
+kelson
 kelt
+kelvin
 kemp
 ken
 kenaf
@@ -2974,11 +2998,14 @@ kerf
 kerfed
 kern
 kerning
+kerns
 keta
 ketas
 keto
 ketol
 ketotic
+kevil
+kevils
 khadi
 khaf
 khafs
@@ -3054,6 +3081,8 @@ krai
 krauts
 kray
 kris
+krone
+kronen
 kue
 kues
 kuna
@@ -3215,6 +3244,7 @@ lend
 lending
 lenes
 leno
+lenos
 lens
 lense
 lenses
@@ -3292,6 +3322,10 @@ limned
 limo
 limy
 line
+linen
+linens
+liner
+liners
 ling
 lingo
 lingy
@@ -3321,6 +3355,8 @@ litest
 lithe
 lits
 litu
+live
+livre
 llama
 load
 loads
@@ -3793,6 +3829,7 @@ mitt
 mitten
 mitts
 mity
+moa
 moan
 moas
 mobs
@@ -3842,9 +3879,14 @@ monie
 monish
 monism
 monte
+moo
+mood
+moods
 mook
 mool
+moor
 moos
+moose
 mop
 mope
 moper
@@ -3879,6 +3921,8 @@ motts
 mourn
 mournful
 mournfully
+mouse
+moused
 move
 moves
 moxa
@@ -4001,6 +4045,7 @@ negs
 negus
 neif
 neigh
+nelson
 nema
 nemas
 nene
@@ -4012,7 +4057,9 @@ nephric
 nerd
 nerds
 nerts
+nerve
 nervier
+nerving
 ness
 nesses
 nest
@@ -4218,6 +4265,7 @@ odic
 ods
 odyl
 oes
+oeuvre
 offa
 offer
 offerer
@@ -5070,6 +5118,7 @@ relict
 relies
 reline
 relit
+relive
 relubricating
 reluct
 relucting
@@ -5220,6 +5269,8 @@ road
 roadeo
 roadie
 roam
+roamed
+roams
 roan
 roar
 rob
@@ -5232,6 +5283,7 @@ robusta
 roc
 rod
 rode
+rodes
 rods
 roe
 roes
@@ -5260,7 +5312,12 @@ rood
 roof
 roofless
 roofs
+room
+roomed
+rooms
 roos
+roose
+roosed
 roost
 root
 roots
@@ -5281,6 +5338,8 @@ rotls
 roto
 rotors
 rots
+roue
+roues
 roup
 rouse
 roused
@@ -5747,6 +5806,7 @@ slier
 slily
 slim
 slimy
+sling
 slip
 slipe
 slit
@@ -5798,6 +5858,9 @@ snooks
 snoop
 snoops
 snoose
+snore
+snorkel
+snorkeling
 snottier
 snug
 soap
@@ -5873,6 +5936,7 @@ sord
 sore
 sored
 sorehead
+sorel
 sori
 sorn
 sorned
@@ -6551,6 +6615,7 @@ ulnar
 ulnas
 ultra
 umps
+ums
 unai
 unais
 unanimous
@@ -6700,7 +6765,13 @@ vee
 veep
 vees
 veges
+veil
+veiler
+veilers
+veils
 vein
+veiner
+veiners
 veld
 velds
 vena
@@ -6748,7 +6819,10 @@ viers
 vies
 view
 viff
+vigneron
+vignerons
 vile
+viler
 vims
 vin
 vina
