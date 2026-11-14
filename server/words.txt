@@ -2051,7 +2051,6 @@ aits
 aitus
 aiver
 aixes
-aiyah
 aiyee
 aiyoh
 aiyoo
@@ -2109,7 +2108,6 @@ alacritous
 alacrity
 aladdin
 alae
-alalia
 alamo
 alan
 aland
@@ -2440,7 +2438,6 @@ alkylbenzene
 alkylic
 alkyne
 all
-allah
 allamanda
 allantoic
 allantoid
@@ -15339,6 +15336,7 @@ citizen
 citizenry
 citizenship
 citlaltepetl
+citola
 citole
 citrange
 citrate
@@ -15966,7 +15964,6 @@ coastward
 coastwise
 coat
 coatdress
-coate
 coated
 coatee
 coati
@@ -16299,7 +16296,6 @@ colewort
 colic
 colicky
 colicroot
-colima
 colin
 colinus
 coliphage
@@ -18354,6 +18350,7 @@ cotswold
 cotswolds
 cotta
 cottage
+cottaged
 cottager
 cottar
 cotter
@@ -21063,7 +21060,6 @@ defuse
 defuser
 defusing
 defy
-deg
 degage
 degas
 degauss
@@ -32484,7 +32480,6 @@ genuinely
 genuineness
 genus
 genyonemus
-geo
 geocentric
 geochelone
 geochemistry
@@ -33370,7 +33365,6 @@ godson
 godspeed
 godunov
 godwit
-goe
 goebbels
 goels
 goer
@@ -35072,7 +35066,9 @@ halley
 halliard
 hallmark
 hallo
+halloa
 halloo
+hallot
 hallow
 hallowed
 halloween
@@ -35665,7 +35661,6 @@ hayrig
 hays
 hayseed
 haystack
-hayti
 haywire
 haywood
 hazan
@@ -36154,6 +36149,7 @@ hemin
 hemingway
 hemingwayesque
 hemins
+hemiola
 hemiparasite
 hemiparasitic
 hemiplegia
@@ -38434,7 +38430,7 @@ hysteroscopy
 hysterotomy
 hystricidae
 hystricomorpha
-hythe
+hyte
 hytrin
 iamb
 iambi
@@ -38774,6 +38770,7 @@ illustrator
 illustrious
 illustriously
 illustriousness
+illy
 illyria
 illyrian
 ilmenite
@@ -43728,6 +43725,7 @@ lacrosse
 lacs
 lactaid
 lactalbumin
+lactam
 lactarius
 lactase
 lactate
@@ -43737,6 +43735,7 @@ lacteal
 lactic
 lactide
 lactifuge
+lactitol
 lactobacillaceae
 lactobacillus
 lactoflavin
@@ -44444,7 +44443,6 @@ layer
 layered
 layers
 layette
-layia
 layin
 laying
 layman
@@ -46743,7 +46741,6 @@ lyceum
 lychee
 lychgate
 lychnis
-lycia
 lycian
 lycium
 lycopene
@@ -46868,7 +46865,6 @@ lyssa
 lyssavirus
 lyted
 lytes
-lythe
 lythraceae
 lythrum
 lytic
@@ -48236,7 +48232,6 @@ mates
 matey
 mateys
 math
-mathe
 mathematical
 mathematically
 mathematician
@@ -49388,6 +49383,7 @@ methylbenzene
 methyldopa
 methylene
 methylphenidate
+metica
 metical
 meticorten
 meticulosity
@@ -49489,7 +49485,6 @@ mibs
 mic
 mica
 micaceous
-micah
 micas
 micawber
 mice
@@ -49800,7 +49795,6 @@ milkwort
 milky
 mill
 millais
-millay
 millboard
 milldam
 mille
@@ -49862,7 +49856,6 @@ millstone
 millwheel
 millwork
 millwright
-milly
 milo
 milometer
 milontin
@@ -78439,7 +78432,6 @@ tames
 tamest
 tamias
 tamiasciurus
-tamil
 tamin
 tamis
 tamm
@@ -79700,7 +79692,6 @@ thelf
 thelypteridaceae
 thelypteris
 them
-thema
 thematic
 thematically
 theme
@@ -79863,7 +79854,7 @@ thevetia
 thew
 thews
 thewy
-theyll
+they
 theyre
 theyve
 thiabendazole
@@ -80366,7 +80357,6 @@ tilletiaceae
 tillich
 tilling
 tills
-tilly
 tils
 tilt
 tilted
@@ -80629,7 +80619,6 @@ tobogganing
 tobogganist
 tobramycin
 toby
-toc
 tocainide
 tocantins
 toccata
@@ -80680,7 +80669,6 @@ toga
 togae
 togas
 togaviridae
-toged
 toges
 together
 togetherness
@@ -80757,7 +80745,6 @@ tollman
 tollon
 tolls
 tollwoman
-tolly
 tolmiea
 tolstoy
 tolt
@@ -89614,6 +89601,7 @@ yieldingly
 yields
 yiked
 yikes
+yill
 yills
 yin
 yince
