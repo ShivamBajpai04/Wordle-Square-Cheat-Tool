@@ -986,6 +986,7 @@ acyclovir
 acyl
 acylation
 acylglycerol
+acyloin
 acyls
 adactylia
 adactylism
@@ -1463,7 +1464,6 @@ aerophilic
 aerophilous
 aerophyte
 aeroplane
-aeros
 aerosol
 aerosolise
 aerosolised
@@ -6065,6 +6065,7 @@ augeas
 augen
 augend
 auger
+augers
 auges
 augh
 aught
@@ -6539,7 +6540,6 @@ ayatollah
 ayaya
 aye
 ayes
-aygre
 ayin
 ayins
 aymag
@@ -6857,7 +6857,6 @@ bagnio
 bagpipe
 bagpiper
 bags
-bagsy
 bagua
 baguet
 baguette
@@ -7699,6 +7698,7 @@ bayonet
 bayonne
 bayou
 bayrut
+bays
 bayts
 bazaar
 bazar
@@ -15886,7 +15886,6 @@ clxv
 clxx
 clxxv
 clxxx
-cly
 clyde
 clydesdale
 clype
@@ -26970,7 +26969,6 @@ ergon
 ergonomic
 ergonomics
 ergonovine
-ergos
 ergosterol
 ergot
 ergotamine
@@ -37608,7 +37606,6 @@ houttuynia
 houyhnhnm
 houyhnhnms
 hove
-hovea
 hoved
 hovel
 hover
@@ -42144,6 +42141,7 @@ judith
 judo
 judos
 jug
+juga
 jugal
 jugale
 jugful
@@ -42158,6 +42156,7 @@ juglans
 jugoslav
 jugoslavian
 jugoslavija
+jugs
 jugular
 jugum
 juice
@@ -45864,6 +45863,7 @@ lobularia
 lobularity
 lobule
 lobworm
+loc
 loca
 local
 locale
@@ -46809,7 +46809,6 @@ lynching
 lynchpin
 lynes
 lynx
-lyon
 lyonia
 lyonnais
 lyonnaise
@@ -55736,7 +55735,7 @@ orgia
 orgiastic
 orgic
 orgies
-orgue
+orgs
 orgy
 oribi
 oriel
@@ -55910,7 +55909,6 @@ oryzomys
 oryzopsis
 orzo
 orzos
-osage
 osaka
 osar
 osasco
@@ -56613,7 +56611,6 @@ owe
 owed
 owens
 owensboro
-owers
 owes
 owest
 oweth
@@ -66116,7 +66113,6 @@ regnant
 regnellidium
 regnum
 regorge
-regos
 regosol
 regot
 regram
@@ -67159,7 +67155,6 @@ revolved
 revolver
 revote
 revotes
-revow
 revs
 revue
 revues
@@ -68780,6 +68775,7 @@ sagos
 sags
 saguaro
 sagum
+sagy
 sahab
 sahaptin
 sahaptino
@@ -69451,6 +69447,7 @@ saucy
 saudi
 sauerbraten
 sauerkraut
+sauger
 saugh
 saul
 sauls
@@ -69481,7 +69478,6 @@ sauteing
 sauterne
 sauternes
 sauts
-sauve
 savage
 savagely
 savageness
@@ -73736,7 +73732,6 @@ softs
 software
 softwood
 softy
-soger
 sogginess
 soggy
 soh
@@ -85780,6 +85775,7 @@ vagrant
 vague
 vaguely
 vagueness
+vaguer
 vagus
 vaids
 vail
@@ -86113,7 +86109,6 @@ veal
 veale
 veals
 vealy
-veau
 veblen
 vector
 vedalia
@@ -86149,7 +86144,6 @@ vegetive
 veggie
 veggo
 vegie
-vegos
 vehemence
 vehement
 vehemently
@@ -87020,7 +87014,6 @@ vlies
 vlog
 vlogger
 vlogs
-vly
 vobla
 vocab
 vocable
@@ -87195,7 +87188,6 @@ vouch
 vouchee
 voucher
 vouchsafe
-vouge
 voulu
 voussoir
 vouvray
@@ -87207,12 +87199,14 @@ vowelize
 vowellike
 vowels
 vower
+vowers
 vowing
 vox
 voxel
 voxes
 voyage
 voyager
+voyagers
 voyeur
 voyeurism
 voyeuristic
@@ -87229,8 +87223,10 @@ vrows
 vug
 vuggs
 vuggy
+vugh
 vughs
 vughy
+vugs
 vuillard
 vulcan
 vulcanisation
@@ -88048,7 +88044,6 @@ werewolf
 werfel
 werfs
 wernicke
-weros
 wersh
 wert
 wesley
@@ -89062,6 +89057,7 @@ wound
 wounded
 wounding
 wounds
+wove
 woven
 wow
 wowed
@@ -89365,10 +89361,13 @@ yad
 yadda
 yaffs
 yag
+yage
 yager
+yagers
 yages
 yagi
 yagis
+yags
 yah
 yahoo
 yahve
@@ -89635,6 +89634,7 @@ yobibit
 yobibyte
 yobo
 yobs
+yock
 yocks
 yod
 yodel
@@ -89659,7 +89659,6 @@ yogistic
 yogurt
 yohah
 yohay
-yoick
 yojan
 yok
 yokai
