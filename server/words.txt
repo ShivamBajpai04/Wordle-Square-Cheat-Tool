@@ -7036,7 +7036,7 @@ ballpoint
 ballroom
 balls
 ballsy
-ballup
+ballute
 bally
 ballyhoo
 ballyrag
@@ -9164,6 +9164,7 @@ blae
 blaeberry
 blaes
 blaff
+blag
 blags
 blah
 blahs
@@ -11783,7 +11784,6 @@ cabdriver
 cabell
 caber
 cabernet
-cabg
 cabin
 cabinet
 cabinetmaker
@@ -11794,6 +11794,7 @@ cabins
 cable
 cablegram
 cables
+cablet
 cabman
 cabob
 caboc
@@ -12103,9 +12104,9 @@ callable
 callas
 callathump
 callback
-calle
 called
 caller
+callet
 calliandra
 callicebus
 calligraph
@@ -12676,7 +12677,6 @@ captor
 capture
 capturer
 capuchin
-capul
 capulin
 caput
 capybara
@@ -19462,6 +19462,7 @@ culicidae
 culinary
 cull
 cullender
+cullet
 cullied
 cullis
 culls
@@ -19544,7 +19545,6 @@ cunningly
 cunny
 cunoniaceae
 cup
-cupal
 cupbearer
 cupboard
 cupcake
@@ -31804,6 +31804,7 @@ galled
 galleon
 galleria
 gallery
+gallet
 galley
 gallfly
 gallia
@@ -31833,7 +31834,6 @@ galloway
 gallows
 galls
 gallstone
-gallup
 gallus
 gally
 galois
@@ -33164,7 +33164,6 @@ gloxinia
 gloze
 glucagon
 glucinium
-gluck
 glucocorticoid
 glucophage
 glucosamine
@@ -36917,7 +36916,6 @@ hogan
 hogarth
 hogback
 hogchoker
-hogen
 hogfish
 hogg
 hogged
@@ -57081,7 +57079,6 @@ pallium
 pallone
 pallor
 palls
-pallu
 pally
 palm
 palmaceae
@@ -58182,6 +58179,7 @@ peccable
 peccadillo
 peccant
 peccary
+pech
 pechs
 peck
 pecke
@@ -58324,7 +58322,6 @@ peggy
 peghs
 pegleg
 pegmatite
-pegos
 pegs
 peh
 pehlevi
@@ -58457,6 +58454,7 @@ penetratively
 penetrator
 peneus
 pengo
+pengos
 penguin
 penial
 penicillamine
@@ -59329,6 +59327,7 @@ phenyltoloxamine
 phenytoin
 pheo
 pheochromocytoma
+pheos
 pheresis
 pheromone
 phese
@@ -63713,7 +63712,6 @@ pulseless
 pulses
 pulsing
 pulus
-pulut
 pulverisation
 pulverise
 pulverised
@@ -64059,7 +64057,6 @@ pyloric
 pylorus
 pynchon
 pyned
-pynes
 pyocyanase
 pyocyanin
 pyogenic
@@ -71312,7 +71309,6 @@ sexuality
 sexualize
 sexually
 sexy
-sey
 seychelles
 seychellois
 seyen
@@ -71627,7 +71623,6 @@ shemozzle
 shen
 shenanigan
 shend
-sheng
 shent
 shenyang
 sheol
@@ -71825,6 +71820,7 @@ shnook
 shnor
 shnorr
 shnorrer
+sho
 shoal
 shoaly
 shoat
@@ -82366,7 +82362,6 @@ tulostomaceae
 tulostomataceae
 tulsa
 tulsi
-tulu
 tum
 tumble
 tumblebug
@@ -89501,6 +89496,7 @@ yeasty
 yeats
 yeatsian
 yecch
+yech
 yechs
 yechy
 yeddo

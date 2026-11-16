@@ -494,6 +494,8 @@ bale
 baled
 balk
 ball
+ballet
+ballute
 ban
 band
 bands
@@ -624,6 +626,7 @@ biting
 bits
 blade
 blae
+blag
 blam
 bland
 blank
@@ -644,6 +647,8 @@ blet
 blip
 blouse
 blouses
+blue
+bluet
 blunt
 blur
 boa
@@ -739,12 +744,17 @@ bruits
 brut
 brutal
 bruting
+buck
+bucket
+bucketful
 bud
 buds
 bugs
 bulge
 bulger
 bull
+bulla
+bullet
 bulls
 bully
 bums
@@ -775,6 +785,7 @@ bust
 bustard
 busy
 bute
+butle
 butled
 buts
 buttled
@@ -784,6 +795,8 @@ byrl
 byrling
 byte
 bytes
+cable
+cablet
 cabs
 caca
 cacas
@@ -814,8 +827,10 @@ calamary
 caleche
 call
 calla
+callet
 calo
 cals
+calx
 cam
 came
 cameo
@@ -847,6 +862,7 @@ cap
 cape
 caper
 caping
+caput
 car
 carb
 card
@@ -918,6 +934,7 @@ ceilers
 ceils
 cel
 cell
+cella
 cello
 celly
 cels
@@ -992,6 +1009,8 @@ chip
 chis
 chon
 chop
+chose
+chosen
 ciao
 cider
 cig
@@ -1232,7 +1251,9 @@ cues
 cuing
 cuisse
 cuke
+culet
 cull
+cullet
 cullied
 cully
 cult
@@ -1725,6 +1746,7 @@ ebbs
 ebon
 eche
 echo
+echos
 eclat
 eco
 ecos
@@ -1820,6 +1842,7 @@ endite
 endless
 ends
 enema
+eng
 engs
 enisle
 enlarge
@@ -2130,6 +2153,7 @@ flaw
 flax
 flay
 flea
+fleck
 fled
 flesh
 fleury
@@ -2140,13 +2164,16 @@ flits
 floor
 floorless
 floors
+flub
 flue
+fluke
 flung
 flute
 fluter
 flutter
 fluttering
 flutterings
+flux
 fly
 flyman
 foal
@@ -2227,6 +2254,7 @@ fuse
 fused
 gab
 gabion
+gable
 gabs
 gach
 gadi
@@ -2241,6 +2269,8 @@ gainer
 gait
 gala
 galah
+gall
+gallet
 gallnut
 gallnuts
 gam
@@ -2312,6 +2342,7 @@ gem
 gemot
 gemote
 gems
+gen
 gene
 genera
 general
@@ -2351,6 +2382,7 @@ geta
 getas
 gets
 getup
+gey
 ghee
 gherao
 ghi
@@ -2424,6 +2456,7 @@ glued
 glues
 gluier
 glut
+glute
 glycin
 gnar
 gnarr
@@ -2730,6 +2763,7 @@ hoed
 hoer
 hoers
 hoes
+hog
 hoiden
 hoke
 hoked
@@ -2756,9 +2790,12 @@ homey
 homeys
 homs
 homy
+hon
 hone
 honed
 honer
+hones
+honey
 hong
 honing
 honor
@@ -2780,8 +2817,10 @@ horned
 horse
 horses
 horst
+hos
 hose
 hosel
+hosen
 hosey
 host
 hots
@@ -3524,6 +3563,7 @@ lubricating
 luce
 lucid
 lucidly
+luck
 lucre
 lud
 lude
@@ -4118,6 +4158,7 @@ need
 needs
 neem
 neep
+neg
 negs
 negus
 neif
@@ -4216,6 +4257,7 @@ noel
 noes
 nog
 nogs
+noh
 noil
 noils
 noily
@@ -4252,6 +4294,7 @@ nos
 nose
 nosed
 noses
+nosey
 nosh
 nosier
 nosy
@@ -4360,6 +4403,7 @@ ohed
 ohia
 ohing
 ohms
+ohs
 oik
 oiks
 oil
@@ -4549,6 +4593,7 @@ pale
 paled
 pali
 pall
+pallet
 palm
 palp
 pals
@@ -4625,6 +4670,8 @@ peart
 pearter
 peat
 pec
+pech
+pechs
 peck
 pecs
 ped
@@ -4651,6 +4698,8 @@ pelt
 pen
 pend
 penes
+pengo
+pengos
 penna
 pennae
 penne
@@ -4661,6 +4710,7 @@ pent
 peon
 peonism
 peons
+peony
 pep
 pepla
 peptid
@@ -4699,9 +4749,16 @@ phenoms
 phenyl
 phenylketonuric
 pheo
+pheos
 phew
 phi
 phis
+pho
+phon
+phone
+phones
+phoney
+phony
 phos
 phut
 pia
@@ -4920,12 +4977,18 @@ ptui
 pube
 pubis
 public
+puce
+puck
 puds
 puja
 pujas
+puke
+pula
 pule
 puler
 puli
+pull
+pullet
 pun
 puna
 pung
@@ -5776,7 +5839,10 @@ shite
 shites
 shits
 shlep
+sho
+shoe
 shog
+shone
 shoo
 shool
 shools
@@ -5979,6 +6045,7 @@ sods
 soever
 sofa
 sofar
+soh
 sohs
 soil
 soils
@@ -6665,6 +6732,7 @@ tui
 tuile
 tuis
 tule
+tulle
 tum
 tump
 tumuli
@@ -7196,6 +7264,8 @@ yays
 yea
 yean
 yeas
+yech
+yechs
 yeh
 yeld
 yelk
@@ -7205,6 +7275,7 @@ yen
 yeoman
 yep
 yer
+yes
 yet
 yeti
 yeuk
