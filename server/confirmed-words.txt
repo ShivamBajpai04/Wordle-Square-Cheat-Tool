@@ -9,6 +9,7 @@ abed
 abele
 abeles
 abet
+abets
 able
 abled
 ables
@@ -16,6 +17,8 @@ ably
 abri
 abs
 abulic
+abuse
+abuser
 abut
 abys
 acai
@@ -283,6 +286,7 @@ anime
 animi
 animus
 anis
+anise
 ankh
 anoa
 anoas
@@ -481,6 +485,7 @@ azide
 azine
 bade
 bads
+bae
 baes
 bag
 bags
@@ -504,6 +509,7 @@ bane
 baned
 bang
 bani
+banister
 bank
 banked
 banned
@@ -516,6 +522,9 @@ bar
 bard
 bardes
 bards
+bare
+bares
+barest
 barters
 bas
 base
@@ -572,7 +581,10 @@ bens
 berlin
 berline
 berseem
+bes
 beset
+best
+bet
 beta
 betas
 betray
@@ -595,6 +607,7 @@ bile
 biles
 bilge
 bill
+bin
 bind
 bindi
 bindis
@@ -622,6 +635,7 @@ bises
 bish
 bisk
 bisks
+bister
 biting
 bits
 blade
@@ -720,7 +734,12 @@ boyo
 boyos
 boys
 bra
+brae
+braes
 brag
+brain
+braise
+bran
 bras
 brat
 brats
@@ -783,6 +802,7 @@ buss
 busses
 bust
 bustard
+buster
 busy
 bute
 butle
@@ -1353,6 +1373,7 @@ dans
 daphnes
 daps
 dare
+dared
 dares
 darn
 das
@@ -1407,6 +1428,7 @@ defrag
 deft
 defund
 defuser
+degrading
 deign
 deigns
 deil
@@ -1446,6 +1468,8 @@ deny
 dep
 deps
 dere
+derm
+derma
 desalt
 deshi
 desi
@@ -1641,6 +1665,7 @@ drat
 drats
 drear
 dreck
+dreg
 dreigh
 drek
 dress
@@ -2374,6 +2399,7 @@ geoid
 geotechnical
 gerah
 germ
+german
 gesso
 gest
 gestate
@@ -2464,6 +2490,7 @@ gnarrs
 gnars
 gnat
 gnaw
+gnawn
 gnaws
 gnomic
 gnoses
@@ -2495,13 +2522,21 @@ got
 gotta
 gout
 gouts
+gowan
 gowd
+gown
 goys
 grab
 grabs
+grad
+gradin
+grading
+grain
 gram
 gramp
 gran
+grand
+grandpa
 grans
 graph
 graphic
@@ -2595,6 +2630,7 @@ ham
 hame
 hames
 hams
+hang
 hanked
 hant
 hantle
@@ -3739,6 +3775,7 @@ mats
 maun
 maut
 maw
+mawn
 maws
 max
 maxed
@@ -4194,6 +4231,7 @@ neves
 newb
 next
 niacin
+nib
 nibs
 nicad
 nicads
@@ -4656,6 +4694,8 @@ patens
 pats
 paw
 pawl
+pawn
+pawnage
 pax
 pay
 pea
@@ -5050,6 +5090,7 @@ quit
 quite
 quits
 rabi
+rabis
 race
 raced
 races
@@ -5067,6 +5108,7 @@ rafters
 rag
 raga
 rage
+raged
 ragee
 ragi
 rags
@@ -5078,6 +5120,7 @@ rail
 railman
 rain
 rais
+raise
 raja
 rake
 raked
@@ -5160,6 +5203,7 @@ rays
 react
 read
 ready
+reais
 real
 really
 realty
@@ -5236,6 +5280,7 @@ refry
 refs
 reft
 reg
+regain
 regave
 regent
 reges
@@ -5310,6 +5355,7 @@ reseen
 resend
 reses
 resh
+resin
 resit
 resize
 resod
@@ -5336,6 +5382,7 @@ retorn
 retro
 retry
 rets
+retsina
 retting
 retype
 reuse
@@ -5765,6 +5812,7 @@ septuplets
 ser
 sera
 serac
+serai
 seral
 serape
 serapes
@@ -6446,6 +6494,9 @@ tenuti
 teopan
 tepa
 tepid
+terai
+terais
+terbia
 terce
 tercel
 term
@@ -7229,6 +7280,7 @@ work
 wort
 wot
 wove
+wrang
 wrap
 wren
 wrier
