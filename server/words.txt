@@ -5895,6 +5895,7 @@ atonic
 atonicity
 atony
 atop
+atopies
 atopognosia
 atopognosis
 atopy
@@ -5920,6 +5921,7 @@ atropa
 atrophedema
 atrophic
 atrophied
+atrophies
 atrophy
 atropidae
 atropine
@@ -8562,6 +8564,7 @@ bicameral
 bicapsular
 bicarbonate
 biccy
+bice
 bicentenary
 bicentennial
 bicentric
@@ -8589,6 +8592,7 @@ bicorne
 bicorned
 bicornuate
 bicornuous
+bicron
 bicuspid
 bicuspidate
 bicycle
@@ -17320,6 +17324,7 @@ connochaetes
 connoisseur
 connoisseurship
 connolly
+connor
 connors
 connotation
 connotational
@@ -18186,6 +18191,7 @@ corruption
 corruptive
 corruptly
 corruptness
+cors
 corsage
 corsair
 corse
@@ -18194,7 +18200,6 @@ corset
 corsica
 corsican
 corslet
-corso
 cortaderia
 cortef
 cortege
@@ -19001,6 +19006,7 @@ cripple
 crippled
 crippling
 crips
+cris
 crise
 crises
 crisis
@@ -19096,7 +19102,6 @@ crookedness
 crookes
 crookneck
 crooks
-crool
 croon
 crooned
 crooner
@@ -53711,6 +53716,7 @@ noncontinuous
 noncontroversial
 nonconvergent
 noncore
+noncorrosive
 noncritical
 noncrucial
 noncrystalline
@@ -54009,7 +54015,6 @@ noosed
 nooser
 noosers
 nootka
-noove
 nopal
 nopalea
 nope
@@ -54535,7 +54540,6 @@ oat
 oatcake
 oaten
 oater
-oates
 oath
 oaths
 oatmeal
@@ -55476,6 +55480,8 @@ ophioglossum
 ophiolatry
 ophiophagus
 ophisaurus
+ophite
+ophites
 ophiuchus
 ophiurida
 ophiuroidea
@@ -55656,6 +55662,7 @@ orchotomy
 orcin
 orcins
 orcinus
+orcs
 orcus
 orczy
 ordain
@@ -55821,7 +55828,6 @@ orograph
 orography
 oroide
 orology
-orono
 orontium
 oropharyngeal
 oropharynx
@@ -55843,6 +55849,7 @@ orpine
 orpington
 orra
 orrery
+orrice
 orris
 orrisroot
 ors
@@ -56584,7 +56591,6 @@ ovine
 oviparous
 ovipositor
 oviraptorid
-ovis
 ovism
 ovist
 ovocon
@@ -59335,7 +59341,6 @@ phew
 phi
 phial
 phidias
-phies
 philadelphaceae
 philadelphia
 philadelphus
@@ -59829,7 +59834,6 @@ pieta
 pietism
 pietistic
 pietistical
-piets
 piety
 piezo
 piezoelectric
@@ -61758,7 +61762,6 @@ potentilla
 potentiometer
 potently
 poterium
-potes
 potful
 pothead
 pother
@@ -61789,6 +61792,7 @@ pots
 potsdam
 potsherd
 potshot
+potsie
 potsy
 pottage
 potted
@@ -63137,6 +63141,7 @@ protectorate
 protectorship
 protege
 protegee
+protei
 proteidae
 protein
 proteinaceous
@@ -67113,6 +67118,7 @@ revision
 revisionism
 revisionist
 revisit
+revisor
 revitalisation
 revitalise
 revitalised
@@ -67626,7 +67632,6 @@ rips
 ripsaw
 riptide
 riqqs
-risc
 rise
 risen
 riser
@@ -67810,6 +67815,7 @@ rockwell
 rocky
 rococo
 rocroi
+rocs
 rod
 rode
 rodent
@@ -68010,6 +68016,7 @@ ropewalker
 ropeway
 ropey
 rophy
+ropiest
 ropiness
 roping
 ropy
@@ -68017,7 +68024,6 @@ roque
 roquefort
 roquette
 roral
-roric
 rorid
 roridula
 roridulaceae
@@ -68030,7 +68036,7 @@ rosaceous
 rosales
 rosario
 rosary
-rosco
+roscoe
 rose
 roseate
 roseau
@@ -70204,6 +70210,7 @@ scriptorium
 scriptural
 scripture
 scriptwriter
+scrive
 scrivened
 scrivener
 scrob
@@ -70212,7 +70219,6 @@ scrofula
 scrofulous
 scrog
 scroll
-scroo
 scrooge
 scrophularia
 scrophulariaceae
@@ -70645,7 +70651,6 @@ seismology
 seismosaur
 seismosaurus
 seisure
-seith
 seithr
 seiurus
 seiza
@@ -72200,7 +72205,6 @@ sienna
 siens
 sierra
 siesta
-sieth
 sieur
 sieve
 sieves
@@ -72555,7 +72559,6 @@ siqueiros
 sir
 sirach
 siracusa
-sirc
 sirdar
 sire
 sired
@@ -72569,7 +72572,6 @@ sires
 siriasis
 sirius
 sirloin
-siroc
 sirocco
 sirra
 sirrah
@@ -72600,7 +72602,6 @@ sisyphus
 sisyridae
 sisyrinchium
 sit
-sita
 sitar
 sitch
 sitcom
@@ -82082,6 +82083,7 @@ tropaeolaceae
 tropaeolum
 trope
 trophic
+trophies
 trophobiosis
 trophoblast
 trophoblastic

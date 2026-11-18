@@ -428,8 +428,10 @@ atom
 atoned
 atonic
 atop
+atopies
 atria
 atrip
+atrophies
 ats
 att
 attars
@@ -595,6 +597,9 @@ beys
 bialy
 bias
 biased
+bice
+bicorn
+bicron
 bid
 bidi
 bids
@@ -628,7 +633,10 @@ bios
 biota
 birl
 birle
+biro
+biros
 birr
+birrs
 bis
 bise
 bises
@@ -960,6 +968,7 @@ celly
 cels
 celt
 cent
+ceorl
 cep
 cepe
 cerci
@@ -1184,6 +1193,7 @@ conk
 conky
 conn
 conned
+connor
 cons
 conus
 cony
@@ -1204,6 +1214,8 @@ corn
 corned
 corner
 corny
+corrosive
+cors
 cory
 coss
 cot
@@ -1214,6 +1226,7 @@ cottage
 cottaged
 cove
 coved
+cover
 covid
 covids
 cow
@@ -1243,14 +1256,17 @@ creole
 cress
 crew
 cria
+crib
 cried
 crip
 cripe
+cris
 crit
 croc
 crone
 croon
 crooned
+crore
 cru
 crud
 crude
@@ -1936,6 +1952,7 @@ esse
 esses
 est
 estate
+estop
 estray
 estrin
 estrual
@@ -1985,6 +2002,7 @@ exine
 exing
 exit
 exited
+exon
 expats
 exsert
 extend
@@ -2780,6 +2798,7 @@ hiss
 hist
 histing
 hists
+hit
 hits
 hoagie
 hoar
@@ -4312,6 +4331,7 @@ nona
 nonce
 noncom
 noncore
+noncorrosive
 none
 noni
 nonyl
@@ -4327,6 +4347,7 @@ nope
 nor
 nori
 noria
+noris
 norm
 nos
 nose
@@ -4346,6 +4367,7 @@ noun
 nouns
 nous
 nova
+novice
 noway
 nth
 nuclear
@@ -4513,9 +4535,12 @@ oped
 open
 opens
 opera
+ophite
+ophites
 oppo
 oppos
 ops
+opt
 opts
 opus
 ora
@@ -4532,6 +4557,7 @@ orc
 orca
 orcin
 orcins
+orcs
 ordo
 ore
 ores
@@ -4543,11 +4569,14 @@ orgs
 orgy
 orle
 orles
+orlon
 orphism
 orpin
 orpine
 orra
 orrery
+orrice
+orris
 ors
 ort
 orts
@@ -4800,6 +4829,7 @@ phones
 phoney
 phony
 phos
+pht
 phut
 pia
 pial
@@ -4820,6 +4850,7 @@ pie
 pier
 piers
 pies
+pieta
 pig
 pigboat
 pignus
@@ -4864,6 +4895,7 @@ piss
 piste
 pistes
 pit
+pita
 pith
 piths
 pitier
@@ -4910,6 +4942,7 @@ pocking
 pods
 poem
 poet
+poets
 pogo
 poi
 pointe
@@ -4950,6 +4983,7 @@ poos
 pore
 port
 ported
+ports
 pos
 pose
 posey
@@ -4958,6 +4992,7 @@ posy
 pot
 potman
 pots
+potsie
 pottos
 pout
 pouted
@@ -5004,6 +5039,8 @@ proms
 prone
 proning
 pros
+protea
+protei
 protyl
 protyle
 prove
@@ -5389,6 +5426,7 @@ reuse
 reused
 reuses
 rev
+revisor
 revoke
 revoked
 revote
@@ -5412,6 +5450,7 @@ rib
 ribs
 rice
 riced
+ricer
 richen
 ricin
 ricing
@@ -5456,6 +5495,7 @@ rites
 ritz
 ritzes
 rive
+river
 rives
 roach
 road
@@ -5474,6 +5514,7 @@ robs
 robust
 robusta
 roc
+rocs
 rod
 rode
 rodes
@@ -5516,6 +5557,8 @@ roost
 root
 roots
 rope
+ropiest
+roscoe
 rose
 rosed
 roset
@@ -5525,6 +5568,7 @@ rosy
 rot
 rota
 rote
+rotes
 roti
 rotis
 rotl
@@ -5538,6 +5582,7 @@ roup
 rouse
 roused
 rove
+rover
 roves
 row
 rowan
@@ -5705,7 +5750,10 @@ scena
 scend
 scends
 scone
+score
+scorn
 scot
+scrive
 scud
 scum
 scut
@@ -5981,6 +6029,7 @@ sith
 sits
 sitten
 situp
+siver
 size
 sizer
 skas
@@ -6231,13 +6280,16 @@ stipes
 stir
 stiver
 stoa
+stoae
 stonily
 stool
+stop
 stot
 streps
 strew
 strive
 stroll
+strop
 stud
 stuiver
 stull
@@ -6669,7 +6721,9 @@ tools
 toom
 top
 toph
+tophi
 topi
+topis
 topo
 tor
 tora
@@ -6752,6 +6806,7 @@ trolls
 tronas
 trop
 trope
+trophies
 trotyl
 trou
 trow
@@ -7071,6 +7126,7 @@ vises
 visible
 visibles
 visit
+visor
 vita
 vitae
 vitta
