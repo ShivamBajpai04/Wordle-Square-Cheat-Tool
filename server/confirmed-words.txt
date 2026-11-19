@@ -1169,6 +1169,11 @@ commos
 comms
 comp
 comparing
+comped
+compete
+competed
+compute
+computed
 con
 conceive
 conceives
@@ -1203,6 +1208,8 @@ cool
 cooly
 coon
 coos
+cope
+coped
 cor
 cord
 corded
@@ -1220,10 +1227,14 @@ cory
 coss
 cot
 cote
+coted
 cots
 cotta
 cottage
 cottaged
+coup
+coupe
+couped
 cove
 coved
 cover
@@ -1483,6 +1494,7 @@ dent
 deny
 dep
 deps
+depute
 dere
 derm
 derma
@@ -1491,6 +1503,7 @@ deshi
 desi
 desis
 desk
+detect
 deter
 dev
 deva
@@ -1905,6 +1918,7 @@ eon
 eonism
 eons
 eosin
+epee
 epibolic
 epic
 epistle
@@ -2861,6 +2875,8 @@ hoofless
 hoofs
 hoop
 hoot
+hope
+hoped
 hops
 hora
 horas
@@ -4008,6 +4024,7 @@ moas
 mobs
 moc
 mock
+mocked
 mod
 modded
 mode
@@ -4062,6 +4079,7 @@ moos
 moose
 mop
 mope
+moped
 moper
 mopish
 mopoke
@@ -4430,6 +4448,7 @@ ocker
 octal
 octan
 octaves
+octet
 octyl
 ocular
 ocularly
@@ -4594,15 +4613,20 @@ otto
 ouds
 ought
 ouph
+ouphe
 ouphs
 ours
 ousel
 oust
 outa
 outate
+outcompete
+outcompeted
 outearn
 outearns
+outed
 outie
+outkeep
 outlearn
 outlearns
 outlearnt
@@ -4742,6 +4766,7 @@ pec
 pech
 pechs
 peck
+pecked
 pecs
 ped
 pedes
@@ -4937,8 +4962,11 @@ ply
 plying
 pock
 pocked
+pocket
+pocketed
 pockier
 pocking
+poco
 pods
 poem
 poet
@@ -6545,6 +6573,7 @@ tents
 tenuti
 teopan
 tepa
+tepee
 tepid
 terai
 terais
@@ -6675,6 +6704,9 @@ tizes
 toad
 toads
 toast
+tock
+tocked
+toco
 tod
 tods
 toe
@@ -6754,6 +6786,7 @@ tother
 tots
 tough
 toughed
+toupee
 toused
 tout
 touted
@@ -6830,6 +6863,8 @@ tsubo
 tuba
 tubal
 tuck
+tucked
+tucket
 tucks
 tufa
 tuft
@@ -7076,6 +7111,8 @@ vest
 vestige
 vestiges
 vet
+veto
+vetoed
 vetoer
 vetoers
 vetoes

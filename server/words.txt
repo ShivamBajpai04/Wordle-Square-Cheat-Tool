@@ -16771,6 +16771,7 @@ compatibility
 compatible
 compatibly
 compatriot
+comped
 compeer
 compel
 compelling
@@ -16782,6 +16783,7 @@ compensated
 compensation
 compere
 compete
+competed
 competence
 competency
 competent
@@ -16904,6 +16906,7 @@ computation
 computational
 computationally
 compute
+computed
 computer
 computerise
 computerization
@@ -18499,6 +18502,7 @@ county
 countywide
 coup
 coupe
+couped
 couperin
 couple
 coupled
@@ -54804,7 +54808,6 @@ ochs
 ocimum
 ocker
 ockham
-ocote
 ocotillo
 ocrea
 octad
@@ -56098,7 +56101,6 @@ oumas
 ounce
 ounces
 oundy
-ouped
 ouph
 ouphe
 ouphs
@@ -56136,6 +56138,8 @@ outcaste
 outclass
 outclassed
 outcome
+outcompete
+outcompeted
 outcrop
 outcropping
 outcry
@@ -56180,6 +56184,7 @@ outguess
 outhouse
 outie
 outing
+outkeep
 outlander
 outlandish
 outlandishly
@@ -58189,7 +58194,6 @@ peccary
 pech
 pechs
 peck
-pecke
 pecked
 pecker
 peckerwood
@@ -60903,6 +60907,7 @@ pocket
 pocketable
 pocketbook
 pocketcomb
+pocketed
 pocketful
 pocketknife
 pockier
@@ -60911,6 +60916,7 @@ pockmark
 pockmarked
 pocks
 pocky
+poco
 pod
 podalgia
 podalyria
@@ -60980,7 +60986,6 @@ pogrom
 pogue
 pogy
 poh
-pohed
 poi
 poignance
 poignancy
@@ -61804,7 +61809,6 @@ potto
 pottos
 potty
 potyokin
-pouce
 pouch
 pouched
 pouchlike
@@ -79550,7 +79554,6 @@ teuton
 teutonic
 teutonist
 tevere
-tevet
 tew
 tewed
 tewel
@@ -80612,9 +80615,12 @@ tocainide
 tocantins
 toccata
 tocharian
+tock
+tocked
 tocks
 tocktact
 tocky
+toco
 tocology
 tocopherol
 tocos
@@ -81103,9 +81109,7 @@ touks
 toulon
 toulouse
 touns
-toupe
 toupee
-toupeed
 tour
 touraco
 toured
@@ -82431,7 +82435,6 @@ tuns
 tup
 tupaia
 tupaiidae
-tupek
 tupelo
 tupik
 tupinambis
