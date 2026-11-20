@@ -24733,6 +24733,7 @@ duodecimal
 duodenal
 duodenum
 duodiode
+duolog
 duologue
 duomi
 duomo
@@ -26642,7 +26643,6 @@ enzymology
 eocene
 eohippus
 eolian
-eolid
 eolith
 eolithic
 eolotropic
@@ -34603,8 +34603,6 @@ gushing
 gushingly
 gushy
 gusla
-gusle
-gusli
 gusset
 gusseted
 gussy
@@ -38711,6 +38709,7 @@ ilion
 ilium
 ilk
 ilka
+ilks
 ill
 illampu
 illation
@@ -41325,6 +41324,7 @@ isolationistic
 isolde
 isoleucine
 isolex
+isolog
 isomer
 isomerase
 isomeric
@@ -44930,7 +44930,6 @@ lesbianism
 lesbos
 lescol
 lesion
-lesos
 lesotho
 lespedeza
 lesquerella
@@ -45933,6 +45932,7 @@ locomotive
 locomotor
 locos
 locoweed
+locs
 locular
 locule
 loculus
@@ -46050,7 +46050,6 @@ lollop
 lolls
 lolly
 lollygag
-lolog
 loloish
 lomariopsidaceae
 lomatia
@@ -46230,6 +46229,7 @@ los
 lose
 losed
 losel
+losels
 losen
 loser
 losers
@@ -55969,6 +55969,7 @@ ossete
 ossia
 ossianism
 ossicle
+ossicles
 ossicular
 ossiculate
 ossiculum
@@ -56096,7 +56097,6 @@ ouguiya
 ouija
 oujda
 ouk
-oulks
 oumas
 ounce
 ounces
@@ -56111,6 +56111,7 @@ ourey
 ourie
 ours
 ousel
+ousels
 oust
 ousted
 ouster
@@ -70095,7 +70096,6 @@ scott
 scottie
 scottish
 scottishness
-scoug
 scoundrel
 scoundrelly
 scoup
@@ -70261,7 +70261,6 @@ scrutinize
 scrutinizer
 scrutiny
 scry
-scsi
 scuba
 scud
 scudding
@@ -73103,6 +73102,7 @@ sloganeering
 slogger
 slogs
 sloid
+sloids
 slojd
 sloka
 sloke
@@ -73205,7 +73205,6 @@ slurp
 slurred
 slurry
 slurs
-sluse
 slush
 slushy
 slut
@@ -73680,6 +73679,7 @@ sockeye
 socko
 socks
 socle
+socles
 socrates
 socratic
 sod
@@ -73842,6 +73842,7 @@ solidifying
 solidity
 solidly
 solidness
+solids
 solidus
 soliloquise
 soliloquize
@@ -76937,7 +76938,6 @@ suhur
 suicidal
 suicide
 suidae
-suids
 suillus
 suing
 suint

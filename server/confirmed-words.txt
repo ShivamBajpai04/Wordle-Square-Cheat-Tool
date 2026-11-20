@@ -1086,14 +1086,18 @@ clip
 clit
 clock
 clod
+clods
 clog
 clon
 clone
 clonk
 clop
+close
 clot
 cloth
 clothlike
+cloud
+clouds
 clough
 clout
 cloy
@@ -1143,10 +1147,12 @@ cola
 cold
 cole
 coled
+coles
 colic
 colin
 collar
 colly
+colog
 colon
 cols
 colt
@@ -1561,6 +1567,7 @@ dino
 dint
 diode
 diol
+diols
 dip
 diplomas
 dipper
@@ -1747,6 +1754,7 @@ duns
 dunt
 dunting
 dunts
+duolog
 duos
 dupe
 duper
@@ -1756,6 +1764,8 @@ dure
 during
 duro
 durst
+dusk
+dusks
 dust
 dustily
 dusting
@@ -2507,11 +2517,13 @@ glib
 glide
 glim
 glom
+gloss
 glost
 glout
 glue
 glued
 glues
+glug
 gluier
 glut
 glute
@@ -2954,6 +2966,7 @@ idler
 idles
 idly
 idol
+idols
 idyl
 idyll
 iftar
@@ -2966,6 +2979,7 @@ ilea
 ilex
 iliads
 ilka
+ilks
 ill
 illude
 illudes
@@ -3055,6 +3069,7 @@ isle
 isles
 islets
 ism
+isolog
 issue
 issued
 issues
@@ -3242,6 +3257,7 @@ koel
 kois
 kola
 kolo
+kolos
 koph
 kops
 kor
@@ -3470,6 +3486,8 @@ licit
 lick
 licker
 lid
+lido
+lidos
 lids
 lie
 lied
@@ -3560,7 +3578,9 @@ loche
 loci
 locie
 locing
+locis
 lock
+locs
 locular
 locule
 lode
@@ -3572,6 +3592,7 @@ logic
 logo
 logos
 loid
+loids
 loin
 lol
 loll
@@ -3603,6 +3624,7 @@ lore
 lorn
 lose
 losel
+losels
 loses
 loss
 losses
@@ -3639,6 +3661,8 @@ lucre
 lud
 lude
 ludes
+ludo
+ludos
 luds
 lues
 luge
@@ -4463,6 +4487,7 @@ odea
 odes
 odeums
 odic
+odious
 ods
 odyl
 oes
@@ -4605,6 +4630,8 @@ ose
 oses
 osmium
 ossa
+ossicle
+ossicles
 ostraca
 other
 othering
@@ -4617,6 +4644,7 @@ ouphe
 ouphs
 ours
 ousel
+ousels
 oust
 outa
 outate
@@ -5781,6 +5809,7 @@ scone
 score
 scorn
 scot
+scouse
 scrive
 scud
 scum
@@ -6093,7 +6122,11 @@ slip
 slipe
 slit
 slob
+sloe
+sloes
 slog
+sloid
+sloids
 slop
 slops
 slot
@@ -6164,6 +6197,8 @@ socialised
 socialiser
 socialises
 socials
+socle
+socles
 sod
 soda
 sods
@@ -6184,6 +6219,9 @@ sole
 soleness
 soles
 soli
+solid
+solids
+solidus
 solo
 sols
 solus
@@ -6242,6 +6280,7 @@ soups
 soupspoon
 soupspoons
 sous
+souse
 souser
 souslik
 sows
@@ -6339,6 +6378,7 @@ succinyl
 suck
 sucre
 sudor
+suds
 sue
 sued
 suede
@@ -6354,6 +6394,8 @@ suit
 suk
 sukkot
 sulci
+sulk
+sulks
 sum
 sumi
 sumo
