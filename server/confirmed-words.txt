@@ -261,6 +261,7 @@ amu
 amus
 amuse
 amused
+amuser
 amuses
 amyl
 ana
@@ -287,6 +288,7 @@ animi
 animus
 anis
 anise
+anises
 ankh
 anoa
 anoas
@@ -314,8 +316,10 @@ anting
 antiquary
 antres
 ants
+anuresis
 anuric
 anus
+anuses
 anymore
 anyon
 anyone
@@ -452,6 +456,7 @@ auricle
 auto
 autologous
 ava
+avant
 avaunt
 averter
 averters
@@ -2607,6 +2612,8 @@ grove
 groves
 grovy
 grr
+grum
+grunt
 guac
 guacs
 guan
@@ -2677,6 +2684,8 @@ hams
 hang
 hanked
 hant
+hantavirus
+hantaviruses
 hantle
 hao
 haos
@@ -3045,6 +3054,7 @@ inti
 into
 inure
 inured
+inures
 invert
 inverted
 iodic
@@ -3802,6 +3812,8 @@ mantua
 manuary
 manure
 manured
+manures
+manus
 many
 map
 maple
@@ -3833,6 +3845,11 @@ matin
 mats
 maun
 maut
+mavie
+mavies
+mavin
+mavis
+mavises
 maw
 mawn
 maws
@@ -4143,6 +4160,7 @@ moves
 moxa
 moxas
 mud
+mugs
 mule
 muleta
 muletas
@@ -4156,9 +4174,13 @@ munis
 muntin
 muon
 mure
+murein
+mures
+murex
 mus
 muse
 mused
+muser
 muses
 mush
 muslin
@@ -4237,6 +4259,7 @@ navar
 navars
 nave
 naves
+navies
 navs
 navy
 nduja
@@ -4339,6 +4362,7 @@ nits
 nitty
 nixe
 nixed
+nixes
 nizam
 nobilities
 nobility
@@ -4425,6 +4449,8 @@ nulls
 nuns
 nurl
 nurls
+nurse
+nurses
 nus
 nut
 nutlet
@@ -5546,6 +5572,7 @@ ripper
 rips
 rise
 riser
+rises
 rite
 rites
 ritz
@@ -5747,6 +5774,7 @@ saned
 saner
 sang
 sangha
+sanies
 sank
 sans
 sap
@@ -5776,7 +5804,9 @@ sauger
 saugh
 saul
 sauna
+savant
 savarins
+savin
 savoy
 saws
 sax
@@ -5927,6 +5957,8 @@ serge
 series
 serin
 sers
+serum
+servant
 servo
 sesh
 set
@@ -5963,6 +5995,8 @@ shaman
 shame
 shamed
 shat
+shavie
+shavies
 she
 shea
 shed
@@ -6066,14 +6100,18 @@ sing
 sings
 sinh
 sins
+sinus
+sinuses
 sip
 sipe
 sipes
 sir
 sire
 siree
+sires
 sirra
 sirras
+sirs
 sis
 sisal
 sisals
@@ -6087,6 +6125,9 @@ sits
 sitten
 situp
 siver
+sixer
+sixers
+sixes
 size
 sizer
 skas
@@ -6315,6 +6356,7 @@ spunk
 squad
 squall
 sri
+sris
 stab
 stag
 stalag
@@ -6407,6 +6449,7 @@ sunk
 sunlit
 sunn
 sunned
+sunrise
 suns
 sup
 supe
@@ -7002,6 +7045,7 @@ unfed
 unhasp
 uni
 unis
+unisex
 unit
 unite
 uniter
@@ -7103,6 +7147,7 @@ van
 vane
 vanes
 vang
+vanish
 vans
 var
 vara
@@ -7187,6 +7232,9 @@ viler
 vims
 vin
 vina
+vinas
+vinasse
+vinasses
 vine
 vines
 vino
@@ -7199,7 +7247,10 @@ virl
 virls
 virtu
 virtue
+virus
+viruses
 vis
+visa
 vise
 vises
 visible
@@ -7432,6 +7483,7 @@ xenia
 xenic
 xerarch
 xeric
+xerus
 yage
 yager
 yagers

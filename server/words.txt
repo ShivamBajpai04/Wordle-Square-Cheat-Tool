@@ -3642,6 +3642,7 @@ anise
 aniseed
 aniseikonia
 aniseikonic
+anises
 anisette
 anisogamete
 anisogametic
@@ -4179,6 +4180,7 @@ anuria
 anuric
 anurous
 anus
+anuses
 anvers
 anvil
 anxiety
@@ -5751,7 +5753,6 @@ asuncion
 asunder
 asura
 asurbanipal
-asvina
 asvins
 aswan
 asway
@@ -6403,7 +6404,6 @@ avionic
 avionics
 avions
 avirulent
-avise
 aviso
 avitaminosis
 avitaminotic
@@ -27014,7 +27014,6 @@ eristical
 erithacus
 eritrea
 eritrean
-erivan
 erk
 erlang
 erlenmeyer
@@ -34056,7 +34055,6 @@ grege
 grego
 gregorian
 gregory
-grein
 greisen
 gremlin
 grenada
@@ -34150,7 +34148,6 @@ gripsack
 gript
 gripy
 grisaille
-grise
 griselinia
 griseofulvin
 grisly
@@ -34322,6 +34319,7 @@ gruffness
 grugru
 gruidae
 gruiformes
+grum
 grumble
 grumbler
 grumbling
@@ -34539,7 +34537,6 @@ gumshoe
 gumweed
 gumwood
 gun
-gunas
 gunboat
 guncotton
 gundy
@@ -35293,6 +35290,8 @@ hansard
 hanse
 hansom
 hant
+hantavirus
+hantaviruses
 hantle
 hants
 hanukah
@@ -35600,7 +35599,6 @@ hautboy
 haute
 hauter
 hauteur
-havan
 havana
 havarti
 havasupai
@@ -40912,6 +40910,7 @@ inundated
 inundation
 inure
 inured
+inures
 inurn
 inutile
 inutility
@@ -47776,6 +47775,7 @@ manumit
 manumitter
 manure
 manured
+manures
 manus
 manuscript
 manx
@@ -48343,9 +48343,11 @@ mauzy
 maven
 maverick
 mavie
+mavies
 mavik
 mavin
 mavis
+mavises
 maw
 mawed
 mawkish
@@ -51542,6 +51544,7 @@ mugho
 mugilidae
 mugiloidea
 mugos
+mugs
 mugshot
 mugwort
 mugwump
@@ -51747,6 +51750,7 @@ murderousness
 murdoch
 mure
 mured
+murein
 mures
 murex
 murgh
@@ -51783,7 +51787,6 @@ murry
 murth
 murti
 muruk
-murva
 mus
 musaceae
 musales
@@ -52464,12 +52467,10 @@ naseby
 nashi
 nashville
 nasion
-nasis
 nason
 nasopharyngeal
 nasopharynx
 nassau
-nasser
 nastika
 nastily
 nastiness
@@ -52576,6 +52577,7 @@ nave
 navel
 naves
 navicular
+navies
 navigability
 navigable
 navigate
@@ -53281,7 +53283,6 @@ niece
 nieces
 nielsen
 nierembergia
-niess
 nietzsche
 nietzscheanism
 nieve
@@ -53435,7 +53436,6 @@ niseis
 nisi
 nisin
 nissan
-nisse
 nisus
 nit
 nite
@@ -53487,7 +53487,6 @@ nitweed
 nitwit
 nitwitted
 nival
-nivas
 nivose
 nix
 nixe
@@ -54423,7 +54422,6 @@ nurturant
 nurture
 nurtz
 nus
-nuses
 nusku
 nut
 nutate
@@ -67656,7 +67654,6 @@ risky
 risotto
 risps
 risque
-rissa
 rissole
 rists
 risus
@@ -67683,7 +67680,6 @@ rival
 rivalrous
 rivalry
 rivals
-rivas
 rive
 rived
 rivel
@@ -69181,7 +69177,6 @@ sans
 sansa
 sansevieria
 sanskrit
-santa
 santalaceae
 santalales
 santalum
@@ -71099,7 +71094,6 @@ serigraph
 serigraphy
 serin
 serine
-serinus
 seriocomedy
 seriocomic
 seriocomical
@@ -71516,6 +71510,8 @@ shaven
 shaver
 shaves
 shavian
+shavie
+shavies
 shaving
 shavous
 shavuot
@@ -72540,6 +72536,7 @@ sinuous
 sinuously
 sinuousness
 sinus
+sinuses
 sinusitis
 sinusoid
 sinusoidal
@@ -72579,6 +72576,7 @@ sirocco
 sirra
 sirrah
 sirras
+sirs
 sirup
 sis
 sisal
@@ -72628,14 +72626,13 @@ situation
 situp
 situs
 sitwell
-siva
 sivaism
-sivan
 sivapithecus
 siver
 siwan
 six
 sixer
+sixers
 sixes
 sixfold
 sixmo
@@ -75209,6 +75206,7 @@ sravana
 srbija
 sri
 sriracha
+sris
 srsly
 ssmg
 ssri
@@ -77110,7 +77108,6 @@ sung
 sunglass
 sunglasses
 sunhat
-sunis
 sunk
 sunken
 sunks
@@ -77401,7 +77398,6 @@ surging
 surgy
 suricata
 suricate
-surinam
 suriname
 surjection
 surlily
@@ -78445,13 +78441,11 @@ tamponade
 tamponage
 tamps
 tams
-tamus
 tan
 tanacetum
 tanach
 tanager
 tanakh
-tanas
 tanbark
 tancred
 tandearil
@@ -78764,7 +78758,6 @@ tautology
 tauts
 tauty
 tav
-tavas
 tavern
 tavs
 taw
@@ -85528,7 +85521,6 @@ urination
 urinator
 urine
 urines
-urman
 urmia
 urn
 urnal
@@ -85581,7 +85573,6 @@ uruguay
 uruguayan
 urupa
 urus
-urvas
 usability
 usable
 usableness
@@ -86703,6 +86694,8 @@ vinaceous
 vinaigrette
 vinal
 vinas
+vinasse
+vinasses
 vinblastine
 vinca
 vincetoxicum
@@ -86833,6 +86826,7 @@ virulency
 virulent
 virulently
 virus
+viruses
 virusoid
 vis
 visa
