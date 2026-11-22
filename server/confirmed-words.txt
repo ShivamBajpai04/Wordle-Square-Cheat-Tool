@@ -1146,6 +1146,8 @@ coincide
 coincided
 coincident
 coincidently
+coiner
+coins
 coir
 col
 cola
@@ -1206,11 +1208,18 @@ conin
 conine
 coning
 conk
+conker
+conks
 conky
 conn
 conned
 connor
 cons
+consume
+consumer
+consumerism
+consumerisms
+consumes
 conus
 cony
 coo
@@ -1256,6 +1265,7 @@ cower
 cowhide
 cowhided
 coy
+coziness
 craal
 crack
 crackie
@@ -2618,8 +2628,10 @@ guac
 guacs
 guan
 guck
+gucks
 gude
 gudes
+guess
 guid
 guide
 guider
@@ -3017,6 +3029,7 @@ incog
 incubi
 incult
 incur
+incus
 index
 indue
 indues
@@ -3037,6 +3050,7 @@ ink
 inked
 inker
 inkier
+inks
 inlier
 inly
 inmost
@@ -3079,6 +3093,7 @@ isle
 isles
 islets
 ism
+isms
 isolog
 issue
 issued
@@ -3195,6 +3210,7 @@ kepis
 keps
 kerf
 kerfed
+kermis
 kern
 kerning
 kerns
@@ -3242,8 +3258,10 @@ kins
 kip
 kips
 kir
+kirmess
 kirn
 kis
+kiss
 kist
 kits
 klatch
@@ -3993,6 +4011,8 @@ miens
 mig
 migs
 mihrab
+mike
+mikes
 mil
 mile
 milf
@@ -4039,6 +4059,7 @@ mioses
 mips
 mir
 mire
+mires
 miri
 mirk
 mirs
@@ -4048,6 +4069,7 @@ miser
 mises
 misevent
 miso
+miss
 mist
 misty
 mite
@@ -4159,6 +4181,10 @@ move
 moves
 moxa
 moxas
+muck
+mucker
+muckier
+mucks
 mud
 mugs
 mule
@@ -4273,6 +4299,7 @@ neath
 neats
 neck
 necking
+necks
 necromancy
 nee
 need
@@ -4370,6 +4397,7 @@ nobs
 nock
 nocked
 nocking
+nocks
 nod
 nodder
 node
@@ -4542,6 +4570,7 @@ oilman
 oils
 oily
 oink
+oinks
 okas
 okay
 okayed
@@ -5352,8 +5381,11 @@ recit
 reciting
 reck
 recking
+recks
 recoin
+recoins
 recon
+recons
 recs
 recta
 rectal
@@ -5436,6 +5468,7 @@ remade
 reman
 remand
 remet
+remiss
 rems
 renal
 rename
@@ -5551,6 +5584,7 @@ riles
 rill
 rim
 rime
+rimes
 rimple
 rimples
 rims
@@ -5571,8 +5605,11 @@ ripes
 ripper
 rips
 rise
+risen
 riser
 rises
+risk
+risks
 rite
 rites
 ritz
@@ -5836,6 +5873,7 @@ scena
 scend
 scends
 scone
+scones
 score
 scorn
 scot
@@ -5862,6 +5900,7 @@ second
 seconde
 secondes
 seconds
+secs
 sect
 secund
 securitize
@@ -5935,6 +5974,7 @@ sense
 sensed
 senses
 sensor
+sensum
 sent
 senti
 sents
@@ -6108,6 +6148,8 @@ sipes
 sir
 sire
 siree
+siren
+sirens
 sires
 sirra
 sirras
@@ -6134,6 +6176,9 @@ skas
 skat
 sked
 skee
+skier
+skies
+skim
 skip
 skis
 skol
@@ -6197,6 +6242,8 @@ snail
 snap
 snark
 sneap
+sneck
+snecks
 sned
 snedded
 snell
@@ -6238,8 +6285,11 @@ socialised
 socialiser
 socialises
 socials
+sock
+socks
 socle
 socles
+socmen
 sod
 soda
 sods
@@ -6327,6 +6377,10 @@ souslik
 sows
 soy
 soya
+sozin
+sozine
+sozines
+sozins
 spa
 spanked
 spar
@@ -6418,6 +6472,9 @@ sublessee
 subs
 succinyl
 suck
+sucker
+suckier
+sucks
 sucre
 sudor
 suds
@@ -6440,6 +6497,7 @@ sulk
 sulks
 sum
 sumi
+sumis
 sumo
 sums
 sumy
@@ -7559,9 +7617,16 @@ zendos
 zest
 zeta
 zetas
+zinc
+zinco
+zincos
 zine
 zineb
+zines
 zona
 zone
 zoner
+zones
+zonk
+zonks
 zooning

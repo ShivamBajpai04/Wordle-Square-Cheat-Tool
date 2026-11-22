@@ -17514,6 +17514,8 @@ consumable
 consume
 consumer
 consumerism
+consumerisms
+consumes
 consuming
 consummate
 consummated
@@ -39823,7 +39825,6 @@ inequitable
 inequitably
 inequity
 ineradicable
-inerm
 inerrable
 inerrancy
 inerrant
@@ -40172,6 +40173,7 @@ inkle
 inkling
 inkpad
 inkpot
+inks
 inkstand
 inkwell
 inky
@@ -41255,7 +41257,6 @@ isherwood
 ishmael
 ishtar
 isinglass
-iskcon
 islamabad
 islamic
 islamise
@@ -41276,6 +41277,7 @@ ism
 ismaili
 ismailian
 ismailism
+isms
 isnae
 isoagglutination
 isoagglutinin
@@ -42753,6 +42755,7 @@ kerion
 kerite
 kerky
 kerma
+kermis
 kern
 kerne
 kernel
@@ -43109,6 +43112,7 @@ kirk
 kirkia
 kirks
 kirkuk
+kirmess
 kirn
 kirns
 kirpan
@@ -48572,7 +48576,6 @@ mechanize
 mechanized
 mecholyl
 mechs
-mecks
 meclizine
 meclofenamate
 meclomen
@@ -48756,7 +48759,6 @@ meils
 meiny
 meiosis
 meiotic
-meism
 meissner
 meitner
 meitnerium
@@ -49111,7 +49113,6 @@ meril
 meringue
 merino
 meriones
-meris
 meristem
 merit
 meritable
@@ -51452,7 +51453,6 @@ mpret
 mrads
 mrem
 msasa
-msec
 mtepe
 muadhdhin
 muazzin
@@ -51469,8 +51469,10 @@ mucin
 mucinoid
 mucinous
 muck
+mucker
 muckheap
 muckhill
+muckier
 muckle
 mucko
 muckrake
@@ -52979,7 +52981,6 @@ nervure
 nervy
 nescience
 nescient
-neski
 nesokia
 ness
 nesselrode
@@ -55282,7 +55283,6 @@ oncology
 oncoming
 oncorhynchus
 oncovin
-oncus
 ondaatje
 ondatra
 ondol
@@ -65628,6 +65628,7 @@ recognized
 recoil
 recoilless
 recoin
+recoins
 recollect
 recollection
 recollective
@@ -65657,6 +65658,7 @@ reconnoitering
 reconnoitre
 reconnoitring
 reconquer
+recons
 reconsecrate
 reconsider
 reconsideration
@@ -66179,7 +66181,6 @@ reigning
 reignite
 reigns
 reiki
-reiks
 reimburse
 reimbursement
 reimpose
@@ -66420,7 +66421,6 @@ remunerated
 remuneration
 remunerative
 remunerator
-remus
 renaissance
 renal
 rename
@@ -67564,8 +67564,6 @@ rimose
 rimple
 rimples
 rims
-rimu
-rimus
 rimy
 rin
 rince
@@ -70478,6 +70476,7 @@ secretiveness
 secretly
 secretor
 secretory
+secs
 sect
 sectarian
 sectarianism
@@ -70931,6 +70930,7 @@ sensuality
 sensualize
 sensually
 sensualness
+sensum
 sensuous
 sensuously
 sensuousness
@@ -72201,7 +72201,6 @@ siege
 siegfried
 siemens
 sienna
-siens
 sierra
 siesta
 sieur
@@ -72712,7 +72711,6 @@ skell
 skelm
 skelp
 skene
-skens
 skeos
 skep
 skepful
@@ -72721,7 +72719,6 @@ skeptic
 skeptical
 skeptically
 skepticism
-skerm
 skers
 sketch
 sketchbook
@@ -73434,6 +73431,7 @@ sneaky
 sneap
 snebs
 sneck
+snecks
 sned
 snedded
 sneds
@@ -73677,6 +73675,7 @@ socko
 socks
 socle
 socles
+socmen
 socrates
 socratic
 sod
@@ -74263,6 +74262,9 @@ soyle
 soymilk
 soyuz
 sozin
+sozine
+sozines
+sozins
 sozzled
 spa
 space
@@ -76840,6 +76842,7 @@ suck
 sucked
 sucker
 suckerfish
+suckier
 sucking
 suckle
 suckled
@@ -77023,7 +77026,6 @@ sumac
 sumach
 sumatra
 sumatran
-sumer
 sumerian
 sumerology
 sumi
@@ -89963,7 +89965,7 @@ zin
 zinacef
 zinc
 zinco
-zincs
+zincos
 zincy
 zine
 zineb
@@ -89975,16 +89977,12 @@ zingiberaceae
 zings
 zingy
 zinjanthropus
-zinke
 zinkenite
 zinky
 zinnemann
 zinnia
 zinnwaldite
-zinos
-zinsser
 zinzendorf
-zion
 zionism
 zionist
 zip
@@ -90050,6 +90048,7 @@ zone
 zoned
 zoner
 zones
+zonk
 zonked
 zonks
 zonotrichia
