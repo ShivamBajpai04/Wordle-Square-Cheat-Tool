@@ -48,6 +48,7 @@ acta
 acted
 actin
 acting
+action
 acts
 aculei
 acyl
@@ -286,10 +287,13 @@ anima
 anime
 animi
 animus
+anion
 anis
 anise
 anises
 ankh
+anna
+annunciation
 anoa
 anoas
 anode
@@ -430,6 +434,7 @@ atman
 atoll
 atom
 atoned
+atonia
 atonic
 atop
 atopies
@@ -834,6 +839,7 @@ cabs
 caca
 cacas
 caconym
+cacti
 cad
 caddis
 cade
@@ -884,6 +890,8 @@ canes
 canid
 canine
 caning
+canna
+cannot
 canola
 canon
 cans
@@ -943,6 +951,7 @@ cater
 cates
 cath
 caths
+cation
 cats
 cattie
 catting
@@ -1371,6 +1380,7 @@ cutely
 cuter
 cutes
 cutey
+cutie
 cutin
 cutins
 cuts
@@ -2031,10 +2041,13 @@ evoke
 evoked
 ewe
 ewes
+exact
+exaction
 exam
 example
 exarchs
 exarchy
+exciton
 exed
 exerts
 exine
@@ -3061,6 +3074,7 @@ inro
 inros
 ins
 insist
+intact
 integer
 intel
 inter
@@ -4252,6 +4266,7 @@ namer
 nan
 nana
 nanism
+nanna
 nano
 nans
 naoi
@@ -4456,6 +4471,7 @@ nota
 notal
 note
 nother
+notice
 notum
 noun
 nouns
@@ -4474,6 +4490,7 @@ nuke
 nuked
 null
 nulls
+nuncio
 nuns
 nurl
 nurls
@@ -4618,6 +4635,7 @@ only
 ono
 onos
 ons
+ontic
 onto
 onus
 onyx
@@ -6566,6 +6584,7 @@ tach
 tache
 tacit
 taco
+tact
 tad
 tads
 tae
@@ -6605,6 +6624,7 @@ tangy
 tank
 tankas
 tanker
+tannic
 tans
 tao
 tap
@@ -6803,6 +6823,7 @@ time
 times
 tin
 tincal
+tinct
 tincts
 tinder
 tine
@@ -7027,6 +7048,8 @@ tuned
 tung
 tungs
 tunic
+tunica
+tunicae
 tunics
 tuning
 tuns
@@ -7079,6 +7102,8 @@ unbased
 unbe
 unbiased
 unci
+uncia
+unciae
 uncle
 unclear
 unclearly
@@ -7102,6 +7127,8 @@ undy
 unfed
 unhasp
 uni
+unica
+union
 unis
 unisex
 unit

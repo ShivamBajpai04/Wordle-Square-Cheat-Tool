@@ -3687,11 +3687,9 @@ annals
 annam
 annamese
 annamite
-annan
 annapolis
 annapurna
 annas
-annat
 anneal
 annealing
 annelid
@@ -12383,7 +12381,6 @@ cancerweed
 cancha
 cancridae
 cancroid
-cancun
 candela
 candelabra
 candelabrum
@@ -15202,7 +15199,6 @@ cincinnati
 cincinnatus
 cinclidae
 cinclus
-cinct
 cincture
 cinder
 cinderella
@@ -27751,6 +27747,7 @@ excitedly
 excitement
 exciting
 excitingly
+exciton
 excitotoxin
 exclaim
 exclaiming
@@ -39275,7 +39272,6 @@ inanimate
 inanimateness
 inanition
 inanity
-inanna
 inapplicability
 inapplicable
 inapposite
@@ -52256,7 +52252,6 @@ nahum
 naiad
 naiadaceae
 naiadales
-naiant
 naids
 naif
 naifs
@@ -52353,9 +52348,7 @@ nanovolt
 nans
 nansen
 nantes
-nanti
 nanticoke
-nanto
 nantua
 nantucket
 nanty
@@ -78493,12 +78486,10 @@ tanker
 tankful
 tanks
 tanky
-tanna
 tanned
 tannenberg
 tanner
 tannery
-tannia
 tannic
 tannin
 tanning
@@ -80233,7 +80224,6 @@ ticca
 tichodroma
 tichodrome
 tichy
-ticino
 tick
 ticked
 ticker
@@ -82306,7 +82296,6 @@ tubocurarine
 tubular
 tubule
 tubulidentata
-tucana
 tuchman
 tuck
 tuckahoe
@@ -82415,6 +82404,7 @@ tunguska
 tunguz
 tunic
 tunica
+tunicae
 tunicata
 tunicate
 tunics
@@ -83288,6 +83278,7 @@ unchristlike
 unchurch
 unci
 uncia
+unciae
 uncial
 uncivil
 uncivilised
@@ -84092,7 +84083,6 @@ unhurt
 unhygienic
 unhygienically
 uni
-uniat
 uniate
 unica
 unicameral
