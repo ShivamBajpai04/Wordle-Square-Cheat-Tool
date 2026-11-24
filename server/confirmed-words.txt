@@ -36,6 +36,7 @@ acinar
 acing
 acini
 ack
+acme
 acne
 acnes
 acold
@@ -137,6 +138,7 @@ ails
 aim
 aimed
 aimer
+aiming
 aims
 ain
 ains
@@ -863,11 +865,15 @@ caky
 cal
 calamar
 calamary
+calcimine
+calcine
 caleche
+calk
 call
 calla
 callet
 calo
+calos
 cals
 calx
 cam
@@ -1058,8 +1064,10 @@ ciao
 cider
 cig
 cigar
+cimex
 cinder
 cine
+cinema
 cines
 cion
 circa
@@ -1072,9 +1080,12 @@ citing
 citola
 city
 civie
+clack
 clad
 clade
 clag
+claim
+claiming
 clam
 clan
 clank
@@ -2048,6 +2059,8 @@ example
 exarchs
 exarchy
 exciton
+exclaim
+exclaiming
 exed
 exerts
 exine
@@ -2420,6 +2433,9 @@ gays
 gaze
 gear
 gearhead
+geck
+gecko
+geckos
 ged
 geds
 gee
@@ -2984,6 +3000,7 @@ ices
 ich
 icier
 icing
+icings
 ick
 icker
 icon
@@ -3059,6 +3076,7 @@ inferrer
 infers
 ingle
 inia
+inimical
 ink
 inked
 inker
@@ -3333,6 +3351,7 @@ lace
 laced
 lacier
 lacing
+lacings
 lack
 lacs
 lactam
@@ -3366,6 +3385,7 @@ lamellas
 laments
 lames
 lamia
+laming
 lamp
 lams
 lanai
@@ -3767,6 +3787,8 @@ mach
 mache
 maches
 machs
+macing
+mack
 macon
 macro
 macs
@@ -3914,6 +3936,7 @@ meant
 measle
 meat
 meats
+mecca
 mech
 mechs
 med
@@ -4069,6 +4092,7 @@ minty
 minus
 minute
 minutes
+minx
 mioses
 mips
 mir
@@ -4356,6 +4380,7 @@ neve
 neves
 newb
 next
+nexus
 niacin
 nib
 nibs
@@ -4752,6 +4777,7 @@ owls
 owly
 owner
 owse
+oxen
 oxer
 oyer
 oyes
@@ -5890,6 +5916,8 @@ scaur
 scena
 scend
 scends
+scenic
+scenical
 scone
 scones
 score
@@ -6323,6 +6351,8 @@ sojas
 soju
 soke
 sola
+solace
+solacing
 solano
 sole
 soleness

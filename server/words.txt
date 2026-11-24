@@ -2218,7 +2218,6 @@ alcoholic
 alcoholise
 alcoholism
 alcoholize
-alcos
 alcott
 alcove
 alcyonacea
@@ -2429,7 +2428,6 @@ alkene
 alkeran
 alkie
 alkin
-alkos
 alky
 alkyd
 alkyl
@@ -2936,7 +2934,6 @@ amethystine
 ametria
 ametropia
 ametropic
-amex
 amharic
 ami
 amia
@@ -15394,6 +15391,7 @@ clag
 clags
 claim
 claimant
+claiming
 claims
 clair
 clairvoyance
@@ -25127,7 +25125,6 @@ ecclesiastically
 ecclesiasticism
 ecclesiasticus
 ecclesiology
-eccm
 eccrine
 eccyesis
 ecdemic
@@ -32280,7 +32277,9 @@ geastraceae
 geastrum
 gebel
 gebur
+geck
 gecko
+geckos
 gecks
 ged
 geds
@@ -38497,6 +38496,7 @@ icier
 icily
 iciness
 icing
+icings
 ick
 icker
 ickle
@@ -43702,6 +43702,7 @@ lachrymatory
 lachrymose
 lacier
 lacing
+lacings
 laciniate
 lack
 lacka
@@ -43934,6 +43935,7 @@ laminate
 lamination
 laminator
 laminectomy
+laming
 laminitis
 lamisil
 lamium
@@ -46944,6 +46946,7 @@ machismo
 machmeter
 macho
 machs
+macing
 macintosh
 mack
 macka
@@ -52819,7 +52822,6 @@ nemertean
 nemertina
 nemertine
 nemesis
-nemic
 nemns
 nemophila
 nempt
@@ -54733,7 +54735,6 @@ obviousness
 oca
 ocarina
 ocas
-occam
 occasion
 occasional
 occasionally
@@ -69740,6 +69741,7 @@ scenery
 scenes
 sceneshifter
 scenic
+scenical
 scenically
 scent
 scented
@@ -69981,7 +69983,6 @@ sclerotiniaceae
 sclerotium
 sclerotomy
 sclim
-sclk
 scobe
 scody
 scoff
@@ -73750,6 +73751,7 @@ sol
 sola
 solace
 solacement
+solacing
 solan
 solanaceae
 solanaceous
@@ -89219,7 +89221,6 @@ xanthosoma
 xanthous
 xantusiidae
 xavier
-xcii
 xciii
 xciv
 xcvi
