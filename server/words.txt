@@ -780,6 +780,7 @@ acold
 acolyte
 aconcagua
 aconite
+aconites
 aconitum
 acoraceae
 acores
@@ -3476,7 +3477,6 @@ aneurysm
 aneurysmal
 aneurysmatic
 anew
-anfo
 anfractuous
 anga
 angara
@@ -7085,6 +7085,7 @@ banal
 banality
 banana
 banausic
+banc
 banco
 bancs
 band
@@ -7146,7 +7147,6 @@ bangs
 bangtail
 bangui
 bani
-bania
 banian
 banish
 banishment
@@ -7198,7 +7198,6 @@ banya
 banyan
 banzai
 baobab
-baons
 baozi
 bap
 baphia
@@ -7550,7 +7549,6 @@ baste
 basted
 baster
 bastet
-basti
 bastille
 bastinado
 basting
@@ -8388,13 +8386,13 @@ bessera
 besseya
 best
 bested
-besti
 bestial
 bestialise
 bestiality
 bestialize
 bestially
 bestiary
+bestie
 bestir
 bestow
 bestowal
@@ -17148,6 +17146,7 @@ confirming
 confiscate
 confiscation
 confit
+confits
 confiture
 conflagrate
 conflagration
@@ -25089,7 +25088,6 @@ ebbs
 ebbtide
 ebenaceae
 ebenales
-ebike
 ebionite
 ebitda
 ebola
@@ -25413,10 +25411,10 @@ effusion
 effusive
 effusively
 effusiveness
-efits
 eflops
 efs
 eft
+efts
 egad
 egads
 egalitarian
@@ -28454,7 +28452,6 @@ fain
 faine
 faineance
 faineant
-fains
 faint
 fainthearted
 faintheartedness
@@ -29411,7 +29408,6 @@ fifed
 fifer
 fifes
 fifis
-fifo
 fifteen
 fifteenth
 fifth
@@ -29551,6 +29547,7 @@ financier
 financing
 finback
 finca
+fincas
 fincen
 finch
 find
@@ -29616,6 +29613,7 @@ finnbogadottir
 finnic
 finnish
 finny
+fino
 finocchio
 finos
 fins
@@ -39331,7 +39329,6 @@ incarceration
 incarnadine
 incarnate
 incarnation
-incas
 incase
 incased
 incasement
@@ -41557,10 +41554,10 @@ jainism
 jainist
 jak
 jakarta
+jake
 jaker
 jakes
 jakey
-jakie
 jakobson
 jalalabad
 jalap
@@ -42354,6 +42351,7 @@ kaifs
 kail
 kails
 kaims
+kain
 kaing
 kainite
 kainogenesis
@@ -52469,7 +52467,6 @@ nason
 nasopharyngeal
 nasopharynx
 nassau
-nastika
 nastily
 nastiness
 nasturtium
@@ -69161,6 +69158,7 @@ sanitization
 sanitize
 sanitized
 sanity
+sanjak
 sank
 sannup
 sannyasi
@@ -80397,7 +80395,6 @@ tin
 tinamidae
 tinamiformes
 tinamou
-tinas
 tinbergen
 tincal
 tinct
@@ -87342,7 +87339,6 @@ wahvey
 waide
 waif
 waifs
-waift
 waifu
 waikiki
 wail

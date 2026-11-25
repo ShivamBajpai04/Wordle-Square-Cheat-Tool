@@ -40,6 +40,8 @@ acme
 acne
 acnes
 acold
+aconite
+aconites
 acorn
 acre
 acred
@@ -157,6 +159,7 @@ ajar
 akee
 akene
 akenes
+akin
 ala
 alae
 alamo
@@ -497,6 +500,8 @@ ayin
 ayins
 azide
 azine
+bacon
+bacons
 bade
 bads
 bae
@@ -516,6 +521,8 @@ ball
 ballet
 ballute
 ban
+banc
+banco
 band
 bands
 bandy
@@ -524,6 +531,7 @@ baned
 bang
 bani
 banister
+banjo
 bank
 banked
 banned
@@ -546,6 +554,7 @@ based
 bashes
 basser
 bast
+baste
 basted
 bat
 bate
@@ -598,6 +607,7 @@ berseem
 bes
 beset
 best
+bestie
 bet
 beta
 betas
@@ -620,6 +630,7 @@ bier
 big
 bigly
 bigs
+bike
 bile
 biles
 bilge
@@ -656,6 +667,8 @@ bish
 bisk
 bisks
 bister
+bite
+bites
 biting
 bits
 blade
@@ -835,6 +848,8 @@ byrl
 byrling
 byte
 bytes
+cabin
+cabins
 cable
 cablet
 cabs
@@ -1134,6 +1149,7 @@ clutter
 cluttering
 coact
 coal
+coast
 coat
 coati
 cob
@@ -1217,6 +1233,8 @@ cone
 coned
 cones
 coney
+confit
+confits
 confuse
 confused
 confusedness
@@ -1876,6 +1894,7 @@ eery
 eew
 effort
 eft
+efts
 egad
 eger
 egest
@@ -2107,6 +2126,8 @@ fail
 fain
 faint
 fair
+fake
+fakie
 fall
 fallal
 fallibly
@@ -2211,7 +2232,9 @@ fibs
 fice
 fico
 fie
+fief
 field
+fife
 fiftieths
 fig
 figs
@@ -2230,10 +2253,13 @@ finalis
 finalism
 finalist
 finality
+finca
+fincas
 fine
 finial
 finis
 finito
+fino
 fins
 firman
 fish
@@ -3052,6 +3078,7 @@ imply
 imps
 inarm
 inarms
+incase
 incel
 incident
 inciting
@@ -3074,6 +3101,7 @@ infecter
 inferred
 inferrer
 infers
+info
 ingle
 inia
 inimical
@@ -3091,6 +3119,7 @@ inosite
 inro
 inros
 ins
+inset
 insist
 intact
 integer
@@ -3141,6 +3170,7 @@ ivorier
 iwis
 jail
 jails
+jake
 jam
 jams
 jane
@@ -3200,6 +3230,8 @@ kafs
 kaiaks
 kaif
 kail
+kain
+kains
 kaka
 kame
 kami
@@ -3261,6 +3293,7 @@ kheda
 khedah
 khedas
 kibe
+kibes
 kidlit
 kidlits
 kids
@@ -3295,6 +3328,8 @@ kirn
 kis
 kiss
 kist
+kite
+kites
 kits
 klatch
 klieg
@@ -4660,6 +4695,7 @@ only
 ono
 onos
 ons
+onset
 ontic
 onto
 onus
@@ -5856,6 +5892,7 @@ saner
 sang
 sangha
 sanies
+sanjak
 sank
 sans
 sap
@@ -6840,6 +6877,7 @@ tier
 tiers
 ties
 tigons
+tike
 til
 tile
 tiler
@@ -7427,9 +7465,12 @@ wafting
 wag
 waif
 wail
+wain
+wains
 wair
 wait
 waiter
+waits
 wake
 waked
 waken
