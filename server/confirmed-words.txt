@@ -600,6 +600,7 @@ bend
 bends
 bene
 benes
+benign
 bens
 berlin
 berline
@@ -643,6 +644,7 @@ binds
 bine
 bing
 binge
+bingo
 binit
 binits
 bins
@@ -650,6 +652,7 @@ bint
 bints
 bio
 biog
+biogen
 biomes
 biont
 bios
@@ -711,7 +714,10 @@ boded
 bodes
 bodied
 bods
+bogging
+boggling
 bogs
+boho
 boil
 boils
 boing
@@ -2560,6 +2566,7 @@ gip
 gipon
 gips
 girn
+girning
 girns
 gis
 gist
@@ -2587,6 +2594,7 @@ glib
 glide
 glim
 glom
+glop
 gloss
 glost
 glout
@@ -2620,7 +2628,9 @@ goddess
 godets
 gods
 goes
+going
 gone
+gong
 gonia
 gonium
 goos
@@ -2670,6 +2680,7 @@ grig
 grim
 grin
 grins
+grip
 griz
 grody
 grot
@@ -2881,10 +2892,12 @@ hin
 hind
 hinder
 hinds
+hinge
 hins
 hint
 hints
 hip
+hipline
 hiply
 hips
 hire
@@ -2921,6 +2934,8 @@ hoer
 hoers
 hoes
 hog
+hogg
+hogging
 hoiden
 hoke
 hoked
@@ -2928,6 +2943,7 @@ hokier
 hole
 holes
 holey
+holing
 holk
 holked
 holm
@@ -2954,6 +2970,7 @@ honer
 hones
 honey
 hong
+hongi
 honing
 honor
 hood
@@ -2965,6 +2982,7 @@ hoop
 hoot
 hope
 hoped
+hoping
 hops
 hora
 horas
@@ -3103,6 +3121,7 @@ inferrer
 infers
 info
 ingle
+ingoing
 inia
 inimical
 ink
@@ -3349,6 +3368,8 @@ koala
 koan
 koas
 koel
+kohl
+koine
 kois
 kola
 kolo
@@ -3713,6 +3734,7 @@ looted
 loots
 lop
 lope
+loping
 lops
 lor
 lord
@@ -4435,6 +4457,8 @@ nieves
 niftily
 nifty
 nigh
+nighing
+nihil
 nils
 nim
 nimbi
@@ -4482,6 +4506,8 @@ nods
 noel
 noes
 nog
+nogg
+noggin
 nogs
 noh
 noil
@@ -4666,6 +4692,7 @@ oleine
 oleo
 oleos
 oles
+olingo
 olio
 olla
 ollie
@@ -4715,6 +4742,9 @@ opens
 opera
 ophite
 ophites
+opine
+oping
+opining
 oppo
 oppos
 ops
@@ -5015,6 +5045,7 @@ phon
 phone
 phones
 phoney
+phoning
 phony
 phos
 pht
@@ -5041,6 +5072,8 @@ pies
 pieta
 pig
 pigboat
+pigeon
+pigeonholing
 pignus
 pike
 piker
@@ -5061,6 +5094,7 @@ ping
 pinger
 pingo
 pingos
+pining
 pink
 pins
 pint
@@ -5143,6 +5177,8 @@ pol
 pole
 polenta
 poles
+poling
+polio
 poll
 pollen
 polls

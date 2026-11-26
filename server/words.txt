@@ -8224,7 +8224,6 @@ benignant
 benignantly
 benignity
 benignly
-benin
 beninese
 benison
 benjamin
@@ -8675,7 +8674,6 @@ bigs
 bigwig
 bihar
 bihari
-bihon
 bijou
 bike
 biked
@@ -8840,6 +8838,7 @@ bioethics
 biofeedback
 bioflavinoid
 biog
+biogen
 biogenesis
 biogenetic
 biogenic
@@ -9716,7 +9715,9 @@ bogey
 bogeyman
 bogged
 bogginess
+bogging
 boggle
+boggling
 boggy
 bogie
 bogle
@@ -9730,6 +9731,7 @@ bohea
 bohemia
 bohemian
 bohemianism
+boho
 bohos
 bohrium
 boidae
@@ -32411,7 +32413,6 @@ genic
 geniculate
 genie
 genii
-genio
 genip
 genipap
 genista
@@ -32754,7 +32755,6 @@ giggle
 giggler
 giggly
 gighe
-gigo
 gigolo
 gigot
 gigue
@@ -32857,6 +32857,7 @@ girlishness
 girls
 girly
 girn
+girning
 girns
 giro
 giron
@@ -36903,7 +36904,6 @@ hods
 hoe
 hoecake
 hoed
-hoenir
 hoer
 hoers
 hoes
@@ -36921,6 +36921,7 @@ hogfish
 hogg
 hogged
 hogget
+hogging
 hoggish
 hoggishness
 hoggs
@@ -36940,7 +36941,6 @@ hohhot
 hoick
 hoiden
 hoiks
-hoing
 hoise
 hoist
 hoister
@@ -37339,7 +37339,6 @@ hopelessly
 hopelessness
 hoper
 hopes
-hopi
 hoping
 hopkins
 hopkinson
@@ -40048,6 +40047,7 @@ ingle
 inglenook
 inglorious
 ingloriously
+ingoing
 ingot
 ingraft
 ingrain
@@ -41060,7 +41060,6 @@ iowan
 ioway
 ipecac
 iphigenia
-iphone
 ipidae
 ipod
 ipomoea
@@ -46175,6 +46174,7 @@ lophophora
 lophophorus
 lophosoria
 lophosoriaceae
+loping
 lopped
 lopper
 loppy
@@ -52777,7 +52777,6 @@ negotiator
 negotiatress
 negotiatrix
 negress
-negri
 negritude
 negro
 negroid
@@ -53304,6 +53303,7 @@ niggling
 nigh
 nigher
 nighest
+nighing
 nighs
 night
 nightbird
@@ -53343,7 +53343,6 @@ nihilism
 nihilist
 nihilistic
 nihility
-nihon
 niihau
 nijinsky
 nijmegen
@@ -53405,7 +53404,6 @@ ninth
 nintinugga
 nintoo
 ninurta
-niobe
 niobite
 niobium
 niobrara
@@ -53560,6 +53558,7 @@ noetic
 nog
 nogal
 nogales
+nogg
 noggin
 nogging
 noggs
@@ -55012,7 +55011,6 @@ ogdoad
 ogee
 ogeed
 ogees
-oggin
 ogham
 ogive
 oglala
@@ -55037,7 +55035,6 @@ ohmic
 ohmmeter
 ohms
 oho
-ohone
 ohs
 oicks
 oidia
@@ -55166,6 +55163,7 @@ oligosaccharide
 oligospermia
 oliguria
 olimbos
+olingo
 olio
 olios
 oliva
@@ -55489,10 +55487,10 @@ ophthalmoplegia
 ophthalmoscope
 ophthalmoscopy
 opiate
-opihi
 opiliones
 opine
 oping
+opining
 opinion
 opinionated
 opinionative
@@ -59468,6 +59466,7 @@ phoney
 phonic
 phonics
 phonier
+phoning
 phono
 phonogram
 phonogramic
@@ -67565,7 +67564,6 @@ rindy
 rines
 ring
 ringdove
-ringe
 ringed
 ringer
 ringgit
