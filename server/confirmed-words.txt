@@ -414,6 +414,8 @@ artal
 artel
 arts
 arty
+arum
+arums
 arvo
 aryl
 asci
@@ -463,6 +465,7 @@ aurei
 aures
 auric
 auricle
+autism
 auto
 autologous
 ava
@@ -585,6 +588,7 @@ beep
 beer
 bees
 beet
+beets
 beezer
 befog
 beget
@@ -616,6 +620,7 @@ betray
 betrayal
 betrayals
 bets
+bevy
 beys
 bialy
 bias
@@ -2066,12 +2071,15 @@ even
 evened
 event
 events
+ever
+evert
 eves
 evil
 eviler
 evils
 evince
 evinces
+evite
 eviting
 evoke
 evoked
@@ -2088,6 +2096,8 @@ exclaim
 exclaiming
 exed
 exerts
+exhaust
+exhaustive
 exine
 exing
 exit
@@ -2735,6 +2745,7 @@ haem
 haen
 haes
 haet
+haets
 haft
 hafted
 hafts
@@ -2778,6 +2789,7 @@ hark
 harked
 harl
 harm
+harms
 harp
 harper
 harps
@@ -2795,6 +2807,7 @@ hath
 hats
 haunt
 haut
+haute
 hauter
 havarti
 haw
@@ -2807,6 +2820,7 @@ heady
 heal
 hear
 hears
+heart
 heat
 heavy
 heck
@@ -2863,7 +2877,10 @@ hes
 hest
 het
 hetero
+heth
+heths
 hets
+hevea
 hew
 hewing
 hewn
@@ -2915,6 +2932,7 @@ histing
 hists
 hit
 hits
+hive
 hoagie
 hoar
 hoars
@@ -3183,6 +3201,7 @@ italic
 item
 itemise
 items
+iterum
 its
 ivies
 ivorier
@@ -4294,6 +4313,7 @@ muni
 munis
 muntin
 muon
+mura
 mure
 murein
 mures
@@ -4307,9 +4327,14 @@ mush
 muslin
 muso
 must
+mustee
+muster
+musth
+musty
 mut
 mutant
 mute
+muter
 muton
 muts
 mutule
@@ -5857,10 +5882,12 @@ runs
 runt
 ruse
 ruses
+rush
 rust
 rustic
 rustily
 rusting
+rusty
 rut
 ruth
 ruths
@@ -6184,6 +6211,9 @@ shit
 shite
 shites
 shits
+shiv
+shive
+shiver
 shlep
 sho
 shoe
@@ -6198,6 +6228,7 @@ shrew
 shri
 shrimp
 shtetl
+shtum
 shtup
 shuck
 shun
@@ -6355,6 +6386,7 @@ smit
 smite
 smitten
 smote
+smut
 snag
 snags
 snail
@@ -6582,6 +6614,8 @@ stun
 stung
 stupe
 stupes
+sturt
+stye
 styli
 suave
 sub
@@ -6606,6 +6640,7 @@ suedes
 suer
 sues
 suet
+suety
 suffari
 suing
 suint
@@ -6637,10 +6672,12 @@ superb
 supercilious
 sups
 sura
+surah
 suras
 surd
 surds
 sure
+surety
 surf
 surra
 surras
@@ -6648,6 +6685,7 @@ sus
 sused
 suses
 suss
+sutra
 swag
 swam
 swan
@@ -7079,6 +7117,7 @@ trepid
 tres
 tress
 tret
+trets
 trey
 treyf
 triacs
@@ -7122,6 +7161,11 @@ trues
 trull
 trulls
 truly
+trust
+trustee
+trusty
+truth
+truths
 try
 tryma
 tsar
@@ -7144,6 +7188,7 @@ tule
 tulle
 tum
 tump
+tums
 tumuli
 tun
 tuna
@@ -7163,6 +7208,7 @@ turr
 turrical
 tush
 tusk
+tutee
 tuts
 tutting
 tux
@@ -7175,6 +7221,7 @@ twin
 twins
 twos
 tye
+tyee
 tyer
 tyes
 tyin
@@ -7353,6 +7400,7 @@ vaws
 vaxed
 vee
 veep
+veer
 vees
 vega
 vegas
@@ -7379,10 +7427,14 @@ vera
 veriest
 veritas
 vermian
+vermuth
+vermuths
 verset
 verso
 verste
 vert
+vertu
+vertus
 vest
 vestige
 vestiges
@@ -7697,6 +7749,8 @@ yean
 yeas
 yech
 yechs
+yeet
+yeets
 yeh
 yeld
 yelk

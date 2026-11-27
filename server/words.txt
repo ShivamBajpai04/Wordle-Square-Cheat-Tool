@@ -1499,7 +1499,6 @@ aetiological
 aetiologist
 aetiology
 aetobatus
-aevum
 afald
 afanc
 afar
@@ -8450,12 +8449,10 @@ betwixt
 bevan
 bevatron
 bevel
-bever
 beverage
 beveridge
 bevin
 bevor
-bevue
 bevvy
 bevy
 bewail
@@ -35478,7 +35475,6 @@ hartebeest
 hartford
 hartley
 harts
-harum
 harvard
 harvest
 harvester
@@ -41411,6 +41407,7 @@ items
 iterate
 iteration
 iterative
+iterum
 ithaca
 ithaki
 ither
@@ -51732,6 +51729,7 @@ muntjac
 muon
 muons
 muppet
+mura
 muraenidae
 mural
 muralist
@@ -51845,7 +51843,6 @@ musicologist
 musicology
 musing
 musingly
-musit
 musjid
 musk
 muskat
@@ -51891,6 +51888,7 @@ mustachioed
 mustagh
 mustang
 mustard
+mustee
 mustela
 mustelid
 mustelidae
@@ -51935,7 +51933,6 @@ mutineer
 mutinous
 mutinus
 mutiny
-mutis
 mutisia
 mutism
 muton
@@ -75890,7 +75887,6 @@ stitchery
 stitching
 stitchwort
 stiver
-stivy
 stizidae
 stizolobium
 stizostedion
@@ -76378,7 +76374,6 @@ struthioniformes
 struts
 strychnine
 strymon
-stuart
 stub
 stubbiness
 stubble
@@ -82254,7 +82249,6 @@ tsushima
 tswana
 tuamotus
 tuareg
-tuart
 tuatara
 tuath
 tub
@@ -82483,7 +82477,6 @@ turks
 turme
 turmeric
 turmoil
-turms
 turn
 turnability
 turnabout
@@ -82688,6 +82681,7 @@ twyer
 tyche
 tycoon
 tye
+tyee
 tyees
 tyer
 tyers
@@ -82959,7 +82953,6 @@ umpteen
 umpteenth
 umptieth
 umpty
-umrah
 umras
 ums
 umteen
@@ -86351,6 +86344,8 @@ vermis
 vermont
 vermonter
 vermouth
+vermuth
+vermuths
 vernacular
 vernal
 vernation
@@ -86404,6 +86399,7 @@ vertiginous
 vertigo
 verts
 vertu
+vertus
 vervain
 verve
 vervet
@@ -86915,7 +86911,6 @@ vitaminise
 vitaminize
 vitellarium
 vitellus
-vitex
 vithar
 vitharr
 vitiate
@@ -89486,6 +89481,8 @@ yedes
 yeeds
 yeeek
 yeesh
+yeet
+yeets
 yeggs
 yeh
 yekaterinoslav
