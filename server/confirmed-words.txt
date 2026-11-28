@@ -112,6 +112,7 @@ agio
 agita
 aglare
 aglu
+agly
 agma
 agmas
 agnatic
@@ -261,6 +262,7 @@ amnic
 amnio
 among
 amp
+amping
 ample
 amply
 amu
@@ -1618,6 +1620,8 @@ diets
 dike
 dill
 dime
+dimly
+dimply
 din
 dinar
 dine
@@ -1679,6 +1683,7 @@ dog
 doge
 doges
 dogie
+dogma
 dogs
 doh
 doit
@@ -1688,6 +1693,7 @@ dolce
 dolci
 dole
 doles
+doling
 doll
 dollar
 dolly
@@ -1717,6 +1723,8 @@ doom
 dooms
 door
 dopa
+dopily
+doping
 dor
 dore
 dorm
@@ -2436,6 +2444,7 @@ gamic
 gamier
 gamin
 gaming
+gamming
 gamp
 gams
 gamuts
@@ -2558,6 +2567,7 @@ gif
 gifs
 gift
 giftware
+gild
 gill
 gillie
 gillied
@@ -2578,6 +2588,7 @@ gips
 girn
 girning
 girns
+girt
 gis
 gist
 git
@@ -2636,9 +2647,12 @@ god
 godded
 goddess
 godets
+godling
+godly
 gods
 goes
 going
+gold
 gone
 gong
 gonia
@@ -2685,12 +2699,16 @@ gree
 green
 grees
 grew
+grid
 grifts
 grig
 grim
+grimly
 grin
+grind
 grins
 grip
+grit
 griz
 grody
 grot
@@ -3105,11 +3123,16 @@ imager
 imagination
 imaginations
 imbed
+imid
+imido
 imine
 immense
 imp
 impel
 impels
+impi
+imping
+imploding
 imply
 imps
 inarm
@@ -3124,6 +3147,7 @@ incult
 incur
 incus
 index
+indol
 indue
 indues
 indult
@@ -3368,6 +3392,7 @@ kiss
 kist
 kite
 kites
+kiting
 kits
 klatch
 klieg
@@ -3651,10 +3676,14 @@ lime
 limed
 limes
 limey
+limit
 limn
 limned
 limo
+limp
+limpa
 limy
+lindy
 line
 linen
 linens
@@ -4127,6 +4156,7 @@ mihrab
 mike
 mikes
 mil
+mild
 mile
 milf
 militate
@@ -4191,6 +4221,7 @@ mites
 mitis
 mitre
 mitres
+mitring
 mitt
 mitten
 mitts
@@ -4684,6 +4715,7 @@ ogeed
 ogees
 ogle
 ogled
+ogling
 ogre
 ohed
 ohia
@@ -4887,6 +4919,7 @@ paean
 page
 pager
 paging
+pagod
 pah
 paid
 paik
@@ -5731,6 +5764,7 @@ rimples
 rims
 rin
 rind
+rindy
 ring
 rings
 rink
@@ -6944,6 +6978,7 @@ tical
 tics
 tide
 tides
+tidy
 tie
 tied
 tieing
@@ -6963,6 +6998,9 @@ tilths
 tilts
 time
 times
+timid
+timidly
+timing
 tin
 tincal
 tinct
@@ -7124,7 +7162,9 @@ triacs
 trier
 triers
 tries
+trig
 trim
+trimly
 trio
 triode
 triol
@@ -7132,6 +7172,8 @@ trip
 tripe
 triple
 triply
+tripod
+tripody
 triter
 trocar
 trod
@@ -7776,6 +7818,7 @@ ylems
 yobs
 yock
 yod
+yodling
 yods
 yoga
 yoke

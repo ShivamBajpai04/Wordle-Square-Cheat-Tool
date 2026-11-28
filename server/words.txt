@@ -1795,6 +1795,7 @@ agloo
 aglow
 aglu
 aglus
+agly
 agma
 agmas
 agnail
@@ -3114,6 +3115,7 @@ amphoric
 amphoteric
 amphotericin
 ampicillin
+amping
 ample
 ampleness
 amplification
@@ -22599,6 +22601,7 @@ dimorphotheca
 dimorphous
 dimout
 dimple
+dimply
 dimps
 dimwit
 din
@@ -22630,7 +22633,6 @@ dink
 dinkey
 dinks
 dinky
-dinlo
 dinna
 dinner
 dinnertime
@@ -23671,7 +23673,6 @@ doghouse
 dogie
 dogleg
 doglike
-dogly
 dogma
 dogmatic
 dogmatical
@@ -23899,6 +23900,7 @@ doped
 doper
 dopes
 dopey
+dopily
 doping
 doppe
 doppelganger
@@ -31911,6 +31913,7 @@ gaminess
 gaming
 gamma
 gamme
+gamming
 gammon
 gammopathy
 gammy
@@ -33352,6 +33355,7 @@ godless
 godlessness
 godlike
 godliness
+godling
 godly
 godmother
 godown
@@ -33415,7 +33419,6 @@ goldfields
 goldfinch
 goldfish
 goldilocks
-golding
 goldman
 goldmark
 goldmine
@@ -33429,7 +33432,6 @@ goldstone
 goldthread
 goldworker
 goldwyn
-goldy
 golem
 goles
 golf
@@ -34113,7 +34115,6 @@ grimace
 grime
 griminess
 grimly
-grimm
 grimness
 grimoire
 grimy
@@ -38811,6 +38812,7 @@ imbroglio
 imbrue
 imbue
 imbued
+imid
 imidazole
 imide
 imido
@@ -39057,7 +39059,9 @@ impetuous
 impetuously
 impetuousness
 impetus
+impi
 impiety
+imping
 impinge
 impingement
 impinging
@@ -39090,6 +39094,7 @@ implicitly
 implicitness
 implike
 implode
+imploding
 implore
 imploring
 imploringly
@@ -41057,7 +41062,6 @@ ioway
 ipecac
 iphigenia
 ipidae
-ipod
 ipomoea
 ippon
 iproclozide
@@ -43145,6 +43149,7 @@ kites
 kith
 kithe
 kiths
+kiting
 kitke
 kits
 kitsch
@@ -45384,7 +45389,6 @@ limiting
 limitless
 limitlessness
 limits
-limma
 limn
 limned
 limner
@@ -50358,6 +50362,7 @@ mitral
 mitre
 mitres
 mitrewort
+mitring
 mitry
 mitsvah
 mitt
@@ -50394,7 +50399,6 @@ mizzenmast
 mizzle
 mizzy
 mmkay
-mmpi
 mnemometer
 mnemonic
 mnemonics
@@ -81869,7 +81873,6 @@ triiodothyronine
 trike
 trilateral
 trilby
-trild
 trilingual
 trilisa
 trill
@@ -81947,6 +81950,7 @@ triplochiton
 triploid
 triply
 tripod
+tripody
 tripoli
 tripos
 tripper
@@ -89618,6 +89622,7 @@ yodeller
 yodh
 yodhs
 yodle
+yodling
 yods
 yoga
 yogacara
